@@ -107,7 +107,7 @@ def main():
                             continue
                         tid, pid = m.group(1), None
                     # 27QD-10 is explicitly out of scope; do not add its search results.
-                    if re.search(r"27\\s?qd-?10", link["text"], re.I):
+                    if re.search(r"27\s?qd-?10", link["text"], re.I):
                         continue
                     entry = report["discovered_topics"].setdefault(tid, {
                         "tid": tid, "url": link["url"], "title": link["text"],
