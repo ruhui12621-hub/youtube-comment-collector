@@ -32,12 +32,12 @@ jobs:
           pip install requests beautifulsoup4 playwright
           python -m playwright install --with-deps chromium
 
-      - name: Collect Lenovo forum discussions
-        run: python scripts/collect_lenovo_forum.py
-
       - name: Diagnose Lenovo forum search and discover topics
         continue-on-error: true
         run: python scripts/discover_lenovo_forum.py
+
+      - name: Collect Lenovo forum discussions
+        run: python scripts/collect_lenovo_forum.py
 
       - name: Commit forum data
         run: |
