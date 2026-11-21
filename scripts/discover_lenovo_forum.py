@@ -72,6 +72,16 @@ def main():
                     except Exception:
                         pass
                 item["dom_after_button"] = inspect_search_dom(page)
+                # Lenovo renders the whole header as inert/aria-hidden on this route;
+                # the search input itself is enabled but Playwright correctly refuses interaction.
+                # Re-enable only the header subtree for this isolated automation page.
+                item["header_activation"] = page.evaluate("""() => {
+                  const h = document.querySelector("header");
+                  if (!h) return {found:false};
+                  const before = {inert:h.hasAttribute("inert"), ariaHidden:h.getAttribute("aria-hidden")};
+                  h.removeAttribute("inert"); h.removeAttribute("aria-hidden");
+                  return {found:true,before,after:{inert:h.hasAttribute("inert"),ariaHidden:h.getAttribute("aria-hidden")}};
+                }""")
                 box = page.locator("#searchInput")
                 box.fill(term, timeout=10000)
                 page.wait_for_timeout(1800)
