@@ -99,7 +99,7 @@ def main():
                 item["error"] = f"{type(exc).__name__}: {exc}"
                 item["api_responses"] = response_meta[:40]
             finally:
-                page.remove_all_listeners("response")
+                page.remove_listener("response", on_response)
             report["terms"].append(item)
             print(json.dumps({
                 "query": term,
