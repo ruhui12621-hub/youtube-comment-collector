@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Collect public Lenovo Community thread content using HTTP and a headless browser fallback."""
+"""Collect Lenovo Community thread content using the rendered page and its observed JSON API."""
 from __future__ import annotations
 
+import base64
 import json
 import re
 import time
 from datetime import datetime, timezone
+from html import unescape
 from pathlib import Path
 from urllib.parse import urlencode
 
@@ -16,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "lenovo_forum"
 THREAD_ID = "10042773"
 BASE = "https://forums.lenovo.com"
+THREAD_URL = f"{BASE}/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/{THREAD_ID}"
 SEARCH_TERMS = [
     '"Legion Pro 27UD-10" HDR',
     '"Legion Pro 32UD-10" HDR',
@@ -25,13 +28,8 @@ SEARCH_TERMS = [
     '"HDR Dimming Issue on Lenovo Legion Pro"',
     "Lenovo OLED HDR brightness drops",
 ]
-THREAD_URLS = [
-    f"{BASE}/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/{THREAD_ID}",
-    f"{BASE}/t5/Monitors-and-Displays/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/{THREAD_ID}",
-    f"{BASE}/t5/Lenovo-Forums/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/{THREAD_ID}",
-]
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36",
     "Accept": "text/html,application/json,*/*",
 }
 SESSION = requests.Session()
@@ -46,34 +44,34 @@ def parse_html(html: str, source_url: str):
     soup = BeautifulSoup(html, "html.parser")
     title = soup.title.get_text(" ", strip=True) if soup.title else None
     description = (soup.find("meta", attrs={"name": "description"}) or {}).get("content")
-    # Keep scripts separately before removing them: forum state is often hydrated from JSON.
     scripts = []
     for tag in soup.find_all("script"):
         raw = tag.string or tag.get_text()
-        if raw and any(k in raw.lower() for k in ("message", "thread", "reply", "10042773", "lithium")):
-            scripts.append(raw[:500_000])
+        if raw and any(k in raw.lower() for k in ("message", "thread", "reply", THREAD_ID, "lithium")):
+            scripts.append(raw[:300_000])
     for tag in soup(["script", "style", "noscript", "svg"]):
         tag.decompose()
     body = soup.body or soup
     text = re.sub(r"\n{3,}", "\n\n", body.get_text("\n", strip=True))
-    links = [
-        {"text": a.get_text(" ", strip=True)[:180], "href": a.get("href")}
-        for a in soup.find_all("a", href=True)
-        if any(k in (a.get("href") or "").lower() for k in ("thread", "message", "reply", "td-p/"))
-    ][:500]
     return {
         "title": title,
         "description": description,
         "text": text[:250_000],
-        "links": links,
         "source_url": source_url,
-        "embedded_scripts": scripts[:100],
+        "embedded_scripts": scripts[:50],
     }
+
+
+def clean_message(html: str) -> str:
+    soup = BeautifulSoup(html or "", "html.parser")
+    for tag in soup(["script", "style"]):
+        tag.decompose()
+    return re.sub(r"\n{3,}", "\n\n", unescape(soup.get_text("\n", strip=True))).strip()
 
 
 def http_probe():
     diagnostics, records = [], {}
-    for i, url in enumerate(THREAD_URLS, 1):
+    for url in (THREAD_URL,):
         try:
             response = SESSION.get(url, timeout=35)
             diagnostics.append({
@@ -81,21 +79,17 @@ def http_probe():
                 "url": response.url, "content_type": response.headers.get("content-type", ""),
             })
             if response.ok and len(response.text) > 1500:
-                records[f"http_thread_{i}"] = parse_html(response.text, response.url)
+                records["http_thread"] = parse_html(response.text, response.url)
         except Exception as exc:
             diagnostics.append({"method": "requests", "url": url, "error": f"{type(exc).__name__}: {exc}"})
-        time.sleep(0.3)
 
-    # Search endpoints are retained as diagnostics only; this forum's current deployment
-    # returned a branded 404 for the guessed /api/2.0/search route.
     for term in SEARCH_TERMS:
-        url = f"{BASE}/api/2.0/search?{urlencode({'q': term, 'restapi.response_format': 'json', 'page_size': 100})}"
+        url = f"{BASE}/api/v2/search?{urlencode({'q': term})}"
         try:
-            response = SESSION.get(url, timeout=25)
+            response = SESSION.get(url, timeout=20)
             diagnostics.append({
                 "method": "search_api_probe", "query": term, "status": response.status_code,
                 "url": response.url, "content_type": response.headers.get("content-type", ""),
-                "sample": response.text[:500] if response.status_code != 200 else None,
             })
         except Exception as exc:
             diagnostics.append({"method": "search_api_probe", "query": term, "error": f"{type(exc).__name__}: {exc}"})
@@ -103,7 +97,7 @@ def http_probe():
 
 
 def browser_probe():
-    """Use Chromium to execute the forum's JavaScript and retain XHR/fetch payloads."""
+    """Load the forum normally, then call its observed topic JSON endpoint for every page."""
     from playwright.sync_api import sync_playwright
 
     diagnostics, records = [], {}
@@ -118,105 +112,152 @@ def browser_probe():
         captured = []
 
         def on_response(response):
-            request = response.request
-            if request.resource_type not in ("xhr", "fetch", "document"):
+            req = response.request
+            if req.resource_type not in ("xhr", "fetch", "document"):
                 return
-            url = response.url
             item = {
                 "status": response.status,
-                "url": url[:2000],
-                "resource_type": request.resource_type,
+                "url": response.url[:2000],
+                "resource_type": req.resource_type,
                 "content_type": response.headers.get("content-type", ""),
             }
-            if "json" in item["content_type"].lower() or any(x in url.lower() for x in ("api", "restapi", "message", "thread")):
+            if "json" in item["content_type"].lower() or "/api/v2/topic/getTopic" in response.url:
                 try:
                     body = response.text()
-                    item["body"] = body[:1_000_000]
+                    item["body"] = body[:300_000]
                 except Exception as exc:
                     item["body_error"] = str(exc)[:300]
             captured.append(item)
 
         page.on("response", on_response)
-        for i, url in enumerate(THREAD_URLS, 1):
+        try:
+            response = page.goto(THREAD_URL, wait_until="domcontentloaded", timeout=60000)
             try:
-                response = page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                page.wait_for_load_state("networkidle", timeout=15000)
+            except Exception:
+                pass
+            page.wait_for_timeout(5000)
+            html = page.content()
+            body_text = page.locator("body").inner_text(timeout=10000)
+            records["browser_thread"] = parse_html(html, page.url)
+            records["browser_thread"]["rendered_text"] = body_text[:300_000]
+            records["browser_thread"]["document_length"] = len(html)
+            records["browser_thread"]["http_status"] = response.status if response else None
+            diagnostics.append({
+                "method": "playwright", "status": response.status if response else None,
+                "final_url": page.url, "title": page.title(),
+                "document_length": len(html), "body_text_length": len(body_text),
+            })
+
+            # This endpoint was observed in the page's own XHR traffic:
+            # /api/v2/topic/getTopic?fid=15987&tid=10042773&page=1
+            # Fetch each page through the authenticated browser context so pagination is complete.
+            page_records = []
+            for page_number in range(1, 21):
+                endpoint = f"{BASE}/api/v2/topic/getTopic?fid=15987&tid={THREAD_ID}&page={page_number}"
+                response_data = page.evaluate(
+                    """async (url) => {
+                        const r = await fetch(url, {credentials: 'include'});
+                        return {status: r.status, text: await r.text(), url: r.url};
+                    }""",
+                    endpoint,
+                )
+                if response_data["status"] != 200:
+                    diagnostics.append({"method": "topic_api_page", "page": page_number,
+                                        "status": response_data["status"], "url": endpoint})
+                    break
                 try:
-                    page.wait_for_load_state("networkidle", timeout=15000)
-                except Exception:
-                    pass
-                page.wait_for_timeout(7000)
-                # Scroll once to trigger lazy-loaded replies and pagination widgets.
-                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                page.wait_for_timeout(2500)
-                html = page.content()
-                body_text = page.locator("body").inner_text(timeout=10000)
-                parsed = parse_html(html, page.url)
-                parsed["rendered_text"] = body_text[:300_000]
-                parsed["document_length"] = len(html)
-                parsed["http_status"] = response.status if response else None
-                records[f"browser_thread_{i}"] = parsed
-                diagnostics.append({
-                    "method": "playwright", "status": response.status if response else None,
-                    "requested_url": url, "final_url": page.url,
-                    "title": awaitable_title(page), "document_length": len(html),
-                    "body_text_length": len(body_text),
-                })
-            except Exception as exc:
-                diagnostics.append({"method": "playwright", "url": url, "error": f"{type(exc).__name__}: {exc}"})
-            # One thread ID is enough; further paths often resolve to the same page.
-            if records.get(f"browser_thread_{i}", {}).get("document_length", 0) > 5000:
-                break
-        browser.close()
+                    envelope = json.loads(response_data["text"])
+                    encoded = envelope.get("data")
+                    if not encoded:
+                        break
+                    payload = json.loads(base64.b64decode(encoded).decode("utf-8"))
+                    posts = payload.get("postsInfo") or []
+                    if not posts:
+                        break
+                    normalized = []
+                    for post in posts:
+                        normalized.append({
+                            "pid": post.get("pid"),
+                            "tid": post.get("tid"),
+                            "subject": post.get("subject"),
+                            "author": post.get("author_name") or post.get("last_author_name"),
+                            "created_at": post.get("create_time"),
+                            "created_at_text": post.get("last_update"),
+                            "message_html": post.get("translation_message") or post.get("message") or "",
+                            "message_text": clean_message(post.get("translation_message") or post.get("message") or ""),
+                            "is_first": post.get("is_first"),
+                            "kudos": post.get("kudos"),
+                            "author_country": (post.get("authorInfo") or {}).get("country"),
+                        })
+                    page_records.append({
+                        "page": page_number,
+                        "posts_count": len(normalized),
+                        "posts": normalized,
+                        "posts_num": payload.get("postsNum"),
+                        "cur_page": payload.get("curPage"),
+                        "last_pid": payload.get("lastPid"),
+                        "topic_info": payload.get("topicInfo"),
+                    })
+                    diagnostics.append({
+                        "method": "topic_api_page", "page": page_number,
+                        "status": response_data["status"], "posts_count": len(normalized),
+                        "posts_num": payload.get("postsNum"), "url": response_data["url"],
+                    })
+                    if len(posts) == 0 or len(page_records) > 0 and len(posts) < 10:
+                        # Still query next page once to verify the boundary.
+                        if page_number >= 2:
+                            break
+                except Exception as exc:
+                    diagnostics.append({"method": "topic_api_parse", "page": page_number,
+                                        "error": f"{type(exc).__name__}: {exc}"})
+                    break
+            records["topic_api"] = {
+                "endpoint_template": f"{BASE}/api/v2/topic/getTopic?fid=15987&tid={THREAD_ID}&page=N",
+                "pages": page_records,
+                "total_posts_captured": sum(p["posts_count"] for p in page_records),
+            }
+        except Exception as exc:
+            diagnostics.append({"method": "playwright", "url": THREAD_URL,
+                                "error": f"{type(exc).__name__}: {exc}"})
 
-    # Preserve response bodies separately for inspecting the actual Khoros data endpoints.
-    interesting = []
-    for item in captured:
-        body = item.pop("body", None)
-        if body is not None:
-            item["body_length"] = len(body)
-            interesting.append(item | {"body": body})
-        elif item["resource_type"] in ("xhr", "fetch"):
+        interesting = []
+        for item in captured:
+            if item.get("body"):
+                item["body_length"] = len(item["body"])
             interesting.append(item)
-    records["browser_network_responses"] = interesting[:80]
+        records["browser_network_responses"] = interesting[:100]
+        browser.close()
     return diagnostics, records
-
-
-def awaitable_title(page):
-    try:
-        return page.title()
-    except Exception:
-        return None
 
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     started = now()
-    diagnostics, records = http_probe()
-    browser_diagnostics = []
-    browser_error = None
+    http_diagnostics, records = http_probe()
+    browser_diagnostics, browser_error = [], None
     try:
         browser_diagnostics, browser_records = browser_probe()
         records.update(browser_records)
     except Exception as exc:
         browser_error = f"{type(exc).__name__}: {exc}"
 
-    # Determine whether we got actual discussion content rather than the generic shell.
-    text_candidates = []
-    for key, value in records.items():
-        if isinstance(value, dict):
-            text = value.get("rendered_text") or value.get("text") or ""
-            if text:
-                text_candidates.append({"record": key, "text_length": len(text), "preview": text[:1000]})
+    api = records.get("topic_api", {})
+    all_posts = [post for page in api.get("pages", []) for post in page.get("posts", [])]
     report = {
         "started_at": started,
         "finished_at": now(),
         "thread_id": THREAD_ID,
-        "http_diagnostics": diagnostics,
+        "http_diagnostics": http_diagnostics,
         "browser_diagnostics": browser_diagnostics,
         "browser_error": browser_error,
-        "content_checks": text_candidates,
-        "record_keys": list(records.keys()),
-        "note": "A generic forum shell or HTTP 200 is not considered a successful thread capture. Inspect rendered text and captured XHR/fetch payloads for message bodies and pagination.",
+        "pagination": {
+            "pages_captured": len(api.get("pages", [])),
+            "posts_captured": len(all_posts),
+            "post_ids": [p.get("pid") for p in all_posts],
+            "page_counts": [p.get("posts_count") for p in api.get("pages", [])],
+        },
+        "note": "Topic page data is retrieved from the JSON endpoint observed in the rendered forum page. Verify pagination count against the topic's replies/posts metadata.",
     }
     (OUT / "thread_10042773.json").write_text(
         json.dumps(records, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
@@ -226,14 +267,10 @@ def main():
     )
     print(json.dumps({
         "thread_id": THREAD_ID,
-        "record_keys": list(records.keys()),
+        "pagination": report["pagination"],
         "browser_diagnostics": browser_diagnostics,
         "browser_error": browser_error,
-        "content_checks": text_candidates,
-        "saved": [
-            "data/lenovo_forum/thread_10042773.json",
-            "data/lenovo_forum/forum_probe_report.json",
-        ],
+        "saved": ["data/lenovo_forum/thread_10042773.json", "data/lenovo_forum/forum_probe_report.json"],
     }, ensure_ascii=False, indent=2))
 
 
