@@ -1,0 +1,80 @@
+{
+  "video_id": "c6yG5wB64Io",
+  "url": "https://www.youtube.com/watch?v=c6yG5wB64Io",
+  "title": "Samsung Odyssey HDR Problems Solved! Follow these Settings",
+  "channel": "Garrett Lindsay",
+  "search_queries": [
+    "联想 OLED 显示器 HDR 变暗"
+  ],
+  "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
+  "last_collected_at": "2026-11-21T16:56:37.804850+00:00",
+  "comments_count": 5,
+  "comments_in_latest_fetch": 5,
+  "comments": [
+    {
+      "comment_id": "Ugy1Lr5-YC1ZbkTNotN4AaABAg",
+      "text": "why when i turn hdr on the whites are clipping, for example when something is bright like lamps, the sun, i cant see the details of that thing, i lose details when the bright light is bouncing on something and lose details when looking at the source of that bright light, but when i turn off the hdr all the details appear again, i noticed that when im looking at ps store photos not in-game, someone can help?",
+      "author": "@Yannis8",
+      "author_channel_id": "UC-crEjIK6W84lHldv2ekJXg",
+      "published": "4 weeks ago",
+      "like_count": 1,
+      "like_count_text": null,
+      "reply_count": null,
+      "reply_count_text": null,
+      "heart": false,
+      "is_reply": false
+    },
+    {
+      "comment_id": "UgyvbDTUHVg8v399zk94AaABAg",
+      "text": "I had an issue with the image being far too dark. I run a dual monitor setup, a G8 with a Samsung Oled, Oled is perfect and the G8 was very dim / dark. I changed local dimming from auto to off, now the picture looks much brighter.",
+      "author": "@mcbain35",
+      "author_channel_id": "UCKsDiKJ-sCg3guOUEddb6dg",
+      "published": "2 months ago",
+      "like_count": 1,
+      "like_count_text": null,
+      "reply_count": null,
+      "reply_count_text": null,
+      "heart": false,
+      "is_reply": false
+    },
+    {
+      "comment_id": "UgwGb2Ldsl6TC9eJIKJ4AaABAg",
+      "text": "Free Sync on makes my game look worse and washed out, but of its more crisp and HDR actually shows up at the upper left corner.",
+      "author": "@FySchii",
+      "author_channel_id": "UC1mcY5Hp9oCmE1PAs5a1Eeg",
+      "published": "2 months ago",
+      "like_count": 1,
+      "like_count_text": null,
+      "reply_count": null,
+      "reply_count_text": null,
+      "heart": false,
+      "is_reply": false
+    },
+    {
+      "comment_id": "Ugz_MoA8B602Du-l4EZ4AaABAg",
+      "text": "That because some of those monitors aren’t HDR certified, but they charge the same price as ones that are. It’s really shady and I returned my Odyssey because I noticed the same issues. Now I always check for HDR certification before I buy and the difference is night and day",
+      "author": "@Kyle_9019",
+      "author_channel_id": "UCYduc9rKxA33Y61bH27ij2g",
+      "published": "3 months ago",
+      "like_count": 5,
+      "like_count_text": "5",
+      "reply_count": null,
+      "reply_count_text": null,
+      "heart": true,
+      "is_reply": false
+    },
+    {
+      "comment_id": "UgzFvBMRmnAhVrG_2kF4AaABAg",
+      "text": "Problem Solved! all it took was fixing some monitor settings are it's good!",
+      "author": "@GarrettMusic1",
+      "author_channel_id": "UCUPvCzkGsrmJtlGHKBVpZUw",
+      "published": "4 months ago",
+      "like_count": 1,
+      "like_count_text": null,
+      "reply_count": null,
+      "reply_count_text": null,
+      "heart": false,
+      "is_reply": false
+    }
+  ]
+}

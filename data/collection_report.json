@@ -1,0 +1,23 @@
+{
+  "started_at": "2026-11-21T16:52:50.181008+00:00",
+  "finished_at": "2026-11-21T16:57:03.033397+00:00",
+  "queries": [
+    "Lenovo Legion Pro 27UD-10 HDR",
+    "Lenovo Legion Pro 32UD-10 HDR",
+    "Lenovo Legion Pro 27Q-10 OLED",
+    "Lenovo QD-OLED monitor HDR dimming",
+    "Legion Pro HDR brightness drops",
+    "联想 OLED 显示器 HDR 变暗",
+    "联想 拯救者 OLED 亮度 降低"
+  ],
+  "videos_discovered_this_run": 32,
+  "videos_collected_successfully": 31,
+  "comments_and_replies_seen_this_run": 7437,
+  "errors": [
+    {
+      "stage": "comments",
+      "target": "2_BKH-RdsrU",
+      "error": "ParseError: Could not find a comments section for video '2_BKH-RdsrU' (comments may be disabled)."
+    }
+  ]
+}
