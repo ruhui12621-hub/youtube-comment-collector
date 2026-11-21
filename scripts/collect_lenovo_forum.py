@@ -17,6 +17,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "lenovo_forum"
 THREAD_ID = "10042773"
+THREAD_FID = "15987"
 BASE = "https://forums.lenovo.com"
 THREAD_URL = f"{BASE}/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/{THREAD_ID}"
 SEARCH_TERMS = [
@@ -96,6 +97,100 @@ def http_probe():
     return diagnostics, records
 
 
+def load_target_threads():
+    """Load relevant model-specific topics discovered by the previous workflow run."""
+    targets = {
+        THREAD_ID: {
+            "tid": THREAD_ID, "fid": THREAD_FID, "url": THREAD_URL,
+            "title": "HDR Dimming Issue on Lenovo Legion Pro, Can't Update Firmware 27Q-10",
+            "source": "pinned_thread",
+        }
+    }
+    discovery_path = OUT / "forum_search_discovery.json"
+    if not discovery_path.exists():
+        return list(targets.values())
+
+    try:
+        report = json.loads(discovery_path.read_text(encoding="utf-8"))
+    except Exception:
+        return list(targets.values())
+
+    model_pattern = re.compile(r"(?:27\\s?u?d|32\\s?u?d|27q[d]?|32q[d]?)-10", re.I)
+    issue_pattern = re.compile(r"(hdr|dimm|bright|abl)", re.I)
+    for tid, item in (report.get("discovered_topics") or {}).items():
+        url = item.get("url") or ""
+        match = re.search(r"/topic/findpost/(\\d+)/(\\d+)/(\\d+)", url)
+        if not match:
+            continue
+        fid, parsed_tid, pid = match.groups()
+        title = item.get("title") or ""
+        query = item.get("query") or ""
+        searchable = f"{title} {query}"
+        if not (model_pattern.search(searchable) and issue_pattern.search(searchable)):
+            continue
+        if parsed_tid not in targets:
+            targets[parsed_tid] = {
+                "tid": parsed_tid, "fid": fid, "url": url,
+                "title": title[:500], "query": query,
+                "source": "search_discovery", "sample_pid": pid,
+            }
+    return list(targets.values())
+
+
+def collect_topic_pages(page, thread, max_pages=20):
+    """Fetch all available topic pages through the authenticated browser context."""
+    pages = []
+    fid, tid = thread["fid"], thread["tid"]
+    for page_number in range(1, max_pages + 1):
+        endpoint = f"{BASE}/api/v2/topic/getTopic?fid={fid}&tid={tid}&page={page_number}"
+        response_data = page.evaluate(
+            """async (url) => {
+                const r = await fetch(url, {credentials: 'include'});
+                return {status: r.status, text: await r.text(), url: r.url};
+            }""",
+            endpoint,
+        )
+        if response_data["status"] != 200:
+            return pages, {"page": page_number, "status": response_data["status"], "url": endpoint}
+        try:
+            envelope = json.loads(response_data["text"])
+            encoded = envelope.get("data")
+            if not encoded:
+                break
+            payload = json.loads(base64.b64decode(encoded).decode("utf-8"))
+            posts = payload.get("postsInfo") or []
+            if not posts:
+                break
+            normalized = []
+            for post in posts:
+                message = post.get("translation_message") or post.get("message") or ""
+                normalized.append({
+                    "pid": post.get("pid"),
+                    "tid": post.get("tid"),
+                    "subject": post.get("subject"),
+                    "author": post.get("author_name") or post.get("last_author_name"),
+                    "created_at": post.get("create_time"),
+                    "created_at_text": post.get("last_update"),
+                    "message_html": message,
+                    "message_text": clean_message(message),
+                    "is_first": post.get("is_first"),
+                    "kudos": post.get("kudos"),
+                    "author_country": (post.get("authorInfo") or {}).get("country"),
+                })
+            pages.append({
+                "page": page_number, "posts_count": len(normalized), "posts": normalized,
+                "posts_num": payload.get("postsNum"), "cur_page": payload.get("curPage"),
+                "last_pid": payload.get("lastPid"), "topic_info": payload.get("topicInfo"),
+            })
+            # A short page is the last page; page 1 is also checked this way.
+            if len(posts) < 10:
+                break
+            time.sleep(0.25)
+        except Exception as exc:
+            return pages, {"page": page_number, "error": f"{type(exc).__name__}: {exc}"}
+    return pages, None
+
+
 def browser_probe():
     """Load the forum normally, then call its observed topic JSON endpoint for every page."""
     from playwright.sync_api import sync_playwright
@@ -149,73 +244,28 @@ def browser_probe():
                 "document_length": len(html), "body_text_length": len(body_text),
             })
 
-            # This endpoint was observed in the page's own XHR traffic:
-            # /api/v2/topic/getTopic?fid=15987&tid=10042773&page=1
-            # Fetch each page through the authenticated browser context so pagination is complete.
-            page_records = []
-            for page_number in range(1, 21):
-                endpoint = f"{BASE}/api/v2/topic/getTopic?fid=15987&tid={THREAD_ID}&page={page_number}"
-                response_data = page.evaluate(
-                    """async (url) => {
-                        const r = await fetch(url, {credentials: 'include'});
-                        return {status: r.status, text: await r.text(), url: r.url};
-                    }""",
-                    endpoint,
-                )
-                if response_data["status"] != 200:
-                    diagnostics.append({"method": "topic_api_page", "page": page_number,
-                                        "status": response_data["status"], "url": endpoint})
-                    break
-                try:
-                    envelope = json.loads(response_data["text"])
-                    encoded = envelope.get("data")
-                    if not encoded:
-                        break
-                    payload = json.loads(base64.b64decode(encoded).decode("utf-8"))
-                    posts = payload.get("postsInfo") or []
-                    if not posts:
-                        break
-                    normalized = []
-                    for post in posts:
-                        normalized.append({
-                            "pid": post.get("pid"),
-                            "tid": post.get("tid"),
-                            "subject": post.get("subject"),
-                            "author": post.get("author_name") or post.get("last_author_name"),
-                            "created_at": post.get("create_time"),
-                            "created_at_text": post.get("last_update"),
-                            "message_html": post.get("translation_message") or post.get("message") or "",
-                            "message_text": clean_message(post.get("translation_message") or post.get("message") or ""),
-                            "is_first": post.get("is_first"),
-                            "kudos": post.get("kudos"),
-                            "author_country": (post.get("authorInfo") or {}).get("country"),
-                        })
-                    page_records.append({
-                        "page": page_number,
-                        "posts_count": len(normalized),
-                        "posts": normalized,
-                        "posts_num": payload.get("postsNum"),
-                        "cur_page": payload.get("curPage"),
-                        "last_pid": payload.get("lastPid"),
-                        "topic_info": payload.get("topicInfo"),
-                    })
-                    diagnostics.append({
-                        "method": "topic_api_page", "page": page_number,
-                        "status": response_data["status"], "posts_count": len(normalized),
-                        "posts_num": payload.get("postsNum"), "url": response_data["url"],
-                    })
-                    if len(posts) == 0 or len(page_records) > 0 and len(posts) < 10:
-                        # Still query next page once to verify the boundary.
-                        if page_number >= 2:
-                            break
-                except Exception as exc:
-                    diagnostics.append({"method": "topic_api_parse", "page": page_number,
-                                        "error": f"{type(exc).__name__}: {exc}"})
-                    break
+            # Collect the pinned thread plus relevant model-specific topics found previously.
+            target_threads = load_target_threads()
+            topic_collections = {}
+            for thread in target_threads:
+                pages, error = collect_topic_pages(page, thread)
+                total = sum(item["posts_count"] for item in pages)
+                topic_collections[thread["tid"]] = {
+                    "thread": thread, "pages": pages,
+                    "total_posts_captured": total, "error": error,
+                }
+                diagnostics.append({
+                    "method": "topic_api_collection", "tid": thread["tid"],
+                    "fid": thread["fid"], "title": thread.get("title", ""),
+                    "pages_captured": len(pages), "posts_captured": total,
+                    "error": error,
+                })
+            records["topic_collections"] = topic_collections
+            pinned = topic_collections.get(THREAD_ID, {})
             records["topic_api"] = {
-                "endpoint_template": f"{BASE}/api/v2/topic/getTopic?fid=15987&tid={THREAD_ID}&page=N",
-                "pages": page_records,
-                "total_posts_captured": sum(p["posts_count"] for p in page_records),
+                "endpoint_template": f"{BASE}/api/v2/topic/getTopic?fid={THREAD_FID}&tid={THREAD_ID}&page=N",
+                "pages": pinned.get("pages", []),
+                "total_posts_captured": pinned.get("total_posts_captured", 0),
             }
         except Exception as exc:
             diagnostics.append({"method": "playwright", "url": THREAD_URL,
@@ -242,8 +292,21 @@ def main():
     except Exception as exc:
         browser_error = f"{type(exc).__name__}: {exc}"
 
-    api = records.get("topic_api", {})
-    all_posts = [post for page in api.get("pages", []) for post in page.get("posts", [])]
+    collections = records.get("topic_collections", {})
+    pinned = collections.get(THREAD_ID, {})
+    pinned_pages = pinned.get("pages", [])
+    pinned_posts = [post for page in pinned_pages for post in page.get("posts", [])]
+    topic_summary = {}
+    for tid, collection in collections.items():
+        posts = [post for page in collection.get("pages", []) for post in page.get("posts", [])]
+        topic_summary[tid] = {
+            "title": (collection.get("thread") or {}).get("title"),
+            "fid": (collection.get("thread") or {}).get("fid"),
+            "pages_captured": len(collection.get("pages", [])),
+            "posts_captured": len(posts),
+            "post_ids": [post.get("pid") for post in posts],
+            "error": collection.get("error"),
+        }
     report = {
         "started_at": started,
         "finished_at": now(),
@@ -252,22 +315,41 @@ def main():
         "browser_diagnostics": browser_diagnostics,
         "browser_error": browser_error,
         "pagination": {
-            "pages_captured": len(api.get("pages", [])),
-            "posts_captured": len(all_posts),
-            "post_ids": [p.get("pid") for p in all_posts],
-            "page_counts": [p.get("posts_count") for p in api.get("pages", [])],
+            "pages_captured": len(pinned_pages),
+            "posts_captured": len(pinned_posts),
+            "post_ids": [p.get("pid") for p in pinned_posts],
+            "page_counts": [p.get("posts_count") for p in pinned_pages],
         },
-        "note": "Topic page data is retrieved from the JSON endpoint observed in the rendered forum page. Verify pagination count against the topic's replies/posts metadata.",
+        "topic_collections": topic_summary,
+        "topics_attempted": len(topic_summary),
+        "topics_with_posts": sum(1 for x in topic_summary.values() if x["posts_captured"] > 0),
+        "total_posts_captured": sum(x["posts_captured"] for x in topic_summary.values()),
+        "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json.",
     }
-    (OUT / "thread_10042773.json").write_text(
-        json.dumps(records, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
-    )
+    # Preserve the established pinned-thread file and create one file per discovered topic.
+    for tid, collection in collections.items():
+        thread = collection.get("thread") or {}
+        topic_file = {
+            "thread": thread,
+            "topic_api": {
+                "endpoint_template": f"{BASE}/api/v2/topic/getTopic?fid={thread.get('fid')}&tid={tid}&page=N",
+                "pages": collection.get("pages", []),
+                "total_posts_captured": collection.get("total_posts_captured", 0),
+                "error": collection.get("error"),
+            },
+        }
+        (OUT / f"thread_{tid}.json").write_text(
+            json.dumps(topic_file, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
+        )
     (OUT / "forum_probe_report.json").write_text(
-        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        json.dumps(report, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
     )
     print(json.dumps({
         "thread_id": THREAD_ID,
         "pagination": report["pagination"],
+        "topics_attempted": report["topics_attempted"],
+        "topics_with_posts": report["topics_with_posts"],
+        "total_posts_captured": report["total_posts_captured"],
         "browser_diagnostics": browser_diagnostics,
         "browser_error": browser_error,
         "saved": ["data/lenovo_forum/thread_10042773.json", "data/lenovo_forum/forum_probe_report.json"],
