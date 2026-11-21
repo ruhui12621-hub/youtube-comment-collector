@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-21T17:21:00.120245+00:00",
-  "finished_at": "2026-11-21T17:21:10.254985+00:00",
+  "started_at": "2026-11-21T17:28:49.743304+00:00",
+  "finished_at": "2026-11-21T17:29:00.736802+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -65,8 +65,8 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 296730,
-      "body_text_length": 14119
+      "document_length": 297241,
+      "body_text_length": 14180
     },
     {
       "method": "topic_api_page",
