@@ -95,11 +95,23 @@ def main():
                 page.wait_for_timeout(5000)
                 links = topic_links(page)
                 item.update({"final_url":page.url,"title":page.title(),"result_text":page.locator("body").inner_text()[:9000],"topic_links":links,"all_result_anchors":page.locator("a").evaluate_all("(els) => els.map(a => ({url:a.href,text:(a.innerText||a.textContent||'').trim().replace(/\\s+/g,' ').slice(0,300)})).filter(x => x.text && x.url.includes('lenovo.com')).slice(0,300)"),"events":events[:200]})
-                for link in links:
-                    m = re.search(r"/td-p/(\d+)", link["url"])
+                for link in item["all_result_anchors"]:
+                    # Search results currently link to /topic/findpost/<fid>/<tid>/<pid>.
+                    # Older/community pages may use /td-p/<tid>.
+                    m = re.search(r"/topic/findpost/\d+/(\d+)/(\d+)", link["url"])
                     if m:
-                        tid = m.group(1)
-                        report["discovered_topics"].setdefault(tid,{"tid":tid,"url":link["url"],"title":link["text"],"query":term,"source":"rendered_search_ui"})
+                        tid, pid = m.group(1), m.group(2)
+                    else:
+                        m = re.search(r"/td-p/(\d+)", link["url"])
+                        if not m:
+                            continue
+                        tid, pid = m.group(1), None
+                    entry = report["discovered_topics"].setdefault(tid, {
+                        "tid": tid, "url": link["url"], "title": link["text"],
+                        "query": term, "source": "rendered_search_ui", "sample_pid": pid
+                    })
+                    if pid and not entry.get("sample_pid"):
+                        entry["sample_pid"] = pid
             except Exception as e:
                 item["error"] = f"{type(e).__name__}: {e}"
                 item["final_url"] = page.url
