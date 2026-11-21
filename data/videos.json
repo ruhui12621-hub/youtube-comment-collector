@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T16:57:03.032822+00:00",
-  "video_count": 32,
+  "updated_at": "2026-11-21T17:10:46.244759+00:00",
+  "video_count": 37,
   "videos": [
     {
       "video_id": "uJLwz7Vj7_o",
@@ -44,7 +44,6 @@
       "title": "Every PS5 User Gets This WRONG! - HDR Settings Guide",
       "channel": "Octorious",
       "search_queries": [
-        "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ]
     },
@@ -74,6 +73,33 @@
       "search_queries": [
         "Lenovo Legion Pro 32UD-10 HDR",
         "Lenovo Legion Pro 27Q-10 OLED",
+        "Lenovo QD-OLED monitor HDR dimming"
+      ]
+    },
+    {
+      "video_id": "ZPiQiNZUf6w",
+      "url": "https://www.youtube.com/watch?v=ZPiQiNZUf6w",
+      "title": "How to Change Brightness on Lenovo ThinkVision monitor - option is grayed out. Solution.",
+      "channel": "МЕ FIXING EVERYTHING",
+      "search_queries": [
+        "Legion Pro HDR brightness drops"
+      ]
+    },
+    {
+      "video_id": "xbMyfh94qto",
+      "url": "https://www.youtube.com/watch?v=xbMyfh94qto",
+      "title": "How To Fix Laptop Brightness Keeps Changing Automatically",
+      "channel": "Your Fix Guide",
+      "search_queries": [
+        "Legion Pro HDR brightness drops"
+      ]
+    },
+    {
+      "video_id": "tcvehqj_t48",
+      "url": "https://www.youtube.com/watch?v=tcvehqj_t48",
+      "title": "Is HDR Worse? - HDR vs SDR On Monitors & TVs",
+      "channel": "The Display Guy",
+      "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ]
     },
@@ -131,6 +157,7 @@
       "channel": "Tech Guy Beau",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 32UD-10 HDR",
         "Lenovo Legion Pro 27Q-10 OLED",
         "Lenovo QD-OLED monitor HDR dimming"
       ]
@@ -187,6 +214,15 @@
       "channel": "Jarrod's Laptops",
       "search_queries": [
         "Legion Pro HDR brightness drops"
+      ]
+    },
+    {
+      "video_id": "2ElLywmBAOM",
+      "url": "https://www.youtube.com/watch?v=2ElLywmBAOM",
+      "title": "OLED Burn-in : 1 Year Update",
+      "channel": "Rob Everhard",
+      "search_queries": [
+        "Lenovo QD-OLED monitor HDR dimming"
       ]
     },
     {
@@ -292,12 +328,22 @@
       ]
     },
     {
+      "video_id": "s-vU18nQzWk",
+      "url": "https://www.youtube.com/watch?v=s-vU18nQzWk",
+      "title": "螢幕會閃,會抖,如何調整掃瞄頻率",
+      "channel": "多蒙卡修",
+      "search_queries": [
+        "联想 OLED 显示器 HDR 变暗"
+      ]
+    },
+    {
       "video_id": "sXATCFb6Vec",
       "url": "https://www.youtube.com/watch?v=sXATCFb6Vec",
       "title": "螢幕顏色怪怪的？一招校正！Windows 11 內建工具",
       "channel": "小友玩電腦",
       "search_queries": [
-        "联想 OLED 显示器 HDR 变暗"
+        "联想 OLED 显示器 HDR 变暗",
+        "联想 拯救者 OLED 亮度 降低"
       ]
     }
   ]

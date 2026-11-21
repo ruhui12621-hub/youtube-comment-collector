@@ -1,0 +1,96 @@
+{
+  "started_at": "2026-11-21T17:10:46.464896+00:00",
+  "finished_at": "2026-11-21T17:10:55.876811+00:00",
+  "thread_id": "10042773",
+  "endpoint_diagnostics": [
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/messages/10042773?restapi.response_format=json",
+      "content_type": "text/html; charset=UTF-8",
+      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_blank\" href=\"https://www.lenovo.com/us/en/privacy/\">lang.Learn_More</a>.\n        <div class=\"banner_alert_item\">\n            <span class=\"button_wrap\"><a class=\"alert_button\" rel=\"nofollow\" id=\"cookie_banner\"  href=\"javascript:void(0)\"><span>OK</span></a></span>\n        </div>\n    </div>\n</div>\n<div class=\"header_common\">\n    <div class=\"header_top_box\">\n        <div class=\"container\">\n            <div class=\"top-menu-tiles\">\n                <div>\n                    <a href=\"https://forums.lenovo.com\" target=\"_self\">lang.HOME</a>\n                </div>\n                <div>\n                    <a href=\"https://www.lenovo.com/\" target=\"_blank\">lang.SHOP</a>\n                </div>\n            "
+    },
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/messages/10042773/replies?restapi.response_format=json&page_size=100",
+      "content_type": "text/html; charset=UTF-8",
+      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_blank\" href=\"https://www.lenovo.com/us/en/privacy/\">lang.Learn_More</a>.\n        <div class=\"banner_alert_item\">\n            <span class=\"button_wrap\"><a class=\"alert_button\" rel=\"nofollow\" id=\"cookie_banner\"  href=\"javascript:void(0)\"><span>OK</span></a></span>\n        </div>\n    </div>\n</div>\n<div class=\"header_common\">\n    <div class=\"header_top_box\">\n        <div class=\"container\">\n            <div class=\"top-menu-tiles\">\n                <div>\n                    <a href=\"https://forums.lenovo.com\" target=\"_self\">lang.HOME</a>\n                </div>\n                <div>\n                    <a href=\"https://www.lenovo.com/\" target=\"_blank\">lang.SHOP</a>\n                </div>\n            "
+    },
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/search?q=id%3A10042773&restapi.response_format=json",
+      "content_type": "text/html; charset=UTF-8",
+      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_blank\" href=\"https://www.lenovo.com/us/en/privacy/\">lang.Learn_More</a>.\n        <div class=\"banner_alert_item\">\n            <span class=\"button_wrap\"><a class=\"alert_button\" rel=\"nofollow\" id=\"cookie_banner\"  href=\"javascript:void(0)\"><span>OK</span></a></span>\n        </div>\n    </div>\n</div>\n<div class=\"header_common\">\n    <div class=\"header_top_box\">\n        <div class=\"container\">\n            <div class=\"top-menu-tiles\">\n                <div>\n                    <a href=\"https://forums.lenovo.com\" target=\"_self\">lang.HOME</a>\n                </div>\n                <div>\n                    <a href=\"https://www.lenovo.com/\" target=\"_blank\">lang.SHOP</a>\n                </div>\n            "
+    },
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/search?q=%22HDR+Dimming+Issue+on+Lenovo+Legion+Pro%22&restapi.response_format=json",
+      "content_type": "text/html; charset=UTF-8",
+      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_blank\" href=\"https://www.lenovo.com/us/en/privacy/\">lang.Learn_More</a>.\n        <div class=\"banner_alert_item\">\n            <span class=\"button_wrap\"><a class=\"alert_button\" rel=\"nofollow\" id=\"cookie_banner\"  href=\"javascript:void(0)\"><span>OK</span></a></span>\n        </div>\n    </div>\n</div>\n<div class=\"header_common\">\n    <div class=\"header_top_box\">\n        <div class=\"container\">\n            <div class=\"top-menu-tiles\">\n                <div>\n                    <a href=\"https://forums.lenovo.com\" target=\"_self\">lang.HOME</a>\n                </div>\n                <div>\n                    <a href=\"https://www.lenovo.com/\" target=\"_blank\">lang.SHOP</a>\n                </div>\n            "
+    },
+    {
+      "status": 200,
+      "url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
+      "content_type": "text/html"
+    },
+    {
+      "status": 200,
+      "url": "https://forums.lenovo.com/t5/Monitors-and-Displays/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
+      "content_type": "text/html"
+    },
+    {
+      "status": 200,
+      "url": "https://forums.lenovo.com/t5/Lenovo-Forums/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
+      "content_type": "text/html"
+    }
+  ],
+  "search_attempts": [
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/search?q=%22Legion+Pro+27UD-10%22+HDR&restapi.response_format=json&page_size=100",
+      "content_type": "text/html; charset=UTF-8",
+      "query": "\"Legion Pro 27UD-10\" HDR"
+    },
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/search?q=%22Legion+Pro+32UD-10%22+HDR&restapi.response_format=json&page_size=100",
+      "content_type": "text/html; charset=UTF-8",
+      "query": "\"Legion Pro 32UD-10\" HDR"
+    },
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/search?q=%2227UD-10%22+dimming&restapi.response_format=json&page_size=100",
+      "content_type": "text/html; charset=UTF-8",
+      "query": "\"27UD-10\" dimming"
+    },
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/search?q=%2232UD-10%22+dimming&restapi.response_format=json&page_size=100",
+      "content_type": "text/html; charset=UTF-8",
+      "query": "\"32UD-10\" dimming"
+    },
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/search?q=%2227Q-10%22+brightness&restapi.response_format=json&page_size=100",
+      "content_type": "text/html; charset=UTF-8",
+      "query": "\"27Q-10\" brightness"
+    },
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/search?q=%22HDR+Dimming+Issue+on+Lenovo+Legion+Pro%22&restapi.response_format=json&page_size=100",
+      "content_type": "text/html; charset=UTF-8",
+      "query": "\"HDR Dimming Issue on Lenovo Legion Pro\""
+    },
+    {
+      "status": 404,
+      "url": "https://forums.lenovo.com/api/2.0/search?q=Lenovo+OLED+HDR+brightness+drops&restapi.response_format=json&page_size=100",
+      "content_type": "text/html; charset=UTF-8",
+      "query": "Lenovo OLED HDR brightness drops"
+    }
+  ],
+  "record_keys": [
+    "thread_html_1",
+    "thread_html_2",
+    "thread_html_3"
+  ],
+  "note": "A 200 response is not proof of complete thread retrieval; inspect payload shape and pagination."
+}
