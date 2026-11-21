@@ -115,7 +115,8 @@ def load_target_threads():
     except Exception:
         return list(targets.values())
 
-    model_pattern = re.compile(r"(?:27\s?u?d|32\s?u?d|27q[d]?|32q[d]?)-?10", re.I)
+    # Explicitly exclude 27QD-10: it is a different model and outside the collection scope.
+    model_pattern = re.compile(r"(?:27\s?u?d|32\s?u?d|27q(?!d)|32q)-?10", re.I)
     issue_pattern = re.compile(r"(hdr|dimm|bright|abl|low power|oled care)", re.I)
     for tid, item in (report.get("discovered_topics") or {}).items():
         url = item.get("url") or ""
