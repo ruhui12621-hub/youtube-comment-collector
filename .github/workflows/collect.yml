@@ -34,6 +34,9 @@ jobs:
         env:
           MAX_VIDEOS_PER_QUERY: "6"
 
+      - name: Collect Lenovo forum discussions
+        run: python scripts/collect_lenovo_forum.py
+
       - name: Commit collected data
         run: |
           git config user.name "github-actions[bot]"
