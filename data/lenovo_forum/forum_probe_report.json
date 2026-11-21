@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-21T17:54:03.034684+00:00",
-  "finished_at": "2026-11-21T17:54:12.394582+00:00",
+  "started_at": "2026-11-21T18:01:34.600407+00:00",
+  "finished_at": "2026-11-21T18:01:47.001181+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -65,24 +65,98 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 297251,
+      "document_length": 297244,
       "body_text_length": 14180
     },
     {
-      "method": "topic_api_page",
-      "page": 1,
-      "status": 200,
-      "posts_count": 10,
-      "posts_num": 12,
-      "url": "https://forums.lenovo.com/api/v2/topic/getTopic?fid=15987&tid=10042773&page=1"
+      "method": "topic_api_collection",
+      "tid": "10042773",
+      "fid": "15987",
+      "title": "HDR Dimming Issue on Lenovo Legion Pro, Can't Update Firmware 27Q-10",
+      "pages_captured": 2,
+      "posts_captured": 12,
+      "error": null
     },
     {
-      "method": "topic_api_page",
-      "page": 2,
-      "status": 200,
-      "posts_count": 2,
-      "posts_num": 12,
-      "url": "https://forums.lenovo.com/api/v2/topic/getTopic?fid=15987&tid=10042773&page=2"
+      "method": "topic_api_collection",
+      "tid": "10029223",
+      "fid": "15880",
+      "title": "04-23-2026 08:38:51 Legion Pro 27UD-10 aggressive ABL behavior byguest57610inDisplays, Options and Accessories I recently purchased the Legion Pro 27ud-10 monitor and it seems there are some issues with it that iI have set the monitor to TB400 HDR mode, disabled Dolby Vision and loaded the specific ",
+      "pages_captured": 1,
+      "posts_captured": 4,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10030393",
+      "fid": "15880",
+      "title": "05-05-2026 12:03:16 Yoga pro OLED monitor byguest57806inDisplays, Options and Accessories Hello, will the Yoga Pro 27UD-10 UHD QD-OLED also be available in 32 inches?",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10043336",
+      "fid": "15880",
+      "title": "09-01-2026 19:41:10 Re:Lenovo Yoga Pro 27UD-10 Webcam byAdriel_lenovoinDisplays, Options and Accessories I understand how frustrating it is when the detachable webcam of your Lenovo Yoga Pro 27UD-10 will notquick checks may help confirm whether this is a fit/alignment issue or a hardware problem: 1.",
+      "pages_captured": 1,
+      "posts_captured": 8,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10054044",
+      "fid": "15987",
+      "title": "11-17-2026 15:14:17 Re:Lenovo Legion Pro 27UD-10 byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Since you've already performed factory resets, disabled HDR, Dolby Vision, OLED care options,and recalibrated HDR, try the following: Test the monitor with another device such as a For tes",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10038636",
+      "fid": "15987",
+      "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors purple240, I understand you're having trouble accessing the monitor settings of your Lenovo LegionPro 27Q-10 monitor. - Change t",
+      "pages_captured": 1,
+      "posts_captured": 4,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10022519",
+      "fid": "15987",
+      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10041191",
+      "fid": "15987",
+      "title": "08-15-2026 16:38:42 Re:Lenovo Legion 27QD-10 auto-dimming / brightness drops when switching from bright to dark webpages byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Hieu2736, Welcome to Lenovo Community, and thank you for describing the issue with your Legion 27QD‑10 monitor.p> Si",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10050557",
+      "fid": "15880",
+      "title": "10-27-2026 20:04:49 Re:Lenovo Legion 27QD-10 – Automatic Brightness Reduction and Firmware Inquiry byAdriel_lenovoinDisplays, Options and Accessories fid=15880\">JohnDoe143, I understand you’re seeing intermittent dimming on your Legion 27QD-10 monitor.Intermittent dimming on dark content, especially",
+      "pages_captured": 1,
+      "posts_captured": 6,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10016436",
+      "fid": "15987",
+      "title": "12-27-2025 13:24:47 Lenovo Legion Pro 32UD-10 - OLED Care - Low power byKermoneninY Gaming Accessories & Curved Gaming Monitors Hi, I need some clarification regarding the Lenovo Legion Pro 32UD-10 OLED Care menu.",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
     }
   ],
   "browser_error": null,
@@ -108,5 +182,146 @@
       2
     ]
   },
-  "note": "Topic page data is retrieved from the JSON endpoint observed in the rendered forum page. Verify pagination count against the topic's replies/posts metadata."
+  "topic_collections": {
+    "10042773": {
+      "title": "HDR Dimming Issue on Lenovo Legion Pro, Can't Update Firmware 27Q-10",
+      "fid": "15987",
+      "pages_captured": 2,
+      "posts_captured": 12,
+      "post_ids": [
+        10159617,
+        10160572,
+        10160630,
+        10160825,
+        10163622,
+        10163910,
+        10167388,
+        10170504,
+        10174452,
+        10192583,
+        10192991,
+        10193067
+      ],
+      "error": null
+    },
+    "10029223": {
+      "title": "04-23-2026 08:38:51 Legion Pro 27UD-10 aggressive ABL behavior byguest57610inDisplays, Options and Accessories I recently purchased the Legion Pro 27ud-10 monitor and it seems there are some issues with it that iI have set the monitor to TB400 HDR mode, disabled Dolby Vision and loaded the specific ",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 4,
+      "post_ids": [
+        10106400,
+        10106596,
+        10106607,
+        10113785
+      ],
+      "error": null
+    },
+    "10030393": {
+      "title": "05-05-2026 12:03:16 Yoga pro OLED monitor byguest57806inDisplays, Options and Accessories Hello, will the Yoga Pro 27UD-10 UHD QD-OLED also be available in 32 inches?",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10110647,
+        10111147
+      ],
+      "error": null
+    },
+    "10043336": {
+      "title": "09-01-2026 19:41:10 Re:Lenovo Yoga Pro 27UD-10 Webcam byAdriel_lenovoinDisplays, Options and Accessories I understand how frustrating it is when the detachable webcam of your Lenovo Yoga Pro 27UD-10 will notquick checks may help confirm whether this is a fit/alignment issue or a hardware problem: 1.",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 8,
+      "post_ids": [
+        10161424,
+        10161584,
+        10161604,
+        10162961,
+        10163189,
+        10164108,
+        10165199,
+        10165834
+      ],
+      "error": null
+    },
+    "10054044": {
+      "title": "11-17-2026 15:14:17 Re:Lenovo Legion Pro 27UD-10 byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Since you've already performed factory resets, disabled HDR, Dolby Vision, OLED care options,and recalibrated HDR, try the following: Test the monitor with another device such as a For tes",
+      "fid": "15987",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "post_ids": [
+        10194092,
+        10194477,
+        10194765
+      ],
+      "error": null
+    },
+    "10038636": {
+      "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors purple240, I understand you're having trouble accessing the monitor settings of your Lenovo LegionPro 27Q-10 monitor. - Change t",
+      "fid": "15987",
+      "pages_captured": 1,
+      "posts_captured": 4,
+      "post_ids": [
+        10145068,
+        10145134,
+        10145239,
+        10145329
+      ],
+      "error": null
+    },
+    "10022519": {
+      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
+      "fid": "15987",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10081411,
+        10081586
+      ],
+      "error": null
+    },
+    "10041191": {
+      "title": "08-15-2026 16:38:42 Re:Lenovo Legion 27QD-10 auto-dimming / brightness drops when switching from bright to dark webpages byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Hieu2736, Welcome to Lenovo Community, and thank you for describing the issue with your Legion 27QD‑10 monitor.p> Si",
+      "fid": "15987",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "post_ids": [
+        10154249,
+        10154571,
+        10154585
+      ],
+      "error": null
+    },
+    "10050557": {
+      "title": "10-27-2026 20:04:49 Re:Lenovo Legion 27QD-10 – Automatic Brightness Reduction and Firmware Inquiry byAdriel_lenovoinDisplays, Options and Accessories fid=15880\">JohnDoe143, I understand you’re seeing intermittent dimming on your Legion 27QD-10 monitor.Intermittent dimming on dark content, especially",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 6,
+      "post_ids": [
+        10184599,
+        10184677,
+        10186964,
+        10186969,
+        10187447,
+        10189552
+      ],
+      "error": null
+    },
+    "10016436": {
+      "title": "12-27-2025 13:24:47 Lenovo Legion Pro 32UD-10 - OLED Care - Low power byKermoneninY Gaming Accessories & Curved Gaming Monitors Hi, I need some clarification regarding the Lenovo Legion Pro 32UD-10 OLED Care menu.",
+      "fid": "15987",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10058605,
+        10058704
+      ],
+      "error": null
+    }
+  },
+  "topics_attempted": 10,
+  "topics_with_posts": 10,
+  "total_posts_captured": 46,
+  "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json."
 }
