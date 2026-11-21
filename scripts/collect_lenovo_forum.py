@@ -177,7 +177,7 @@ def browser_probe():
             interesting.append(item | {"body": body})
         elif item["resource_type"] in ("xhr", "fetch"):
             interesting.append(item)
-    records["browser_network_responses"] = interesting[:150]
+    records["browser_network_responses"] = interesting[:80]
     return diagnostics, records
 
 
