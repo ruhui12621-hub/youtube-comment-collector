@@ -35,6 +35,9 @@ jobs:
       - name: Collect Lenovo forum discussions
         run: python scripts/collect_lenovo_forum.py
 
+      - name: Discover Lenovo forum search results
+        run: python scripts/discover_lenovo_forum.py
+
       - name: Commit forum data
         run: |
           git config user.name "github-actions[bot]"
