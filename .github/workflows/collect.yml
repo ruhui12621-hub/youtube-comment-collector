@@ -34,16 +34,13 @@ jobs:
         env:
           MAX_VIDEOS_PER_QUERY: "6"
 
-      - name: Collect Lenovo forum discussions
-        run: python scripts/collect_lenovo_forum.py
-
       - name: Commit collected data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/comments/ data/videos.json data/collection_report.json
           if git diff --cached --quiet; then
-            echo "No data changes to commit."
+            echo "No YouTube data changes to commit."
           else
             git commit -m "Update YouTube comment archive"
             git push
