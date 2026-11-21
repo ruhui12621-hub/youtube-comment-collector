@@ -1,0 +1,2 @@
+# Optional: add one YouTube video URL or 11-character video ID per line.
+# These videos are collected in addition to videos discovered by search.
