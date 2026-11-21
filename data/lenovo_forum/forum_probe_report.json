@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-21T18:01:34.600407+00:00",
-  "finished_at": "2026-11-21T18:01:47.001181+00:00",
+  "started_at": "2026-11-21T23:27:50.626534+00:00",
+  "finished_at": "2026-11-21T23:28:00.936352+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -97,18 +97,9 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10043336",
-      "fid": "15880",
-      "title": "09-01-2026 19:41:10 Re:Lenovo Yoga Pro 27UD-10 Webcam byAdriel_lenovoinDisplays, Options and Accessories I understand how frustrating it is when the detachable webcam of your Lenovo Yoga Pro 27UD-10 will notquick checks may help confirm whether this is a fit/alignment issue or a hardware problem: 1.",
-      "pages_captured": 1,
-      "posts_captured": 8,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
       "tid": "10054044",
       "fid": "15987",
-      "title": "11-17-2026 15:14:17 Re:Lenovo Legion Pro 27UD-10 byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Since you've already performed factory resets, disabled HDR, Dolby Vision, OLED care options,and recalibrated HDR, try the following: Test the monitor with another device such as a For tes",
+      "title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
       "pages_captured": 1,
       "posts_captured": 3,
       "error": null
@@ -133,20 +124,11 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10041191",
-      "fid": "15987",
-      "title": "08-15-2026 16:38:42 Re:Lenovo Legion 27QD-10 auto-dimming / brightness drops when switching from bright to dark webpages byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Hieu2736, Welcome to Lenovo Community, and thank you for describing the issue with your Legion 27QD‑10 monitor.p> Si",
+      "tid": "10045603",
+      "fid": "15986",
+      "title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessmonito",
       "pages_captured": 1,
-      "posts_captured": 3,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
-      "tid": "10050557",
-      "fid": "15880",
-      "title": "10-27-2026 20:04:49 Re:Lenovo Legion 27QD-10 – Automatic Brightness Reduction and Firmware Inquiry byAdriel_lenovoinDisplays, Options and Accessories fid=15880\">JohnDoe143, I understand you’re seeing intermittent dimming on your Legion 27QD-10 monitor.Intermittent dimming on dark content, especially",
-      "pages_captured": 1,
-      "posts_captured": 6,
+      "posts_captured": 4,
       "error": null
     },
     {
@@ -228,25 +210,8 @@
       ],
       "error": null
     },
-    "10043336": {
-      "title": "09-01-2026 19:41:10 Re:Lenovo Yoga Pro 27UD-10 Webcam byAdriel_lenovoinDisplays, Options and Accessories I understand how frustrating it is when the detachable webcam of your Lenovo Yoga Pro 27UD-10 will notquick checks may help confirm whether this is a fit/alignment issue or a hardware problem: 1.",
-      "fid": "15880",
-      "pages_captured": 1,
-      "posts_captured": 8,
-      "post_ids": [
-        10161424,
-        10161584,
-        10161604,
-        10162961,
-        10163189,
-        10164108,
-        10165199,
-        10165834
-      ],
-      "error": null
-    },
     "10054044": {
-      "title": "11-17-2026 15:14:17 Re:Lenovo Legion Pro 27UD-10 byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Since you've already performed factory resets, disabled HDR, Dolby Vision, OLED care options,and recalibrated HDR, try the following: Test the monitor with another device such as a For tes",
+      "title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
       "fid": "15987",
       "pages_captured": 1,
       "posts_captured": 3,
@@ -281,30 +246,16 @@
       ],
       "error": null
     },
-    "10041191": {
-      "title": "08-15-2026 16:38:42 Re:Lenovo Legion 27QD-10 auto-dimming / brightness drops when switching from bright to dark webpages byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Hieu2736, Welcome to Lenovo Community, and thank you for describing the issue with your Legion 27QD‑10 monitor.p> Si",
-      "fid": "15987",
+    "10045603": {
+      "title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessmonito",
+      "fid": "15986",
       "pages_captured": 1,
-      "posts_captured": 3,
+      "posts_captured": 4,
       "post_ids": [
-        10154249,
-        10154571,
-        10154585
-      ],
-      "error": null
-    },
-    "10050557": {
-      "title": "10-27-2026 20:04:49 Re:Lenovo Legion 27QD-10 – Automatic Brightness Reduction and Firmware Inquiry byAdriel_lenovoinDisplays, Options and Accessories fid=15880\">JohnDoe143, I understand you’re seeing intermittent dimming on your Legion 27QD-10 monitor.Intermittent dimming on dark content, especially",
-      "fid": "15880",
-      "pages_captured": 1,
-      "posts_captured": 6,
-      "post_ids": [
-        10184599,
-        10184677,
-        10186964,
-        10186969,
-        10187447,
-        10189552
+        10169653,
+        10169866,
+        10170032,
+        10172682
       ],
       "error": null
     },
@@ -320,8 +271,8 @@
       "error": null
     }
   },
-  "topics_attempted": 10,
-  "topics_with_posts": 10,
-  "total_posts_captured": 46,
+  "topics_attempted": 8,
+  "topics_with_posts": 8,
+  "total_posts_captured": 33,
   "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json."
 }
