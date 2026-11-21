@@ -354,7 +354,9 @@ def main():
         "total_posts_captured": report["total_posts_captured"],
         "browser_diagnostics": browser_diagnostics,
         "browser_error": browser_error,
-        "saved": ["data/lenovo_forum/thread_10042773.json", "data/lenovo_forum/forum_probe_report.json"],
+        "saved_directory": "data/lenovo_forum/",
+        "thread_files_written": len(collections),
+        "report_file": "data/lenovo_forum/forum_probe_report.json",
     }, ensure_ascii=False, indent=2))
 
 
