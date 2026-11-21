@@ -10,7 +10,7 @@ import json
 import re
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import quote, urljoin
+from urllib.parse import quote
 
 from playwright.sync_api import sync_playwright
 
@@ -19,7 +19,7 @@ SEARCH_URL = BASE + "/t5/forums/searchpage/tab/message?filter=location&q="
 TERMS = [
     '"Legion Pro 27UD-10" HDR',
     '"27UD-10" dimming',
-    '"Legion Pro 32UD-10 HDR',
+    '"Legion Pro 32UD-10" HDR',
     '"32UD-10" dimming',
     '"27Q-10" brightness',
     '"HDR dimming" OLED',
