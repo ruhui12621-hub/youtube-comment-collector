@@ -116,7 +116,7 @@ def load_target_threads():
         return list(targets.values())
 
     model_pattern = re.compile(r"(?:27\s?u?d|32\s?u?d|27q[d]?|32q[d]?)-10", re.I)
-    issue_pattern = re.compile(r"(hdr|dimm|bright|abl)", re.I)
+    issue_pattern = re.compile(r"(hdr|dimm|bright|abl|low power|oled care)", re.I)
     for tid, item in (report.get("discovered_topics") or {}).items():
         url = item.get("url") or ""
         match = re.search(r"/topic/findpost/(\d+)/(\d+)/(\d+)", url)
@@ -125,8 +125,10 @@ def load_target_threads():
         fid, parsed_tid, pid = match.groups()
         title = item.get("title") or ""
         query = item.get("query") or ""
-        searchable = f"{title} {query}"
-        if not (model_pattern.search(searchable) and issue_pattern.search(searchable)):
+        # Require the actual result card title/snippet to mention both the model and
+        # a brightness/HDR-related symptom; do not let a broad search query pull in
+        # unrelated topics that happened to appear in the result list.
+        if not (model_pattern.search(title) and issue_pattern.search(title)):
             continue
         if parsed_tid not in targets:
             targets[parsed_tid] = {
