@@ -11,8 +11,13 @@ TERMS = ['"Legion Pro 27UD-10" HDR', '"27UD-10" dimming', '"Legion Pro 32UD-10" 
 OUT = Path(__file__).resolve().parents[1] / "data" / "lenovo_forum"
 
 def topic_links(page):
-    return page.locator('a[href*="/td-p/"]').evaluate_all(
-        "(els) => els.map(a => ({url:a.href,text:(a.innerText||'').trim()})).filter(x=>x.text).slice(0,150)"
+    # Lenovo's current search results may use message links rather than td-p links.
+    return page.locator('a[href*="/t5/"], a[href*="/td-p/"], a[href*="/m-p/"]').evaluate_all(
+        """(els) => els.map(a => ({
+            url: a.href,
+            text: (a.innerText || a.textContent || '').trim().replace(/\\s+/g, ' ').slice(0, 500),
+            parent: (a.closest('article, li, tr, [class*=result], [class*=topic]')?.innerText || '').trim().replace(/\\s+/g, ' ').slice(0, 1200)
+        })).filter(x => x.text || x.parent).slice(0, 300)"""
     )
 
 def inspect_search_dom(page):
@@ -89,7 +94,7 @@ def main():
                 box.press("Enter", timeout=5000)
                 page.wait_for_timeout(5000)
                 links = topic_links(page)
-                item.update({"final_url":page.url,"title":page.title(),"result_text":page.locator("body").inner_text()[:9000],"topic_links":links,"events":events[:200]})
+                item.update({"final_url":page.url,"title":page.title(),"result_text":page.locator("body").inner_text()[:9000],"topic_links":links,"all_result_anchors":page.locator("a").evaluate_all("(els) => els.map(a => ({url:a.href,text:(a.innerText||a.textContent||'').trim().replace(/\\s+/g,' ').slice(0,300)})).filter(x => x.text && x.url.includes('lenovo.com')).slice(0,300)"),"events":events[:200]})
                 for link in links:
                     m = re.search(r"/td-p/(\d+)", link["url"])
                     if m:
