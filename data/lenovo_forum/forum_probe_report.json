@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-21T17:16:30.089221+00:00",
-  "finished_at": "2026-11-21T17:16:44.386642+00:00",
+  "started_at": "2026-11-21T17:21:00.120245+00:00",
+  "finished_at": "2026-11-21T17:21:10.254985+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -10,99 +10,103 @@
       "content_type": "text/html"
     },
     {
-      "method": "requests",
-      "status": 200,
-      "url": "https://forums.lenovo.com/t5/Monitors-and-Displays/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
-      "content_type": "text/html"
-    },
-    {
-      "method": "requests",
-      "status": 200,
-      "url": "https://forums.lenovo.com/t5/Lenovo-Forums/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
-      "content_type": "text/html"
-    },
-    {
       "method": "search_api_probe",
       "query": "\"Legion Pro 27UD-10\" HDR",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/2.0/search?q=%22Legion+Pro+27UD-10%22+HDR&restapi.response_format=json&page_size=100",
-      "content_type": "text/html; charset=UTF-8",
-      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_b"
+      "url": "https://forums.lenovo.com/api/v2/search?q=%22Legion+Pro+27UD-10%22+HDR",
+      "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
       "query": "\"Legion Pro 32UD-10\" HDR",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/2.0/search?q=%22Legion+Pro+32UD-10%22+HDR&restapi.response_format=json&page_size=100",
-      "content_type": "text/html; charset=UTF-8",
-      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_b"
+      "url": "https://forums.lenovo.com/api/v2/search?q=%22Legion+Pro+32UD-10%22+HDR",
+      "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
       "query": "\"27UD-10\" dimming",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/2.0/search?q=%2227UD-10%22+dimming&restapi.response_format=json&page_size=100",
-      "content_type": "text/html; charset=UTF-8",
-      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_b"
+      "url": "https://forums.lenovo.com/api/v2/search?q=%2227UD-10%22+dimming",
+      "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
       "query": "\"32UD-10\" dimming",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/2.0/search?q=%2232UD-10%22+dimming&restapi.response_format=json&page_size=100",
-      "content_type": "text/html; charset=UTF-8",
-      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_b"
+      "url": "https://forums.lenovo.com/api/v2/search?q=%2232UD-10%22+dimming",
+      "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
       "query": "\"27Q-10\" brightness",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/2.0/search?q=%2227Q-10%22+brightness&restapi.response_format=json&page_size=100",
-      "content_type": "text/html; charset=UTF-8",
-      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_b"
+      "url": "https://forums.lenovo.com/api/v2/search?q=%2227Q-10%22+brightness",
+      "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
       "query": "\"HDR Dimming Issue on Lenovo Legion Pro\"",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/2.0/search?q=%22HDR+Dimming+Issue+on+Lenovo+Legion+Pro%22&restapi.response_format=json&page_size=100",
-      "content_type": "text/html; charset=UTF-8",
-      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_b"
+      "url": "https://forums.lenovo.com/api/v2/search?q=%22HDR+Dimming+Issue+on+Lenovo+Legion+Pro%22",
+      "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
       "query": "Lenovo OLED HDR brightness drops",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/2.0/search?q=Lenovo+OLED+HDR+brightness+drops&restapi.response_format=json&page_size=100",
-      "content_type": "text/html; charset=UTF-8",
-      "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>lang.Error_Page_Lenovo_Community</title>\n    <link href=\"https://forumscdn.lenovo.com/pc/css/common.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n    <link href=\"https://forumscdn.lenovo.com/pc/css/user.css?8830a9e10boopf3b\" rel=\"stylesheet\">\n</head>\n<body>\n<!--header start-->\n<!--header start-->\n<div class=\"banner_alert\" style=\"display: none\">\n    <div class=\"alert_text\">\n        lang.This_website_uses_cookies <a target=\"_b"
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+OLED+HDR+brightness+drops",
+      "content_type": "text/html; charset=UTF-8"
     }
   ],
   "browser_diagnostics": [
     {
       "method": "playwright",
       "status": 200,
-      "requested_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 297243,
-      "body_text_length": 14180
+      "document_length": 296730,
+      "body_text_length": 14119
+    },
+    {
+      "method": "topic_api_page",
+      "page": 1,
+      "status": 200,
+      "posts_count": 10,
+      "posts_num": 12,
+      "url": "https://forums.lenovo.com/api/v2/topic/getTopic?fid=15987&tid=10042773&page=1"
+    },
+    {
+      "method": "topic_api_page",
+      "page": 2,
+      "status": 200,
+      "posts_count": 2,
+      "posts_num": 12,
+      "url": "https://forums.lenovo.com/api/v2/topic/getTopic?fid=15987&tid=10042773&page=2"
     }
   ],
   "browser_error": null,
-  "content_checks": [
-    {
-      "record": "browser_thread_1",
-      "text_length": 14180,
-      "preview": "Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to people with visual disabilities who are using a screen reader; Press Control-F10 to open an accessibility menu.\nPress enter for Accessibility for blind people\nwho use screen readers\nPress enter for Keyboard Navigation\nPress enter for Accessibility menu\n ENGLISH \nArchive\nLive\n Gaming – Lenovo Legion  Y Gaming Accessories & Curved Gaming Monitors\nReply\nTopic Options\n12\nGo to page\nAI Translation Involved\nView Translation\nmudamuda\nPaper Tape\n20\nPosts: 4\nRegistered: 2026-08-28 01:41:44\nLocation: Egypt\nViews: 45\n2026-08-28 01:49:51\nHDR Dimming Issue on Lenovo Legion Pro, Can't Update Firmware 27Q-10\n\nMy Legion Pro 27Q-10 QD-OLED monitor has an issue in the HDR Auto/Movie/Photo (Peak 1000) modes, where after 30-40 minutes of use the monitor dims permanently until I turn it off and on again. This is not because of ABL, if I pause a scene and turn it off/on in the same scene, the brightness im"
-    }
-  ],
-  "record_keys": [
-    "http_thread_1",
-    "http_thread_2",
-    "http_thread_3",
-    "browser_thread_1",
-    "browser_network_responses"
-  ],
-  "note": "A generic forum shell or HTTP 200 is not considered a successful thread capture. Inspect rendered text and captured XHR/fetch payloads for message bodies and pagination."
+  "pagination": {
+    "pages_captured": 2,
+    "posts_captured": 12,
+    "post_ids": [
+      10159617,
+      10160572,
+      10160630,
+      10160825,
+      10163622,
+      10163910,
+      10167388,
+      10170504,
+      10174452,
+      10192583,
+      10192991,
+      10193067
+    ],
+    "page_counts": [
+      10,
+      2
+    ]
+  },
+  "note": "Topic page data is retrieved from the JSON endpoint observed in the rendered forum page. Verify pagination count against the topic's replies/posts metadata."
 }
