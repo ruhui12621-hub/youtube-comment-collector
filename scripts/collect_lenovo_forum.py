@@ -115,11 +115,11 @@ def load_target_threads():
     except Exception:
         return list(targets.values())
 
-    model_pattern = re.compile(r"(?:27\\s?u?d|32\\s?u?d|27q[d]?|32q[d]?)-10", re.I)
+    model_pattern = re.compile(r"(?:27\s?u?d|32\s?u?d|27q[d]?|32q[d]?)-10", re.I)
     issue_pattern = re.compile(r"(hdr|dimm|bright|abl)", re.I)
     for tid, item in (report.get("discovered_topics") or {}).items():
         url = item.get("url") or ""
-        match = re.search(r"/topic/findpost/(\\d+)/(\\d+)/(\\d+)", url)
+        match = re.search(r"/topic/findpost/(\d+)/(\d+)/(\d+)", url)
         if not match:
             continue
         fid, parsed_tid, pid = match.groups()
@@ -339,10 +339,10 @@ def main():
             },
         }
         (OUT / f"thread_{tid}.json").write_text(
-            json.dumps(topic_file, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
+            json.dumps(topic_file, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
         )
     (OUT / "forum_probe_report.json").write_text(
-        json.dumps(report, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8"
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
     print(json.dumps({
         "thread_id": THREAD_ID,
