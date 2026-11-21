@@ -334,7 +334,7 @@ def main():
         try:
             stale_data = json.loads(stale_file.read_text(encoding="utf-8"))
             stale_title = (stale_data.get("thread") or {}).get("title") or ""
-            if re.search(r"27\\s?qd-?10", stale_title, re.I):
+            if re.search(r"27\s?qd-?10", stale_title, re.I):
                 stale_file.unlink()
         except Exception:
             pass
