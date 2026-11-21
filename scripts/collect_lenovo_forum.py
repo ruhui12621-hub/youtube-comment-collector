@@ -329,6 +329,16 @@ def main():
         "total_posts_captured": sum(x["posts_captured"] for x in topic_summary.values()),
         "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json.",
     }
+    # Remove stale files for excluded 27QD-10 topics from earlier collection runs.
+    for stale_file in OUT.glob("thread_*.json"):
+        try:
+            stale_data = json.loads(stale_file.read_text(encoding="utf-8"))
+            stale_title = (stale_data.get("thread") or {}).get("title") or ""
+            if re.search(r"27\\s?qd-?10", stale_title, re.I):
+                stale_file.unlink()
+        except Exception:
+            pass
+
     # Preserve the established pinned-thread file and create one file per discovered topic.
     for tid, collection in collections.items():
         thread = collection.get("thread") or {}
