@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-21T17:07:41.615918+00:00",
-  "finished_at": "2026-11-21T17:10:46.245543+00:00",
+  "started_at": "2026-11-22T11:31:53.010561+00:00",
+  "finished_at": "2026-11-22T11:35:26.612404+00:00",
   "queries": [
     "Lenovo Legion Pro 27UD-10 HDR",
     "Lenovo Legion Pro 32UD-10 HDR",
@@ -10,9 +10,9 @@
     "联想 OLED 显示器 HDR 变暗",
     "联想 拯救者 OLED 亮度 降低"
   ],
-  "videos_discovered_this_run": 31,
-  "videos_collected_successfully": 30,
-  "comments_and_replies_seen_this_run": 4927,
+  "videos_discovered_this_run": 30,
+  "videos_collected_successfully": 29,
+  "comments_and_replies_seen_this_run": 6246,
   "errors": [
     {
       "stage": "comments",
