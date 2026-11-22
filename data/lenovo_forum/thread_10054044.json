@@ -2,11 +2,11 @@
   "thread": {
     "tid": "10054044",
     "fid": "15987",
-    "url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194765",
-    "title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
+    "url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194477",
+    "title": "11-17-2026 15:14:17 Re:Lenovo Legion Pro 27UD-10 byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Since you've already performed factory resets, disabled HDR, Dolby Vision, OLED care options,and recalibrated HDR, try the following: Test the monitor with another device such as a For tes",
     "query": "\"Legion Pro 27UD-10\" HDR",
     "source": "search_discovery",
-    "sample_pid": "10194765"
+    "sample_pid": "10194477"
   },
   "topic_api": {
     "endpoint_template": "https://forums.lenovo.com/api/v2/topic/getTopic?fid=15987&tid=10054044&page=N",
@@ -64,7 +64,7 @@
           "pid": 10194092,
           "subject": "Lenovo legion Pro 27UD-10",
           "message": "<p>first off, it’s a great Monitor! Only bad experience I’m having is when the screen dims after 30-40 minutes of gameplay! Only way to disable it is turn the monitor off manually and back on again. I tried everything, multiple factory resets, taking HDR off, disabling OLED Care settings, disable Dolby vision, recalibrated the HDR on my ps5 pro but still the same resolution with no solution! I checked online and noticed others experience the same, maybe I just received a faulty device, Firmware 03, 27 inch. Any other tips ? I do have a 3 year warranty for this unit since I ordered directly off Lenovos site. If I receive a replacement wouldn’t it just be the same??</p>",
-          "views": 32,
+          "views": 33,
           "replies": 3,
           "create_time": 1794861836,
           "last_post_time": 1794964777,

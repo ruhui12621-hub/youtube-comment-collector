@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-21T23:27:50.626534+00:00",
-  "finished_at": "2026-11-21T23:28:00.936352+00:00",
+  "started_at": "2026-11-22T11:59:05.081174+00:00",
+  "finished_at": "2026-11-22T11:59:18.021060+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -65,7 +65,7 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 297244,
+      "document_length": 297245,
       "body_text_length": 14180
     },
     {
@@ -97,9 +97,18 @@
     },
     {
       "method": "topic_api_collection",
+      "tid": "10043336",
+      "fid": "15880",
+      "title": "09-01-2026 19:41:10 Re:Lenovo Yoga Pro 27UD-10 Webcam byAdriel_lenovoinDisplays, Options and Accessories I understand how frustrating it is when the detachable webcam of your Lenovo Yoga Pro 27UD-10 will notquick checks may help confirm whether this is a fit/alignment issue or a hardware problem: 1.",
+      "pages_captured": 1,
+      "posts_captured": 8,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
       "tid": "10054044",
       "fid": "15987",
-      "title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
+      "title": "11-17-2026 15:14:17 Re:Lenovo Legion Pro 27UD-10 byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Since you've already performed factory resets, disabled HDR, Dolby Vision, OLED care options,and recalibrated HDR, try the following: Test the monitor with another device such as a For tes",
       "pages_captured": 1,
       "posts_captured": 3,
       "error": null
@@ -210,8 +219,25 @@
       ],
       "error": null
     },
+    "10043336": {
+      "title": "09-01-2026 19:41:10 Re:Lenovo Yoga Pro 27UD-10 Webcam byAdriel_lenovoinDisplays, Options and Accessories I understand how frustrating it is when the detachable webcam of your Lenovo Yoga Pro 27UD-10 will notquick checks may help confirm whether this is a fit/alignment issue or a hardware problem: 1.",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 8,
+      "post_ids": [
+        10161424,
+        10161584,
+        10161604,
+        10162961,
+        10163189,
+        10164108,
+        10165199,
+        10165834
+      ],
+      "error": null
+    },
     "10054044": {
-      "title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
+      "title": "11-17-2026 15:14:17 Re:Lenovo Legion Pro 27UD-10 byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Since you've already performed factory resets, disabled HDR, Dolby Vision, OLED care options,and recalibrated HDR, try the following: Test the monitor with another device such as a For tes",
       "fid": "15987",
       "pages_captured": 1,
       "posts_captured": 3,
@@ -271,8 +297,8 @@
       "error": null
     }
   },
-  "topics_attempted": 8,
-  "topics_with_posts": 8,
-  "total_posts_captured": 33,
+  "topics_attempted": 9,
+  "topics_with_posts": 9,
+  "total_posts_captured": 41,
   "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json."
 }
