@@ -82,6 +82,9 @@ def comment_to_dict(comment: Any) -> dict[str, Any]:
         "is_reply",
     )
     result = {name: getattr(comment, name, None) for name in fields}
+    for name, value in result.items():
+        if isinstance(value, datetime):
+            result[name] = value.astimezone(timezone.utc).isoformat()
     result["comment_id"] = str(result["comment_id"])
     return result
 
