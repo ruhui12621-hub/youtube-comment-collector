@@ -118,10 +118,8 @@ def relevance(title: str, text: str) -> tuple[str, list[str], str | None]:
     has_ud = bool(UD_MODEL_RE.search(combined))
     has_q = bool(Q_MODEL_RE.search(combined))
     has_qd = bool(EXCLUDED_MODEL_RE.search(combined))
-    if has_qd and not has_ud:
-        return "excluded", models, "27QD-10 is outside the target model scope"
-    if has_q and not has_ud:
-        return "excluded", models, "27Q-10 is outside the target model scope"
+    if has_qd and not re.search(r"\\bpro\\b", combined, re.I):
+        return "excluded", models, "27QD-10 appears without Pro context"
     if has_ud and STRONG_ISSUE_RE.search(combined):
         return "high", models, None
     if has_ud and (ISSUE_RE.search(combined) or CN_ISSUE_RE.search(combined)):
@@ -351,7 +349,7 @@ def main() -> int:
             "high": "Target 27UD-10/32UD-10 plus a direct dimming/brightness symptom.",
             "medium": "Target model plus HDR/brightness/firmware context.",
             "low": "Adjacent OLED/HDR/Lenovo context; stored in the separate context windows, not the default relevant windows.",
-            "excluded": "27QD-10 or 27Q-10 without a target UD model.",
+            "excluded": "27QD-10 when the same record does not contain Pro. 27Q/Pro27Q is retained.",
         },
         "time_quality_guide": {
             "exact": "Explicit timestamp or Unix timestamp.",
