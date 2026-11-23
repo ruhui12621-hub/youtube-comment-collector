@@ -25,7 +25,6 @@ SEARCH_TERMS = [
     '"Legion Pro 32UD-10" HDR',
     '"27UD-10" dimming',
     '"32UD-10" dimming',
-    '"27Q-10" brightness',
     '"HDR Dimming Issue on Lenovo Legion Pro"',
     "Lenovo OLED HDR brightness drops",
 ]
@@ -116,7 +115,7 @@ def load_target_threads():
         return list(targets.values())
 
     # Explicitly exclude 27QD-10: it is a different model and outside the collection scope.
-    model_pattern = re.compile(r"(?:27\s?u?d|32\s?u?d|27q(?!d)|32q)-?10", re.I)
+    model_pattern = re.compile(r"(?:27|32)\s?ud-?10", re.I)
     issue_pattern = re.compile(r"(hdr|dimm|bright|abl|low power|oled care)", re.I)
     for tid, item in (report.get("discovered_topics") or {}).items():
         url = item.get("url") or ""
