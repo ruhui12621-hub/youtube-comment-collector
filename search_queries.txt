@@ -8,6 +8,8 @@ Lenovo Legion Pro 32UD10
 Lenovo Legion Pro 32UD 10
 Lenovo Legion Pro 27Q-10 OLED
 Lenovo Legion Pro 27Q10 OLED
+Lenovo Legion Pro27Q-10 OLED
+Legion Pro27Q OLED
 Lenovo Legion Pro 27QD-10 OLED
 # Broader product-family searches.
 Legion Pro OLED
