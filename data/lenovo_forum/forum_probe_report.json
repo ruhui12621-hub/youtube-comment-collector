@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-22T11:59:05.081174+00:00",
-  "finished_at": "2026-11-22T11:59:18.021060+00:00",
+  "started_at": "2026-11-23T13:38:45.080169+00:00",
+  "finished_at": "2026-11-23T13:38:58.874164+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -65,7 +65,7 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 297245,
+      "document_length": 297240,
       "body_text_length": 14180
     },
     {
@@ -108,7 +108,7 @@
       "method": "topic_api_collection",
       "tid": "10054044",
       "fid": "15987",
-      "title": "11-17-2026 15:14:17 Re:Lenovo Legion Pro 27UD-10 byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Since you've already performed factory resets, disabled HDR, Dolby Vision, OLED care options,and recalibrated HDR, try the following: Test the monitor with another device such as a For tes",
+      "title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
       "pages_captured": 1,
       "posts_captured": 3,
       "error": null
@@ -124,20 +124,20 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10022519",
-      "fid": "15987",
-      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
       "tid": "10045603",
       "fid": "15986",
       "title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessmonito",
       "pages_captured": 1,
       "posts_captured": 4,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10022519",
+      "fid": "15987",
+      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
+      "pages_captured": 1,
+      "posts_captured": 2,
       "error": null
     },
     {
@@ -237,7 +237,7 @@
       "error": null
     },
     "10054044": {
-      "title": "11-17-2026 15:14:17 Re:Lenovo Legion Pro 27UD-10 byHassen_LenovoinY Gaming Accessories & Curved Gaming Monitors Since you've already performed factory resets, disabled HDR, Dolby Vision, OLED care options,and recalibrated HDR, try the following: Test the monitor with another device such as a For tes",
+      "title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
       "fid": "15987",
       "pages_captured": 1,
       "posts_captured": 3,
@@ -261,17 +261,6 @@
       ],
       "error": null
     },
-    "10022519": {
-      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
-      "fid": "15987",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "post_ids": [
-        10081411,
-        10081586
-      ],
-      "error": null
-    },
     "10045603": {
       "title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessmonito",
       "fid": "15986",
@@ -282,6 +271,17 @@
         10169866,
         10170032,
         10172682
+      ],
+      "error": null
+    },
+    "10022519": {
+      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
+      "fid": "15987",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10081411,
+        10081586
       ],
       "error": null
     },
