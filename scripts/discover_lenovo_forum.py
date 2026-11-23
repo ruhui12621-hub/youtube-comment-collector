@@ -112,7 +112,7 @@ def main():
                         continue
                     entry = report["discovered_topics"].setdefault(tid, {
                         "tid": tid, "url": link["url"], "title": link["text"],
-                        "query": term, "source": "rendered_search_ui", "sample_pid": pid
+                        "result_context": result_context, "query": term, "source": "rendered_search_ui", "sample_pid": pid
                     })
                     if pid and not entry.get("sample_pid"):
                         entry["sample_pid"] = pid
