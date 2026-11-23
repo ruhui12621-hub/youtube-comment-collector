@@ -13,9 +13,9 @@ from pathlib import Path
 from typing import Any
 
 from ytscrape import YouTube
+from search_rules import load_search_queries, should_exclude_text
 
 ROOT = Path(__file__).resolve().parents[1]
-QUERY_FILE = ROOT / "search_queries.txt"
 MANUAL_FILE = ROOT / "video_urls.txt"
 COMMENTS_DIR = ROOT / "data" / "comments"
 INDEX_FILE = ROOT / "data" / "videos.json"
@@ -90,7 +90,7 @@ def comment_to_dict(comment: Any) -> dict[str, Any]:
 
 
 def main() -> int:
-    queries = read_lines(QUERY_FILE)
+    queries = load_search_queries()
     manual_entries = read_lines(MANUAL_FILE)
     discovered: dict[str, dict[str, Any]] = {}
     errors: list[dict[str, str]] = []
@@ -108,6 +108,11 @@ def main() -> int:
                 for video in results:
                     video_id = getattr(video, "video_id", None)
                     if not video_id:
+                        continue
+                    title = getattr(video, "title", None)
+                    channel = getattr(video, "channel", None)
+                    if should_exclude_text(title, channel):
+                        print(f"  [EXCLUDED 27QD without Pro] {title}")
                         continue
                     item = discovered.setdefault(
                         video_id,
