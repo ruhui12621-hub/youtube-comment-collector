@@ -35,8 +35,9 @@ Add one YouTube URL or 11-character video ID per line to `video_urls.txt`. Commi
 - `data/lenovo_forum/thread_*.json` — raw Lenovo Community topics and posts.
 - `data/analysis/index.json` — index metadata, counts, time-quality notes, and pointers to the query files.
 - `data/analysis/recent_7d.json` / `recent_30d.json` — rolling last 7/30 days, excluding 27Q-10 and 27QD-10-only records.
+- `data/analysis/recent_7d_context.json` / `recent_30d_context.json` — lower-confidence adjacent context, kept separate from direct findings.
 - `data/analysis/recent_7d_all.json` / `recent_30d_all.json` — same windows without relevance exclusions.
-- `data/analysis/monthly/YYYY-MM.json` — date-partitioned analysis records by publication month.
+- `data/analysis/monthly/YYYY-MM.json` — date-partitioned high/medium relevance records by publication month.
 - `data/analysis/undated.json` — records without a reliable publication timestamp.
 - `data/analysis/records.jsonl` — complete normalized archive, one record per line.
 
