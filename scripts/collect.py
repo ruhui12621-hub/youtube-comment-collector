@@ -72,6 +72,9 @@ def comment_to_dict(comment: Any) -> dict[str, Any]:
         "author",
         "author_channel_id",
         "published",
+        "published_at",
+        "timestamp",
+        "parent_id",
         "like_count",
         "like_count_text",
         "reply_count",
@@ -181,6 +184,21 @@ def main() -> int:
                 )
                 for comment in thread:
                     item = comment_to_dict(comment)
+                    previous = old_comments.get(item["comment_id"])
+                    # Preserve known first-seen metadata. For legacy comments,
+                    # do not pretend today's backfill is their original first-seen date.
+                    if previous and previous.get("first_seen_at"):
+                        item["first_seen_at"] = previous.get("first_seen_at")
+                        item["first_seen_time_quality"] = previous.get(
+                            "first_seen_time_quality", "exact"
+                        )
+                    elif previous:
+                        item["first_seen_at"] = None
+                        item["first_seen_time_quality"] = "unknown_legacy"
+                    else:
+                        item["first_seen_at"] = started_at
+                        item["first_seen_time_quality"] = "exact"
+                    item["last_seen_at"] = started_at
                     new_comments[item["comment_id"]] = item
 
                 # Merge by YouTube's stable comment ID so deleted/temporarily
