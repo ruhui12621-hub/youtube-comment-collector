@@ -7,7 +7,7 @@
     "Legion Pro HDR brightness drops"
   ],
   "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
-  "last_collected_at": "2026-11-22T11:34:16.970119+00:00",
+  "last_collected_at": "2026-11-23T12:58:22.056785+00:00",
   "comments_count": 247,
   "comments_in_latest_fetch": 247,
   "comments": [
@@ -68,7 +68,7 @@
       "text": "if you have dell laptop , do this\r\n\r\nCheck Dell EcoPower in BIOS\r\n\r\nIf the screen still dims before Windows even loads, the setting is likely hidden in your Dell BIOS.\r\n1.Restart your laptop and tap the F2 key repeatedly when the Dell logo appears.\r\n2.Navigate to Video or Display.\r\n3.Look for Dell EcoPower or Dynamic Backlight Control.\r\n4.Set this to Disabled.\r\n5.Click Apply and Exit.\r\n\r\nThanks to gemini...........",
       "author": "@sravankumar3969",
       "author_channel_id": "UCzBn3qe4ojT1vd8SLNTOwcQ",
-      "published": "8 months ago",
+      "published": "9 months ago",
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": 2,

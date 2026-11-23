@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T11:35:26.611592+00:00",
-  "video_count": 38,
+  "updated_at": "2026-11-23T12:59:34.902570+00:00",
+  "video_count": 39,
   "videos": [
     {
       "video_id": "uJLwz7Vj7_o",
@@ -27,7 +27,17 @@
       "channel": "Benjamin Green",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 32UD-10 HDR"
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ]
+    },
+    {
+      "video_id": "1aCTvRP0uEQ",
+      "url": "https://www.youtube.com/watch?v=1aCTvRP0uEQ",
+      "title": "Buying an OLED monitor in 2026 is insane - DON'T make my mistakes",
+      "channel": "Resolve",
+      "search_queries": [
+        "Lenovo QD-OLED monitor HDR dimming"
       ]
     },
     {
@@ -75,7 +85,6 @@
       "search_queries": [
         "Lenovo Legion Pro 32UD-10 HDR",
         "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ]
     },
@@ -279,7 +288,6 @@
       "channel": "iamfallfromgrace",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 32UD-10 HDR",
         "Lenovo Legion Pro 27Q-10 OLED"
       ]
     },
@@ -352,8 +360,7 @@
       "title": "螢幕顏色怪怪的？一招校正！Windows 11 內建工具",
       "channel": "小友玩電腦",
       "search_queries": [
-        "联想 OLED 显示器 HDR 变暗",
-        "联想 拯救者 OLED 亮度 降低"
+        "联想 OLED 显示器 HDR 变暗"
       ]
     }
   ]
