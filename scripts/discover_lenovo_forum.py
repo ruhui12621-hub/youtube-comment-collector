@@ -7,7 +7,7 @@ from playwright.sync_api import sync_playwright
 
 BASE = "https://forums.lenovo.com"
 HOME = BASE + "/"
-TERMS = ['"Legion Pro 27UD-10" HDR', '"27UD-10" dimming', '"Legion Pro 32UD-10" HDR', '"32UD-10" dimming', '"27Q-10" brightness', '"HDR dimming" OLED', 'Legion OLED brightness drops']
+TERMS = ['"Legion Pro 27UD-10" HDR', '"27UD-10" dimming', '"Legion Pro 32UD-10" HDR', '"32UD-10" dimming', '"HDR dimming" OLED', 'Legion OLED brightness drops']
 OUT = Path(__file__).resolve().parents[1] / "data" / "lenovo_forum"
 
 def topic_links(page):
@@ -106,8 +106,8 @@ def main():
                         if not m:
                             continue
                         tid, pid = m.group(1), None
-                    # 27QD-10 is explicitly out of scope; do not add its search results.
-                    if re.search(r"27\s?qd-?10", link["text"], re.I):
+                    # 27Q-10 and 27QD-10 are outside the target model scope.
+                    if re.search(r"27\s?q(?:d)?-?10", link["text"], re.I):
                         continue
                     entry = report["discovered_topics"].setdefault(tid, {
                         "tid": tid, "url": link["url"], "title": link["text"],
