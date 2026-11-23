@@ -120,9 +120,10 @@ def relevance(title: str, text: str) -> tuple[str, list[str], str | None]:
     has_qd = bool(EXCLUDED_MODEL_RE.search(combined))
     if has_qd and not re.search(r"\\bpro\\b", combined, re.I):
         return "excluded", models, "27QD-10 appears without Pro context"
-    if has_ud and STRONG_ISSUE_RE.search(combined):
+    has_pro = bool(re.search(r"\bpro\b", combined, re.I))
+    if (has_ud or (has_q and has_pro)) and STRONG_ISSUE_RE.search(combined):
         return "high", models, None
-    if has_ud and (ISSUE_RE.search(combined) or CN_ISSUE_RE.search(combined)):
+    if (has_ud or (has_q and has_pro)) and (ISSUE_RE.search(combined) or CN_ISSUE_RE.search(combined)):
         return "medium", models, None
     if (ISSUE_RE.search(combined) or CN_ISSUE_RE.search(combined)) and ("oled" in combined.lower() or "lenovo" in combined.lower()):
         return "low", models, None
