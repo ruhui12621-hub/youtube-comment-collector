@@ -73,7 +73,6 @@ def comment_to_dict(comment: Any) -> dict[str, Any]:
         "author_channel_id",
         "published",
         "published_at",
-        "timestamp",
         "parent_id",
         "like_count",
         "like_count_text",
