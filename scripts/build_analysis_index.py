@@ -23,7 +23,7 @@ RELATIVE_RE = re.compile(
 )
 ISO_RE = re.compile(r"^\d{4}-\d{2}-\d{2}(?:[T ][0-9:.+-]+Z?)?$")
 # Allow inconsistent spacing around the hyphen (e.g. "27Q- 10").
-EXCLUDED_MODEL_RE = re.compile(r"\b27\s?qd\s*-?\s*10\b", re.I)
+EXCLUDED_MODEL_RE = re.compile(r"\b(?:27|32)\s?qd\s*-?\s*10\b", re.I)
 Q_MODEL_RE = re.compile(r"\b27\s?q\s*-?\s*10\b", re.I)
 UD_MODEL_RE = re.compile(r"\b(?:27|32)\s?ud\s*-?\s*10\b", re.I)
 MODEL_RE = re.compile(r"\b(?:27|32)\s?(?:ud|qd|q)\s*-?\s*10\b", re.I)
@@ -120,7 +120,7 @@ def relevance(title: str, text: str) -> tuple[str, list[str], str | None]:
     has_q = bool(Q_MODEL_RE.search(combined))
     has_qd = bool(EXCLUDED_MODEL_RE.search(combined))
     if has_qd and not re.search(r"\bpro\b", combined, re.I):
-        return "excluded", models, "27QD-10 appears without Pro context"
+        return "excluded", models, "27QD-10 or 32QD-10 appears without Pro context"
     has_pro = bool(re.search(r"\bpro\b", combined, re.I))
     if (has_ud or (has_q and has_pro)) and STRONG_ISSUE_RE.search(combined):
         return "high", models, None
@@ -351,7 +351,7 @@ def main() -> int:
             "high": "Target 27UD-10/32UD-10 plus a direct dimming/brightness symptom.",
             "medium": "Target model plus HDR/brightness/firmware context.",
             "low": "Adjacent OLED/HDR/Lenovo context; stored in the separate context windows, not the default relevant windows.",
-            "excluded": "27QD-10 when the same record does not contain Pro. 27Q/Pro27Q is retained.",
+            "excluded": "27QD-10 or 32QD-10 when the same record does not contain Pro. 27Q/Pro27Q is retained.",
         },
         "time_quality_guide": {
             "exact": "Explicit timestamp or Unix timestamp.",
