@@ -22,10 +22,11 @@ RELATIVE_RE = re.compile(
     r"^\s*(\d+)\s+(minute|hour|day|week|month|year)s?\s+ago\s*$", re.I
 )
 ISO_RE = re.compile(r"^\d{4}-\d{2}-\d{2}(?:[T ][0-9:.+-]+Z?)?$")
-EXCLUDED_MODEL_RE = re.compile(r"\b27\s?qd\s?-?10\b", re.I)
-Q_MODEL_RE = re.compile(r"\b27\s?q\s?-?10\b", re.I)
-UD_MODEL_RE = re.compile(r"\b(?:27|32)\s?ud\s?-?10\b", re.I)
-MODEL_RE = re.compile(r"\b(?:27|32)\s?(?:ud|qd|q)\s?-?10\b", re.I)
+# Allow inconsistent spacing around the hyphen (e.g. "27Q- 10").
+EXCLUDED_MODEL_RE = re.compile(r"\b27\s?qd\s*-?\s*10\b", re.I)
+Q_MODEL_RE = re.compile(r"\b27\s?q\s*-?\s*10\b", re.I)
+UD_MODEL_RE = re.compile(r"\b(?:27|32)\s?ud\s*-?\s*10\b", re.I)
+MODEL_RE = re.compile(r"\b(?:27|32)\s?(?:ud|qd|q)\s*-?\s*10\b", re.I)
 ISSUE_RE = re.compile(
     r"\b(hdr|dimm?ing|brightness|bright|dark|dim|abl|firmware|"
     r"oled care|screen dims|brightness drops)\b",
