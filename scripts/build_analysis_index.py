@@ -55,7 +55,10 @@ def parse_time(value: Any, reference: datetime | None = None) -> tuple[str | Non
         return None, "unknown"
     if isinstance(value, (int, float)):
         try:
-            return iso(datetime.fromtimestamp(value, timezone.utc)), "exact"
+            number = float(value)
+            if number > 100_000_000_000:
+                number /= 1000
+            return iso(datetime.fromtimestamp(number, timezone.utc)), "exact"
         except (OverflowError, OSError, ValueError):
             return None, "unknown"
     text = str(value).strip()
@@ -141,6 +144,7 @@ def collect_youtube(records: list[dict[str, Any]]) -> dict[str, int]:
             stats["comments"] += 1
             published, quality = parse_time(comment.get("published_at") or comment.get("published"), fetched_at)
             first_seen, first_quality = parse_time(comment.get("first_seen_at"))
+            first_quality = comment.get("first_seen_time_quality") or first_quality
             last_seen, _ = parse_time(comment.get("last_seen_at") or archive.get("last_collected_at"))
             item = {
                 "record_id": f"youtube:{comment.get('comment_id')}",
@@ -228,7 +232,8 @@ def main() -> int:
 
     dated = [r for r in records if r.get("published_at")]
     undated = [r for r in records if not r.get("published_at")]
-    relevant = [r for r in records if r.get("relevance") != "excluded"]
+    relevant = [r for r in records if r.get("relevance") in ("high", "medium")]
+    contextual = [r for r in records if r.get("relevance") == "low"]
     exact_count = sum(r.get("published_time_quality") == "exact" for r in dated)
     estimated_count = sum(r.get("published_time_quality") == "relative_estimate" for r in dated)
 
@@ -237,6 +242,8 @@ def main() -> int:
     cutoff_30 = NOW - timedelta(days=30)
     recent_7 = [r for r in relevant if r.get("published_at") and datetime.fromisoformat(r["published_at"].replace("Z", "+00:00")) >= cutoff_7]
     recent_30 = [r for r in relevant if r.get("published_at") and datetime.fromisoformat(r["published_at"].replace("Z", "+00:00")) >= cutoff_30]
+    context_7 = [r for r in contextual if r.get("published_at") and datetime.fromisoformat(r["published_at"].replace("Z", "+00:00")) >= cutoff_7]
+    context_30 = [r for r in contextual if r.get("published_at") and datetime.fromisoformat(r["published_at"].replace("Z", "+00:00")) >= cutoff_30]
     recent_7_all = [r for r in records if r.get("published_at") and datetime.fromisoformat(r["published_at"].replace("Z", "+00:00")) >= cutoff_7]
     recent_30_all = [r for r in records if r.get("published_at") and datetime.fromisoformat(r["published_at"].replace("Z", "+00:00")) >= cutoff_30]
 
@@ -247,6 +254,14 @@ def main() -> int:
     write_json(OUT / "recent_30d.json", {
         "generated_at": iso(NOW), "window_days": 30, "date_basis": "published_at",
         "record_count": len(recent_30), "records": recent_30,
+    })
+    write_json(OUT / "recent_7d_context.json", {
+        "generated_at": iso(NOW), "window_days": 7, "relevance": "low_context",
+        "record_count": len(context_7), "records": context_7,
+    })
+    write_json(OUT / "recent_30d_context.json", {
+        "generated_at": iso(NOW), "window_days": 30, "relevance": "low_context",
+        "record_count": len(context_30), "records": context_30,
     })
     write_json(OUT / "recent_7d_all.json", {
         "generated_at": iso(NOW), "window_days": 7, "includes_excluded": True,
@@ -291,6 +306,8 @@ def main() -> int:
         "query_files": {
             "last_7_days_relevant": "data/analysis/recent_7d.json",
             "last_30_days_relevant": "data/analysis/recent_30d.json",
+            "last_7_days_context": "data/analysis/recent_7d_context.json",
+            "last_30_days_context": "data/analysis/recent_30d_context.json",
             "last_7_days_all": "data/analysis/recent_7d_all.json",
             "last_30_days_all": "data/analysis/recent_30d_all.json",
             "undated_or_unknown_date": "data/analysis/undated.json",
@@ -316,7 +333,7 @@ def main() -> int:
         "relevance_guide": {
             "high": "Target 27UD-10/32UD-10 plus a direct dimming/brightness symptom.",
             "medium": "Target model plus HDR/brightness/firmware context.",
-            "low": "Adjacent OLED/HDR/Lenovo context; inspect before treating as evidence.",
+            "low": "Adjacent OLED/HDR/Lenovo context; stored in the separate context windows, not the default relevant windows.",
             "excluded": "27QD-10 or 27Q-10 without a target UD model.",
         },
         "time_quality_guide": {
