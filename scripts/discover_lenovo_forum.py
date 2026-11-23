@@ -4,10 +4,11 @@ import json, re
 from datetime import datetime, timezone
 from pathlib import Path
 from playwright.sync_api import sync_playwright
+from search_rules import load_search_queries, should_exclude_text
 
 BASE = "https://forums.lenovo.com"
 HOME = BASE + "/"
-TERMS = ['"Legion Pro 27UD-10" HDR', '"27UD-10" dimming', '"Legion Pro 32UD-10" HDR', '"32UD-10" dimming', '"HDR dimming" OLED', 'Legion OLED brightness drops']
+TERMS = load_search_queries()
 OUT = Path(__file__).resolve().parents[1] / "data" / "lenovo_forum"
 
 def topic_links(page):
