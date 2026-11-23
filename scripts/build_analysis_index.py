@@ -125,7 +125,7 @@ def relevance(title: str, text: str) -> tuple[str, list[str], str | None]:
         return "high", models, None
     if (has_ud or (has_q and has_pro)) and (ISSUE_RE.search(combined) or CN_ISSUE_RE.search(combined)):
         return "medium", models, None
-    if (ISSUE_RE.search(combined) or CN_ISSUE_RE.search(combined)) and ("oled" in combined.lower() or "lenovo" in combined.lower()):
+    if (ISSUE_RE.search(combined) or CN_ISSUE_RE.search(combined)) and ("oled" in combined.lower() or "lenovo" in combined.lower() or FAMILY_RE.search(combined)):
         return "low", models, None
     return "low", models, None
 
