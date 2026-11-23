@@ -111,7 +111,7 @@ def main() -> int:
                         continue
                     title = getattr(video, "title", None)
                     channel = getattr(video, "channel", None)
-                    if should_exclude_text(title, channel):
+                    if should_exclude_text(title):
                         print(f"  [EXCLUDED 27QD without Pro] {title}")
                         continue
                     item = discovered.setdefault(
