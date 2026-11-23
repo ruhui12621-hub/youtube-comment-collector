@@ -107,8 +107,8 @@ def main():
                         if not m:
                             continue
                         tid, pid = m.group(1), None
-                    # 27Q-10 and 27QD-10 are outside the target model scope.
-                    if re.search(r"27\s?q(?:d)?-?10", link["text"], re.I):
+                    result_context = link.get("parent") or ""
+                    if should_exclude_text(link.get("text"), result_context):
                         continue
                     entry = report["discovered_topics"].setdefault(tid, {
                         "tid": tid, "url": link["url"], "title": link["text"],
