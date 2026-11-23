@@ -328,6 +328,8 @@ def main() -> int:
             "undated_records": len(undated),
             "recent_7d_relevant": len(recent_7),
             "recent_30d_relevant": len(recent_30),
+            "recent_7d_context": len(context_7),
+            "recent_30d_context": len(context_30),
         },
         "monthly_counts": monthly_counts,
         "relevance_guide": {
