@@ -27,6 +27,7 @@ EXCLUDED_MODEL_RE = re.compile(r"\b27\s?qd\s*-?\s*10\b", re.I)
 Q_MODEL_RE = re.compile(r"\b27\s?q\s*-?\s*10\b", re.I)
 UD_MODEL_RE = re.compile(r"\b(?:27|32)\s?ud\s*-?\s*10\b", re.I)
 MODEL_RE = re.compile(r"\b(?:27|32)\s?(?:ud|qd|q)\s*-?\s*10\b", re.I)
+FAMILY_RE = re.compile(r"\blegion\b.*\b(?:pro|oled)\b|\b(?:pro|oled)\b.*\blegion\b", re.I | re.S)
 ISSUE_RE = re.compile(
     r"\b(hdr|dimm?ing|brightness|bright|dark|dim|abl|firmware|"
     r"oled care|screen dims|brightness drops)\b",
