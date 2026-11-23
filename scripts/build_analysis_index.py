@@ -118,7 +118,7 @@ def relevance(title: str, text: str) -> tuple[str, list[str], str | None]:
     has_ud = bool(UD_MODEL_RE.search(combined))
     has_q = bool(Q_MODEL_RE.search(combined))
     has_qd = bool(EXCLUDED_MODEL_RE.search(combined))
-    if has_qd and not re.search(r"\\bpro\\b", combined, re.I):
+    if has_qd and not re.search(r"\bpro\b", combined, re.I):
         return "excluded", models, "27QD-10 appears without Pro context"
     has_pro = bool(re.search(r"\bpro\b", combined, re.I))
     if (has_ud or (has_q and has_pro)) and STRONG_ISSUE_RE.search(combined):
