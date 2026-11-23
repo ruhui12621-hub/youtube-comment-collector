@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: youtube-comment-collector
+  group: collector-shared-analysis-index
   cancel-in-progress: false
 
 jobs:
