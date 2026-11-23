@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-11-23T23:32:42.107559Z",
+  "month": "2026-06",
+  "record_count": 2,
+  "records": [
+    {
+      "record_id": "youtube:UgxLIuD7LhAuJXJHejB4AaABAg.AUBV8AbbnCbAXAzdm033wL",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
+      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
+      "video_id": "BO74n9KKdZA",
+      "comment_id": "UgxLIuD7LhAuJXJHejB4AaABAg.AUBV8AbbnCbAXAzdm033wL",
+      "parent_id": null,
+      "author": "@suryakonar296",
+      "text": "​ @krunz6392 how are u getting it for 40k it's a steal u can buy it,but remember if I use the monitor with too much heat and outside temp like 40degree outside with full brightness the monitor will start restarting atleast in my unit",
+      "published_raw": "5 months ago",
+      "published_at": "2026-06-26T23:28:07.910335Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgzTH2w_KXre5NUSQVF4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion Pro 27UD-10 27-inch OLED 4K 240Hz Gaming Monitor",
+      "source_url": "https://www.youtube.com/watch?v=hBJTi99AbLk",
+      "video_id": "hBJTi99AbLk",
+      "comment_id": "UgzTH2w_KXre5NUSQVF4AaABAg",
+      "parent_id": null,
+      "author": "@dlam8276",
+      "text": "Hdr colors looks bad on this",
+      "published_raw": "5 months ago",
+      "published_at": "2026-06-26T23:27:59.425449Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    }
+  ]
+}

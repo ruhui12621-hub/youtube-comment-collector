@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T12:59:34.902570+00:00",
-  "video_count": 39,
+  "updated_at": "2026-11-23T23:32:42.034045+00:00",
+  "video_count": 40,
   "videos": [
     {
       "video_id": "uJLwz7Vj7_o",
@@ -26,9 +26,7 @@
       "title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
       "channel": "Benjamin Green",
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 27Q-10 OLED"
+        "Lenovo Legion Pro 27UD-10 HDR"
       ]
     },
     {
@@ -55,7 +53,6 @@
       "title": "Every PS5 User Gets This WRONG! - HDR Settings Guide",
       "channel": "Octorious",
       "search_queries": [
-        "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ]
     },
@@ -85,6 +82,7 @@
       "search_queries": [
         "Lenovo Legion Pro 32UD-10 HDR",
         "Lenovo Legion Pro 27Q-10 OLED",
+        "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ]
     },
@@ -177,8 +175,7 @@
       "channel": "Tech Guy Beau",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo QD-OLED monitor HDR dimming"
+        "Lenovo Legion Pro 27Q-10 OLED"
       ]
     },
     {
@@ -196,7 +193,8 @@
       "title": "Lenovo Legion Pro OLED Monitors Family",
       "channel": "Lenovo",
       "search_queries": [
-        "Lenovo Legion Pro 32UD-10 HDR"
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 27Q-10 OLED"
       ]
     },
     {
@@ -264,6 +262,15 @@
       ]
     },
     {
+      "video_id": "mW-mGty_S7w",
+      "url": "https://www.youtube.com/watch?v=mW-mGty_S7w",
+      "title": "QD OLED Is Better Than WOLED",
+      "channel": "The Display Guy",
+      "search_queries": [
+        "Lenovo QD-OLED monitor HDR dimming"
+      ]
+    },
+    {
       "video_id": "c6yG5wB64Io",
       "url": "https://www.youtube.com/watch?v=c6yG5wB64Io",
       "title": "Samsung Odyssey HDR Problems Solved! Follow these Settings",
@@ -288,6 +295,7 @@
       "channel": "iamfallfromgrace",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 32UD-10 HDR",
         "Lenovo Legion Pro 27Q-10 OLED"
       ]
     },
@@ -360,7 +368,8 @@
       "title": "螢幕顏色怪怪的？一招校正！Windows 11 內建工具",
       "channel": "小友玩電腦",
       "search_queries": [
-        "联想 OLED 显示器 HDR 变暗"
+        "联想 OLED 显示器 HDR 变暗",
+        "联想 拯救者 OLED 亮度 降低"
       ]
     }
   ]

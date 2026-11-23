@@ -7,9 +7,9 @@
     "Lenovo Legion Pro 27Q-10 OLED"
   ],
   "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
-  "last_collected_at": "2026-11-23T12:56:26.141471+00:00",
-  "comments_count": 10,
-  "comments_in_latest_fetch": 10,
+  "last_collected_at": "2026-11-23T23:28:54.501109+00:00",
+  "comments_count": 11,
+  "comments_in_latest_fetch": 11,
   "comments": [
     {
       "comment_id": "Ugwg29wDoEqFkCg95aZ4AaABAg",
@@ -17,12 +17,17 @@
       "author": "@anshularya1",
       "author_channel_id": "UCHXOK1HdaemR55duVPbDbNQ",
       "published": "3 weeks ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 1,
       "reply_count_text": "1",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugwg29wDoEqFkCg95aZ4AaABAg.AcftcsW5ejhAcpZ1Q2qrYb",
@@ -30,12 +35,17 @@
       "author": "@NKgamingtest",
       "author_channel_id": "UC-ZX-58KZ3APZDAQlUhxLHA",
       "published": "2 weeks ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgxaCDrHwtOVN65QZwR4AaABAg",
@@ -43,12 +53,17 @@
       "author": "@airnhere.",
       "author_channel_id": "UCt_XrMZVmAByjTIcnOlHa4w",
       "published": "1 month ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgxsmKvgTRF42FL4KER4AaABAg",
@@ -56,12 +71,17 @@
       "author": "@Maverickzod",
       "author_channel_id": "UCI2AcpiNie6mXXOGl8ThscQ",
       "published": "2 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgwUmHdj8UUb5STtaLF4AaABAg",
@@ -69,12 +89,17 @@
       "author": "@Jambi1979",
       "author_channel_id": "UCOCvyklVFOFfEAsnAEf7VLA",
       "published": "2 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx8kU0d0QJ2PBLIxbp4AaABAg",
@@ -82,12 +107,17 @@
       "author": "@Pipopo09040",
       "author_channel_id": "UCkPZQDMig0sCkkf77ToQFUg",
       "published": "4 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 4,
       "reply_count_text": "4",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx8kU0d0QJ2PBLIxbp4AaABAg.AZ2YorOb0dlAZHXHkabj5J",
@@ -95,12 +125,17 @@
       "author": "@NKgamingtest",
       "author_channel_id": "UC-ZX-58KZ3APZDAQlUhxLHA",
       "published": "4 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx8kU0d0QJ2PBLIxbp4AaABAg.AZ2YorOb0dlA_L3lqIQl7P",
@@ -108,12 +143,17 @@
       "author": "@jonathanalexispistonesi4887",
       "author_channel_id": "UCJxQO9qsiLgwCyqL74ixQKQ",
       "published": "3 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx8kU0d0QJ2PBLIxbp4AaABAg.AZ2YorOb0dlA_gGtiu0NsG",
@@ -121,12 +161,17 @@
       "author": "@kyletsit",
       "author_channel_id": "UCPiCE458enqizKo6HVWgKIg",
       "published": "3 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx8kU0d0QJ2PBLIxbp4AaABAg.AZ2YorOb0dlAbocURfzD6z",
@@ -134,12 +179,35 @@
       "author": "@shubhamkumar8596",
       "author_channel_id": "UCm-7x156xH5q5LO-4XWDT4w",
       "published": "1 month ago (edited)",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
+    },
+    {
+      "comment_id": "UgxJnCOcKl1gvto0jp94AaABAg",
+      "text": "Does it have 2.1 hdmi?",
+      "author": "@shawxsh5624",
+      "author_channel_id": "UCC8MCDEg6gav45995kaTgaw",
+      "published": "1 hour ago",
+      "published_at": null,
+      "parent_id": null,
+      "like_count": 1,
+      "like_count_text": null,
+      "reply_count": null,
+      "reply_count_text": null,
+      "heart": false,
+      "is_reply": false,
+      "first_seen_at": "2026-11-23T23:27:48.497256+00:00",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     }
   ]
 }

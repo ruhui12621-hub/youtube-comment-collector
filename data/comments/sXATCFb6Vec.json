@@ -4,10 +4,11 @@
   "title": "螢幕顏色怪怪的？一招校正！Windows 11 內建工具",
   "channel": "小友玩電腦",
   "search_queries": [
-    "联想 OLED 显示器 HDR 变暗"
+    "联想 OLED 显示器 HDR 变暗",
+    "联想 拯救者 OLED 亮度 降低"
   ],
   "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
-  "last_collected_at": "2026-11-23T12:59:07.871349+00:00",
+  "last_collected_at": "2026-11-23T23:32:14.076920+00:00",
   "comments_count": 11,
   "comments_in_latest_fetch": 11,
   "comments": [
@@ -17,12 +18,17 @@
       "author": "@黃雨昕",
       "author_channel_id": "UCl3CcYYmLKDXTIjfjvU2syQ",
       "published": "1 month ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 1,
       "reply_count_text": "1",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgyyYjsbluFCsXPLT7F4AaABAg.Ac5Pe1TxM6OAc7Rpkbyd00",
@@ -30,12 +36,17 @@
       "author": "@youplaycomputer",
       "author_channel_id": "UCRhVqPYGywVcgDZRufBY9VQ",
       "published": "1 month ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgyBtFHA6H_pTWeIK3h4AaABAg",
@@ -43,12 +54,17 @@
       "author": "@musicholic3027",
       "author_channel_id": "UC3jUpBBAiKJKUFowTwYKP4Q",
       "published": "1 month ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 1,
       "reply_count_text": "1",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgyBtFHA6H_pTWeIK3h4AaABAg.AbIu34Xe5W6AbKkPvx8xFd",
@@ -56,12 +72,17 @@
       "author": "@youplaycomputer",
       "author_channel_id": "UCRhVqPYGywVcgDZRufBY9VQ",
       "published": "1 month ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgxGUacdos4Z5k4Pbih4AaABAg",
@@ -69,12 +90,17 @@
       "author": "@信保-m5m",
       "author_channel_id": "UCRuiwx0fAhDaOWJdBqGTuhA",
       "published": "2 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 2,
       "reply_count_text": "2",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgxGUacdos4Z5k4Pbih4AaABAg.AaJ3IBpfA9fAaP4lChBtVL",
@@ -82,12 +108,17 @@
       "author": "@youplaycomputer",
       "author_channel_id": "UCRhVqPYGywVcgDZRufBY9VQ",
       "published": "2 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgxGUacdos4Z5k4Pbih4AaABAg.AaJ3IBpfA9fAaPXboP9rPR",
@@ -95,12 +126,17 @@
       "author": "@信保-m5m",
       "author_channel_id": "UCRuiwx0fAhDaOWJdBqGTuhA",
       "published": "2 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugw0w7Fk9tHAz-vNwMt4AaABAg",
@@ -108,12 +144,17 @@
       "author": "@rabbinsung8477",
       "author_channel_id": "UCws88LithVD_saA-cRiRFUQ",
       "published": "5 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 2,
       "reply_count_text": "2",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugw0w7Fk9tHAz-vNwMt4AaABAg.AX_MP9jjU6LAX_O7MNrPy6",
@@ -121,12 +162,17 @@
       "author": "@youplaycomputer",
       "author_channel_id": "UCRhVqPYGywVcgDZRufBY9VQ",
       "published": "5 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugw0w7Fk9tHAz-vNwMt4AaABAg.AX_MP9jjU6LAaAmzcn1Zw2",
@@ -134,12 +180,17 @@
       "author": "@ingoinggirl",
       "author_channel_id": "UCXg-IjpEHa8mvh3SDNDe-pw",
       "published": "2 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugwr2l1ncbsgz7GI8_R4AaABAg",
@@ -147,12 +198,17 @@
       "author": "@yinshanlin9819",
       "author_channel_id": "UCfcLmmEaOLx5NBqKBlF0ozQ",
       "published": "7 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": true,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     }
   ]
 }

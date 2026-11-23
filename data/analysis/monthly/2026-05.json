@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-11-23T23:32:42.107559Z",
+  "month": "2026-05",
+  "record_count": 3,
+  "records": [
+    {
+      "record_id": "youtube:UgzTsP87ce7AXl9pDSB4AaABAg.AWGkwEmwLVJAWvAOehOn7H",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
+      "source_url": "https://www.youtube.com/watch?v=XghsOv2iIOA",
+      "video_id": "XghsOv2iIOA",
+      "comment_id": "UgzTsP87ce7AXl9pDSB4AaABAg.AWGkwEmwLVJAWvAOehOn7H",
+      "parent_id": null,
+      "author": "@erenyeaga4518",
+      "text": "may i know what do u mean by HDR dimming i am planning to buy this monitor if u have purchased it yet please let me know how it is",
+      "published_raw": "6 months ago",
+      "published_at": "2026-05-27T23:28:48.626650Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 32UD-10 HDR"
+      ],
+      "relevance": "high",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgzTsP87ce7AXl9pDSB4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
+      "source_url": "https://www.youtube.com/watch?v=XghsOv2iIOA",
+      "video_id": "XghsOv2iIOA",
+      "comment_id": "UgzTsP87ce7AXl9pDSB4AaABAg",
+      "parent_id": null,
+      "author": "@DinduNuffinLAT",
+      "text": "I read that HDR dimming is too aggressive on this monitor. I don't understand why there's no proper in-depth reviews of this monitor. It's been out for months now and so far only 2 issues I can think of this is the white frame (doesn't go well with dark background dark room) and the supposed aggressive dimming in HDR.",
+      "published_raw": "6 months ago",
+      "published_at": "2026-05-27T23:28:48.626650Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 32UD-10 HDR"
+      ],
+      "relevance": "high",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10029223:10113785",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "04-23-2026 08:38:51 Legion Pro 27UD-10 aggressive ABL behavior byguest57610inDisplays, Options and Accessories I recently purchased the Legion Pro 27ud-10 monitor and it seems there are some issues with it that iI have set the monitor to TB400 HDR mode, disabled Dolby Vision and loaded the specific ",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15880/10029223/10106400",
+      "thread_id": "10029223",
+      "post_id": "10113785",
+      "author": "Lorenzo_Lenovo",
+      "text": "Hi,\nWe have not seen other reports of such ABK behavior within the forums so we would suggest further testing on other platform and appreciate you sharing a sample video so we can investigate further on this.\nThanks for your cooperation.\nBest regards,\nLorenzo_Lenovo",
+      "published_raw": "2026-05-13 15:45",
+      "published_at": "2026-05-13T15:45:52Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-23T23:32:42.107559Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    }
+  ]
+}

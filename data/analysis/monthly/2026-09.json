@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-11-23T23:32:42.107559Z",
+  "month": "2026-09",
+  "record_count": 5,
+  "records": [
+    {
+      "record_id": "lenovo_forum:10045603:10172682",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessmonito",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15986/10045603/10172682",
+      "thread_id": "10045603",
+      "post_id": "10172682",
+      "author": "Hector_Lenovo",
+      "text": "Thanks for the update, HuniKha!\nSince changing the monitor HDR mode from Photo back to Auto restores the brightness, the issue is most likely happening in the monitor’s HDR/image processing rather than normal Windows brightness control.\nWas it the same when you also try disabling Adaptive Sync? As for driver, you can download the version for your monitor\nhere\n. If same findings, reset the monitor (\nguide here\non chapter 2 2-8) and see how it goes.\nBest regards,\nHector_Lenovo",
+      "published_raw": "2026-09-30 14:26",
+      "published_at": "2026-09-30T14:26:11Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-23T23:32:42.107559Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "high",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwyAbbvTWdglcfmwx94AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
+      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
+      "video_id": "BO74n9KKdZA",
+      "comment_id": "UgwyAbbvTWdglcfmwx94AaABAg",
+      "parent_id": null,
+      "author": "@robertjoseph98",
+      "text": "Hi, I have this but it's so overwhelmingly dark all the time and it won't let me adjust brightness? Is there something locking me out of the controls I have to turn off? The gamma is so incredibly low and the blacks are absolutely crushed",
+      "published_raw": "2 months ago",
+      "published_at": "2026-09-24T23:28:07.910335Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10045603:10170032",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessmonito",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15986/10045603/10172682",
+      "thread_id": "10045603",
+      "post_id": "10170032",
+      "author": "HuniKha",
+      "text": "Unfortunately nothing helped, but I switch the HDR mode to Photo and then back to Auto and it resets, so I don’t have to turn the monitor off and back on. I think it’s a monitor software issue.",
+      "published_raw": "2026-09-23 08:46",
+      "published_at": "2026-09-23T08:46:56Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-23T23:32:42.107559Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "high",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10045603:10169866",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessmonito",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15986/10045603/10172682",
+      "thread_id": "10045603",
+      "post_id": "10169866",
+      "author": "Hector_Lenovo",
+      "text": "Hi HuniKha!\nThank you for reaching out to the Lenovo Community. Sorry to hear about your experience and I understand the concern with your external monitor brightness dimming after some time, especially since it returns when you power the monitor off/on or toggle HDR.\nSince the brightness returns when you power the monitor off and on, or when you toggle HDR, the best path is to check the display and graphics settings in order.\n1. First, turn off any automatic brightness controls on your laptop:\n- Open Settings > System > Display.\n- Look for Brightness settings and turn off Adaptive brightness, Change brightness automatically, or similar power-saving dimming options if present.\n- If your system has HDR enabled, turn HDR off temporarily and test the monitor for more than 40 minutes.\n2. Check the external monitor’s own on-screen menu:\n- Disable any setting such as Dynamic Contrast / DCR, Auto HDR, Eco Mode.\n- If the monitor has a local dimming or automatic power-saving feature, turn that off as well.\n3. Reseat the video connection:\n- Disconnect and reconnect the cable on both ends.\n- If possible, test with a different cable.\n- If available, try another port type such as HDMI instead of USB-C/DisplayPort, or vice versa.\n4. Check refresh rate and HDR format:\n- Go to Settings > System > Display > Advanced display.\n- Select the external monitor and test a standard refresh rate such as 60 Hz.\n- If HDR is enabled, test with HDR off first. If the issue stops, it is likely related to the HDR handshake or display processing.\n5. Isolate whether the issue is with the monitor or the laptop:\n- Test the same monitor with another computer for at least 40 minutes.\n- If the dimming still happens, the monitor is likely causing it.\n- If it only happens with your laptop, the issue is more likely related to the laptop’s graphics settings, driver, or signal output.\nIf you’ve already tried different cables and HDR settings, let us know your monitor connection type (HDMI, USB-C, or DisplayPort) and whether the dimming happens only on the external monitor or also on your laptop screen if you're using one.\nWe will be waiting for your response.\nBest regards,\nHector_Lenovo",
+      "published_raw": "2026-09-22 18:56",
+      "published_at": "2026-09-22T18:56:13Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-23T23:32:42.107559Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "high",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10045603:10169653",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessmonito",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15986/10045603/10172682",
+      "thread_id": "10045603",
+      "post_id": "10169653",
+      "author": "HuniKha",
+      "text": "Hello. I have an issue that is really annoying. I use my monitor for about 40 minutes and after that the brightness becomes dimmer and it doesn't come back up. If I turn my monitor off and back on it will restore the brightness; same with HDR.",
+      "published_raw": "2026-09-22 08:45",
+      "published_at": "2026-09-22T08:45:02Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-23T23:32:42.107559Z",
+      "is_first_post": true,
+      "kudos": 0,
+      "relevance": "high",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    }
+  ]
+}

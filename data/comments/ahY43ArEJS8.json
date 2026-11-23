@@ -7,7 +7,7 @@
     "Lenovo Legion Pro 27Q-10 OLED"
   ],
   "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
-  "last_collected_at": "2026-11-23T12:56:28.516589+00:00",
+  "last_collected_at": "2026-11-23T23:28:56.942190+00:00",
   "comments_count": 2,
   "comments_in_latest_fetch": 2,
   "comments": [
@@ -17,25 +17,35 @@
       "author": "@lilaluft",
       "author_channel_id": "UC3aRLKbUyTtK8aLxCHUzfKA",
       "published": "3 weeks ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 4,
       "like_count_text": "4",
       "reply_count": 1,
       "reply_count_text": "1",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgxHhOtqQ_DUxJDJGpp4AaABAg.AcZ0McHLDp8Ad6nDnJ28GN",
       "text": "its slop",
       "author": "@jbdoingjbstuff",
       "author_channel_id": "UCWbsgOojtargczZfqzXTPow",
-      "published": "10 days ago",
+      "published": "11 days ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     }
   ]
 }

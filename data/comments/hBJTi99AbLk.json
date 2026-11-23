@@ -5,11 +5,10 @@
   "channel": "Tech Guy Beau",
   "search_queries": [
     "Lenovo Legion Pro 27UD-10 HDR",
-    "Lenovo Legion Pro 27Q-10 OLED",
-    "Lenovo QD-OLED monitor HDR dimming"
+    "Lenovo Legion Pro 27Q-10 OLED"
   ],
   "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
-  "last_collected_at": "2026-11-23T12:55:31.931638+00:00",
+  "last_collected_at": "2026-11-23T23:27:59.425449+00:00",
   "comments_count": 38,
   "comments_in_latest_fetch": 38,
   "comments": [
@@ -19,12 +18,17 @@
       "author": "@Milan_koshy",
       "author_channel_id": "UC9Mb5I2ToatsQ4WlObRYpmg",
       "published": "7 days ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 5,
       "reply_count_text": "5",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLTrkKrrrc",
@@ -32,12 +36,17 @@
       "author": "@02o.",
       "author_channel_id": "UCsYfdcHFQZh8LV3Fokuc5hQ",
       "published": "5 days ago (edited)",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLsdXfS_Xb",
@@ -45,12 +54,17 @@
       "author": "@Milan_koshy",
       "author_channel_id": "UC9Mb5I2ToatsQ4WlObRYpmg",
       "published": "5 days ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLui2t3_ua",
@@ -58,12 +72,17 @@
       "author": "@02o.",
       "author_channel_id": "UCsYfdcHFQZh8LV3Fokuc5hQ",
       "published": "5 days ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLv7glr-9Z",
@@ -71,12 +90,17 @@
       "author": "@Milan_koshy",
       "author_channel_id": "UC9Mb5I2ToatsQ4WlObRYpmg",
       "published": "5 days ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLwCxGsU1R",
@@ -84,12 +108,17 @@
       "author": "@02o.",
       "author_channel_id": "UCsYfdcHFQZh8LV3Fokuc5hQ",
       "published": "5 days ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx8Dx1ykcR1sn5-fGx4AaABAg",
@@ -97,12 +126,17 @@
       "author": "@americanchad6909",
       "author_channel_id": "UCvLfvpIFxVsqjs7Kw_8pi1g",
       "published": "3 weeks ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugzccq6ojObCF-AVQKp4AaABAg",
@@ -110,12 +144,17 @@
       "author": "@kldeep5087",
       "author_channel_id": "UCXKVLXVgOU5Ty3jVPLhy5Qg",
       "published": "1 month ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 1,
       "reply_count_text": "1",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugzccq6ojObCF-AVQKp4AaABAg.Abi5Gs6uqreAbiajQsSLFw",
@@ -123,12 +162,17 @@
       "author": "@TechGuyBeau",
       "author_channel_id": "UCCRlb-dhXmBz3bJ2-MPaYkw",
       "published": "1 month ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugz1YUfB_hm2h8tWWuN4AaABAg",
@@ -136,12 +180,17 @@
       "author": "@cuerex8580",
       "author_channel_id": "UCTi5QqeP0IvkXrNvbJbqYlA",
       "published": "3 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgzTH2w_KXre5NUSQVF4AaABAg",
@@ -149,12 +198,17 @@
       "author": "@dlam8276",
       "author_channel_id": "UCt1U5nXl_2E-Uy161WpU40w",
       "published": "5 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugw0s8eN7uGkROqQRV14AaABAg",
@@ -162,12 +216,17 @@
       "author": "@gracefultowels3283",
       "author_channel_id": "UCYwmxoxLPFL3aWHnONw2jCg",
       "published": "5 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx5bP14o-pYXoPm5fZ4AaABAg",
@@ -175,12 +234,17 @@
       "author": "@TiagoNevesNET",
       "author_channel_id": "UCo1ra66EF3aJqXztmW93v_A",
       "published": "5 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx7OoEy-aMy62nK3SN4AaABAg",
@@ -188,12 +252,17 @@
       "author": "@herrfegelein6856",
       "author_channel_id": "UC0ikWoqVgv3NueaOzjIpZ8A",
       "published": "6 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 1,
       "reply_count_text": "1",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx7OoEy-aMy62nK3SN4AaABAg.AWJbiAhXai_AWM7eGYesw9",
@@ -201,12 +270,17 @@
       "author": "@TechGuyBeau",
       "author_channel_id": "UCCRlb-dhXmBz3bJ2-MPaYkw",
       "published": "6 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgzK2_VTD9UQ_IBRT814AaABAg",
@@ -214,12 +288,17 @@
       "author": "@filipgeorge4142",
       "author_channel_id": "UCVni5asCNjIusflUHnZGYjQ",
       "published": "7 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 13,
       "like_count_text": "13",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugz2JEp-WkqoeozLZVt4AaABAg",
@@ -227,12 +306,17 @@
       "author": "@tomasjedno-l1p",
       "author_channel_id": "UCX4YGN-l_qiILinPVxEiziw",
       "published": "7 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 4,
       "like_count_text": "4",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgxuYcV6VOOvuOMejad4AaABAg",
@@ -240,12 +324,17 @@
       "author": "@GlobalFaultlines28",
       "author_channel_id": "UCfY9ruSZEZtH-mRAOMxd4bw",
       "published": "7 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugz4FFM1hdYfl0ZnYfF4AaABAg",
@@ -253,12 +342,17 @@
       "author": "@Brigamen",
       "author_channel_id": "UCvwrpTW3WULfe8AJcZy8C_A",
       "published": "7 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 2,
       "reply_count_text": "2",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugz4FFM1hdYfl0ZnYfF4AaABAg.AV917jHpFc8AV9Q_nIB52H",
@@ -266,12 +360,17 @@
       "author": "@TechGuyBeau",
       "author_channel_id": "UCCRlb-dhXmBz3bJ2-MPaYkw",
       "published": "7 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugz4FFM1hdYfl0ZnYfF4AaABAg.AV917jHpFc8AVA79nI5jVt",
@@ -279,12 +378,17 @@
       "author": "@Brigamen",
       "author_channel_id": "UCvwrpTW3WULfe8AJcZy8C_A",
       "published": "7 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgzmTwlRqC6YyCRcBRZ4AaABAg",
@@ -292,12 +396,17 @@
       "author": "@patukka60",
       "author_channel_id": "UCwx4RAzRad_qB8jy_97GvGA",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": 1,
       "reply_count_text": "1",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgzmTwlRqC6YyCRcBRZ4AaABAg.AUKe8N_rDvVAULWKk0Dxbs",
@@ -305,12 +414,17 @@
       "author": "@TechGuyBeau",
       "author_channel_id": "UCCRlb-dhXmBz3bJ2-MPaYkw",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugw2l_yXk2dkZ4_4kL54AaABAg",
@@ -318,12 +432,17 @@
       "author": "@NickG-f4m",
       "author_channel_id": "UCWSeBoYDtouZgepMUROrtSw",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": true,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx_HGXWFXfA6KuFraJ4AaABAg",
@@ -331,12 +450,17 @@
       "author": "@FrankGamingVlog",
       "author_channel_id": "UCXnm6KHuEnda_-yF7T74GiA",
       "published": "8 months ago (edited)",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": 1,
       "reply_count_text": "1",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugx_HGXWFXfA6KuFraJ4AaABAg.ATx6lJH61uVAUDmqGHN4WM",
@@ -344,12 +468,17 @@
       "author": "@Thesmoker99",
       "author_channel_id": "UCc1eRQ0s3yxx5YBiO6Cun3g",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugyg4vsasKbpOUHNssZ4AaABAg",
@@ -357,12 +486,17 @@
       "author": "@stephenmilazzo2535",
       "author_channel_id": "UC9OWcwnmIeb198eMX_rmTpQ",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": 2,
       "reply_count_text": "2",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugyg4vsasKbpOUHNssZ4AaABAg.ATh0jcZ60d-AThAhd9VCw5",
@@ -370,12 +504,17 @@
       "author": "@pf888",
       "author_channel_id": "UCu8VVTwOjV0biYdp0FY71MA",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugyg4vsasKbpOUHNssZ4AaABAg.ATh0jcZ60d-AToyCZZgnaF",
@@ -383,12 +522,17 @@
       "author": "@VIK1NG_w0w",
       "author_channel_id": "UCCF0Xybk1ymdP6jm2GrvmOg",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgzjJ6tD0wHJlbs1pUh4AaABAg",
@@ -396,12 +540,17 @@
       "author": "@sillymity1",
       "author_channel_id": "UCngwZ2jlGbqs2DcmAu4BYfw",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": 3,
       "reply_count_text": "3",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgzjJ6tD0wHJlbs1pUh4AaABAg.ATguEH7iSEUAU0nBGt7vJ-",
@@ -409,12 +558,17 @@
       "author": "@cosmic_gate476",
       "author_channel_id": "UCWh_j2VAmCU22wfo6DvTbhQ",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 2,
       "like_count_text": "2",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgzjJ6tD0wHJlbs1pUh4AaABAg.ATguEH7iSEUA_nFKb_FlVD",
@@ -422,12 +576,17 @@
       "author": "@guesswho9453",
       "author_channel_id": "UCcWfGHVFgZ1-iZC7viGFpEg",
       "published": "3 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgzjJ6tD0wHJlbs1pUh4AaABAg.ATguEH7iSEUA_qVJ-TbW-r",
@@ -435,12 +594,17 @@
       "author": "@guesswho9453",
       "author_channel_id": "UCcWfGHVFgZ1-iZC7viGFpEg",
       "published": "3 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgwuWcoMwM5pTOoQGkJ4AaABAg",
@@ -448,12 +612,17 @@
       "author": "@demistr7435",
       "author_channel_id": "UCIeu7-ozkkerNe-sLRgAfmw",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgysFcvBej-QjFIUGjV4AaABAg",
@@ -461,12 +630,17 @@
       "author": "@GeordiLaForgery",
       "author_channel_id": "UCnKRfEstv47O9snUJ_Vyyug",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 2,
       "like_count_text": "2",
       "reply_count": 3,
       "reply_count_text": "3",
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgysFcvBej-QjFIUGjV4AaABAg.ATgrIo2HF5QAThB-YAuNvD",
@@ -474,12 +648,17 @@
       "author": "@pf888",
       "author_channel_id": "UCu8VVTwOjV0biYdp0FY71MA",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": "1",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgysFcvBej-QjFIUGjV4AaABAg.ATgrIo2HF5QAToy85a5nSj",
@@ -487,12 +666,17 @@
       "author": "@VIK1NG_w0w",
       "author_channel_id": "UCCF0Xybk1ymdP6jm2GrvmOg",
       "published": "8 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 2,
       "like_count_text": "2",
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgysFcvBej-QjFIUGjV4AaABAg.ATgrIo2HF5QAUu1UuwDnEl",
@@ -500,12 +684,17 @@
       "author": "@kuzia1984",
       "author_channel_id": "UCSQLUe2v8ldz_cUw2vnfrOQ",
       "published": "7 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": true
+      "is_reply": true,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     }
   ]
 }

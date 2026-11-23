@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-11-23T23:32:42.107559Z",
+  "month": "2025-12",
+  "record_count": 5,
+  "records": [
+    {
+      "record_id": "youtube:Ugy8j81YU1Pz5n_g_NN4AaABAg.AQsugJgR-PFAQxAUz9FVAx",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "The Best of Both Worlds? Lenovo Legion Pro 27UD-10 Monitor Overview",
+      "source_url": "https://www.youtube.com/watch?v=71mWDrHjW2o",
+      "video_id": "71mWDrHjW2o",
+      "comment_id": "Ugy8j81YU1Pz5n_g_NN4AaABAg.AQsugJgR-PFAQxAUz9FVAx",
+      "parent_id": null,
+      "author": "@attacksaw",
+      "text": " @iamfallfromgrace  No. Which HDR should we use for image performance?",
+      "published_raw": "11 months ago",
+      "published_at": "2025-12-28T23:27:55.925956Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugy8j81YU1Pz5n_g_NN4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "The Best of Both Worlds? Lenovo Legion Pro 27UD-10 Monitor Overview",
+      "source_url": "https://www.youtube.com/watch?v=71mWDrHjW2o",
+      "video_id": "71mWDrHjW2o",
+      "comment_id": "Ugy8j81YU1Pz5n_g_NN4AaABAg",
+      "parent_id": null,
+      "author": "@attacksaw",
+      "text": "Hello, I bought this monitor. How do you use the screen settings? HDR and OLED protection settings. I would appreciate your response.",
+      "published_raw": "11 months ago",
+      "published_at": "2025-12-28T23:27:55.925956Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": 2,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgxRpdCSppNkn7a4g3l4AaABAg.AQZHR_yuiRSAQiX8j8_8OB",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "The Best of Both Worlds? Lenovo Legion Pro 27UD-10 Monitor Overview",
+      "source_url": "https://www.youtube.com/watch?v=71mWDrHjW2o",
+      "video_id": "71mWDrHjW2o",
+      "comment_id": "UgxRpdCSppNkn7a4g3l4AaABAg.AQZHR_yuiRSAQiX8j8_8OB",
+      "parent_id": null,
+      "author": "@Hasmatix",
+      "text": "​ @iamfallfromgrace only the newer tandem oleds. They get very bright and has less abl dimming compared to qd oled",
+      "published_raw": "11 months ago",
+      "published_at": "2025-12-28T23:27:55.925956Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "high",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10016436:10058704",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "12-27-2025 13:24:47 Lenovo Legion Pro 32UD-10 - OLED Care - Low power byKermoneninY Gaming Accessories & Curved Gaming Monitors Hi, I need some clarification regarding the Lenovo Legion Pro 32UD-10 OLED Care menu.",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10016436/10058605",
+      "thread_id": "10016436",
+      "post_id": "10058704",
+      "author": "Hassen_Lenovo",
+      "text": "Hi Kermonen,\nThank you for your inquiry regarding the Lenovo Legion Pro 32UD-10 OLED Care menu. I appreciate your feedback about the manual and your request for more detailed explanations.\nThe\nLow Power\noption in the OLED Care menu is designed to optimize energy consumption and reduce power usage during operation. When enabled, it may adjust certain display settings to achieve lower power consumption, which can contribute to prolonged panel lifespan and reduced energy costs. However, this might slightly impact peak brightness or performance in certain scenarios.\nIf the feature is enabled by default, it is generally recommended to leave it on unless specific usage requirements necessitate its deactivation.\nFor further assistance or detailed specifications, you can visit the\nLenovo Product Specifications Reference (PSREF)\nor contact\nLenovo Support\n.\nBest regards, Hassen_Lenovo",
+      "published_raw": "2025-12-27 17:04",
+      "published_at": "2025-12-27T17:04:56Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-23T23:32:42.107559Z",
+      "is_first_post": false,
+      "kudos": 1,
+      "relevance": "medium",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10016436:10058605",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "12-27-2025 13:24:47 Lenovo Legion Pro 32UD-10 - OLED Care - Low power byKermoneninY Gaming Accessories & Curved Gaming Monitors Hi, I need some clarification regarding the Lenovo Legion Pro 32UD-10 OLED Care menu.",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10016436/10058605",
+      "thread_id": "10016436",
+      "post_id": "10058605",
+      "author": "Kermonen",
+      "text": "Hi, I need some clarification regarding the Lenovo Legion Pro 32UD-10 OLED Care menu. The manual is unfortunately pretty useless in this matter, but luckily I've found articles about\nmost\nof these options.\nThe question remains: What exactly does\nLow Power\ndo? What are the advantages and disadvantages of using it? It seems to be on by default so I take it I should just leave it on?\nAlso a request for Lenovo: could you please update the manual with proper explanations for each of these options.",
+      "published_raw": "2025-12-27 13:24",
+      "published_at": "2025-12-27T13:24:47Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-23T23:32:42.107559Z",
+      "is_first_post": true,
+      "kudos": 0,
+      "relevance": "medium",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    }
+  ]
+}

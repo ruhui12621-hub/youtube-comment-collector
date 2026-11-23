@@ -7,7 +7,7 @@
     "联想 拯救者 OLED 亮度 降低"
   ],
   "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
-  "last_collected_at": "2026-11-23T12:59:23.095691+00:00",
+  "last_collected_at": "2026-11-23T23:32:32.751377+00:00",
   "comments_count": 3,
   "comments_in_latest_fetch": 3,
   "comments": [
@@ -17,12 +17,17 @@
       "author": "@ImRyo585",
       "author_channel_id": "UC5Vuny4JcVE3Hm1hZ0H3xvg",
       "published": "2 weeks ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "Ugwqi1WZ7BTCklM8rKN4AaABAg",
@@ -30,12 +35,17 @@
       "author": "@VividlyHeejin",
       "author_channel_id": "UC_y5kDiY8vRIzrnoVRp3ytA",
       "published": "4 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     },
     {
       "comment_id": "UgzfX_uk6sa5TWbq3bJ4AaABAg",
@@ -43,12 +53,17 @@
       "author": "@ravingrabitt",
       "author_channel_id": "UCyt9ULqU_6sPHh_LtiTXtGg",
       "published": "6 months ago",
+      "published_at": null,
+      "parent_id": null,
       "like_count": 1,
       "like_count_text": null,
       "reply_count": null,
       "reply_count_text": null,
       "heart": false,
-      "is_reply": false
+      "is_reply": false,
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256+00:00"
     }
   ]
 }
