@@ -28,9 +28,10 @@ UD_MODEL_RE = re.compile(r"\b(?:27|32)\s?ud\s?-?10\b", re.I)
 MODEL_RE = re.compile(r"\b(?:27|32)\s?(?:ud|qd|q)\s?-?10\b", re.I)
 ISSUE_RE = re.compile(
     r"\b(hdr|dimm?ing|brightness|bright|dark|dim|abl|firmware|"
-    r"oled care|screen dims|brightness drops|变暗|亮度|降亮度|暗屏)\b",
+    r"oled care|screen dims|brightness drops)\b",
     re.I,
 )
+CN_ISSUE_RE = re.compile(r"(变暗|亮度|降亮度|暗屏|亮度下降|亮度降低)")
 STRONG_ISSUE_RE = re.compile(
     r"(dimm?ing|brightness drops|screen dims|变暗|亮度下降|亮度降低|暗屏|"
     r"30[-– ]?40\s*minutes|30[-– ]?40\s*分钟)", re.I
@@ -105,9 +106,9 @@ def relevance(title: str, text: str) -> tuple[str, list[str], str | None]:
         return "excluded", models, "27Q-10 is outside the target model scope"
     if has_ud and STRONG_ISSUE_RE.search(combined):
         return "high", models, None
-    if has_ud and ISSUE_RE.search(combined):
+    if has_ud and (ISSUE_RE.search(combined) or CN_ISSUE_RE.search(combined)):
         return "medium", models, None
-    if ISSUE_RE.search(combined) and ("oled" in combined.lower() or "lenovo" in combined.lower()):
+    if (ISSUE_RE.search(combined) or CN_ISSUE_RE.search(combined)) and ("oled" in combined.lower() or "lenovo" in combined.lower()):
         return "low", models, None
     return "low", models, None
 
