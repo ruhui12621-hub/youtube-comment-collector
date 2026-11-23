@@ -1,7 +1,29 @@
+# Shared search queries used by both YouTube and Lenovo forum collectors.
+# Model spelling variants (hyphenated, unhyphenated, and spaced).
 Lenovo Legion Pro 27UD-10 HDR
+Lenovo Legion Pro 27UD10
+Lenovo Legion Pro 27UD 10
 Lenovo Legion Pro 32UD-10 HDR
+Lenovo Legion Pro 32UD10
+Lenovo Legion Pro 32UD 10
 Lenovo Legion Pro 27Q-10 OLED
+Lenovo Legion Pro 27Q10 OLED
+Lenovo Legion Pro 27QD-10 OLED
+# Broader product-family searches.
+Legion Pro OLED
+Legion OLED
+Legion Pro monitor
+Lenovo OLED monitor HDR
 Lenovo QD-OLED monitor HDR dimming
+# Symptom-led searches that may not mention the exact model.
 Legion Pro HDR brightness drops
+Lenovo OLED monitor brightness drops
+Legion OLED screen gets darker
+Lenovo HDR dimming after gaming
+monitor dims after 30 minutes Lenovo
+Dolby Vision dimming Lenovo Legion
+# Chinese-language searches.
 联想 OLED 显示器 HDR 变暗
 联想 拯救者 OLED 亮度 降低
+联想 Legion Pro OLED 亮度下降
+联想显示器 游戏后 自动变暗
