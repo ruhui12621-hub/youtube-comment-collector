@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-23T13:38:45.080169+00:00",
-  "finished_at": "2026-11-23T13:38:58.874164+00:00",
+  "started_at": "2026-11-23T23:42:02.653416+00:00",
+  "finished_at": "2026-11-23T23:42:14.210703+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -39,13 +39,6 @@
     },
     {
       "method": "search_api_probe",
-      "query": "\"27Q-10\" brightness",
-      "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=%2227Q-10%22+brightness",
-      "content_type": "text/html; charset=UTF-8"
-    },
-    {
-      "method": "search_api_probe",
       "query": "\"HDR Dimming Issue on Lenovo Legion Pro\"",
       "status": 404,
       "url": "https://forums.lenovo.com/api/v2/search?q=%22HDR+Dimming+Issue+on+Lenovo+Legion+Pro%22",
@@ -65,7 +58,7 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 297240,
+      "document_length": 297242,
       "body_text_length": 14180
     },
     {
@@ -115,11 +108,11 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10038636",
+      "tid": "10022519",
       "fid": "15987",
-      "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors purple240, I understand you're having trouble accessing the monitor settings of your Lenovo LegionPro 27Q-10 monitor. - Change t",
+      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
       "pages_captured": 1,
-      "posts_captured": 4,
+      "posts_captured": 2,
       "error": null
     },
     {
@@ -129,15 +122,6 @@
       "title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessmonito",
       "pages_captured": 1,
       "posts_captured": 4,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
-      "tid": "10022519",
-      "fid": "15987",
-      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
-      "pages_captured": 1,
-      "posts_captured": 2,
       "error": null
     },
     {
@@ -248,16 +232,14 @@
       ],
       "error": null
     },
-    "10038636": {
-      "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors purple240, I understand you're having trouble accessing the monitor settings of your Lenovo LegionPro 27Q-10 monitor. - Change t",
+    "10022519": {
+      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
       "fid": "15987",
       "pages_captured": 1,
-      "posts_captured": 4,
+      "posts_captured": 2,
       "post_ids": [
-        10145068,
-        10145134,
-        10145239,
-        10145329
+        10081411,
+        10081586
       ],
       "error": null
     },
@@ -274,17 +256,6 @@
       ],
       "error": null
     },
-    "10022519": {
-      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
-      "fid": "15987",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "post_ids": [
-        10081411,
-        10081586
-      ],
-      "error": null
-    },
     "10016436": {
       "title": "12-27-2025 13:24:47 Lenovo Legion Pro 32UD-10 - OLED Care - Low power byKermoneninY Gaming Accessories & Curved Gaming Monitors Hi, I need some clarification regarding the Lenovo Legion Pro 32UD-10 OLED Care menu.",
       "fid": "15987",
@@ -297,8 +268,8 @@
       "error": null
     }
   },
-  "topics_attempted": 9,
-  "topics_with_posts": 9,
-  "total_posts_captured": 41,
+  "topics_attempted": 8,
+  "topics_with_posts": 8,
+  "total_posts_captured": 37,
   "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json."
 }

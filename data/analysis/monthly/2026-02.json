@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:32:42.107559Z",
+  "generated_at": "2026-11-23T23:42:14.289770Z",
   "month": "2026-02",
   "record_count": 6,
   "records": [
@@ -130,7 +130,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-23T23:32:42.107559Z",
+      "last_seen_at": "2026-11-23T23:42:14.289770Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "high",
@@ -153,7 +153,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-23T23:32:42.107559Z",
+      "last_seen_at": "2026-11-23T23:42:14.289770Z",
       "is_first_post": true,
       "kudos": 0,
       "relevance": "medium",
