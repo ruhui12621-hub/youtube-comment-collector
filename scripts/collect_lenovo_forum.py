@@ -13,6 +13,7 @@ from urllib.parse import urlencode
 
 import requests
 from bs4 import BeautifulSoup
+from search_rules import load_search_queries, should_exclude_text
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "lenovo_forum"
@@ -20,14 +21,7 @@ THREAD_ID = "10042773"
 THREAD_FID = "15987"
 BASE = "https://forums.lenovo.com"
 THREAD_URL = f"{BASE}/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/{THREAD_ID}"
-SEARCH_TERMS = [
-    '"Legion Pro 27UD-10" HDR',
-    '"Legion Pro 32UD-10" HDR',
-    '"27UD-10" dimming',
-    '"32UD-10" dimming',
-    '"HDR Dimming Issue on Lenovo Legion Pro"',
-    "Lenovo OLED HDR brightness drops",
-]
+SEARCH_TERMS = load_search_queries()
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36",
     "Accept": "text/html,application/json,*/*",
@@ -128,7 +122,11 @@ def load_target_threads():
         # Require the actual result card title/snippet to mention both the model and
         # a brightness/HDR-related symptom; do not let a broad search query pull in
         # unrelated topics that happened to appear in the result list.
-        if not (model_pattern.search(title) and issue_pattern.search(title)):
+        context = item.get("result_context") or ""
+        if should_exclude_text(title, context):
+            continue
+        if not ((model_pattern.search(title) or family_pattern.search(title + "\\n" + context))
+                and issue_pattern.search(title + "\\n" + context)):
             continue
         if parsed_tid not in targets:
             targets[parsed_tid] = {
@@ -328,7 +326,7 @@ def main():
         "total_posts_captured": sum(x["posts_captured"] for x in topic_summary.values()),
         "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json.",
     }
-    # Remove stale files for excluded 27QD-10 topics from earlier collection runs.
+    # Remove only 27QD topics that do not identify the Legion Pro family.
     for stale_file in OUT.glob("thread_*.json"):
         try:
             stale_data = json.loads(stale_file.read_text(encoding="utf-8"))
