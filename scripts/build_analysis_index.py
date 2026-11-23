@@ -83,6 +83,20 @@ def parse_time(value: Any, reference: datetime | None = None) -> tuple[str | Non
             pass
     match = RELATIVE_RE.match(text)
     if match and reference:
+        # Archive metadata stores collection timestamps as ISO strings.
+        # Normalize them here before applying relative YouTube labels.
+        if isinstance(reference, str):
+            reference_text = reference.strip().replace("Z", "+00:00")
+            try:
+                reference = datetime.fromisoformat(reference_text)
+                if reference.tzinfo is None:
+                    reference = reference.replace(tzinfo=timezone.utc)
+                else:
+                    reference = reference.astimezone(timezone.utc)
+            except ValueError:
+                reference = None
+        if reference is None:
+            return None, "unknown"
         amount = int(match.group(1))
         unit = match.group(2).lower()
         days = {
