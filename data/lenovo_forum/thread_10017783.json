@@ -51,7 +51,7 @@
           "pid": 10063560,
           "subject": "Legion 25-10 monitor cannot standby properly",
           "message": "<p>Hi I have a Legion 25-10 monitor, running Windows 10 and using DVI cable.</p>\r\n<p>I noticed that when Windows enters standby mode, the monitor display LED becomes orange, BUT it goes to white (normal operation) again for a short while and then shows entering Standby mode again. Then the monitor display LED becomes orange again and the process repeats again - white to orange to white etc.</p>\r\n<p>Any ideas what is wrong? I have already forced Windows to use the monitor .inf driver file.</p>\r\n<p>There are no firmware updates.</p>",
-          "views": 15,
+          "views": 16,
           "replies": 2,
           "create_time": 1767932113,
           "last_post_time": 1767970991,

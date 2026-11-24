@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T13:52:28.305610Z",
+  "generated_at": "2026-11-24T14:19:41.806819Z",
   "window_days": 30,
   "relevance": "low_context",
-  "record_count": 496,
+  "record_count": 497,
   "records": [
     {
       "record_id": "youtube:UgyB29Jhz2SoDrPReOt4AaABAg.AdHkIxOIKo6Ada3Tuv2oRt",
@@ -31,6 +31,27 @@
       "models_mentioned": [
         "32UD10"
       ]
+    },
+    {
+      "record_id": "lenovo_forum:10055038:10197039",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "11-24-2026 08:06:18 Lenovo Legion 24-15 – High-Pitched Coil Whine at 240Hz (Color/Load Dependent) byata03inY Gaming Accessories & Curved Gaming Monitors Hello Lenovo Support Team, I recently purchased a Lenovo Legion 24-15 monitor, and I am experiencing>Here are my specific findings after troublesho",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10055038/10197039",
+      "thread_id": "10055038",
+      "post_id": "10197039",
+      "author": "ata03",
+      "text": "Hello Lenovo Support Team,\nI recently purchased a Lenovo Legion 24-15 monitor, and I am experiencing an audible high-pitched coil whine coming from the rear of the unit (near the power and DisplayPort input area) when running at its native 240Hz refresh rate.\nHere are my specific findings after troubleshooting:\nRefresh Rate Dependency: At 144Hz, the monitor is relatively silent. However, switching to 240Hz produces a noticeable high-pitched whine that is audible from a normal seating distance in a quiet room.\nColor/Panel Load Pattern: At 240Hz, fullscreen pure black screens produce relatively little noise, whereas fullscreen solid RGB colors (Red, Green, or Blue) and bright/colorful desktop content immediately trigger and amplify the whine.\nSetup & Verification: Tested via DisplayPort 1.4 and directly connected to a separate wall outlet. Adjusting brightness and disabling HDR slightly reduces the intensity, but the issue persists at 240Hz.\nCould you please confirm whether this level of coil whine at 240Hz is considered within normal operating specifications for the Legion 24-15, or if it qualifies for a hardware inspection/replacement under warranty?\nThank you for your assistance.",
+      "published_raw": "2026-11-24 08:06",
+      "published_at": "2026-11-24T08:06:18Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T14:19:41.806819Z",
+      "is_first_post": true,
+      "kudos": 0,
+      "relevance": "low",
+      "models_mentioned": []
     },
     {
       "record_id": "youtube:UgzFVzVZ0EfaC4QcjS14AaABAg",
@@ -4090,8 +4111,8 @@
       "record_id": "lenovo_forum:10053737:10193527",
       "platform": "lenovo_forum",
       "record_type": "forum_post",
-      "source_title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
-      "source_url": "https://forums.lenovo.com/topic/findpost/15880/10053737/10193527",
+      "source_title": "11-14-2026 20:34:34 ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors bySelteinDisplays, Options and Accessories Good day, I am using a new Lenovo ThinkVision P40WD-40 with a new 14-inch MacBook Pro withDifferent display of the two halves of the screen At cert",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15880/10053737/10193297",
       "thread_id": "10053737",
       "post_id": "10193527",
       "author": "Lorenzo_Lenovo",
@@ -4101,7 +4122,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-24T13:52:28.305610Z",
+      "last_seen_at": "2026-11-24T14:19:41.806819Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "low",
@@ -4586,8 +4607,8 @@
       "record_id": "lenovo_forum:10053737:10193297",
       "platform": "lenovo_forum",
       "record_type": "forum_post",
-      "source_title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
-      "source_url": "https://forums.lenovo.com/topic/findpost/15880/10053737/10193527",
+      "source_title": "11-14-2026 20:34:34 ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors bySelteinDisplays, Options and Accessories Good day, I am using a new Lenovo ThinkVision P40WD-40 with a new 14-inch MacBook Pro withDifferent display of the two halves of the screen At cert",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15880/10053737/10193297",
       "thread_id": "10053737",
       "post_id": "10193297",
       "author": "Selte",
@@ -4597,7 +4618,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-24T13:52:28.305610Z",
+      "last_seen_at": "2026-11-24T14:19:41.806819Z",
       "is_first_post": true,
       "kudos": 0,
       "relevance": "low",
