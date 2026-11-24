@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T00:57:12.504420Z",
+  "generated_at": "2026-11-24T01:03:04.559463Z",
   "window_days": 7,
   "relevance": "low_context",
-  "record_count": 97,
+  "record_count": 98,
   "records": [
     {
       "record_id": "youtube:UgzFVzVZ0EfaC4QcjS14AaABAg",
@@ -31,32 +31,6 @@
       "models_mentioned": []
     },
     {
-      "record_id": "youtube:Ugz6hs6VhlZhxqSopsN4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "Lenovo Legion 68CFGACBUS Unboxing and Setup | Best QHD Gaming Monitor??",
-      "source_url": "https://www.youtube.com/watch?v=azy_eawkjAo",
-      "video_id": "azy_eawkjAo",
-      "comment_id": "Ugz6hs6VhlZhxqSopsN4AaABAg",
-      "parent_id": null,
-      "author": "@bkorkmaz1",
-      "text": "Dude are you kidding I went through the whole video and I was excited to see the OLED care part and you just end up skipping it. Those would be the most important features especially for a monitor like this that doesn't have burn in warranty. I think I'm gonna pass on this monitor...",
-      "published_raw": "2 hours ago",
-      "published_at": "2026-11-23T22:27:39.860609Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": "2026-11-24T00:26:23.795008Z",
-      "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": false,
-      "search_queries": [
-        "Legion Pro27Q OLED"
-      ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
       "record_id": "youtube:UgxJnCOcKl1gvto0jp94AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -68,23 +42,49 @@
       "author": "@shawxsh5624",
       "text": "Does it have 2.1 hdmi?",
       "published_raw": "2 hours ago",
-      "published_at": "2026-11-23T22:27:31.329968Z",
+      "published_at": "2026-11-23T23:02:32.011035Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-23T23:27:48.497256Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Legion Pro27Q OLED"
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Legion Pro27Q monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
         "27Q10"
       ]
+    },
+    {
+      "record_id": "youtube:Ugz6hs6VhlZhxqSopsN4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 68CFGACBUS Unboxing and Setup | Best QHD Gaming Monitor??",
+      "source_url": "https://www.youtube.com/watch?v=azy_eawkjAo",
+      "video_id": "azy_eawkjAo",
+      "comment_id": "Ugz6hs6VhlZhxqSopsN4AaABAg",
+      "parent_id": null,
+      "author": "@bkorkmaz1",
+      "text": "Dude are you kidding I went through the whole video and I was excited to see the OLED care part and you just end up skipping it. Those would be the most important features especially for a monitor like this that doesn't have burn in warranty. I think I'm gonna pass on this monitor...",
+      "published_raw": "3 hours ago",
+      "published_at": "2026-11-23T22:02:48.877145Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": "2026-11-24T00:26:23.795008Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": []
     },
     {
       "record_id": "youtube:UgzLMRI8G1rfuIwpJ5x4AaABAg.A_0dwULkdqXAdZTp9CjIxU",
@@ -527,6 +527,36 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugy4P78H4hUbeiWLdFJ4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
+      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
+      "video_id": "BO74n9KKdZA",
+      "comment_id": "Ugy4P78H4hUbeiWLdFJ4AaABAg",
+      "parent_id": null,
+      "author": "@Gamer-lv2kf",
+      "text": "lenovo legion 27u-10 can you give best screen settings and did you notice the destop black flickers when moving the mouse pointer",
+      "published_raw": "1 day ago",
+      "published_at": "2026-11-23T01:02:26.686035Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugzkx3-QYbOFHxnS1ht4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -633,40 +663,6 @@
       ],
       "relevance": "low",
       "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:Ugy4P78H4hUbeiWLdFJ4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
-      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
-      "video_id": "BO74n9KKdZA",
-      "comment_id": "Ugy4P78H4hUbeiWLdFJ4AaABAg",
-      "parent_id": null,
-      "author": "@Gamer-lv2kf",
-      "text": "lenovo legion 27u-10 can you give best screen settings and did you notice the destop black flickers when moving the mouse pointer",
-      "published_raw": "1 day ago",
-      "published_at": "2026-11-23T00:26:46.298235Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Lenovo OLED monitor HDR"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27UD10"
-      ]
     },
     {
       "record_id": "youtube:UgwQy0N9hQTmXawF6SN4AaABAg.AdDtY5-gG85AdV14iFJRDK",
@@ -955,6 +951,39 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgzNw0_lvof2nZMXctF4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
+      "source_url": "https://www.youtube.com/watch?v=XghsOv2iIOA",
+      "video_id": "XghsOv2iIOA",
+      "comment_id": "UgzNw0_lvof2nZMXctF4AaABAg",
+      "parent_id": null,
+      "author": "@aarvpaul8242",
+      "text": "Lenovo Legion Pro 32UD , can i turn it into 2k 480hz",
+      "published_raw": "2 days ago",
+      "published_at": "2026-11-22T01:02:11.803886Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugzc5uE3ofXxp7bW-Xd4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -1133,38 +1162,6 @@
       ],
       "relevance": "low",
       "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:UgzNw0_lvof2nZMXctF4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
-      "source_url": "https://www.youtube.com/watch?v=XghsOv2iIOA",
-      "video_id": "XghsOv2iIOA",
-      "comment_id": "UgzNw0_lvof2nZMXctF4AaABAg",
-      "parent_id": null,
-      "author": "@aarvpaul8242",
-      "text": "Lenovo Legion Pro 32UD , can i turn it into 2k 480hz",
-      "published_raw": "2 days ago",
-      "published_at": "2026-11-22T00:27:02.100964Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 32UD 10",
-        "Legion Pro monitor"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "32UD10"
-      ]
     },
     {
       "record_id": "youtube:Ugz6dqMdn7oFGobE0wB4AaABAg.Ad6lKsmoZsXAdU6bgGzimI",
@@ -1373,6 +1370,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwoT68fqgGn2ytrcKt4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgwoT68fqgGn2ytrcKt4AaABAg",
+      "parent_id": null,
+      "author": "@Ashvorex",
+      "text": "I m using 75 😂",
+      "published_raw": "3 days ago",
+      "published_at": "2026-11-21T01:02:46.273702Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugz2dc_g7ejuWgAzhp94AaABAg",
@@ -1966,16 +1992,17 @@
       "author": "@RickyUnboxed",
       "text": "Nice choice! Yes, it is a beautiful monitor. The great advantage is that you can adjust the colour to your exact preference, just  experiment with the colour settings until you get the image you want.",
       "published_raw": "5 days ago",
-      "published_at": "2026-11-19T00:27:39.860609Z",
+      "published_at": "2026-11-19T01:02:48.877145Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-24T00:26:23.795008Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Legion Pro27Q OLED"
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Legion Pro27Q monitor"
       ],
       "relevance": "low",
       "models_mentioned": []
@@ -1992,21 +2019,250 @@
       "author": "@XCOLD",
       "text": " @MrAkiragod can u send me to",
       "published_raw": "5 days ago",
-      "published_at": "2026-11-19T00:27:37.399425Z",
+      "published_at": "2026-11-19T01:02:35.059889Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-24T00:26:23.795008Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED"
+        "Lenovo Legion Pro 27Q10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
         "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugzn1JghWRVcTg0NyQR4AaABAg.AdMuF9XVbuuAdNHKQFx84K",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
+      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
+      "video_id": "BO74n9KKdZA",
+      "comment_id": "Ugzn1JghWRVcTg0NyQR4AaABAg.AdMuF9XVbuuAdNHKQFx84K",
+      "parent_id": null,
+      "author": "@BenjaminGreenYT",
+      "text": "GTA it's hard to say for now, but with AAA+ games you'll likely get at least 60fps at 4k with some tweaks",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-19T01:02:26.686035Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugzn1JghWRVcTg0NyQR4AaABAg.AdMuF9XVbuuAdMudoFodLQ",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
+      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
+      "video_id": "BO74n9KKdZA",
+      "comment_id": "Ugzn1JghWRVcTg0NyQR4AaABAg.AdMuF9XVbuuAdMudoFodLQ",
+      "parent_id": null,
+      "author": "@BenjaminGreenYT",
+      "text": "Should be great! Depending on the game you play, should be able to hit the 240hz limit",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-19T01:02:26.686035Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugzn1JghWRVcTg0NyQR4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
+      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
+      "video_id": "BO74n9KKdZA",
+      "comment_id": "Ugzn1JghWRVcTg0NyQR4AaABAg",
+      "parent_id": null,
+      "author": "@Gamer-lv2kf",
+      "text": "i just bought the 4k oled version of lenovo legion pro 27ud10 i am using 7900xtx graphic card how will ir perform plz reply",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-19T01:02:26.686035Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": 3,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLwCxGsU1R",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion Pro 27UD-10 27-inch OLED 4K 240Hz Gaming Monitor",
+      "source_url": "https://www.youtube.com/watch?v=hBJTi99AbLk",
+      "video_id": "hBJTi99AbLk",
+      "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLwCxGsU1R",
+      "parent_id": null,
+      "author": "@02o.",
+      "text": "​ @Milan_koshy  think of glossy as an iPhone screen. punchy colors and all that but can reflect light kind of like a mirror (penta tandem solves that issue). whereas, benq has the anti glare which makes the blacks look slightly hazy.",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-19T01:02:01.182238Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLv7glr-9Z",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion Pro 27UD-10 27-inch OLED 4K 240Hz Gaming Monitor",
+      "source_url": "https://www.youtube.com/watch?v=hBJTi99AbLk",
+      "video_id": "hBJTi99AbLk",
+      "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLv7glr-9Z",
+      "parent_id": null,
+      "author": "@Milan_koshy",
+      "text": " @02o.  what you mean by glossy to pop more. Im noob at this area . Can u explain",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-19T01:02:01.182238Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLui2t3_ua",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion Pro 27UD-10 27-inch OLED 4K 240Hz Gaming Monitor",
+      "source_url": "https://www.youtube.com/watch?v=hBJTi99AbLk",
+      "video_id": "hBJTi99AbLk",
+      "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLui2t3_ua",
+      "parent_id": null,
+      "author": "@02o.",
+      "text": "​ @Milan_koshy  well then go for benq, has a built in KVM switch, 90w usb c laptop charging (Lenovo only has 15w), built in speakers and a remote cause why not. only go for Lenovo if you want glossy to pop more.",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-19T01:02:01.182238Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLsdXfS_Xb",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion Pro 27UD-10 27-inch OLED 4K 240Hz Gaming Monitor",
+      "source_url": "https://www.youtube.com/watch?v=hBJTi99AbLk",
+      "video_id": "hBJTi99AbLk",
+      "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLsdXfS_Xb",
+      "parent_id": null,
+      "author": "@Milan_koshy",
+      "text": "⁠for me both have the same price , which one should i go for",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-19T01:02:01.182238Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27UD10"
       ]
     },
     {
@@ -2080,264 +2336,6 @@
       ],
       "relevance": "low",
       "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:Ugzn1JghWRVcTg0NyQR4AaABAg.AdMuF9XVbuuAdNHKQFx84K",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
-      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
-      "video_id": "BO74n9KKdZA",
-      "comment_id": "Ugzn1JghWRVcTg0NyQR4AaABAg.AdMuF9XVbuuAdNHKQFx84K",
-      "parent_id": null,
-      "author": "@BenjaminGreenYT",
-      "text": "GTA it's hard to say for now, but with AAA+ games you'll likely get at least 60fps at 4k with some tweaks",
-      "published_raw": "5 days ago",
-      "published_at": "2026-11-19T00:26:46.298235Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Lenovo OLED monitor HDR"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27UD10"
-      ]
-    },
-    {
-      "record_id": "youtube:Ugzn1JghWRVcTg0NyQR4AaABAg.AdMuF9XVbuuAdMudoFodLQ",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
-      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
-      "video_id": "BO74n9KKdZA",
-      "comment_id": "Ugzn1JghWRVcTg0NyQR4AaABAg.AdMuF9XVbuuAdMudoFodLQ",
-      "parent_id": null,
-      "author": "@BenjaminGreenYT",
-      "text": "Should be great! Depending on the game you play, should be able to hit the 240hz limit",
-      "published_raw": "5 days ago",
-      "published_at": "2026-11-19T00:26:46.298235Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Lenovo OLED monitor HDR"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27UD10"
-      ]
-    },
-    {
-      "record_id": "youtube:Ugzn1JghWRVcTg0NyQR4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
-      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
-      "video_id": "BO74n9KKdZA",
-      "comment_id": "Ugzn1JghWRVcTg0NyQR4AaABAg",
-      "parent_id": null,
-      "author": "@Gamer-lv2kf",
-      "text": "i just bought the 4k oled version of lenovo legion pro 27ud10 i am using 7900xtx graphic card how will ir perform plz reply",
-      "published_raw": "5 days ago",
-      "published_at": "2026-11-19T00:26:46.298235Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": 3,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Lenovo OLED monitor HDR"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27UD10"
-      ]
-    },
-    {
-      "record_id": "youtube:UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLwCxGsU1R",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "Lenovo Legion Pro 27UD-10 27-inch OLED 4K 240Hz Gaming Monitor",
-      "source_url": "https://www.youtube.com/watch?v=hBJTi99AbLk",
-      "video_id": "hBJTi99AbLk",
-      "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLwCxGsU1R",
-      "parent_id": null,
-      "author": "@02o.",
-      "text": "​ @Milan_koshy  think of glossy as an iPhone screen. punchy colors and all that but can reflect light kind of like a mirror (penta tandem solves that issue). whereas, benq has the anti glare which makes the blacks look slightly hazy.",
-      "published_raw": "5 days ago",
-      "published_at": "2026-11-19T00:26:41.976913Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Legion Pro27Q OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion OLED",
-        "Lenovo OLED monitor HDR",
-        "Lenovo QD-OLED monitor HDR dimming"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27UD10"
-      ]
-    },
-    {
-      "record_id": "youtube:UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLv7glr-9Z",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "Lenovo Legion Pro 27UD-10 27-inch OLED 4K 240Hz Gaming Monitor",
-      "source_url": "https://www.youtube.com/watch?v=hBJTi99AbLk",
-      "video_id": "hBJTi99AbLk",
-      "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLv7glr-9Z",
-      "parent_id": null,
-      "author": "@Milan_koshy",
-      "text": " @02o.  what you mean by glossy to pop more. Im noob at this area . Can u explain",
-      "published_raw": "5 days ago",
-      "published_at": "2026-11-19T00:26:41.976913Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Legion Pro27Q OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion OLED",
-        "Lenovo OLED monitor HDR",
-        "Lenovo QD-OLED monitor HDR dimming"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27UD10"
-      ]
-    },
-    {
-      "record_id": "youtube:UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLui2t3_ua",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "Lenovo Legion Pro 27UD-10 27-inch OLED 4K 240Hz Gaming Monitor",
-      "source_url": "https://www.youtube.com/watch?v=hBJTi99AbLk",
-      "video_id": "hBJTi99AbLk",
-      "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLui2t3_ua",
-      "parent_id": null,
-      "author": "@02o.",
-      "text": "​ @Milan_koshy  well then go for benq, has a built in KVM switch, 90w usb c laptop charging (Lenovo only has 15w), built in speakers and a remote cause why not. only go for Lenovo if you want glossy to pop more.",
-      "published_raw": "5 days ago",
-      "published_at": "2026-11-19T00:26:41.976913Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Legion Pro27Q OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion OLED",
-        "Lenovo OLED monitor HDR",
-        "Lenovo QD-OLED monitor HDR dimming"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27UD10"
-      ]
-    },
-    {
-      "record_id": "youtube:UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLsdXfS_Xb",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "Lenovo Legion Pro 27UD-10 27-inch OLED 4K 240Hz Gaming Monitor",
-      "source_url": "https://www.youtube.com/watch?v=hBJTi99AbLk",
-      "video_id": "hBJTi99AbLk",
-      "comment_id": "UgwEfc9a5RFT1-dxUrF4AaABAg.AdGh-OLQhrRAdLsdXfS_Xb",
-      "parent_id": null,
-      "author": "@Milan_koshy",
-      "text": "⁠for me both have the same price , which one should i go for",
-      "published_raw": "5 days ago",
-      "published_at": "2026-11-19T00:26:41.976913Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Legion Pro27Q OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion OLED",
-        "Lenovo OLED monitor HDR",
-        "Lenovo QD-OLED monitor HDR dimming"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27UD10"
-      ]
     },
     {
       "record_id": "youtube:UgzpigDZ9EyfN-b5nGV4AaABAg.AU6uxIB_X2iAdMnzyxZyc0",
@@ -2585,16 +2583,17 @@
       "author": "@naotxela",
       "text": "Very cool video! I just got it and I’m really surprised by how glossy the screen is. I’m very used to IPS, so it’s taking me some time to adjust (especially the colors, which are quite warm), but so far, I don’t regret it. Plus, I love the way it looks!",
       "published_raw": "6 days ago",
-      "published_at": "2026-11-18T00:27:39.860609Z",
+      "published_at": "2026-11-18T01:02:48.877145Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-24T00:26:23.795008Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": 1,
       "is_reply": false,
       "search_queries": [
-        "Legion Pro27Q OLED"
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Legion Pro27Q monitor"
       ],
       "relevance": "low",
       "models_mentioned": []

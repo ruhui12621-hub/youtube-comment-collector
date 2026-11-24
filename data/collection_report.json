@@ -1,297 +1,37 @@
 {
-  "started_at": "2026-11-24T00:26:23.795008+00:00",
-  "finished_at": "2026-11-24T00:36:03.322058+00:00",
+  "started_at": "2026-11-24T01:01:37.433302+00:00",
+  "finished_at": "2026-11-24T01:03:04.488271+00:00",
   "queries": [
-    "Lenovo Legion Pro 27UD-10 HDR",
-    "Lenovo Legion Pro 27UD10",
-    "Lenovo Legion Pro 27UD 10",
-    "Lenovo Legion Pro 32UD-10 HDR",
-    "Lenovo Legion Pro 32UD10",
-    "Lenovo Legion Pro 32UD 10",
-    "Lenovo Legion Pro 27Q-10 OLED",
-    "Lenovo Legion Pro 27Q10 OLED",
-    "Lenovo Legion Pro27Q-10 OLED",
-    "Legion Pro27Q OLED",
-    "Lenovo Legion Pro 27QD-10 OLED",
-    "Legion Pro OLED",
-    "Legion OLED",
-    "Legion Pro monitor",
-    "Lenovo OLED monitor HDR",
-    "Lenovo QD-OLED monitor HDR dimming",
-    "Legion Pro HDR brightness drops",
-    "Lenovo OLED monitor brightness drops",
-    "Legion OLED screen gets darker",
-    "Lenovo HDR dimming after gaming",
-    "monitor dims after 30 minutes Lenovo",
-    "Dolby Vision dimming Lenovo Legion",
-    "联想 OLED 显示器 HDR 变暗",
-    "联想 拯救者 OLED 亮度 降低",
-    "联想 Legion Pro OLED 亮度下降",
-    "联想显示器 游戏后 自动变暗"
+    "Lenovo Legion Pro 27UD-10 monitor HDR",
+    "Lenovo Legion Pro 27UD10 monitor",
+    "Lenovo Legion Pro 27UD 10 monitor",
+    "Lenovo Legion Pro 32UD-10 monitor HDR",
+    "Lenovo Legion Pro 32UD10 monitor",
+    "Lenovo Legion Pro 32UD 10 monitor",
+    "Lenovo Legion Pro 27Q-10 monitor OLED",
+    "Lenovo Legion Pro 27Q10 monitor OLED",
+    "Lenovo Legion Pro27Q-10 monitor",
+    "Legion Pro27Q monitor",
+    "Lenovo Legion Pro 27QD-10 monitor OLED",
+    "Lenovo Legion Pro 32QD-10 monitor OLED",
+    "Lenovo Legion Pro monitor HDR brightness dimming",
+    "Lenovo Legion monitor HDR brightness drops",
+    "Lenovo Legion monitor screen gets darker",
+    "Lenovo Legion monitor dims after gaming",
+    "Lenovo Legion Pro monitor brightness drops after gaming",
+    "联想 Legion Pro 显示器 HDR 变暗",
+    "联想 Legion Pro 显示器 亮度下降",
+    "联想 拯救者 显示器 OLED 亮度 降低",
+    "联想 Legion 显示器 游戏后 自动变暗"
   ],
-  "videos_discovered_this_run": 71,
+  "videos_discovered_this_run": 20,
   "videos_collected_successfully": 19,
-  "comments_and_replies_seen_this_run": 3081,
+  "comments_and_replies_seen_this_run": 695,
   "errors": [
     {
       "stage": "comments",
-      "target": "xoGkilE00MY",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "4EDoUw1lv7I",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "AZfwHcMLorY",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "mW-mGty_S7w",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "CDAmqznnuXQ",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "Xezs9BDrPaM",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "M2bMUNC37v4",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "QXnQEGlEF4s",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "xbMyfh94qto",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "g0v5i7D84Bs",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "Rv9I_KuAs0E",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "hBCypm3pojk",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "qqXAB6sPNDE",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "09T5IMjdxT0",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "-xUQwB5rti8",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "F0mvQRTM3yo",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "ERrp0TjPcyY",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "_IOys-MZp-I",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "6GDRYZgO4Gg",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "7b7erMMyj7Y",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "o1z1pp5W7qQ",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "9Z_XSKM96Zw",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "yXIPSiIbnpM",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "s2m0ZAZ4rXc",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "oJX-kBfxjAg",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "w2hToRmWecc",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "MsLtrhwd8Pk",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "NxunioCxWDo",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "ZsFDnSC8LPc",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "d7F2YhXUSvk",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "WEi0jziMZlM",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "-7FIhI2QMDg",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "SEoja1Yg6K0",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "26doawtOQ2Q",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "1a1cSOtOAd8",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "Vy8A9SytAUQ",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "i1gL8RxroMc",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "sXATCFb6Vec",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "JblwqoArp1Q",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "c6yG5wB64Io",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "AriyUCqqm4A",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "UrvC2sGE8eY",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "2_BKH-RdsrU",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "uJLwz7Vj7_o",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "ZkVO2kglUMk",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "BjlmxhHOpRQ",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "qO4A4JRXQNE",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "4WO4HjXZ3ZI",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "Y1eimcEtRSY",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "DKBBLLMXUBU",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "vHbhkNj-dKk",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-    },
-    {
-      "stage": "comments",
-      "target": "_sZOrsAQZLc",
-      "error": "RequestError: Request to 'next' failed: 403 Client Error: Forbidden for url: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
+      "target": "WvrHoN7lnHg",
+      "error": "ParseError: Could not find a comments section for video 'WvrHoN7lnHg' (comments may be disabled)."
     }
   ]
 }

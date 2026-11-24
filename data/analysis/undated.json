@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T00:57:12.504420Z",
+  "generated_at": "2026-11-24T01:03:04.559463Z",
   "note": "No reliable publication timestamp; do not treat as recent.",
-  "record_count": 1127,
+  "record_count": 1158,
   "records": [
     {
       "record_id": "youtube:UgzyZmDCciichzC5hgB4AaABAg",
@@ -80,6 +80,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugzy0e2Iazri4iz0gVJ4AaABAg.ARsTqyKkaCaARsXW1rooIq",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "Ugzy0e2Iazri4iz0gVJ4AaABAg.ARsTqyKkaCaARsXW1rooIq",
+      "parent_id": null,
+      "author": "@TechReflex",
+      "text": "It's HDMI 2.1 TMDS, official spec sheet also says 144Hz @ 2K",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugzxn045gZhwOYM51Pt4AaABAg",
@@ -428,6 +457,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzuX--mRrrIioqu6aF4AaABAg.AUXPqrYNMEvAUY6plfWLZl",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 Monitor Review - Great, But I Have One Issue",
+      "source_url": "https://www.youtube.com/watch?v=2JnG6pvN75k",
+      "video_id": "2JnG6pvN75k",
+      "comment_id": "UgzuX--mRrrIioqu6aF4AaABAg.AUXPqrYNMEvAUY6plfWLZl",
+      "parent_id": null,
+      "author": "@SHADOW-fu6uu",
+      "text": "​​ @iLLGamingNet bro I do 3d modelling and moderate gaming..and I haven't seen anyone doing reviews of r27qe gen2.. please suggest me one",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion monitor HDR brightness drops"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgztiEOjVjErX-0xXVt4AaABAg",
@@ -1209,18 +1266,14 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Lenovo OLED monitor HDR"
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -3112,6 +3165,32 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgzZyHhS_e9Pjiy5Jx54AaABAg.9XTj5868FZs9XTm1DNAfGE",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 7i screen brightness not linear",
+      "source_url": "https://www.youtube.com/watch?v=z1kZFey3SYU",
+      "video_id": "z1kZFey3SYU",
+      "comment_id": "UgzZyHhS_e9Pjiy5Jx54AaABAg.9XTj5868FZs9XTm1DNAfGE",
+      "parent_id": null,
+      "author": "@BasS89",
+      "text": "Well, I had some issues, presumably because of windows 11, but still testing. As shown, the brightness is doing weird stuff, but still investigating. It should be a beast. RTX 3080, 11th gen and 32GB. Was quite expensive, but hope worth the money. I will mainly use it for iRacing. 3500 Euro..",
+      "published_raw": "4 years ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion monitor screen gets darker"
+      ],
+      "relevance": "low",
+      "models_mentioned": []
+    },
+    {
       "record_id": "youtube:UgzZcKUPxlckuezR5rx4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -3443,16 +3522,17 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 3,
       "reply_count": null,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 32UD 10",
-        "Legion Pro monitor"
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -4536,6 +4616,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgzLvXDs3DRPDVYS33B4AaABAg.ARxWTFOsD8nARxXrie3C7Z",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgzLvXDs3DRPDVYS33B4AaABAg.ARxWTFOsD8nARxXrie3C7Z",
+      "parent_id": null,
+      "author": "@TechReflex",
+      "text": "Yeah, for 24 inch, FHD is decent enough. Although MSI MAG 255XF is quite close in price, and is 300Hz.",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgzLtXhDLeLy3dKYZTt4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -4980,6 +5089,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzHnHA5CD2y1ETmOF54AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgzHnHA5CD2y1ETmOF54AaABAg",
+      "parent_id": null,
+      "author": "@AstryxFPS",
+      "text": "I want a 24inch monitor so I was considering to buy the lenovo legion 24-10 model but there is not a single review on the internet about it as it's a newly launched so can you please give me review about it.",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": 3,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzHREtNbJydimXYi5V4AaABAg.AZh0ntN6F6zAZk7kH-C8od",
@@ -6495,16 +6633,17 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 3,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 32UD 10",
-        "Legion Pro monitor"
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -7426,18 +7565,14 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Lenovo OLED monitor HDR"
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -7703,6 +7838,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgywoNTquYMzys3K0xp4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgywoNTquYMzys3K0xp4AaABAg",
+      "parent_id": null,
+      "author": "@technoprime835",
+      "text": "On amazon and Flipkart it's written that this monitor supports 240hz with hdmi 2.1 cable\nI'm confused whether it supports or not",
+      "published_raw": "3 weeks ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgywmwM0JZvNTQNlsy94AaABAg",
@@ -8250,6 +8414,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugyt_btq2clZN6MkCkN4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "Ugyt_btq2clZN6MkCkN4AaABAg",
+      "parent_id": null,
+      "author": "@faithfull.warrior",
+      "text": "Any one have idea why my color setting is not avielable?",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgytXFHZWRBPOATZ8cN4AaABAg",
@@ -8892,6 +9085,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgyoEVD07ttuSJqwLhF4AaABAg.ASHMSpKbc2mAS_bfrRKVOE",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgyoEVD07ttuSJqwLhF4AaABAg.ASHMSpKbc2mAS_bfrRKVOE",
+      "parent_id": null,
+      "author": "@Vab.Origin",
+      "text": " @jamesprynne1422  well screen is good and refresh rate is pretty helpful for fps games but the display is hd so not much fun for rpg games… yea but for productivity its pretty good entry level wont recommend this for editing",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugyo8ywhYH3_rM0aJ8Z4AaABAg",
@@ -10295,21 +10517,14 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion Pro OLED",
-        "Legion OLED",
-        "Legion Pro monitor",
-        "Lenovo OLED monitor HDR"
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": []
@@ -10330,21 +10545,14 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 6,
       "reply_count": 3,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion Pro OLED",
-        "Legion OLED",
-        "Legion Pro monitor",
-        "Lenovo OLED monitor HDR"
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "medium",
       "models_mentioned": [
@@ -11949,21 +12157,14 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion Pro OLED",
-        "Legion OLED",
-        "Legion Pro monitor",
-        "Lenovo OLED monitor HDR"
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": []
@@ -12169,6 +12370,64 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgyPzSNvj1RhAaRsnER4AaABAg.AUVSADUU2LZAUVqx4_ORsN",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgyPzSNvj1RhAaRsnER4AaABAg.AUVSADUU2LZAUVqx4_ORsN",
+      "parent_id": null,
+      "author": "@TechReflex",
+      "text": "It's a huge difference, even practically while playing games. You're literally getting 2x info in your brain. Between 2K and 4K, it's not so much, but between 1080p and 2K it's very big.",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgyPzSNvj1RhAaRsnER4AaABAg.AUVSADUU2LZAUVnuStBuDf",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgyPzSNvj1RhAaRsnER4AaABAg.AUVSADUU2LZAUVnuStBuDf",
+      "parent_id": null,
+      "author": "@abhijeetbeniwal5033",
+      "text": "@Tec @TechReflex i know its technicality , but in real gameplay , while playing games like horizon forbidden west or red dead redemption 2 . Can you really feel the difference or is it just a minor thing ?",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgyPcUPGD3vwNVPNdqx4AaABAg",
@@ -12415,6 +12674,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgyNw9GzATOn5nODYsp4AaABAg.AS2hpphjtrHAUF5hXQGWpn",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgyNw9GzATOn5nODYsp4AaABAg.AS2hpphjtrHAUF5hXQGWpn",
+      "parent_id": null,
+      "author": "@siddeshum3511",
+      "text": "​​ @qamararfin IPS → better colors & viewing angles\nVA → better blacks & contrast\n✅ For movies + GTA-type games → VA is better.\n✅ For competitive gaming & color accuracy → IPS is better.\n\nSo a curved LG UltraGear VA monitor can be a good choice for immersive gaming.",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgyNf0CPqbEdhdDHjxd4AaABAg.AXYkbPt5obkA_VYnYFf42J",
       "platform": "youtube",
       "record_type": "reply",
@@ -12508,18 +12796,21 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 32UD 10",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion Pro OLED"
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -13431,6 +13722,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgyHXyB9hqPY_qlo3Ih4AaABAg.ARqbAS_v60GARqpoqsOrrv",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgyHXyB9hqPY_qlo3Ih4AaABAg.ARqbAS_v60GARqpoqsOrrv",
+      "parent_id": null,
+      "author": "@TechReflex",
+      "text": "​​ @g.prasanthg.prasanth MSI monitor does support Gsync and free sync. Unless you want bigger monitor (which isn't suitable for 1080p), there's no point of buying the Lenovo monitor. Even the color gamut and bitrate is higher on MSI",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgyHHZEmAt1kPFczd8B4AaABAg.ACU3GYYeYpVACfvKcPvCdt",
       "platform": "youtube",
       "record_type": "reply",
@@ -13647,6 +13967,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgyFaHYb8QRr6Nl8I4R4AaABAg.ARqRCihIeuXARqWhWLxgoM",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgyFaHYb8QRr6Nl8I4R4AaABAg.ARqRCihIeuXARqWhWLxgoM",
+      "parent_id": null,
+      "author": "@TechReflex",
+      "text": "You might still notice banding in some niche cases. I did say that it's still good enough for most kinds of work, and this is the only monitor I've seen in this range that doesn't support even FRC. So even though it's not a big deal, I have to point it out for better comparison.",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 3,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgyFGsHxdj8Qz4pJsTJ4AaABAg",
@@ -14995,6 +15344,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgyB-0sZ91QIboFfXEZ4AaABAg.AWNti0UjHeOAWpjzd6ORlk",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgyB-0sZ91QIboFfXEZ4AaABAg.AWNti0UjHeOAWpjzd6ORlk",
+      "parent_id": null,
+      "author": "@Sadsoul-1o1",
+      "text": "Same situation man, pls tell me what did you pick",
+      "published_raw": "6 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgyAlhj2cnUJxuEt1n14AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -15471,6 +15849,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugy5Mcth_zkWdpFRMrl4AaABAg.ATXHmJp7_V9ATXkEZYEAK4",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "Ugy5Mcth_zkWdpFRMrl4AaABAg.ATXHmJp7_V9ATXkEZYEAK4",
+      "parent_id": null,
+      "author": "@YashYT_67",
+      "text": " @TechReflex i see and also i found this LG ultragear 27GS85Q nano ips panel ( nano ips panels have true 1-2 ms GtG ) and i found this in flipcart for 26-27k inr which i found it absolute value for money! Saying all this becoz this might be the best balanced moniter in terms of colours,motion clarity,etc",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugy4ugeT1fQucxkKyjF4AaABAg.Abi4LhsMDqjAbi94gTe0ps",
@@ -16487,6 +16894,32 @@
       "is_reply": false,
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
+      ],
+      "relevance": "low",
+      "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugxz0_ixeB2f9Nqwmqh4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 7i screen brightness not linear",
+      "source_url": "https://www.youtube.com/watch?v=z1kZFey3SYU",
+      "video_id": "z1kZFey3SYU",
+      "comment_id": "Ugxz0_ixeB2f9Nqwmqh4AaABAg",
+      "parent_id": null,
+      "author": "@kainel5273",
+      "text": "I HAD THAT PROBLEM BUT YOU HAVE TO GO INTO THE SETTING AND DISABLE AUTO BRIGHTNESS OR SCREEN ADJUSTMENTS.  MINE STARTED DOING THAT BEFORE WINDOWS 11. WHEN YOU UPDATED TO WINDOWS 11, IT MIGHT HAVE RESET ITSELF WHICH SOMETIMES IT WILL DO WHEN USING CERTAIN PROGRAMS THAT MESS WITH YOUR SETTING.",
+      "published_raw": "4 years ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 2,
+      "reply_count": 5,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion monitor screen gets darker"
       ],
       "relevance": "low",
       "models_mentioned": []
@@ -18172,6 +18605,64 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxjjMlD3da_xI-I4b54AaABAg.ARr7T2-CbSWASMg6timZI6",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgxjjMlD3da_xI-I4b54AaABAg.ARr7T2-CbSWASMg6timZI6",
+      "parent_id": null,
+      "author": "@SwingT365",
+      "text": "Bro i am using incio type c to dp adapter and i am getting 240hz RR on same monitor as in this video and some people are getting 300hz with it on acer one.",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgxjjMlD3da_xI-I4b54AaABAg.ARr7T2-CbSWARrz6uN85Nl",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgxjjMlD3da_xI-I4b54AaABAg.ARr7T2-CbSWARrz6uN85Nl",
+      "parent_id": null,
+      "author": "@TechReflex",
+      "text": "In their official spec sheet, they mention support for upto 144Hz over HDMI. (The TMDS part explains this)",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgxjUB4t7aC6suO2MLh4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -18206,6 +18697,90 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugxj1R0d6gzo4dVbYA94AaABAg.ATyyOgghH6tAUjkZ121lLz",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 Monitor Review - Great, But I Have One Issue",
+      "source_url": "https://www.youtube.com/watch?v=2JnG6pvN75k",
+      "video_id": "2JnG6pvN75k",
+      "comment_id": "Ugxj1R0d6gzo4dVbYA94AaABAg.ATyyOgghH6tAUjkZ121lLz",
+      "parent_id": null,
+      "author": "@Folken420",
+      "text": "@DorianGamer-u3q iiyama 34\" LED - G-MASTER GB3467WQSU-B5 Red Eagle",
+      "published_raw": "7 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion monitor HDR brightness drops"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugxj1R0d6gzo4dVbYA94AaABAg.ATyyOgghH6tATz1Ip3_fJI",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 Monitor Review - Great, But I Have One Issue",
+      "source_url": "https://www.youtube.com/watch?v=2JnG6pvN75k",
+      "video_id": "2JnG6pvN75k",
+      "comment_id": "Ugxj1R0d6gzo4dVbYA94AaABAg.ATyyOgghH6tATz1Ip3_fJI",
+      "parent_id": null,
+      "author": "@iLLGamingNet",
+      "text": "Good move. The colours looked washed out to me too.",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 3,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion monitor HDR brightness drops"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugxj1R0d6gzo4dVbYA94AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 Monitor Review - Great, But I Have One Issue",
+      "source_url": "https://www.youtube.com/watch?v=2JnG6pvN75k",
+      "video_id": "2JnG6pvN75k",
+      "comment_id": "Ugxj1R0d6gzo4dVbYA94AaABAg",
+      "parent_id": null,
+      "author": "@Folken420",
+      "text": "I just bought a Lenovo Legion 27Q-11 and for me the colors feel really washed out compared to my previous monitor T_T \n300Hz is nice but I really miss the contrast and vividness of my previous monitor. I wish I could return it honestly and invest a bit more instead.\n\nEdit: I'm able to return it, praise be.",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": 4,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion monitor HDR brightness drops"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugxj1MNLIztUjAeNwrd4AaABAg",
@@ -18249,16 +18824,17 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 32UD 10",
-        "Legion Pro monitor"
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -18281,16 +18857,17 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 32UD 10",
-        "Legion Pro monitor"
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -19155,23 +19732,19 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": 1,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Legion Pro27Q OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion OLED",
-        "Lenovo OLED monitor HDR",
-        "Lenovo QD-OLED monitor HDR dimming"
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "medium",
       "models_mentioned": [
@@ -20774,18 +21347,14 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Lenovo OLED monitor HDR"
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -21342,13 +21911,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T00:26:23.795008Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 5,
       "reply_count": 1,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED"
+        "Lenovo Legion Pro 27Q10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -22259,14 +22827,13 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Legion Pro27Q OLED"
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Legion Pro27Q monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -23126,6 +23693,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugwyr9A3oKQ4OubndHd4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "Ugwyr9A3oKQ4OubndHd4AaABAg",
+      "parent_id": null,
+      "author": "@sathish777",
+      "text": "bro which 27 2K monitor do you suggest  under 20k?",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": 3,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugwykwx1Is5U7qtvdOl4AaABAg.AOt2sTgolUfAOvdvxeI5hM",
       "platform": "youtube",
       "record_type": "reply",
@@ -23334,6 +23930,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwxltPMiv6NVwEtvsV4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgwxltPMiv6NVwEtvsV4AaABAg",
+      "parent_id": null,
+      "author": "@CodeOnCouchX",
+      "text": "if I Use HDMI 2.1 cable with this monitor to connect with my laptop can it produce 240 HZ @ 2560×1440 (2K / QHD) or it work only with DP cable ?",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwxhYG_KSWkc1hQPih4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -23498,6 +24123,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwuZbdk5fMmd3f2fLF4AaABAg.ASPLfh8_CQIASPvJNXB-X0",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgwuZbdk5fMmd3f2fLF4AaABAg.ASPLfh8_CQIASPvJNXB-X0",
+      "parent_id": null,
+      "author": "@TechReflex",
+      "text": "This should be better than either of them. For 15K it's a no brainer. The color gamut may not be class leading, but pure gaming performance is really excellent.",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwuRMLks1Nx0NAfEaB4AaABAg.AZh9POLeNOpAZhw6rBnZVs",
@@ -25036,24 +25690,23 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": 1,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 32UD 10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Legion Pro27Q OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion Pro OLED",
-        "Legion Pro monitor"
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -25137,6 +25790,62 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugwhk8Di2i_0W3e5x_N4AaABAg.ATwNxR2ckkXATyO2NeC-Im",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 Monitor Review - Great, But I Have One Issue",
+      "source_url": "https://www.youtube.com/watch?v=2JnG6pvN75k",
+      "video_id": "2JnG6pvN75k",
+      "comment_id": "Ugwhk8Di2i_0W3e5x_N4AaABAg.ATwNxR2ckkXATyO2NeC-Im",
+      "parent_id": null,
+      "author": "@SashankManne-pr8nx",
+      "text": "ill use an ps5 on it",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion monitor HDR brightness drops"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugwhk8Di2i_0W3e5x_N4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 Monitor Review - Great, But I Have One Issue",
+      "source_url": "https://www.youtube.com/watch?v=2JnG6pvN75k",
+      "video_id": "2JnG6pvN75k",
+      "comment_id": "Ugwhk8Di2i_0W3e5x_N4AaABAg",
+      "parent_id": null,
+      "author": "@SashankManne-pr8nx",
+      "text": "Hey Saahil im bit confused what to choose between acer nitro kg271 x1 and lenovo legion 27Q-10 can you tell me which is better among these two monitors",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": 13,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion monitor HDR brightness drops"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwhQAEXulJ8WW0itNJ4AaABAg",
@@ -27242,6 +27951,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwRyf3Ga8YxJ6tg3aZ4AaABAg.ARukApCs4GwARupQcxSIgr",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgwRyf3Ga8YxJ6tg3aZ4AaABAg.ARukApCs4GwARupQcxSIgr",
+      "parent_id": null,
+      "author": "@TechReflex",
+      "text": "Will ask.",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwRtHZKW97vzoyvtMx4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -27474,6 +28212,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwPwRAE34cPK6gzt7R4AaABAg.ARrQQ_kMfaJARrvp-K346_",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgwPwRAE34cPK6gzt7R4AaABAg.ARrQQ_kMfaJARrvp-K346_",
+      "parent_id": null,
+      "author": "@TechReflex",
+      "text": "https://youtu.be/Mr9P7vH0OEc\n\nMSI is better as per my observation in the FHD models department.",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwPhhQc_NdNQBi5J6Z4AaABAg",
@@ -28494,6 +29261,64 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwGJ286hP32zUb4yUF4AaABAg.ARqPOpl01IOARqY2Zt9RoA",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgwGJ286hP32zUb4yUF4AaABAg.ARqPOpl01IOARqY2Zt9RoA",
+      "parent_id": null,
+      "author": "@justanisopropylalcohol",
+      "text": " @TechReflex \nI want your opinion on its pre-calibration. They are also one of those monitors which do not market fake response times using extreme overdrive that results in overshoot artifacts.",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwGJ286hP32zUb4yUF4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgwGJ286hP32zUb4yUF4AaABAg",
+      "parent_id": null,
+      "author": "@justanisopropylalcohol",
+      "text": "can you ask dell for a review unit of s2725qs and s2725qc because they are 27\" 3840*2160 120Hz 1500:1 IPS costing around ₹26000 and ₹28000 in offline market respectively.\nI am most interested in their factory calibrated colour accuracy (default and srgb mode).",
+      "published_raw": "10 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": 2,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwG9ipoilMYRjgaaP54AaABAg.AXZFucUX8ehAXZWnG9xTcZ",
       "platform": "youtube",
       "record_type": "reply",
@@ -28936,23 +29761,19 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Legion Pro27Q OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion OLED",
-        "Lenovo OLED monitor HDR",
-        "Lenovo QD-OLED monitor HDR dimming"
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -29753,16 +30574,17 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD 10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD10",
-        "Lenovo Legion Pro 32UD 10",
-        "Legion Pro monitor"
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -30687,24 +31509,46 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD10",
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Lenovo Legion Pro 27QD-10 OLED",
-        "Legion Pro OLED",
-        "Legion OLED",
-        "Legion Pro monitor",
-        "Lenovo OLED monitor HDR"
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugw-PF3Y7KeeJ25GRDF4AaABAg.AcON-1K0rGjAcOPPxp08bT",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "Ugw-PF3Y7KeeJ25GRDF4AaABAg.AcON-1K0rGjAcOPPxp08bT",
+      "parent_id": null,
+      "author": "@LikhithVenugopal",
+      "text": " @TechReflex i did everything nothing happened and i have asked amazon for a replacement and they issued service and no one showed up so they said they will call me tue and decide what to do as my return window ends on wednesday",
+      "published_raw": "4 weeks ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     }
   ]
 }
