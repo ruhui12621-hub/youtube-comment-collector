@@ -4,7 +4,7 @@ import json, re
 from datetime import datetime, timezone
 from pathlib import Path
 from playwright.sync_api import sync_playwright
-from search_rules import load_search_queries, should_exclude_text
+from search_rules import load_search_queries, is_relevant_monitor_text
 
 BASE = "https://forums.lenovo.com"
 HOME = BASE + "/"
@@ -108,7 +108,7 @@ def main():
                             continue
                         tid, pid = m.group(1), None
                     result_context = link.get("parent") or ""
-                    if should_exclude_text(link.get("text"), result_context):
+                    if not is_relevant_monitor_text(link.get("text"), result_context):
                         continue
                     entry = report["discovered_topics"].setdefault(tid, {
                         "tid": tid, "url": link["url"], "title": link["text"],
