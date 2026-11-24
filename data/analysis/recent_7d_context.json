@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T23:42:14.289770Z",
+  "generated_at": "2026-11-24T00:02:35.806511Z",
   "window_days": 7,
   "relevance": "low_context",
-  "record_count": 92,
+  "record_count": 93,
   "records": [
     {
       "record_id": "youtube:UgzFVzVZ0EfaC4QcjS14AaABAg",
@@ -54,7 +54,9 @@
         "Lenovo Legion Pro 27Q-10 OLED"
       ],
       "relevance": "low",
-      "models_mentioned": []
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzLMRI8G1rfuIwpJ5x4AaABAg.A_0dwULkdqXAdZTp9CjIxU",
@@ -2483,6 +2485,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwHH5RiuGTLa_7lRmp4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo - Legion Pro 27Q-10 Longterm review (\"don't do it!\"); incredible MOTION RESOLUTION.",
+      "source_url": "https://www.youtube.com/watch?v=zWdlrb4uCDI",
+      "video_id": "zWdlrb4uCDI",
+      "comment_id": "UgwHH5RiuGTLa_7lRmp4AaABAg",
+      "parent_id": null,
+      "author": "@deny_s",
+      "text": "Tho whole video looks like an old fart raging about stuff he doesn't understand so much that he can't even use the controls. Painful to watch.",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-17T11:32:58.256857Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-22T11:32:58.256857Z",
+      "like_count": 2,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T23:42:14.289770Z",
+  "generated_at": "2026-11-24T00:02:35.806511Z",
   "month": "2026-03",
-  "record_count": 2,
+  "record_count": 4,
   "records": [
     {
       "record_id": "youtube:Ugz6DBMALX2r7FkL66t4AaABAg.ATACGhlw5kfATlFsgxDuLb",
@@ -57,6 +57,52 @@
       "relevance": "medium",
       "models_mentioned": [
         "27UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10024883:10090381",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automatic",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15880/10024883/10090314",
+      "thread_id": "10024883",
+      "post_id": "10090381",
+      "author": "Lorenzo_Lenovo",
+      "text": "Hello Miysis56,\nWelcome to Lenovo Community\nI understand that you are looking for the information about the\nLegion Pro 27q-10\nOLED Care system and screen protections.\nAbout OLED Care and automatic protections:\nLenovo OLED monitors generally include several protections under the OSD “OLED Care” (names may vary): pixel/Panel Cleaning, Screen Move (pixel shift), Logo Luminance Adjustment, and Screen Saver.\nShort “Pixel Cleaning” routines usually run automatically when the monitor enters standby or is powered off after use, while a longer compensation cycle can be started manually from the OSD. Exact trigger conditions (timers/durations) can vary by firmware and model.\nYou can always run the routine manually from the OSD if you prefer not to wait for the automatic cycle.\nAs for this model, it seems that it is manually configured via the OSD. See page 2-9 of the\nmonitor user guide\n.\nHope this helps.\nBest regards,\nLorenzo_Lenovo",
+      "published_raw": "2026-03-12 14:25",
+      "published_at": "2026-03-12T14:25:34Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10024883:10090314",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automatic",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15880/10024883/10090314",
+      "thread_id": "10024883",
+      "post_id": "10090314",
+      "author": "Miysis56",
+      "text": "Hello,\nI recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automatic features of the monitor regarding screen protections.\nAfter unsuccessfully trying to contact support, and its chat which keeps redirecting us in a loop... I'm trying to get answers here.\nThe chat tells me that pixel protection can start automatically, but under what conditions? After sleep? For how long? True or false?\nOr is it only manual via the OSD menu?\nThank you",
+      "published_raw": "2026-03-12 11:29",
+      "published_at": "2026-03-12T11:29:44Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": true,
+      "kudos": 0,
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
       ]
     }
   ]

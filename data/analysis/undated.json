@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:42:14.289770Z",
+  "generated_at": "2026-11-24T00:02:35.806511Z",
   "note": "No reliable publication timestamp; do not treat as recent.",
   "record_count": 1059,
   "records": [
@@ -9504,11 +9504,10 @@
         "Lenovo Legion Pro 32UD-10 HDR",
         "Lenovo Legion Pro 27Q-10 OLED"
       ],
-      "relevance": "excluded",
+      "relevance": "medium",
       "models_mentioned": [
         "27Q10"
-      ],
-      "exclusion_reason": "27Q-10 is outside the target model scope"
+      ]
     },
     {
       "record_id": "youtube:Ugycp6w6dMdUJ-GZ4fB4AaABAg",
@@ -11551,7 +11550,9 @@
         "Lenovo Legion Pro 32UD-10 HDR"
       ],
       "relevance": "low",
-      "models_mentioned": []
+      "models_mentioned": [
+        "27UD10"
+      ]
     },
     {
       "record_id": "youtube:UgyNHefBNv4uywnYEqd4AaABAg.AZyiqoGm3EDA_03RrL8I2u",
@@ -20512,7 +20513,9 @@
         "Lenovo Legion Pro 27Q-10 OLED"
       ],
       "relevance": "low",
-      "models_mentioned": []
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugx8_y1_A0eODqO5d-F4AaABAg",

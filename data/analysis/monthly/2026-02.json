@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T23:42:14.289770Z",
+  "generated_at": "2026-11-24T00:02:35.806511Z",
   "month": "2026-02",
-  "record_count": 6,
+  "record_count": 8,
   "records": [
     {
       "record_id": "youtube:Ugz8WMMx0DUlF2TTSex4AaABAg.ATFP6xRjr3VATFkcDS9r4h",
@@ -116,6 +116,52 @@
       ]
     },
     {
+      "record_id": "lenovo_forum:10022596:10081795",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "02-19-2026 15:16:32 Lenovo 32UD-10 Oled care byVechtrulinY Gaming Accessories & Curved Gaming Monitors Hi there, based on the limited information available in the user manual of the Lenovo 32UD-10 GamingMonitor, I do not understand the following: 1.difference in the time each operation takes (automa",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10022596/10081645",
+      "thread_id": "10022596",
+      "post_id": "10081795",
+      "author": "Adriel_lenovo",
+      "text": "Hi and welcome to the Lenovo Community\nVechtrul\n,\nI understand your queries about the Screen Protection feature on your Lenovo Legion Pro 32UD-10 monitor. And great job being proactive about OLED care.\nBased on how OLED maintenance features are designed on the 32UD-10:\nAutomatic “Screen Protection”\n(every ~4 hours): When you accept the prompt, it runs a short compensation/pixel refresh cycle. This typically completes in about 1–2 minutes and is intended to clear minor image retention from recent use.\nManual “Panel Protect” (OSD): This initiates a full (deep) compensation cycle, which takes longer—around 5 minutes—and performs a more thorough recalibration of the panel. It’s safe to use, but not necessary to run frequently unless you notice persistent image retention.\nIf you miss the screen-protection prompt: The monitor will\ndefer the short cycle and typically perform it the next time the monitor is idle/enters\nstandby or is powered off normally. To ensure it can complete, avoid cutting power at the wall immediately—let the monitor go to sleep or power off via the button/OS so it can run any scheduled maintenance.\nWhat’s recommended: For most users, leave the automatic protection enabled and let the monitor manage the short cycles. Use Panel Protect occasionally (e.g., if you notice retention that doesn’t clear after regular use or after an automatic cycle). Running the deep cycle too often won’t harm the panel, but it’s unnecessary for routine care.\nAdditional OLED care tips: - Enable features like Pixel Shift and Logo Dimming/Screen Saver in the OSD to reduce static element retention. - Vary on-screen content and avoid long periods of static UI elements at high brightness.\nHope this helps you out. Please let us know if you have any other concerns or queries.\nBest regards,\nAdriel_Lenovo",
+      "published_raw": "2026-02-19 19:50",
+      "published_at": "2026-02-19T19:50:38Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "high",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10022596:10081645",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "02-19-2026 15:16:32 Lenovo 32UD-10 Oled care byVechtrulinY Gaming Accessories & Curved Gaming Monitors Hi there, based on the limited information available in the user manual of the Lenovo 32UD-10 GamingMonitor, I do not understand the following: 1.difference in the time each operation takes (automa",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10022596/10081645",
+      "thread_id": "10022596",
+      "post_id": "10081645",
+      "author": "Vechtrul",
+      "text": "Hi there, based on the limited information available in the user manual of the Lenovo 32UD-10 Gaming Monitor, I do not understand the following:\n1. Automatic screen protection notice every 4 hours, if accepted, does the same thing as the manual \"Panel Protect\" action in the OSD? Or is the latter the deep refresh that is not recommended;\n2. The screen protection notice stays on the screen for 3-4 seconds so I usually miss it. In this case, does the monitor do the refresh first thing after stand by?\n3. Ideally, should I just use the manual Panel Protect action or just leave the monitor do everything itself?\nI usually missed the screen protection notices and I just ran the manual Panel Protect. However, I have noticed a difference in the time each operation takes (automatic screen protection when chosen yes on the notice - 1-2 minutes, whereas the manual panel protect - 5 minutes).\nThank you in advance. I am just trying to take care of the monitor, given how finnicky OLEDs are.",
+      "published_raw": "2026-02-19 15:16",
+      "published_at": "2026-02-19T15:16:32Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": true,
+      "kudos": 0,
+      "relevance": "medium",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
       "record_id": "lenovo_forum:10022519:10081586",
       "platform": "lenovo_forum",
       "record_type": "forum_post",
@@ -130,7 +176,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-23T23:42:14.289770Z",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "high",
@@ -153,7 +199,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-23T23:42:14.289770Z",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
       "is_first_post": true,
       "kudos": 0,
       "relevance": "medium",

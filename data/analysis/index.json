@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T23:42:14.289770Z",
+  "generated_at": "2026-11-24T00:02:35.806511Z",
   "timezone": "UTC",
   "source_of_truth": [
     "data/comments/*.json",
@@ -20,36 +20,38 @@
   "counts": {
     "youtube_videos": 39,
     "youtube_comments_and_replies": 10902,
-    "forum_threads": 9,
-    "forum_posts": 41,
-    "all_records": 10943,
-    "relevant_records": 40,
-    "excluded_records": 10903,
-    "dated_records": 9884,
-    "exact_publication_times": 41,
+    "forum_threads": 20,
+    "forum_posts": 76,
+    "all_records": 10978,
+    "relevant_records": 81,
+    "excluded_records": 10897,
+    "dated_records": 9919,
+    "exact_publication_times": 76,
     "estimated_publication_times": 9843,
     "undated_records": 1059,
-    "recent_7d_relevant": 2,
-    "recent_30d_relevant": 6,
-    "recent_7d_context": 92,
-    "recent_30d_context": 441
+    "recent_7d_relevant": 3,
+    "recent_30d_relevant": 10,
+    "recent_7d_context": 93,
+    "recent_30d_context": 446
   },
   "monthly_counts": {
     "2025-12": 5,
-    "2026-02": 6,
-    "2026-03": 2,
+    "2026-02": 8,
+    "2026-03": 4,
     "2026-04": 5,
-    "2026-05": 3,
+    "2026-05": 6,
     "2026-06": 2,
-    "2026-07": 5,
-    "2026-09": 5,
-    "2026-11": 6
+    "2026-07": 12,
+    "2026-08": 12,
+    "2026-09": 12,
+    "2026-10": 3,
+    "2026-11": 10
   },
   "relevance_guide": {
     "high": "Target 27UD-10/32UD-10 plus a direct dimming/brightness symptom.",
     "medium": "Target model plus HDR/brightness/firmware context.",
     "low": "Adjacent OLED/HDR/Lenovo context; stored in the separate context windows, not the default relevant windows.",
-    "excluded": "27QD-10 or 27Q-10 without a target UD model."
+    "excluded": "27QD-10 or 32QD-10 when the same record does not contain Pro. 27Q/Pro27Q is retained."
   },
   "time_quality_guide": {
     "exact": "Explicit timestamp or Unix timestamp.",

@@ -1,15 +1,43 @@
 {
-  "generated_at": "2026-11-23T23:42:14.289770Z",
+  "generated_at": "2026-11-24T00:02:35.806511Z",
   "window_days": 30,
   "date_basis": "published_at",
-  "record_count": 6,
+  "record_count": 10,
   "records": [
+    {
+      "record_id": "youtube:UgwHH5RiuGTLa_7lRmp4AaABAg.AdJKECcSbwyAdKs3YMqgW0",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo - Legion Pro 27Q-10 Longterm review (\"don't do it!\"); incredible MOTION RESOLUTION.",
+      "source_url": "https://www.youtube.com/watch?v=zWdlrb4uCDI",
+      "video_id": "zWdlrb4uCDI",
+      "comment_id": "UgwHH5RiuGTLa_7lRmp4AaABAg.AdJKECcSbwyAdKs3YMqgW0",
+      "parent_id": null,
+      "author": "@whitedragem",
+      "text": "mate, you don't know me.\n\nI know to circumvent and fix this issue.\n\nso, showing each step a tech may take to troubleshoot (and diagnose), I go through each step.\n\nmethodically so.\n\nI could have done 'the solution' in two steps and been up and running in fourty seconds.\n\ninstead, I show that typical things MOST TECHs WOULD TRY simply DO NOT WORK.\n\nEnjoy your Lenovo loving and blinkers.\n\n(don't hate the messenger)\n\nLenovo productsbare high priced trash from a 'spec sheet warfare' company.\nThat will firmware the product toba broken or reduced capacity state just outside the warranty period.\n\n(this monitor took menu logic shortcuts, uses software in place of actual hardware to save coin, and the \"spoofs 4K\" feature, undefeatable, will break handshaking with lots of products)\n\nI have owned, in the last handful of years;\nLegion Go\nYoga 7i\nLenovo flagship phone\nand\nThis monitor\n(a few other parts too)\n\n\nI have retailed IT products, starting thirty+ years ago.\nLike many in my professional fields, spoke up the brand very strongly.\nRecent years; Lenovo makes parts fail just beyond warranty for 'new sale'\n\nCaveat Emptor.\n(be mindful of speaking trash about people YOU DON'T KNOW- clearly thebpurpose of this video, 'useful for technicians', went above your head.\n\nreal world use shouldn't need a hardware 'dance' (ever).",
+      "published_raw": "4 days ago",
+      "published_at": "2026-11-18T11:32:58.256857Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-22T11:32:58.256857Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
     {
       "record_id": "lenovo_forum:10054044:10194765",
       "platform": "lenovo_forum",
       "record_type": "forum_post",
-      "source_title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
-      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194765",
+      "source_title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors I tried everything: multiple factory resets, turning HDR off, disabling OLED Care settings, disablingDolby Vision, and recalibrating the HDR on my PS5 Pro, but it’s still the same issue with no so",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194092",
       "thread_id": "10054044",
       "post_id": "10194765",
       "author": "Nate23__",
@@ -19,7 +47,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-23T23:42:14.289770Z",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "high",
@@ -31,8 +59,8 @@
       "record_id": "lenovo_forum:10054044:10194477",
       "platform": "lenovo_forum",
       "record_type": "forum_post",
-      "source_title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
-      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194765",
+      "source_title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors I tried everything: multiple factory resets, turning HDR off, disabling OLED Care settings, disablingDolby Vision, and recalibrating the HDR on my PS5 Pro, but it’s still the same issue with no so",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194092",
       "thread_id": "10054044",
       "post_id": "10194477",
       "author": "Hassen_Lenovo",
@@ -42,7 +70,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-23T23:42:14.289770Z",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "high",
@@ -54,8 +82,8 @@
       "record_id": "lenovo_forum:10054044:10194092",
       "platform": "lenovo_forum",
       "record_type": "forum_post",
-      "source_title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
-      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194765",
+      "source_title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors I tried everything: multiple factory resets, turning HDR off, disabling OLED Care settings, disablingDolby Vision, and recalibrating the HDR on my PS5 Pro, but it’s still the same issue with no so",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194092",
       "thread_id": "10054044",
       "post_id": "10194092",
       "author": "Nate23__",
@@ -65,12 +93,35 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-23T23:42:14.289770Z",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
       "is_first_post": true,
       "kudos": 0,
       "relevance": "high",
       "models_mentioned": [
         "27UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10042773:10193067",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "HDR Dimming Issue on Lenovo Legion Pro, Can't Update Firmware 27Q-10",
+      "source_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
+      "thread_id": "10042773",
+      "post_id": "10193067",
+      "author": "Phobsen",
+      "text": "I had been running the monitor at 144Hz, since DSC, strangely enough, drives this monitor in 4K. This is quite annoying, especially in a multi-monitor setup.\nI have since returned the monitor and bought a model from a competitor. If Lenovo cannot manage to provide an appropriate firmware update, then I will simply go to the competition. Nevertheless, thank you for your input, and I hope that this monitor continues to be usable for you.",
+      "published_raw": "2026-11-14 07:00",
+      "published_at": "2026-11-14T07:00:13Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "high",
+      "models_mentioned": [
+        "27Q10"
       ]
     },
     {
@@ -99,6 +150,52 @@
       "relevance": "medium",
       "models_mentioned": [
         "32UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10042773:10192991",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "HDR Dimming Issue on Lenovo Legion Pro, Can't Update Firmware 27Q-10",
+      "source_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
+      "thread_id": "10042773",
+      "post_id": "10192991",
+      "author": "raulica123",
+      "text": "Hello, since I don't have much time right now, I tried something that seems to be working for me. Maybe you can try it and tell me if it helped you. What I did was set the monitor to 240hz; so far, since I haven't had much time to spend on the PC, after about 30–40 min I had no dimming issues. So maybe you have more time to try it and let me know if it helped. I will test it more myself, but I don't think I have time to do it this week.",
+      "published_raw": "2026-11-13 21:57",
+      "published_at": "2026-11-13T21:57:26Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "high",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10042773:10192583",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "HDR Dimming Issue on Lenovo Legion Pro, Can't Update Firmware 27Q-10",
+      "source_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
+      "thread_id": "10042773",
+      "post_id": "10192583",
+      "author": "guest60967",
+      "text": "Good day,\nJust bought this monitor and it has the same behaviour:\nOn TB400 it dimms after 30 to 60 mins. of playing and the only solution is turning it off an on, or cycling through other HDR modes, or turning off and on the HDR in Windows 11. On SDR I haven't noticed any weird dimming yet, but I read that some users have the problem even on SDR. Very unfortunate. The firmware is 04. I'm really thinking of returning the product and stay away from Lenovo related monitors, given the fact that this problem is around for a long time and no action was taken.",
+      "published_raw": null,
+      "published_at": "2026-11-13T09:41:42Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "high",
+      "models_mentioned": [
+        "27Q10"
       ]
     },
     {

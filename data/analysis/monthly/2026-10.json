@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-11-24T00:02:35.806511Z",
+  "month": "2026-10",
+  "record_count": 3,
+  "records": [
+    {
+      "record_id": "youtube:Ugx_MHni-HQM60BJzwF4AaABAg.AZ84-C0WYiaAcDxRbGXrIt",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion Pro 27UD - 10 | Is it worth $1000?",
+      "source_url": "https://www.youtube.com/watch?v=HfwIDt-8FSQ",
+      "video_id": "HfwIDt-8FSQ",
+      "comment_id": "Ugx_MHni-HQM60BJzwF4AaABAg.AZ84-C0WYiaAcDxRbGXrIt",
+      "parent_id": null,
+      "author": "@dlam8276",
+      "text": " @Olegas451  i recorded the raised blacks and color saturations on different hdr modes sent lenovo an email and they looked at it and gave me an email to refund back to my local retailer",
+      "published_raw": "1 month ago",
+      "published_at": "2026-10-24T23:28:03.032774Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 32UD-10 HDR"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugx_MHni-HQM60BJzwF4AaABAg.AZ84-C0WYiaAcDqpGBtpJp",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo Legion Pro 27UD - 10 | Is it worth $1000?",
+      "source_url": "https://www.youtube.com/watch?v=HfwIDt-8FSQ",
+      "video_id": "HfwIDt-8FSQ",
+      "comment_id": "Ugx_MHni-HQM60BJzwF4AaABAg.AZ84-C0WYiaAcDqpGBtpJp",
+      "parent_id": null,
+      "author": "@Olegas451",
+      "text": "I’m also very disappointed with this monitor. HDR is unusable with both the PS5 and my MacBook because bright objects are severely overexposed. I’ve tried everything, but nothing helped. I even sent the monitor in for warranty service, but they couldn’t find any issues.\n\nI’ve noticed that HDR works fine with my Apple TV, though. I’m curious what could be causing this difference — why does it work so poorly with some devices but perfectly fine with others?\n\nHave you managed to find a solution to this problem?",
+      "published_raw": "1 month ago",
+      "published_at": "2026-10-24T23:28:03.032774Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 32UD-10 HDR"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10042773:10174452",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "HDR Dimming Issue on Lenovo Legion Pro, Can't Update Firmware 27Q-10",
+      "source_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
+      "thread_id": "10042773",
+      "post_id": "10174452",
+      "author": "Phobsen",
+      "text": "Hello everyone!\nI bought this monitor in January of this year.\nThe faulty firmware of this monitor makes it unusable, especially in HDR mode.\nI run the monitor in the certified True Black 400 mode, and even here it is aggressively dimmed after 30–60 minutes.\nIt stays in this state until the input signal is changed, the monitor is turned off/on, or the driver is reset via a key combination. This dimming is normally desired with still images or an unmoving picture to protect the monitor; however, it should be lifted again as soon as motion on the screen is detected, and that does not happen here.\nThis is clearly due to faulty safety mechanisms within the firmware!\nTo this day, Lenovo has not managed to provide a firmware update, so the monitor is being returned today.",
+      "published_raw": "2026-10-05 09:56",
+      "published_at": "2026-10-05T09:56:15Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "high",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    }
+  ]
+}

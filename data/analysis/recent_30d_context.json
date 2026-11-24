@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T23:42:14.289770Z",
+  "generated_at": "2026-11-24T00:02:35.806511Z",
   "window_days": 30,
   "relevance": "low_context",
-  "record_count": 441,
+  "record_count": 446,
   "records": [
     {
       "record_id": "youtube:UgzFVzVZ0EfaC4QcjS14AaABAg",
@@ -54,7 +54,9 @@
         "Lenovo Legion Pro 27Q-10 OLED"
       ],
       "relevance": "low",
-      "models_mentioned": []
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzLMRI8G1rfuIwpJ5x4AaABAg.A_0dwULkdqXAdZTp9CjIxU",
@@ -2485,6 +2487,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwHH5RiuGTLa_7lRmp4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo - Legion Pro 27Q-10 Longterm review (\"don't do it!\"); incredible MOTION RESOLUTION.",
+      "source_url": "https://www.youtube.com/watch?v=zWdlrb4uCDI",
+      "video_id": "zWdlrb4uCDI",
+      "comment_id": "UgwHH5RiuGTLa_7lRmp4AaABAg",
+      "parent_id": null,
+      "author": "@deny_s",
+      "text": "Tho whole video looks like an old fart raging about stuff he doesn't understand so much that he can't even use the controls. Painful to watch.",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-17T11:32:58.256857Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-22T11:32:58.256857Z",
+      "like_count": 2,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugz6dqMdn7oFGobE0wB4AaABAg.Ad6lKsmoZsXAdGRb1PCPzz",
       "platform": "youtube",
       "record_type": "reply",
@@ -2858,6 +2888,34 @@
       "relevance": "low",
       "models_mentioned": [
         "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgxwIk_BorHbPJ3QtAl4AaABAg.ASwIcDNayfrAdGVjad7Itj",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo - Legion Pro 27Q-10 Longterm review (\"don't do it!\"); incredible MOTION RESOLUTION.",
+      "source_url": "https://www.youtube.com/watch?v=zWdlrb4uCDI",
+      "video_id": "zWdlrb4uCDI",
+      "comment_id": "UgxwIk_BorHbPJ3QtAl4AaABAg.ASwIcDNayfrAdGVjad7Itj",
+      "parent_id": null,
+      "author": "@myboiwassup",
+      "text": " @parthsolanki03  one thing i can say about the samsung is that it is MATTE! for some reason u cant find this kind of information anywhere so i tought i would specify this",
+      "published_raw": "6 days ago",
+      "published_at": "2026-11-16T11:32:58.256857Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-22T11:32:58.256857Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
       ]
     },
     {
@@ -4331,6 +4389,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxOrBXngty439jROjR4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo - Legion Pro 27Q-10 Longterm review (\"don't do it!\"); incredible MOTION RESOLUTION.",
+      "source_url": "https://www.youtube.com/watch?v=zWdlrb4uCDI",
+      "video_id": "zWdlrb4uCDI",
+      "comment_id": "UgxOrBXngty439jROjR4AaABAg",
+      "parent_id": null,
+      "author": "@yoruneko34",
+      "text": "its just a video of your hand under a black monitor",
+      "published_raw": "9 days ago",
+      "published_at": "2026-11-13T11:32:58.256857Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-22T11:32:58.256857Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwuEOsHMLwubIZmGEx4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -4771,6 +4857,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgxHhOtqQ_DUxJDJGpp4AaABAg.AcZ0McHLDp8Ad6nDnJ28GN",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Dell Alienware AW2725DF vs AW2725D vs Lenovo Legion Pro 27Q 10 – Monitor Comparison",
+      "source_url": "https://www.youtube.com/watch?v=ahY43ArEJS8",
+      "video_id": "ahY43ArEJS8",
+      "comment_id": "UgxHhOtqQ_DUxJDJGpp4AaABAg.AcZ0McHLDp8Ad6nDnJ28GN",
+      "parent_id": null,
+      "author": "@jbdoingjbstuff",
+      "text": "its slop",
+      "published_raw": "11 days ago",
+      "published_at": "2026-11-12T23:28:56.942190Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzIcze5CdZRuMo8MQ14AaABAg",
@@ -7408,7 +7522,9 @@
         "Lenovo Legion Pro 27Q-10 OLED"
       ],
       "relevance": "low",
-      "models_mentioned": []
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgxUNmRlEsdlOEgBchF4AaABAg",
@@ -9644,6 +9760,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxHhOtqQ_DUxJDJGpp4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Dell Alienware AW2725DF vs AW2725D vs Lenovo Legion Pro 27Q 10 – Monitor Comparison",
+      "source_url": "https://www.youtube.com/watch?v=ahY43ArEJS8",
+      "video_id": "ahY43ArEJS8",
+      "comment_id": "UgxHhOtqQ_DUxJDJGpp4AaABAg",
+      "parent_id": null,
+      "author": "@lilaluft",
+      "text": "The Lenovo is QD-OLED too. The coating is definitely glossy and NOT matte. Did you even do your research or is this just AI slop?",
+      "published_raw": "3 weeks ago",
+      "published_at": "2026-11-02T23:28:56.942190Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 4,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugwg29wDoEqFkCg95aZ4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -9667,7 +9811,9 @@
         "Lenovo Legion Pro 27Q-10 OLED"
       ],
       "relevance": "low",
-      "models_mentioned": []
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugzw5au1r_TU9ptuhrJ4AaABAg.AZnOYO9h__yAcV17vnqk0m",
@@ -10961,7 +11107,9 @@
         "Lenovo Legion Pro 32UD-10 HDR"
       ],
       "relevance": "low",
-      "models_mentioned": []
+      "models_mentioned": [
+        "27UD10"
+      ]
     },
     {
       "record_id": "youtube:UgzpigDZ9EyfN-b5nGV4AaABAg.AU6uxIB_X2iAcLoxVdTja1",

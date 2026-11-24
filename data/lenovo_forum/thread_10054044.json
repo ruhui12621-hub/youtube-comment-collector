@@ -2,11 +2,11 @@
   "thread": {
     "tid": "10054044",
     "fid": "15987",
-    "url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194765",
-    "title": "11-18-2026 01:19:37 Re:Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors Also, this is tailored to my PS5 Pro at the moment; I do not have a computer to make adjustments on thatI used different HDMI cables (stock PS5 Pro, stock Legion), and it is the same thing. Rep",
-    "query": "\"Legion Pro 27UD-10\" HDR",
+    "url": "https://forums.lenovo.com/topic/findpost/15987/10054044/10194092",
+    "title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors I tried everything: multiple factory resets, turning HDR off, disabling OLED Care settings, disablingDolby Vision, and recalibrating the HDR on my PS5 Pro, but it’s still the same issue with no so",
+    "query": "Lenovo Legion Pro 27UD-10 HDR",
     "source": "search_discovery",
-    "sample_pid": "10194765"
+    "sample_pid": "10194092"
   },
   "topic_api": {
     "endpoint_template": "https://forums.lenovo.com/api/v2/topic/getTopic?fid=15987&tid=10054044&page=N",

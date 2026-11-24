@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T23:42:14.289770Z",
+  "generated_at": "2026-11-24T00:02:35.806511Z",
   "month": "2026-07",
-  "record_count": 5,
+  "record_count": 12,
   "records": [
     {
       "record_id": "youtube:Ugz8WMMx0DUlF2TTSex4AaABAg.ATFP6xRjr3VAYxshT2Yfos",
@@ -141,6 +141,183 @@
       "relevance": "medium",
       "models_mentioned": [
         "32UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugx_MHni-HQM60BJzwF4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion Pro 27UD - 10 | Is it worth $1000?",
+      "source_url": "https://www.youtube.com/watch?v=HfwIDt-8FSQ",
+      "video_id": "HfwIDt-8FSQ",
+      "comment_id": "Ugx_MHni-HQM60BJzwF4AaABAg",
+      "parent_id": null,
+      "author": "@dlam8276",
+      "text": "HDR is crap on this monitor, can you review those HDR Modes, it raises the black levels and oversaturated, and TB400 mode just overblown the  whites",
+      "published_raw": "4 months ago",
+      "published_at": "2026-07-26T23:28:03.032774Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-23T23:27:48.497256Z",
+      "like_count": 3,
+      "reply_count": 2,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 32UD-10 HDR"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugz_2BdL6s8rtUDE-HZ4AaABAg.AYh646Ny5Z2AYkYXPScvHn",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Lenovo - Legion Pro 27Q-10 Longterm review (\"don't do it!\"); incredible MOTION RESOLUTION.",
+      "source_url": "https://www.youtube.com/watch?v=zWdlrb4uCDI",
+      "video_id": "zWdlrb4uCDI",
+      "comment_id": "Ugz_2BdL6s8rtUDE-HZ4AaABAg.AYh646Ny5Z2AYkYXPScvHn",
+      "parent_id": null,
+      "author": "@whitedragem",
+      "text": "Yeah I ceased using for three months; and now, having hooked up to a nice PC- (using a 300 brand new hdmi cable bought a month ago, with top tier bandwidth and 'build'), and Dolby Vision (???) wouldn't let Dirt Rally run at a 'lowly' 240hz (280hz tried first; BAD)..\n\nBLACKSCREEN.\nfade out\nBlackscreen.\nThree seconds of game, 'black'..\n\nIts a combo of 'spoofing 4k', and ''compressed bandwidth' etc..\nSadly the soft logic controls deny doing anything but switch hdmi inputs. (~to turn off Dolby Vision would require finding another source, as, no input locks out menus from doing anything bit input switch).\n\nIts budget built internals, but spec sheet/pricepoint attractive.\nModern junk.\nThe parts that work, great, but vs traditional well built electronics (that don't spoof inputs they don't actually do etc)(4K!?); this is lovely as a gift from a relative upgrading past this..\n\nBut to buy it?\nLots of remorse moments of ' shitty budget soft logic controls with bad logic design'.\n\nA firmware might fix some menus, but the timeouts --going to standby, quick, uninteruptable, \"power off cycle\", then bounces back, but timings are not built to handshake well..some of this is time to handshake /maintain the fake capabilities.. (needing compression for colour depth and only 2/3rds the real resolution)..\n\nCHEAP.\nGet what you pay for\n\nBuy smaller ('better built unit') or recommend to save for something built 'pro end users'.",
+      "published_raw": "4 months ago",
+      "published_at": "2026-07-25T11:32:58.256857Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-22T11:32:58.256857Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwU9tIkCfhxgLcd1wt4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo - Legion Pro 27Q-10 Longterm review (\"don't do it!\"); incredible MOTION RESOLUTION.",
+      "source_url": "https://www.youtube.com/watch?v=zWdlrb4uCDI",
+      "video_id": "zWdlrb4uCDI",
+      "comment_id": "UgwU9tIkCfhxgLcd1wt4AaABAg",
+      "parent_id": null,
+      "author": "@Sacredgeometrics",
+      "text": "I figured out that you just have to have something plugged in and powered on to use the menu properly you can then adjust all setting the reason it locks you out of certain settings is cause you may have your PlayStation hdr on it will lock you contrast deep color range because hdr auto does all this itself the other thing that’s important for you ps5 is to make sure your monitor hdmi is set to hdmi 2.1 not 2.0 because 2.0 locks you to 30fps where as 2.1 allows 120fps the other thing to change in the settings is the main power on can be used by simply turning on the ps5 and the monitor will come on or vise versa with you pc as main on off but the main thing is you need to have something plugged in and powered on to use the Lenovo menu hope this helps cause I love this monitor and bought it 2 days ago it’s definitely good option for competitive gaming",
+      "published_raw": "4 months ago",
+      "published_at": "2026-07-25T11:32:58.256857Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-22T11:32:58.256857Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10038636:10145329",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community purple240, I understand you're having trouble accessing the monitor settings of your L",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10038636/10145134",
+      "thread_id": "10038636",
+      "post_id": "10145329",
+      "author": "Adriel_lenovo",
+      "text": "Thanks for getting back to us\npurple240\n,\nyep I got it now the HDR was controlling the brightness and other things thanks\nGreat job in identifying the cause which is the HDR. You can disable it in order to access the settings like brightness and color on the monitor.\nPlease feel free to post here again should you have any other concerns or questions.\nBest regards,\nAdriel_Lenovo",
+      "published_raw": "2026-07-22 21:50",
+      "published_at": "2026-07-22T21:50:04Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10038636:10145239",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community purple240, I understand you're having trouble accessing the monitor settings of your L",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10038636/10145134",
+      "thread_id": "10038636",
+      "post_id": "10145239",
+      "author": "purple240",
+      "text": "Yep, I got it now—the HDR was controlling the brightness and other things. Thanks.",
+      "published_raw": "2026-07-22 17:55",
+      "published_at": "2026-07-22T17:55:14Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": false,
+      "kudos": 1,
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10038636:10145134",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community purple240, I understand you're having trouble accessing the monitor settings of your L",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10038636/10145134",
+      "thread_id": "10038636",
+      "post_id": "10145134",
+      "author": "Adriel_lenovo",
+      "text": "Hello and welcome to the Lenovo Community\npurple240\n,\nI understand you're having trouble accessing the monitor settings of your Lenovo Legion Pro 27Q-10 monitor. May I ask first, what joystick are you using to access the monitor settings? Is it the built-in controls to access the OSD menu?\nBased on your description, it seems that your monitor’s OSD (joystick) menu is being restricted by the current signal mode or by another enabled monitor feature, which can make items like Brightness unavailable.\nPlease follow this single path in order:\n1) Power-reset the monitor (clears many OSD lock states)\n- Turn the monitor off.\n- Unplug the monitor power cable from the wall.\n- Wait 60 seconds.\n- Plug it back in and turn it on.\n2) Make sure you’re adjusting settings while a supported video signal is active\n- Connect a device that is actively outputting video (PC/laptop/console) and make sure you can see the desktop/game.\n- If you’re on a console, open the console Home screen (not a “no signal” screen).\n- Then open the OSD again and check if Brightness becomes selectable.\n3) Switch to a different picture mode/preset (common reason Brightness is locked)\n- Using the joystick, go to the monitor’s Picture/Preset settings.\n- Change the preset (for example from a gaming/HDR/special mode to a Standard/Custom mode).\n- After switching the preset, check Brightness again.\n4) Temporarily disable HDR / special dynamic features (these often lock Brightness)\n- In the OSD, look for items such as HDR, Dynamic Contrast, Eye Care/Low Blue Light, or similar “enhancement” features.\n- Turn them Off (temporarily) and re-check if Brightness becomes adjustable.\n- If you are using Windows: go to Settings > System > Display and toggle “Use HDR” Off to test.\n5) Try another input and cable (rules out signal-format limitations)\n- Switch from HDMI to DisplayPort (or another HDMI port) if available.\n- Use a different cable if possible.\n- Re-test the OSD Brightness control.\n6) Factory reset the monitor settings\n- In the OSD, find Reset / Factory Reset / Recall and perform the reset.\n- After reset, re-check Brightness.\n7) Update monitor firmware\n- Click\nhere\nto download the necessary firmware/driver for the monitor.\nLet us know how it goes.\nThanks,\nAdriel_Lenovo",
+      "published_raw": "2026-07-22 14:50",
+      "published_at": "2026-07-22T14:50:07Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": false,
+      "kudos": 1,
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10038636:10145068",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community purple240, I understand you're having trouble accessing the monitor settings of your L",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10038636/10145134",
+      "thread_id": "10038636",
+      "post_id": "10145068",
+      "author": "purple240",
+      "text": "When I open my monitor settings using the joystick, I am limited to only certain settings. There is no option to click or even hover over, for example, brightness, which also means I cannot see some of the monitor's features. This is frustrating because there are no helpful methods or videos that work. There are only 4 buttons: the joystick, output/input source, gaming mode, and the power button.",
+      "published_raw": "2026-07-22 13:09",
+      "published_at": "2026-07-22T13:09:06Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "is_first_post": true,
+      "kudos": 0,
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
       ]
     }
   ]
