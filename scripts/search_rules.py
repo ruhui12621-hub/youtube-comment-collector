@@ -18,7 +18,7 @@ def load_search_queries() -> list[str]:
 
 # These are the monitor models/families relevant to this investigation.
 _MODEL_RE = re.compile(r"\b(?:27|32)\s*(?:ud|q|qd)\s*-?\s*10\b", re.I)
-_QD_RE = re.compile(r"\b(?:27|32)\s*qd\s*-?\s*10\b", re.I)
+_QD_RE = re.compile(r"\b(?:27|32)\s*qd(?:\s*-?\s*10)?\b", re.I)
 _PRO_RE = re.compile(r"\bpro\b", re.I)
 _BRAND_RE = re.compile(r"\b(?:lenovo|legion)\b", re.I)
 _MONITOR_RE = re.compile(r"\b(?:monitor|monitors|display|displays|screen|screens)\b", re.I)
