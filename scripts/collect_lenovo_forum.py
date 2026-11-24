@@ -13,7 +13,7 @@ from urllib.parse import urlencode
 
 import requests
 from bs4 import BeautifulSoup
-from search_rules import load_search_queries, should_exclude_text
+from search_rules import load_search_queries, should_exclude_text, is_relevant_monitor_text
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "lenovo_forum"
@@ -123,10 +123,9 @@ def load_target_threads():
         # a brightness/HDR-related symptom; do not let a broad search query pull in
         # unrelated topics that happened to appear in the result list.
         context = item.get("result_context") or ""
-        if should_exclude_text(title, context):
+        if not is_relevant_monitor_text(title, context):
             continue
-        if not ((model_pattern.search(title) or family_pattern.search(title + "\\n" + context))
-                and issue_pattern.search(title + "\\n" + context)):
+        if not issue_pattern.search(title + "\\n" + context):
             continue
         if parsed_tid not in targets:
             targets[parsed_tid] = {
