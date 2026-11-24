@@ -13,7 +13,7 @@ from pathlib import Path
 from typing import Any
 
 from ytscrape import YouTube
-from search_rules import load_search_queries, should_exclude_text
+from search_rules import load_search_queries, is_relevant_monitor_text
 
 ROOT = Path(__file__).resolve().parents[1]
 MANUAL_FILE = ROOT / "video_urls.txt"
@@ -111,8 +111,8 @@ def main() -> int:
                         continue
                     title = getattr(video, "title", None)
                     channel = getattr(video, "channel", None)
-                    if should_exclude_text(title):
-                        print(f"  [EXCLUDED 27QD without Pro] {title}")
+                    if not is_relevant_monitor_text(title):
+                        print(f"  [EXCLUDED unrelated monitor result] {title}")
                         continue
                     item = discovered.setdefault(
                         video_id,
