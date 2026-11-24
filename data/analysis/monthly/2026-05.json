@@ -1,93 +1,8 @@
 {
-  "generated_at": "2026-11-24T00:02:35.806511Z",
+  "generated_at": "2026-11-24T00:36:03.384897Z",
   "month": "2026-05",
   "record_count": 6,
   "records": [
-    {
-      "record_id": "youtube:UgzTsP87ce7AXl9pDSB4AaABAg.AWGkwEmwLVJAWvAOehOn7H",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
-      "source_url": "https://www.youtube.com/watch?v=XghsOv2iIOA",
-      "video_id": "XghsOv2iIOA",
-      "comment_id": "UgzTsP87ce7AXl9pDSB4AaABAg.AWGkwEmwLVJAWvAOehOn7H",
-      "parent_id": null,
-      "author": "@erenyeaga4518",
-      "text": "may i know what do u mean by HDR dimming i am planning to buy this monitor if u have purchased it yet please let me know how it is",
-      "published_raw": "6 months ago",
-      "published_at": "2026-05-27T23:28:48.626650Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-23T23:27:48.497256Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo Legion Pro 32UD-10 HDR"
-      ],
-      "relevance": "high",
-      "models_mentioned": [
-        "32UD10"
-      ]
-    },
-    {
-      "record_id": "youtube:UgzTsP87ce7AXl9pDSB4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
-      "source_url": "https://www.youtube.com/watch?v=XghsOv2iIOA",
-      "video_id": "XghsOv2iIOA",
-      "comment_id": "UgzTsP87ce7AXl9pDSB4AaABAg",
-      "parent_id": null,
-      "author": "@DinduNuffinLAT",
-      "text": "I read that HDR dimming is too aggressive on this monitor. I don't understand why there's no proper in-depth reviews of this monitor. It's been out for months now and so far only 2 issues I can think of this is the white frame (doesn't go well with dark background dark room) and the supposed aggressive dimming in HDR.",
-      "published_raw": "6 months ago",
-      "published_at": "2026-05-27T23:28:48.626650Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-23T23:27:48.497256Z",
-      "like_count": 1,
-      "reply_count": 1,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 32UD-10 HDR"
-      ],
-      "relevance": "high",
-      "models_mentioned": [
-        "32UD10"
-      ]
-    },
-    {
-      "record_id": "youtube:UgxbqE5-Gp18_SBbxhx4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "Lenovo Legion Pro 27UD - 10 | Is it worth $1000?",
-      "source_url": "https://www.youtube.com/watch?v=HfwIDt-8FSQ",
-      "video_id": "HfwIDt-8FSQ",
-      "comment_id": "UgxbqE5-Gp18_SBbxhx4AaABAg",
-      "parent_id": null,
-      "author": "@mastertechie6093",
-      "text": "Does this monitor comes with oled care features",
-      "published_raw": "6 months ago",
-      "published_at": "2026-05-27T23:28:03.032774Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-23T23:27:48.497256Z",
-      "like_count": 2,
-      "reply_count": 6,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 32UD-10 HDR"
-      ],
-      "relevance": "medium",
-      "models_mentioned": [
-        "27UD10"
-      ]
-    },
     {
       "record_id": "youtube:UgznyeWxDzHB8BlePLZ4AaABAg.AWu2I2ZstG2AWvvkADBkSd",
       "platform": "youtube",
@@ -100,16 +15,17 @@
       "author": "@whitedragem",
       "text": "I would seek out the best brand, then their better lineups, and then buy the one with the LEAST features at the highest price.\nThis is based on decades of buying reference screens.\nLittlest model in the flagship lineup from brands like Sony/Panasonic (TVs), or, and its hard to qualify modern PC monitors, but brand preferences like Asus look after customers/'consumers' well.\n\nregarding OLED/'modern screens'; great ones make 30frames per second sources perfectly fine, even without picture processing engaged (latencies added, \"soap opera effect\" etc).\n\nmonitors do outpunch TVs, generally speaking,.. but everything by PRICEPOINT.\n(you get what you pay for);\nmy advice is look for the best rated product with the biggest discount you can find in your local market.\n\nIf it isnt for 'desktop productivity' (first/foremost), then a slightly older OLED (rgb layout less than ideal for text), might prove a great bargain.\nI saw a few Philips ultrawides at 60% off, and they included Philips ambilight which was based on commissioned research for cinema industry; Philips ambilight is good enough to buy one of THEIR products (true), but can be added (at big $ addition) to some other screens (eg some Samsung TVs allow running a Philips light control system/'ambilight').\n\nI love power over USB input to monitors, and a 65watt margin would be my target.\nas for screen update rate? anything above 120hz (to 165hz) (assuming OLEDs) is pretty top tier value to performance..\n\njust know in the brightness war and cost war, a lot has gone downhill for OLED over the last decade.\nMarketing insists things keep improving, but there is a LOT of half truths regarding this..\n\nI moved on from the Lenovo (still beside my bed, not turned on for three months!) due to a budget Samsung 'the frame' being a vastly better fit for my needs. (it replaced my Panasonic reference OLED!)\n\nMarketing/'reviews' sell stuff.\nAlways NEW stuff..\nwhich means last years products need be talked down or new bullet point features heavily talked up..\nNothing gets around 'you get what you pay for'..\n(second hand Sony flagships are ALWAYS great buys!!)\n\nMotion resolution matters massively for media consumption (/gaming), yet is costly to implement and has generally slipped/downgraded when prices come down.\nto this end, spec sheets are manipulative rather than truly informative..\neg the colour capability of my 'budget' sammy LCD TV when doing high brightness HDR is unseen by most OLED screens.\nSamsung the frame is great in lit room, but low quality screen when considered in 'total darkness'.\nOLED refresh rate greater than LCDs (120hz OLED a better choice than 240hz LCDs etc), but OLEDs generally are built for black environments..\neg Why my Lenovo is unused for three months (windows on all four walls AND daytime usage)\n\nConsider YOUR needs and find reviewers matching those end goals!\ncheers",
       "published_raw": "6 months ago",
-      "published_at": "2026-05-26T11:32:58.256857Z",
+      "published_at": "2026-05-28T00:27:34.632365Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": null,
-      "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-22T11:32:58.256857Z",
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T00:26:23.795008Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27Q-10 OLED"
+        "Lenovo Legion Pro 27Q-10 OLED",
+        "Legion Pro27Q OLED"
       ],
       "relevance": "medium",
       "models_mentioned": [
@@ -128,20 +44,119 @@
       "author": "@whitedragem",
       "text": "apols I just gave a large response covering this.. won't rewrite 70% of it.\n\nI moved on due to needing a daytime/'lit environment' screen.\n30frames per second handling (poor) and no power delivery USB picture input would weigh heavy on my evaluation list.\n\n30 frames per second handling is a great tell regarding picture processing for any set.. I have had recent reference LCD monitors that do poorly (not just an OLED issue!), and I have seen too tier Sony and Panasonic screens render 30fps input perfectly. (makes samsung and lg seem like junk!)\n\n30 fps handling IS important, and most reviewers will just turn on tv picture processing or make out like high framerate input is necessary for OLEDs etc.\nTheir isnt any one screen that hands down beats all others, so VERY IMPORTANT to come up with your needs list.. (eg room lighting/hours of useage, sources to be considered, HDR vs SDR watch times/'weighting')",
       "published_raw": "6 months ago",
-      "published_at": "2026-05-26T11:32:58.256857Z",
+      "published_at": "2026-05-28T00:27:34.632365Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": null,
-      "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-22T11:32:58.256857Z",
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T00:26:23.795008Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27Q-10 OLED"
+        "Lenovo Legion Pro 27Q-10 OLED",
+        "Legion Pro27Q OLED"
       ],
       "relevance": "medium",
       "models_mentioned": [
         "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgzTsP87ce7AXl9pDSB4AaABAg.AWGkwEmwLVJAWvAOehOn7H",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
+      "source_url": "https://www.youtube.com/watch?v=XghsOv2iIOA",
+      "video_id": "XghsOv2iIOA",
+      "comment_id": "UgzTsP87ce7AXl9pDSB4AaABAg.AWGkwEmwLVJAWvAOehOn7H",
+      "parent_id": null,
+      "author": "@erenyeaga4518",
+      "text": "may i know what do u mean by HDR dimming i am planning to buy this monitor if u have purchased it yet please let me know how it is",
+      "published_raw": "6 months ago",
+      "published_at": "2026-05-28T00:27:02.100964Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD 10",
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 32UD10",
+        "Lenovo Legion Pro 32UD 10",
+        "Legion Pro monitor"
+      ],
+      "relevance": "high",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgzTsP87ce7AXl9pDSB4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
+      "source_url": "https://www.youtube.com/watch?v=XghsOv2iIOA",
+      "video_id": "XghsOv2iIOA",
+      "comment_id": "UgzTsP87ce7AXl9pDSB4AaABAg",
+      "parent_id": null,
+      "author": "@DinduNuffinLAT",
+      "text": "I read that HDR dimming is too aggressive on this monitor. I don't understand why there's no proper in-depth reviews of this monitor. It's been out for months now and so far only 2 issues I can think of this is the white frame (doesn't go well with dark background dark room) and the supposed aggressive dimming in HDR.",
+      "published_raw": "6 months ago",
+      "published_at": "2026-05-28T00:27:02.100964Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "like_count": 1,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD 10",
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 32UD10",
+        "Lenovo Legion Pro 32UD 10",
+        "Legion Pro monitor"
+      ],
+      "relevance": "high",
+      "models_mentioned": [
+        "32UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgxbqE5-Gp18_SBbxhx4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion Pro 27UD - 10 | Is it worth $1000?",
+      "source_url": "https://www.youtube.com/watch?v=HfwIDt-8FSQ",
+      "video_id": "HfwIDt-8FSQ",
+      "comment_id": "UgxbqE5-Gp18_SBbxhx4AaABAg",
+      "parent_id": null,
+      "author": "@mastertechie6093",
+      "text": "Does this monitor comes with oled care features",
+      "published_raw": "6 months ago",
+      "published_at": "2026-05-28T00:26:49.432016Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T00:26:23.795008Z",
+      "like_count": 2,
+      "reply_count": 6,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 27UD10",
+        "Lenovo Legion Pro 27UD 10",
+        "Lenovo Legion Pro 32UD10",
+        "Lenovo Legion Pro 32UD 10",
+        "Lenovo Legion Pro 27QD-10 OLED",
+        "Legion Pro OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
       ]
     },
     {
@@ -159,7 +174,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-24T00:02:35.806511Z",
+      "last_seen_at": "2026-11-24T00:36:03.384897Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "medium",

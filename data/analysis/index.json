@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T00:02:35.806511Z",
+  "generated_at": "2026-11-24T00:36:03.384897Z",
   "timezone": "UTC",
   "source_of_truth": [
     "data/comments/*.json",
@@ -18,27 +18,27 @@
     "monthly_directory": "data/analysis/monthly/"
   },
   "counts": {
-    "youtube_videos": 39,
-    "youtube_comments_and_replies": 10902,
+    "youtube_videos": 47,
+    "youtube_comments_and_replies": 12062,
     "forum_threads": 20,
     "forum_posts": 76,
-    "all_records": 10978,
-    "relevant_records": 81,
-    "excluded_records": 10897,
-    "dated_records": 9919,
+    "all_records": 12138,
+    "relevant_records": 83,
+    "excluded_records": 12055,
+    "dated_records": 11011,
     "exact_publication_times": 76,
-    "estimated_publication_times": 9843,
-    "undated_records": 1059,
+    "estimated_publication_times": 10935,
+    "undated_records": 1127,
     "recent_7d_relevant": 3,
     "recent_30d_relevant": 10,
-    "recent_7d_context": 93,
-    "recent_30d_context": 446
+    "recent_7d_context": 97,
+    "recent_30d_context": 458
   },
   "monthly_counts": {
     "2025-12": 5,
     "2026-02": 8,
     "2026-03": 4,
-    "2026-04": 5,
+    "2026-04": 7,
     "2026-05": 6,
     "2026-06": 2,
     "2026-07": 12,

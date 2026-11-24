@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T23:32:42.034045+00:00",
-  "video_count": 40,
+  "updated_at": "2026-11-24T00:36:03.321069+00:00",
+  "video_count": 81,
   "videos": [
     {
       "video_id": "uJLwz7Vj7_o",
@@ -21,12 +21,65 @@
       ]
     },
     {
+      "video_id": "4EDoUw1lv7I",
+      "url": "https://www.youtube.com/watch?v=4EDoUw1lv7I",
+      "title": "2026 OLED Monitor Price Collapse",
+      "channel": "The Display Guy",
+      "search_queries": [
+        "Lenovo OLED monitor HDR"
+      ]
+    },
+    {
       "video_id": "BO74n9KKdZA",
       "url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
       "title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
       "channel": "Benjamin Green",
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR"
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 27UD10",
+        "Lenovo Legion Pro 27UD 10",
+        "Lenovo Legion Pro 27Q10 OLED",
+        "Lenovo Legion Pro27Q-10 OLED",
+        "Lenovo Legion Pro 27QD-10 OLED",
+        "Lenovo OLED monitor HDR"
+      ]
+    },
+    {
+      "video_id": "ZO0S4EUUU1c",
+      "url": "https://www.youtube.com/watch?v=ZO0S4EUUU1c",
+      "title": "4K 퀀텀닷 OLED 적용한 240Hz 끝판왕 게이밍 모니터, 레노버 Legion Pro 32UD-10",
+      "channel": "노트포럼",
+      "search_queries": [
+        "Lenovo Legion Pro 32UD10",
+        "Lenovo Legion Pro 32UD 10"
+      ]
+    },
+    {
+      "video_id": "MsLtrhwd8Pk",
+      "url": "https://www.youtube.com/watch?v=MsLtrhwd8Pk",
+      "title": "[FIXED] Lenovo Laptop Screen Flickering Problem",
+      "channel": "Glitch Guru",
+      "search_queries": [
+        "monitor dims after 30 minutes Lenovo"
+      ]
+    },
+    {
+      "video_id": "4eFDbSlsloo",
+      "url": "https://www.youtube.com/watch?v=4eFDbSlsloo",
+      "title": "an OLED Gaming Laptop That’s Actually Affordable",
+      "channel": "Tomi | Midas and Midas Gamespace",
+      "search_queries": [
+        "Legion OLED"
+      ]
+    },
+    {
+      "video_id": "vmHNPWx8Vl8",
+      "url": "https://www.youtube.com/watch?v=vmHNPWx8Vl8",
+      "title": "Best Value OLED Gaming Laptop? Legion Pro 5 Gen 10 First Look!",
+      "channel": "ETA PRIME",
+      "search_queries": [
+        "Legion Pro OLED",
+        "Legion OLED"
       ]
     },
     {
@@ -39,6 +92,24 @@
       ]
     },
     {
+      "video_id": "hBCypm3pojk",
+      "url": "https://www.youtube.com/watch?v=hBCypm3pojk",
+      "title": "Cheap vs Expensive OLED Monitors: The Brutal Truth.",
+      "channel": "techless",
+      "search_queries": [
+        "Lenovo OLED monitor brightness drops"
+      ]
+    },
+    {
+      "video_id": "ERrp0TjPcyY",
+      "url": "https://www.youtube.com/watch?v=ERrp0TjPcyY",
+      "title": "Deliberately Burning In My QD-OLED Monitor - 30 Month Update",
+      "channel": "Monitors Unboxed",
+      "search_queries": [
+        "Legion OLED screen gets darker"
+      ]
+    },
+    {
       "video_id": "ahY43ArEJS8",
       "url": "https://www.youtube.com/watch?v=ahY43ArEJS8",
       "title": "Dell Alienware AW2725DF vs AW2725D vs Lenovo Legion Pro 27Q 10 – Monitor Comparison",
@@ -48,12 +119,31 @@
       ]
     },
     {
+      "video_id": "ZsFDnSC8LPc",
+      "url": "https://www.youtube.com/watch?v=ZsFDnSC8LPc",
+      "title": "DOLBY VISION IQ 60fps \" Master Calibration Tool DEMO\" [4KHDR] for TVs & Projectors 2K to 4000 Nits",
+      "channel": "jennifergala",
+      "search_queries": [
+        "Dolby Vision dimming Lenovo Legion"
+      ]
+    },
+    {
       "video_id": "CDAmqznnuXQ",
       "url": "https://www.youtube.com/watch?v=CDAmqznnuXQ",
       "title": "Every PS5 User Gets This WRONG! - HDR Settings Guide",
       "channel": "Octorious",
       "search_queries": [
+        "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
+      ]
+    },
+    {
+      "video_id": "NxunioCxWDo",
+      "url": "https://www.youtube.com/watch?v=NxunioCxWDo",
+      "title": "FIXED Lenovo Laptop Screen Flickering Problem",
+      "channel": "App Mentor",
+      "search_queries": [
+        "monitor dims after 30 minutes Lenovo"
       ]
     },
     {
@@ -62,7 +152,8 @@
       "title": "HDR For Monitors Explained (And How To Configure It!)",
       "channel": "RTINGS Computer",
       "search_queries": [
-        "Lenovo QD-OLED monitor HDR dimming"
+        "Lenovo QD-OLED monitor HDR dimming",
+        "Lenovo HDR dimming after gaming"
       ]
     },
     {
@@ -75,13 +166,29 @@
       ]
     },
     {
+      "video_id": "26doawtOQ2Q",
+      "url": "https://www.youtube.com/watch?v=26doawtOQ2Q",
+      "title": "Honest Review | LENOVO GAMING LEGION 5 PRO | Stingray WHITE | 82JD005KIN | No Cut performance test",
+      "channel": "fiblee",
+      "search_queries": [
+        "Dolby Vision dimming Lenovo Legion"
+      ]
+    },
+    {
       "video_id": "CMHMmj88iTE",
       "url": "https://www.youtube.com/watch?v=CMHMmj88iTE",
       "title": "How OLED Ruined Me",
       "channel": "Cyber Dopamine",
       "search_queries": [
         "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 32UD 10",
         "Lenovo Legion Pro 27Q-10 OLED",
+        "Lenovo Legion Pro 27Q10 OLED",
+        "Lenovo Legion Pro27Q-10 OLED",
+        "Legion Pro27Q OLED",
+        "Legion Pro OLED",
+        "Legion OLED",
+        "Lenovo OLED monitor HDR",
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ]
@@ -93,6 +200,15 @@
       "channel": "МЕ FIXING EVERYTHING",
       "search_queries": [
         "Legion Pro HDR brightness drops"
+      ]
+    },
+    {
+      "video_id": "qqXAB6sPNDE",
+      "url": "https://www.youtube.com/watch?v=qqXAB6sPNDE",
+      "title": "How to Fix Auto Brightness Changing on Windows 11 - Tutorial Step by Step",
+      "channel": "HowToforBeginners",
+      "search_queries": [
+        "Lenovo OLED monitor brightness drops"
       ]
     },
     {
@@ -110,7 +226,27 @@
       "title": "How To Fix Laptop Brightness Keeps Changing Automatically",
       "channel": "Your Fix Guide",
       "search_queries": [
-        "Legion Pro HDR brightness drops"
+        "Legion Pro HDR brightness drops",
+        "Lenovo OLED monitor brightness drops"
+      ]
+    },
+    {
+      "video_id": "oJX-kBfxjAg",
+      "url": "https://www.youtube.com/watch?v=oJX-kBfxjAg",
+      "title": "How To Fix Lenovo Computer - Turns Off During Use / Shuts Down Randomly",
+      "channel": "PC Monkey",
+      "search_queries": [
+        "monitor dims after 30 minutes Lenovo"
+      ]
+    },
+    {
+      "video_id": "7b7erMMyj7Y",
+      "url": "https://www.youtube.com/watch?v=7b7erMMyj7Y",
+      "title": "How to fix Windows 11’s screen dimming issue",
+      "channel": "Windows Report",
+      "search_queries": [
+        "Lenovo HDR dimming after gaming",
+        "monitor dims after 30 minutes Lenovo"
       ]
     },
     {
@@ -123,12 +259,25 @@
       ]
     },
     {
+      "video_id": "gV7JDcaVGNA",
+      "url": "https://www.youtube.com/watch?v=gV7JDcaVGNA",
+      "title": "Legion Go 2. Holy freaking OLED",
+      "channel": "Cyber Dopamine",
+      "search_queries": [
+        "Legion OLED"
+      ]
+    },
+    {
       "video_id": "XghsOv2iIOA",
       "url": "https://www.youtube.com/watch?v=XghsOv2iIOA",
       "title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
       "channel": "Geekception",
       "search_queries": [
-        "Lenovo Legion Pro 32UD-10 HDR"
+        "Lenovo Legion Pro 27UD 10",
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 32UD10",
+        "Lenovo Legion Pro 32UD 10",
+        "Legion Pro monitor"
       ]
     },
     {
@@ -137,7 +286,62 @@
       "title": "Lenovo - Legion Pro 27Q-10 Longterm review (\"don't do it!\"); incredible MOTION RESOLUTION.",
       "channel": "whitedragem",
       "search_queries": [
-        "Lenovo Legion Pro 27Q-10 OLED"
+        "Lenovo Legion Pro 27Q-10 OLED",
+        "Legion Pro27Q OLED"
+      ]
+    },
+    {
+      "video_id": "s2m0ZAZ4rXc",
+      "url": "https://www.youtube.com/watch?v=s2m0ZAZ4rXc",
+      "title": "Lenovo Laptop Screen Dimming after 30 Sec how to Fix",
+      "channel": "Magnifying Lens",
+      "search_queries": [
+        "monitor dims after 30 minutes Lenovo"
+      ]
+    },
+    {
+      "video_id": "-7FIhI2QMDg",
+      "url": "https://www.youtube.com/watch?v=-7FIhI2QMDg",
+      "title": "Lenovo Legion 5 (2021) : 3DMark Time Spy",
+      "channel": "Top Dfender",
+      "search_queries": [
+        "Dolby Vision dimming Lenovo Legion"
+      ]
+    },
+    {
+      "video_id": "d7F2YhXUSvk",
+      "url": "https://www.youtube.com/watch?v=d7F2YhXUSvk",
+      "title": "Lenovo Legion 5 Laptop | Ikiboi Pascual",
+      "channel": "Ikiboi Pascual",
+      "search_queries": [
+        "Dolby Vision dimming Lenovo Legion"
+      ]
+    },
+    {
+      "video_id": "WEi0jziMZlM",
+      "url": "https://www.youtube.com/watch?v=WEi0jziMZlM",
+      "title": "Lenovo Legion 5 RTX 3060 130W with Ryzen 5 5600H | CS:GO Casual | Competitive graphics settings",
+      "channel": "Gabi",
+      "search_queries": [
+        "Dolby Vision dimming Lenovo Legion"
+      ]
+    },
+    {
+      "video_id": "SEoja1Yg6K0",
+      "url": "https://www.youtube.com/watch?v=SEoja1Yg6K0",
+      "title": "Lenovo Legion 5 RTX 3060 130W, Ryzen 5 5600H | Lost Ark - Max Graphics | Balanced Mode",
+      "channel": "Gabi",
+      "search_queries": [
+        "Dolby Vision dimming Lenovo Legion"
+      ]
+    },
+    {
+      "video_id": "azy_eawkjAo",
+      "url": "https://www.youtube.com/watch?v=azy_eawkjAo",
+      "title": "Lenovo Legion 68CFGACBUS Unboxing and Setup | Best QHD Gaming Monitor??",
+      "channel": "Ricky Unboxed",
+      "search_queries": [
+        "Legion Pro27Q OLED"
       ]
     },
     {
@@ -155,7 +359,19 @@
       "title": "Lenovo legion Pro 27Q- 10 2K QHD Oled Unboxing | OLED Monitor",
       "channel": "Two Video",
       "search_queries": [
-        "Lenovo Legion Pro 27Q-10 OLED"
+        "Lenovo Legion Pro 27Q-10 OLED",
+        "Lenovo Legion Pro27Q-10 OLED",
+        "Legion Pro27Q OLED"
+      ]
+    },
+    {
+      "video_id": "O5qvR4LRSmY",
+      "url": "https://www.youtube.com/watch?v=O5qvR4LRSmY",
+      "title": "Lenovo Legion Pro 27Q-10 QD-OLED VS Samsung Odyssey G6 G60SD QD-OLED | POV Gameplay",
+      "channel": "POV OF GAMING",
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 OLED",
+        "Lenovo Legion Pro27Q-10 OLED"
       ]
     },
     {
@@ -165,7 +381,12 @@
       "channel": "The Tech Shed",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 32UD-10 HDR"
+        "Lenovo Legion Pro 27UD10",
+        "Lenovo Legion Pro 27UD 10",
+        "Lenovo Legion Pro 32UD10",
+        "Lenovo Legion Pro 32UD 10",
+        "Lenovo Legion Pro 27QD-10 OLED",
+        "Legion Pro OLED"
       ]
     },
     {
@@ -175,7 +396,36 @@
       "channel": "Tech Guy Beau",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 27Q-10 OLED"
+        "Lenovo Legion Pro 27UD10",
+        "Lenovo Legion Pro 27UD 10",
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 32UD10",
+        "Lenovo Legion Pro 27Q-10 OLED",
+        "Lenovo Legion Pro 27Q10 OLED",
+        "Legion Pro27Q OLED",
+        "Lenovo Legion Pro 27QD-10 OLED",
+        "Legion OLED",
+        "Lenovo OLED monitor HDR",
+        "Lenovo QD-OLED monitor HDR dimming"
+      ]
+    },
+    {
+      "video_id": "4-vIChiyoPA",
+      "url": "https://www.youtube.com/watch?v=4-vIChiyoPA",
+      "title": "Lenovo Legion Pro 34WD-10 OLED Gaming Monitor Product Tour",
+      "channel": "Lenovo",
+      "search_queries": [
+        "Legion Pro monitor",
+        "Lenovo OLED monitor HDR"
+      ]
+    },
+    {
+      "video_id": "g0v5i7D84Bs",
+      "url": "https://www.youtube.com/watch?v=g0v5i7D84Bs",
+      "title": "Lenovo Legion Pro 5i (2025) Review - Choose Carefully",
+      "channel": "Jarrod'sTech",
+      "search_queries": [
+        "Legion Pro HDR brightness drops"
       ]
     },
     {
@@ -193,8 +443,16 @@
       "title": "Lenovo Legion Pro OLED Monitors Family",
       "channel": "Lenovo",
       "search_queries": [
+        "Lenovo Legion Pro 27UD10",
         "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 27Q-10 OLED"
+        "Lenovo Legion Pro 27Q-10 OLED",
+        "Lenovo Legion Pro 27Q10 OLED",
+        "Lenovo Legion Pro27Q-10 OLED",
+        "Lenovo Legion Pro 27QD-10 OLED",
+        "Legion Pro OLED",
+        "Legion OLED",
+        "Legion Pro monitor",
+        "Lenovo OLED monitor HDR"
       ]
     },
     {
@@ -213,7 +471,10 @@
       "channel": "Rogers Gallery",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 HDR",
-        "Lenovo Legion Pro 32UD-10 HDR"
+        "Lenovo Legion Pro 27UD10",
+        "Lenovo Legion Pro 32UD-10 HDR",
+        "Lenovo Legion Pro 32UD10",
+        "Lenovo Legion Pro 32UD 10"
       ]
     },
     {
@@ -226,12 +487,31 @@
       ]
     },
     {
+      "video_id": "6GDRYZgO4Gg",
+      "url": "https://www.youtube.com/watch?v=6GDRYZgO4Gg",
+      "title": "Make Your OLED HDR Screen on the LENOVO LEGION GO 2 Look Even BETTER",
+      "channel": "FroKu Gaming & Tech",
+      "search_queries": [
+        "Legion OLED screen gets darker"
+      ]
+    },
+    {
       "video_id": "xI3R1e3rfO4",
       "url": "https://www.youtube.com/watch?v=xI3R1e3rfO4",
       "title": "My 7 Problems With Lenovo’s Legion 5 Gaming Laptop",
       "channel": "Jarrod's Laptops",
       "search_queries": [
         "Legion Pro HDR brightness drops"
+      ]
+    },
+    {
+      "video_id": "_N8_nxUK6JI",
+      "url": "https://www.youtube.com/watch?v=_N8_nxUK6JI",
+      "title": "Okay, I'm Sold - Lenovo Legion Pro 34WD-10 34-inch OLED",
+      "channel": "Tech Guy Beau",
+      "search_queries": [
+        "Legion Pro OLED",
+        "Legion Pro monitor"
       ]
     },
     {
@@ -249,7 +529,26 @@
       "title": "OLED Burn-in : 1.5 Year Update",
       "channel": "Rob Everhard",
       "search_queries": [
-        "Lenovo QD-OLED monitor HDR dimming"
+        "Lenovo QD-OLED monitor HDR dimming",
+        "Legion OLED screen gets darker"
+      ]
+    },
+    {
+      "video_id": "-xUQwB5rti8",
+      "url": "https://www.youtube.com/watch?v=-xUQwB5rti8",
+      "title": "OLED Burn-In: Should You Be Worried? The Truth Revealed!",
+      "channel": "Just Josh",
+      "search_queries": [
+        "Legion OLED screen gets darker"
+      ]
+    },
+    {
+      "video_id": "Rv9I_KuAs0E",
+      "url": "https://www.youtube.com/watch?v=Rv9I_KuAs0E",
+      "title": "OLED Gaming Monitor Prices are DROPPING",
+      "channel": "Linus Tech Tips",
+      "search_queries": [
+        "Lenovo OLED monitor brightness drops"
       ]
     },
     {
@@ -285,7 +584,18 @@
       "title": "Screen Automatically Changes Brightness (Fix)",
       "channel": "Bite-Size Random",
       "search_queries": [
-        "Legion Pro HDR brightness drops"
+        "Legion Pro HDR brightness drops",
+        "Lenovo OLED monitor brightness drops",
+        "Lenovo HDR dimming after gaming"
+      ]
+    },
+    {
+      "video_id": "F0mvQRTM3yo",
+      "url": "https://www.youtube.com/watch?v=F0mvQRTM3yo",
+      "title": "Stop OLED Burn-In on Windows 11! Essential Settings Every User Must Change",
+      "channel": "PROSOFTKEYS",
+      "search_queries": [
+        "Legion OLED screen gets darker"
       ]
     },
     {
@@ -295,8 +605,36 @@
       "channel": "iamfallfromgrace",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 27UD10",
+        "Lenovo Legion Pro 27UD 10",
         "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 27Q-10 OLED"
+        "Lenovo Legion Pro 32UD10",
+        "Lenovo Legion Pro 32UD 10",
+        "Lenovo Legion Pro 27Q-10 OLED",
+        "Lenovo Legion Pro 27Q10 OLED",
+        "Lenovo Legion Pro27Q-10 OLED",
+        "Legion Pro27Q OLED",
+        "Lenovo Legion Pro 27QD-10 OLED",
+        "Legion Pro OLED",
+        "Legion Pro monitor"
+      ]
+    },
+    {
+      "video_id": "yXIPSiIbnpM",
+      "url": "https://www.youtube.com/watch?v=yXIPSiIbnpM",
+      "title": "The HDR Brightness SLIDER LIE: HDR Calibration Guide on PC, PS5 & Xbox",
+      "channel": "Must Play Reviews",
+      "search_queries": [
+        "Lenovo HDR dimming after gaming"
+      ]
+    },
+    {
+      "video_id": "09T5IMjdxT0",
+      "url": "https://www.youtube.com/watch?v=09T5IMjdxT0",
+      "title": "Things You Realize As Soon As You Buy an OLED Monitor",
+      "channel": "Aman",
+      "search_queries": [
+        "Lenovo OLED monitor brightness drops"
       ]
     },
     {
@@ -305,7 +643,53 @@
       "title": "This 4K OLED Monitor Has Almost EVERYTHING! | Lenovo Yoga Pro 27UD-10",
       "channel": "Decoding Labs",
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 HDR"
+        "Lenovo Legion Pro 27UD-10 HDR",
+        "Lenovo Legion Pro 27UD 10"
+      ]
+    },
+    {
+      "video_id": "xoGkilE00MY",
+      "url": "https://www.youtube.com/watch?v=xoGkilE00MY",
+      "title": "This Could Be The BEST Monitor of 2026... (for Mac & PC)",
+      "channel": "Created Tech",
+      "search_queries": [
+        "Legion Pro monitor"
+      ]
+    },
+    {
+      "video_id": "_IOys-MZp-I",
+      "url": "https://www.youtube.com/watch?v=_IOys-MZp-I",
+      "title": "This Makes The Legion Go 2's Screen EVEN BETTER",
+      "channel": "128KB",
+      "search_queries": [
+        "Legion OLED screen gets darker"
+      ]
+    },
+    {
+      "video_id": "w2hToRmWecc",
+      "url": "https://www.youtube.com/watch?v=w2hToRmWecc",
+      "title": "Troubleshooting Common Monitor Issues | Lenovo Support",
+      "channel": "Lenovo Support",
+      "search_queries": [
+        "monitor dims after 30 minutes Lenovo"
+      ]
+    },
+    {
+      "video_id": "o1z1pp5W7qQ",
+      "url": "https://www.youtube.com/watch?v=o1z1pp5W7qQ",
+      "title": "Windows 11 HDR Washed Out Colors — 9 Fixes That Actually Work",
+      "channel": "ErrorFixer",
+      "search_queries": [
+        "Lenovo HDR dimming after gaming"
+      ]
+    },
+    {
+      "video_id": "9Z_XSKM96Zw",
+      "url": "https://www.youtube.com/watch?v=9Z_XSKM96Zw",
+      "title": "Windows SDR Content Slider (HDR Settings Guide)",
+      "channel": "The Display Guy",
+      "search_queries": [
+        "Lenovo HDR dimming after gaming"
       ]
     },
     {
@@ -336,12 +720,48 @@
       ]
     },
     {
+      "video_id": "DKBBLLMXUBU",
+      "url": "https://www.youtube.com/watch?v=DKBBLLMXUBU",
+      "title": "告別灰濛濛！NVIDIA 畫面色彩校正：讓你的電腦螢幕「黑得更黑，色彩更鮮豔」！",
+      "channel": "德志電腦",
+      "search_queries": [
+        "联想显示器 游戏后 自动变暗"
+      ]
+    },
+    {
+      "video_id": "_sZOrsAQZLc",
+      "url": "https://www.youtube.com/watch?v=_sZOrsAQZLc",
+      "title": "如何调整电脑屏幕亮度",
+      "channel": "简明教学",
+      "search_queries": [
+        "联想显示器 游戏后 自动变暗"
+      ]
+    },
+    {
+      "video_id": "qO4A4JRXQNE",
+      "url": "https://www.youtube.com/watch?v=qO4A4JRXQNE",
+      "title": "如果你的顯示器不能全屏，兩邊出現黑邊，在家怎么處理",
+      "channel": "海哥2019",
+      "search_queries": [
+        "联想显示器 游戏后 自动变暗"
+      ]
+    },
+    {
       "video_id": "UrvC2sGE8eY",
       "url": "https://www.youtube.com/watch?v=UrvC2sGE8eY",
       "title": "技嘉GO27Q24G显示器测评2K 240Hz OLED #OLED显示器 #2K240HZ #显示器推荐 #显示器 #AORUS",
       "channel": "babayayinda001",
       "search_queries": [
         "联想 拯救者 OLED 亮度 降低"
+      ]
+    },
+    {
+      "video_id": "vHbhkNj-dKk",
+      "url": "https://www.youtube.com/watch?v=vHbhkNj-dKk",
+      "title": "笔记本外接显示器卡顿、模糊、无反应？这四个坑一定要注意！",
+      "channel": "HKC Vision",
+      "search_queries": [
+        "联想显示器 游戏后 自动变暗"
       ]
     },
     {
@@ -368,8 +788,25 @@
       "title": "螢幕顏色怪怪的？一招校正！Windows 11 內建工具",
       "channel": "小友玩電腦",
       "search_queries": [
-        "联想 OLED 显示器 HDR 变暗",
-        "联想 拯救者 OLED 亮度 降低"
+        "联想 OLED 显示器 HDR 变暗"
+      ]
+    },
+    {
+      "video_id": "4WO4HjXZ3ZI",
+      "url": "https://www.youtube.com/watch?v=4WO4HjXZ3ZI",
+      "title": "電腦開機后顯示器不顯示怎么辦？這才是標準操作#電腦小技巧",
+      "channel": "BingePC",
+      "search_queries": [
+        "联想显示器 游戏后 自动变暗"
+      ]
+    },
+    {
+      "video_id": "Y1eimcEtRSY",
+      "url": "https://www.youtube.com/watch?v=Y1eimcEtRSY",
+      "title": "電腦開機后顯示器黑屏不顯示，原因竟然是...",
+      "channel": "BingePC",
+      "search_queries": [
+        "联想显示器 游戏后 自动变暗"
       ]
     }
   ]
