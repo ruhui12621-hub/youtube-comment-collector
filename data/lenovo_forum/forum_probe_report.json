@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-24T00:42:20.137263+00:00",
-  "finished_at": "2026-11-24T00:42:34.104574+00:00",
+  "started_at": "2026-11-24T00:56:49.901527+00:00",
+  "finished_at": "2026-11-24T00:57:12.392997+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -11,184 +11,149 @@
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro 27UD-10 HDR",
+      "query": "Lenovo Legion Pro 27UD-10 monitor HDR",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27UD-10+HDR",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27UD-10+monitor+HDR",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro 27UD10",
+      "query": "Lenovo Legion Pro 27UD10 monitor",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27UD10",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27UD10+monitor",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro 27UD 10",
+      "query": "Lenovo Legion Pro 27UD 10 monitor",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27UD+10",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27UD+10+monitor",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro 32UD-10 HDR",
+      "query": "Lenovo Legion Pro 32UD-10 monitor HDR",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+32UD-10+HDR",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+32UD-10+monitor+HDR",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro 32UD10",
+      "query": "Lenovo Legion Pro 32UD10 monitor",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+32UD10",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+32UD10+monitor",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro 32UD 10",
+      "query": "Lenovo Legion Pro 32UD 10 monitor",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+32UD+10",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+32UD+10+monitor",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro 27Q-10 OLED",
+      "query": "Lenovo Legion Pro 27Q-10 monitor OLED",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27Q-10+OLED",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27Q-10+monitor+OLED",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro 27Q10 OLED",
+      "query": "Lenovo Legion Pro 27Q10 monitor OLED",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27Q10+OLED",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27Q10+monitor+OLED",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro27Q-10 OLED",
+      "query": "Lenovo Legion Pro27Q-10 monitor",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro27Q-10+OLED",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro27Q-10+monitor",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Legion Pro27Q OLED",
+      "query": "Legion Pro27Q monitor",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Legion+Pro27Q+OLED",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Legion+Pro27Q+monitor",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo Legion Pro 27QD-10 OLED",
+      "query": "Lenovo Legion Pro 27QD-10 monitor OLED",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27QD-10+OLED",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+27QD-10+monitor+OLED",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Legion Pro OLED",
+      "query": "Lenovo Legion Pro 32QD-10 monitor OLED",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Legion+Pro+OLED",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+32QD-10+monitor+OLED",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Legion OLED",
+      "query": "Lenovo Legion Pro monitor HDR brightness dimming",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Legion+OLED",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+monitor+HDR+brightness+dimming",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Legion Pro monitor",
+      "query": "Lenovo Legion monitor HDR brightness drops",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Legion+Pro+monitor",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+monitor+HDR+brightness+drops",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo OLED monitor HDR",
+      "query": "Lenovo Legion monitor screen gets darker",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+OLED+monitor+HDR",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+monitor+screen+gets+darker",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo QD-OLED monitor HDR dimming",
+      "query": "Lenovo Legion monitor dims after gaming",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+QD-OLED+monitor+HDR+dimming",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+monitor+dims+after+gaming",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Legion Pro HDR brightness drops",
+      "query": "Lenovo Legion Pro monitor brightness drops after gaming",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Legion+Pro+HDR+brightness+drops",
+      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+Legion+Pro+monitor+brightness+drops+after+gaming",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo OLED monitor brightness drops",
+      "query": "联想 Legion Pro 显示器 HDR 变暗",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+OLED+monitor+brightness+drops",
+      "url": "https://forums.lenovo.com/api/v2/search?q=%E8%81%94%E6%83%B3+Legion+Pro+%E6%98%BE%E7%A4%BA%E5%99%A8+HDR+%E5%8F%98%E6%9A%97",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Legion OLED screen gets darker",
+      "query": "联想 Legion Pro 显示器 亮度下降",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Legion+OLED+screen+gets+darker",
+      "url": "https://forums.lenovo.com/api/v2/search?q=%E8%81%94%E6%83%B3+Legion+Pro+%E6%98%BE%E7%A4%BA%E5%99%A8+%E4%BA%AE%E5%BA%A6%E4%B8%8B%E9%99%8D",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "Lenovo HDR dimming after gaming",
+      "query": "联想 拯救者 显示器 OLED 亮度 降低",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Lenovo+HDR+dimming+after+gaming",
+      "url": "https://forums.lenovo.com/api/v2/search?q=%E8%81%94%E6%83%B3+%E6%8B%AF%E6%95%91%E8%80%85+%E6%98%BE%E7%A4%BA%E5%99%A8+OLED+%E4%BA%AE%E5%BA%A6+%E9%99%8D%E4%BD%8E",
       "content_type": "text/html; charset=UTF-8"
     },
     {
       "method": "search_api_probe",
-      "query": "monitor dims after 30 minutes Lenovo",
+      "query": "联想 Legion 显示器 游戏后 自动变暗",
       "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=monitor+dims+after+30+minutes+Lenovo",
-      "content_type": "text/html; charset=UTF-8"
-    },
-    {
-      "method": "search_api_probe",
-      "query": "Dolby Vision dimming Lenovo Legion",
-      "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=Dolby+Vision+dimming+Lenovo+Legion",
-      "content_type": "text/html; charset=UTF-8"
-    },
-    {
-      "method": "search_api_probe",
-      "query": "联想 OLED 显示器 HDR 变暗",
-      "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=%E8%81%94%E6%83%B3+OLED+%E6%98%BE%E7%A4%BA%E5%99%A8+HDR+%E5%8F%98%E6%9A%97",
-      "content_type": "text/html; charset=UTF-8"
-    },
-    {
-      "method": "search_api_probe",
-      "query": "联想 拯救者 OLED 亮度 降低",
-      "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=%E8%81%94%E6%83%B3+%E6%8B%AF%E6%95%91%E8%80%85+OLED+%E4%BA%AE%E5%BA%A6+%E9%99%8D%E4%BD%8E",
-      "content_type": "text/html; charset=UTF-8"
-    },
-    {
-      "method": "search_api_probe",
-      "query": "联想 Legion Pro OLED 亮度下降",
-      "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=%E8%81%94%E6%83%B3+Legion+Pro+OLED+%E4%BA%AE%E5%BA%A6%E4%B8%8B%E9%99%8D",
-      "content_type": "text/html; charset=UTF-8"
-    },
-    {
-      "method": "search_api_probe",
-      "query": "联想显示器 游戏后 自动变暗",
-      "status": 404,
-      "url": "https://forums.lenovo.com/api/v2/search?q=%E8%81%94%E6%83%B3%E6%98%BE%E7%A4%BA%E5%99%A8+%E6%B8%B8%E6%88%8F%E5%90%8E+%E8%87%AA%E5%8A%A8%E5%8F%98%E6%9A%97",
+      "url": "https://forums.lenovo.com/api/v2/search?q=%E8%81%94%E6%83%B3+Legion+%E6%98%BE%E7%A4%BA%E5%99%A8+%E6%B8%B8%E6%88%8F%E5%90%8E+%E8%87%AA%E5%8A%A8%E5%8F%98%E6%9A%97",
       "content_type": "text/html; charset=UTF-8"
     }
   ],
@@ -198,7 +163,7 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 297247,
+      "document_length": 297250,
       "body_text_length": 14180
     },
     {
@@ -221,27 +186,9 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10054044",
-      "fid": "15987",
-      "title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors I tried everything: multiple factory resets, turning HDR off, disabling OLED Care settings, disablingDolby Vision, and recalibrating the HDR on my PS5 Pro, but it’s still the same issue with no so",
-      "pages_captured": 1,
-      "posts_captured": 3,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
-      "tid": "10038636",
-      "fid": "15987",
-      "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community purple240, I understand you're having trouble accessing the monitor settings of your L",
-      "pages_captured": 1,
-      "posts_captured": 4,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
       "tid": "10043796",
       "fid": "15880",
-      "title": "09-05-2026 14:38:53 Re:Yoga Pro 27UD-10 built-in speaker issues byLorenzo_LenovoinDisplays, Options and Accessories Hello EnDelt, Welcome to Lenovo Community I understand that the built-in speakers ofyour Yoga Pro 27UD-10 monitor are having issues wherein it stops working or behave unpredictablyTest",
+      "title": "09-05-2026 14:38:53 Re:Yoga Pro 27UD-10 built-in speaker issues byLorenzo_LenovoinDisplays, Options and Accessories Hello EnDelt, Welcome to Lenovo Community I understand that the built-in speakers ofyour Yoga Pro 27UD-10 monitor are having issues wherein it stops working or behave unpredictablySee ",
       "pages_captured": 1,
       "posts_captured": 4,
       "error": null
@@ -250,25 +197,52 @@
       "method": "topic_api_collection",
       "tid": "10045603",
       "fid": "15986",
-      "title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessfor yo",
+      "title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessAs for",
       "pages_captured": 1,
       "posts_captured": 4,
       "error": null
     },
     {
       "method": "topic_api_collection",
-      "tid": "10022519",
+      "tid": "10038636",
       "fid": "15987",
-      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
+      "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community Replies(3/3)",
+      "pages_captured": 1,
+      "posts_captured": 4,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10054044",
+      "fid": "15987",
+      "title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors First off, it’s a great monitor!The only way to disable it is to turn the monitor off manually and then back on again.I tried everything: multiple factory resets, turning HDR off, disabling OLED C",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10047243",
+      "fid": "15985",
+      "title": "10-08-2026 01:13:42 Monitor screen blanks for a few seconds bylevidinGaming Laptops Lenovo Legion Pro 7 connected to an external screen. USB-C connection to external monitor and hub HDMI connection to HDR externalmonitor Updated all software and drivers; tried changing power settings. Replies(2/2)",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10012819",
+      "fid": "15985",
+      "title": "11-26-2025 20:44:25 USB-C - dGPU | Lenovo Legion Pro 5 16IRX8 byartemkosinGaming Laptops I have a Lenovo Legion Pro 5 16IRX8.USB-C port connected directly to the dGPU, so I can use a USB-C → DisplayPort cable to run an external monitor",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
     },
     {
       "method": "topic_api_collection",
-      "tid": "10030393",
-      "fid": "15880",
-      "title": "05-05-2026 12:03:16 Yoga pro OLED monitor byguest57806inDisplays, Options and Accessories Hello, will the Yoga Pro 27UD-10 UHD QD-OLED also be available in 32 inches?",
+      "tid": "10016238",
+      "fid": "15985",
+      "title": "12-25-2025 08:28:46 External monitor does not wake up bymurrrzilkainGaming Laptops External monitor Dell P2414H connected to Lenovo Legion 5 Pro via USB-C → DisplayPort does not wakeMonitor shows “No signal” until I physically unplug and reconnect the DisplayPort cable.After reconnection, the monito",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
@@ -284,9 +258,27 @@
     },
     {
       "method": "topic_api_collection",
+      "tid": "10022519",
+      "fid": "15987",
+      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10030239",
+      "fid": "15985",
+      "title": "05-03-2026 22:42:06 HDR, Dolby Vision not working byJosefCZinGaming Laptops issue concerning the deployment of Dolby Vision and HDR management on the flagship Lenovo Legion 9 16IRX9Detailed environment specifications: Device: Lenovo Legion 9 16IRX9 (Intel Core i9, NVIDIA RTXOutput is set to 10 bpc, ",
+      "pages_captured": 2,
+      "posts_captured": 11,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
       "tid": "10022596",
       "fid": "15987",
-      "title": "02-19-2026 15:16:32 Lenovo 32UD-10 Oled care byVechtrulinY Gaming Accessories & Curved Gaming Monitors Hi there, based on the limited information available in the user manual of the Lenovo 32UD-10 GamingMonitor, I do not understand the following: 1.difference in the time each operation takes (automa",
+      "title": "02-19-2026 15:16:32 Lenovo 32UD-10 Oled care byVechtrulinY Gaming Accessories & Curved Gaming Monitors Hi there, based on the limited information available in the user manual of the Lenovo 32UD-10 GamingMonitor, I do not understand the following: 1.In this case, does the monitor do the refresh first",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
@@ -302,74 +294,128 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10035498",
+      "tid": "10024883",
       "fid": "15880",
-      "title": "06-19-2026 02:52:43 Legion 27Q-10 OLED OSD not working bydavidhallerinDisplays, Options and Accessories power button never worked, despite having discharged (unplugged all cables and hold power button for 10/15/30/60s) Symptom: - After discharging and plugging in power, the monitor quicky flashes",
+      "title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automaticfeatures of the monitor regarding screen protections.",
       "pages_captured": 1,
-      "posts_captured": 4,
+      "posts_captured": 2,
       "error": null
     },
     {
       "method": "topic_api_collection",
-      "tid": "10024883",
-      "fid": "15880",
-      "title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automatic",
+      "tid": "10002053",
+      "fid": "15985",
+      "title": "09-15-2025 15:15:41 Question about Legion 7i and Legion 5(i) Pro - 2025 - OLED byEradiinGaming Laptops Hello everyone, I would like to inherit my current, loyal Lenovo Legion 5 Pro. The following options have emerged for me: - Lenovo Legion 5 Pro (AMD) Gen 10 (2025) - Lenovo Legion 5i Pro (Intel) Ge",
       "pages_captured": 1,
-      "posts_captured": 2,
+      "posts_captured": 3,
       "error": null
     },
     {
       "method": "topic_api_collection",
       "tid": "10000916",
       "fid": "15985",
-      "title": "09-08-2025 06:11:37 Oled Burn in lenovo Legion pro 7 byvishwateja25inGaming Laptops Hi I have my new laptop legion 7 pro wanted to check how do i enable the oled care whichprevents burn in as there is no such option being displayed in lenovo vantage app for me. Replies(5/5)",
+      "title": "10-04-2026 22:00:13 Re:OLED burn-in on the Lenovo Legion Pro 7 byStevennameinGaming Laptops In my case it’s a Lenovo Legion 5, but the OLED protection functions were found in Lenovo Space andsome in Lenovo Vantage in the Monitor section; at the very bottom there is an option to control dimming Repli",
       "pages_captured": 1,
       "posts_captured": 6,
       "error": null
     },
     {
       "method": "topic_api_collection",
-      "tid": "10019762",
-      "fid": "15985",
-      "title": "01-26-2026 15:17:49 Re: Lenovo 240hz OLED screen red tint problem with HDR on byALEATHAinGaming Laptops I have a Lenovo Legion Pro 7 5070 Ti OLED. I have a red tint problem while my HDR is on.I sent the device to the service center in Turkey twice, but their report says it's normal for OLED.I also r",
+      "tid": "10018711",
+      "fid": "15880",
+      "title": "01-16-2026 20:20:53 minimal brightness of Lenovo Legion 27U-10 byJhonCooperinDisplays, Options and Accessories Hello can you say please what is minimal brightness of Lenovo Legion 27U-10 ?( https://www.lenovo.com/lt/lt/p/monitors/legion/legion-27u-10-monitor/mong0014 )and do eyes hurt after long ses",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
     },
     {
       "method": "topic_api_collection",
-      "tid": "10042994",
+      "tid": "10017783",
+      "fid": "15880",
+      "title": "01-09-2026 04:15:13 Legion 25-10 monitor cannot standby properly byjohnlee9168inDisplays, Options and Accessories Hi I have a Legion 25-10 monitor, running Windows 10 and using DVI cable. I noticed that when Windows enters standby mode, the monitor display LED becomes orange, BUTThen the monitor dis",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10036126",
+      "fid": "15849",
+      "title": "06-25-2026 19:58:28 IdeaPad Gaming 3 15IHU6 — HDMI port stopped working mid-use, cannot use monitor above 60hz byasisqtinLenovo IdeaPad 1xx, 3xx, 5xx & 7xx, Edge, LaVie Z, Flex Laptops I recently purchased a Lenovo Legion 24-10 240Hz monitor and connected it via HDMI.This means I am completely unabl",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10004964",
+      "fid": "15986",
+      "title": "10-03-2025 07:26:00 DisplayPort connection no longer works LEGION T5 26IRX9 with Lenovo Legion R25i-30 monitor bypetergottsteininGaming Desktops After now 6 months of operation with an external monitor (Lenovo Legion R25i-30) connected to my LenovoIt seems as if the connection on the PC (or on the m",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10019220",
       "fid": "15985",
-      "title": "08-30-2026 01:08:52 X-Rite Colour Assistant Unable To Download ICC Colour Profiles byAngelo1234inGaming Laptops I recently did a fresh Windows 11 USB install on my Lenovo Legion Pro 7i Gen 10, and when I downloadedI'd really like to get my factory ICC color profile back since it's an expensive OLED ",
+      "title": "01-21-2026 16:00:27 Will Lenovo LOQ 15APH8 Output 1440p 240Hz via HDMI 2.1 or USB-C to DP on Legion 27Q-10? bySpidey-100inGaming Laptops Hi, I’m using a Lenovo LOQ 15APH8 laptop(ryzen 7 7840 hs & rtx 4060 varient) and I’m planningto buy the Lenovo Legion 27Q-10 monitor (2K, 240 Hz). I have a couple ",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10015081",
+      "fid": "15860",
+      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10053737",
+      "fid": "15880",
+      "title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10048604",
+      "fid": "15985",
+      "title": "10-20-2026 06:06:39 Brightness slider and keyboard shortcuts don’t change brightness on Lenovo LOQ bySarker_ShuvoinGaming Laptops Hi everyone, I have a Lenovo LOQ (machine type/model 83JE0110AD).The brightness controls aren’t changing the built-in screen brightness: The Windows brightness The keyboa",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10045252",
+      "fid": "15880",
+      "title": "09-18-2026 22:58:12 Re:monitor settings byLorenzo_LenovoinDisplays, Options and Accessories Hello Glai, Welcome to Lenovo Community Thanks for your question about the Lenovo Legion R24S monitor. understand you’d like to know whether the Deep Sleep setting is available and where to find it in the on-",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10043602",
+      "fid": "15987",
+      "title": "09-03-2026 11:36:38 Gaming monitor 27\" Lenovo Legion R27qe Gen 2 byOlga_KhinY Gaming Accessories & Curved Gaming Monitors I have a 27\" Lenovo Legion R27qe Gen 2 gaming monitor under warranty (purchased less than a yearbr/>There are no issues with the cable, settings, or drivers, because when reconne",
       "pages_captured": 1,
       "posts_captured": 4,
       "error": null
     },
     {
       "method": "topic_api_collection",
-      "tid": "10028373",
+      "tid": "10037912",
       "fid": "15985",
-      "title": "04-14-2026 17:40:09 Monitor does not work via USB-C - DP, Legion Pro 5 Gen 8 16IRX8 byguest57461inGaming Laptops Hi, I wanted to connect an external monitor (legion y27qf 30) to the laptop (Legion Pro 5 Gen8 16IRX8) using a USB-C -> DP cable, however the laptop does not detect the monitor.The monito",
+      "title": "07-16-2026 21:45:24 Re:Lenovo Loq Essential 15ırx11 i5-13450hx processor overheating problem byAdriel_lenovoinGaming Laptops target=\"_blank\">yilmazryucel, Your CPU briefly reaching the high‑90°C range can happen on gaming - In Windows, set screen/keyboard brightness and background apps normally (don",
       "pages_captured": 1,
-      "posts_captured": 3,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
-      "tid": "10014801",
-      "fid": "15985",
-      "title": "12-12-2025 03:21:56 External Monitor Flickers When Connected to Legion Pro 7 16IAX10H via HDMI Cable bydanielmitinGaming Laptops Hello, I recently bought a Legion Pro 7 16IAX10H.The way I use this laptop is by connecting it to my monitor via an HDMI 2.1 cable.The issue I am having is that on boot, a",
-      "pages_captured": 1,
-      "posts_captured": 3,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
-      "tid": "10047243",
-      "fid": "15985",
-      "title": "10-08-2026 01:13:42 Monitor screen blanks for a few seconds bylevidinGaming Laptops Lenovo Legion Pro 7 connected to an external screen. USB-C connection to external monitor and hub HDMI connection to HDR externalmonitor Updated all software and drivers; tried changing power settings. Replies(2/2)",
-      "pages_captured": 1,
-      "posts_captured": 3,
+      "posts_captured": 5,
       "error": null
     }
   ],
@@ -431,33 +477,8 @@
       ],
       "error": null
     },
-    "10054044": {
-      "title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors I tried everything: multiple factory resets, turning HDR off, disabling OLED Care settings, disablingDolby Vision, and recalibrating the HDR on my PS5 Pro, but it’s still the same issue with no so",
-      "fid": "15987",
-      "pages_captured": 1,
-      "posts_captured": 3,
-      "post_ids": [
-        10194092,
-        10194477,
-        10194765
-      ],
-      "error": null
-    },
-    "10038636": {
-      "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community purple240, I understand you're having trouble accessing the monitor settings of your L",
-      "fid": "15987",
-      "pages_captured": 1,
-      "posts_captured": 4,
-      "post_ids": [
-        10145068,
-        10145134,
-        10145239,
-        10145329
-      ],
-      "error": null
-    },
     "10043796": {
-      "title": "09-05-2026 14:38:53 Re:Yoga Pro 27UD-10 built-in speaker issues byLorenzo_LenovoinDisplays, Options and Accessories Hello EnDelt, Welcome to Lenovo Community I understand that the built-in speakers ofyour Yoga Pro 27UD-10 monitor are having issues wherein it stops working or behave unpredictablyTest",
+      "title": "09-05-2026 14:38:53 Re:Yoga Pro 27UD-10 built-in speaker issues byLorenzo_LenovoinDisplays, Options and Accessories Hello EnDelt, Welcome to Lenovo Community I understand that the built-in speakers ofyour Yoga Pro 27UD-10 monitor are having issues wherein it stops working or behave unpredictablySee ",
       "fid": "15880",
       "pages_captured": 1,
       "posts_captured": 4,
@@ -470,7 +491,7 @@
       "error": null
     },
     "10045603": {
-      "title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessfor yo",
+      "title": "09-30-2026 14:26:11 Re:Lenovo Legion Pro 32ud10 Brightness dimming byHector_LenovoinGaming Desktops Since changing the monitor HDR mode from Photo back to Auto restores the brightness, the issueis most likely happening in the monitor’s HDR/image processing rather than normal Windows brightnessAs for",
       "fid": "15986",
       "pages_captured": 1,
       "posts_captured": 4,
@@ -482,25 +503,62 @@
       ],
       "error": null
     },
-    "10022519": {
-      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
+    "10038636": {
+      "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community Replies(3/3)",
       "fid": "15987",
       "pages_captured": 1,
-      "posts_captured": 2,
+      "posts_captured": 4,
       "post_ids": [
-        10081411,
-        10081586
+        10145068,
+        10145134,
+        10145239,
+        10145329
       ],
       "error": null
     },
-    "10030393": {
-      "title": "05-05-2026 12:03:16 Yoga pro OLED monitor byguest57806inDisplays, Options and Accessories Hello, will the Yoga Pro 27UD-10 UHD QD-OLED also be available in 32 inches?",
-      "fid": "15880",
+    "10054044": {
+      "title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors First off, it’s a great monitor!The only way to disable it is to turn the monitor off manually and then back on again.I tried everything: multiple factory resets, turning HDR off, disabling OLED C",
+      "fid": "15987",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "post_ids": [
+        10194092,
+        10194477,
+        10194765
+      ],
+      "error": null
+    },
+    "10047243": {
+      "title": "10-08-2026 01:13:42 Monitor screen blanks for a few seconds bylevidinGaming Laptops Lenovo Legion Pro 7 connected to an external screen. USB-C connection to external monitor and hub HDMI connection to HDR externalmonitor Updated all software and drivers; tried changing power settings. Replies(2/2)",
+      "fid": "15985",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "post_ids": [
+        10175644,
+        10175761,
+        10176130
+      ],
+      "error": null
+    },
+    "10012819": {
+      "title": "11-26-2025 20:44:25 USB-C - dGPU | Lenovo Legion Pro 5 16IRX8 byartemkosinGaming Laptops I have a Lenovo Legion Pro 5 16IRX8.USB-C port connected directly to the dGPU, so I can use a USB-C → DisplayPort cable to run an external monitor",
+      "fid": "15985",
       "pages_captured": 1,
       "posts_captured": 2,
       "post_ids": [
-        10110647,
-        10111147
+        10045320,
+        10045592
+      ],
+      "error": null
+    },
+    "10016238": {
+      "title": "12-25-2025 08:28:46 External monitor does not wake up bymurrrzilkainGaming Laptops External monitor Dell P2414H connected to Lenovo Legion 5 Pro via USB-C → DisplayPort does not wakeMonitor shows “No signal” until I physically unplug and reconnect the DisplayPort cable.After reconnection, the monito",
+      "fid": "15985",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10057903,
+        10057959
       ],
       "error": null
     },
@@ -515,8 +573,39 @@
       ],
       "error": null
     },
+    "10022519": {
+      "title": "02-19-2026 00:05:05 Legion pro 32UD-10 HDR modes byMetasotkuinY Gaming Accessories & Curved Gaming Monitors Hi What HDR modes give the full 1000 nit brightness?",
+      "fid": "15987",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10081411,
+        10081586
+      ],
+      "error": null
+    },
+    "10030239": {
+      "title": "05-03-2026 22:42:06 HDR, Dolby Vision not working byJosefCZinGaming Laptops issue concerning the deployment of Dolby Vision and HDR management on the flagship Lenovo Legion 9 16IRX9Detailed environment specifications: Device: Lenovo Legion 9 16IRX9 (Intel Core i9, NVIDIA RTXOutput is set to 10 bpc, ",
+      "fid": "15985",
+      "pages_captured": 2,
+      "posts_captured": 11,
+      "post_ids": [
+        10110194,
+        10110367,
+        10130561,
+        10131705,
+        10131776,
+        10131829,
+        10131869,
+        10131998,
+        10134044,
+        10134171,
+        10134977
+      ],
+      "error": null
+    },
     "10022596": {
-      "title": "02-19-2026 15:16:32 Lenovo 32UD-10 Oled care byVechtrulinY Gaming Accessories & Curved Gaming Monitors Hi there, based on the limited information available in the user manual of the Lenovo 32UD-10 GamingMonitor, I do not understand the following: 1.difference in the time each operation takes (automa",
+      "title": "02-19-2026 15:16:32 Lenovo 32UD-10 Oled care byVechtrulinY Gaming Accessories & Curved Gaming Monitors Hi there, based on the limited information available in the user manual of the Lenovo 32UD-10 GamingMonitor, I do not understand the following: 1.In this case, does the monitor do the refresh first",
       "fid": "15987",
       "pages_captured": 1,
       "posts_captured": 2,
@@ -537,21 +626,8 @@
       ],
       "error": null
     },
-    "10035498": {
-      "title": "06-19-2026 02:52:43 Legion 27Q-10 OLED OSD not working bydavidhallerinDisplays, Options and Accessories power button never worked, despite having discharged (unplugged all cables and hold power button for 10/15/30/60s) Symptom: - After discharging and plugging in power, the monitor quicky flashes",
-      "fid": "15880",
-      "pages_captured": 1,
-      "posts_captured": 4,
-      "post_ids": [
-        10133475,
-        10133711,
-        10133722,
-        10136812
-      ],
-      "error": null
-    },
     "10024883": {
-      "title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automatic",
+      "title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automaticfeatures of the monitor regarding screen protections.",
       "fid": "15880",
       "pages_captured": 1,
       "posts_captured": 2,
@@ -561,8 +637,20 @@
       ],
       "error": null
     },
+    "10002053": {
+      "title": "09-15-2025 15:15:41 Question about Legion 7i and Legion 5(i) Pro - 2025 - OLED byEradiinGaming Laptops Hello everyone, I would like to inherit my current, loyal Lenovo Legion 5 Pro. The following options have emerged for me: - Lenovo Legion 5 Pro (AMD) Gen 10 (2025) - Lenovo Legion 5i Pro (Intel) Ge",
+      "fid": "15985",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "post_ids": [
+        10006986,
+        10007727,
+        10007756
+      ],
+      "error": null
+    },
     "10000916": {
-      "title": "09-08-2025 06:11:37 Oled Burn in lenovo Legion pro 7 byvishwateja25inGaming Laptops Hi I have my new laptop legion 7 pro wanted to check how do i enable the oled care whichprevents burn in as there is no such option being displayed in lenovo vantage app for me. Replies(5/5)",
+      "title": "10-04-2026 22:00:13 Re:OLED burn-in on the Lenovo Legion Pro 7 byStevennameinGaming Laptops In my case it’s a Lenovo Legion 5, but the OLED protection functions were found in Lenovo Space andsome in Lenovo Vantage in the Monitor section; at the very bottom there is an option to control dimming Repli",
       "fid": "15985",
       "pages_captured": 1,
       "posts_captured": 6,
@@ -576,69 +664,136 @@
       ],
       "error": null
     },
-    "10019762": {
-      "title": "01-26-2026 15:17:49 Re: Lenovo 240hz OLED screen red tint problem with HDR on byALEATHAinGaming Laptops I have a Lenovo Legion Pro 7 5070 Ti OLED. I have a red tint problem while my HDR is on.I sent the device to the service center in Turkey twice, but their report says it's normal for OLED.I also r",
+    "10018711": {
+      "title": "01-16-2026 20:20:53 minimal brightness of Lenovo Legion 27U-10 byJhonCooperinDisplays, Options and Accessories Hello can you say please what is minimal brightness of Lenovo Legion 27U-10 ?( https://www.lenovo.com/lt/lt/p/monitors/legion/legion-27u-10-monitor/mong0014 )and do eyes hurt after long ses",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10067033,
+        10067276
+      ],
+      "error": null
+    },
+    "10017783": {
+      "title": "01-09-2026 04:15:13 Legion 25-10 monitor cannot standby properly byjohnlee9168inDisplays, Options and Accessories Hi I have a Legion 25-10 monitor, running Windows 10 and using DVI cable. I noticed that when Windows enters standby mode, the monitor display LED becomes orange, BUTThen the monitor dis",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10063560,
+        10063757
+      ],
+      "error": null
+    },
+    "10036126": {
+      "title": "06-25-2026 19:58:28 IdeaPad Gaming 3 15IHU6 — HDMI port stopped working mid-use, cannot use monitor above 60hz byasisqtinLenovo IdeaPad 1xx, 3xx, 5xx & 7xx, Edge, LaVie Z, Flex Laptops I recently purchased a Lenovo Legion 24-10 240Hz monitor and connected it via HDMI.This means I am completely unabl",
+      "fid": "15849",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10135980,
+        10135986
+      ],
+      "error": null
+    },
+    "10004964": {
+      "title": "10-03-2025 07:26:00 DisplayPort connection no longer works LEGION T5 26IRX9 with Lenovo Legion R25i-30 monitor bypetergottsteininGaming Desktops After now 6 months of operation with an external monitor (Lenovo Legion R25i-30) connected to my LenovoIt seems as if the connection on the PC (or on the m",
+      "fid": "15986",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10017387,
+        10017562
+      ],
+      "error": null
+    },
+    "10019220": {
+      "title": "01-21-2026 16:00:27 Will Lenovo LOQ 15APH8 Output 1440p 240Hz via HDMI 2.1 or USB-C to DP on Legion 27Q-10? bySpidey-100inGaming Laptops Hi, I’m using a Lenovo LOQ 15APH8 laptop(ryzen 7 7840 hs & rtx 4060 varient) and I’m planningto buy the Lenovo Legion 27Q-10 monitor (2K, 240 Hz). I have a couple ",
       "fid": "15985",
       "pages_captured": 1,
       "posts_captured": 2,
       "post_ids": [
-        10071017,
-        10071018
+        10068995,
+        10069056
       ],
       "error": null
     },
-    "10042994": {
-      "title": "08-30-2026 01:08:52 X-Rite Colour Assistant Unable To Download ICC Colour Profiles byAngelo1234inGaming Laptops I recently did a fresh Windows 11 USB install on my Lenovo Legion Pro 7i Gen 10, and when I downloadedI'd really like to get my factory ICC color profile back since it's an expensive OLED ",
+    "10015081": {
+      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
+      "fid": "15860",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10053523,
+        10053559
+      ],
+      "error": null
+    },
+    "10053737": {
+      "title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10193297,
+        10193527
+      ],
+      "error": null
+    },
+    "10048604": {
+      "title": "10-20-2026 06:06:39 Brightness slider and keyboard shortcuts don’t change brightness on Lenovo LOQ bySarker_ShuvoinGaming Laptops Hi everyone, I have a Lenovo LOQ (machine type/model 83JE0110AD).The brightness controls aren’t changing the built-in screen brightness: The Windows brightness The keyboa",
       "fid": "15985",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10180195,
+        10180433
+      ],
+      "error": null
+    },
+    "10045252": {
+      "title": "09-18-2026 22:58:12 Re:monitor settings byLorenzo_LenovoinDisplays, Options and Accessories Hello Glai, Welcome to Lenovo Community Thanks for your question about the Lenovo Legion R24S monitor. understand you’d like to know whether the Deep Sleep setting is available and where to find it in the on-",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "post_ids": [
+        10168412,
+        10168420,
+        10168580
+      ],
+      "error": null
+    },
+    "10043602": {
+      "title": "09-03-2026 11:36:38 Gaming monitor 27\" Lenovo Legion R27qe Gen 2 byOlga_KhinY Gaming Accessories & Curved Gaming Monitors I have a 27\" Lenovo Legion R27qe Gen 2 gaming monitor under warranty (purchased less than a yearbr/>There are no issues with the cable, settings, or drivers, because when reconne",
+      "fid": "15987",
       "pages_captured": 1,
       "posts_captured": 4,
       "post_ids": [
-        10160395,
-        10160598,
-        10160747,
-        10161002
+        10162356,
+        10162641,
+        10162839,
+        10164033
       ],
       "error": null
     },
-    "10028373": {
-      "title": "04-14-2026 17:40:09 Monitor does not work via USB-C - DP, Legion Pro 5 Gen 8 16IRX8 byguest57461inGaming Laptops Hi, I wanted to connect an external monitor (legion y27qf 30) to the laptop (Legion Pro 5 Gen8 16IRX8) using a USB-C -> DP cable, however the laptop does not detect the monitor.The monito",
+    "10037912": {
+      "title": "07-16-2026 21:45:24 Re:Lenovo Loq Essential 15ırx11 i5-13450hx processor overheating problem byAdriel_lenovoinGaming Laptops target=\"_blank\">yilmazryucel, Your CPU briefly reaching the high‑90°C range can happen on gaming - In Windows, set screen/keyboard brightness and background apps normally (don",
       "fid": "15985",
       "pages_captured": 1,
-      "posts_captured": 3,
+      "posts_captured": 5,
       "post_ids": [
-        10103283,
-        10103434,
-        10103572
-      ],
-      "error": null
-    },
-    "10014801": {
-      "title": "12-12-2025 03:21:56 External Monitor Flickers When Connected to Legion Pro 7 16IAX10H via HDMI Cable bydanielmitinGaming Laptops Hello, I recently bought a Legion Pro 7 16IAX10H.The way I use this laptop is by connecting it to my monitor via an HDMI 2.1 cable.The issue I am having is that on boot, a",
-      "fid": "15985",
-      "pages_captured": 1,
-      "posts_captured": 3,
-      "post_ids": [
-        10052499,
-        10052813,
-        10053023
-      ],
-      "error": null
-    },
-    "10047243": {
-      "title": "10-08-2026 01:13:42 Monitor screen blanks for a few seconds bylevidinGaming Laptops Lenovo Legion Pro 7 connected to an external screen. USB-C connection to external monitor and hub HDMI connection to HDR externalmonitor Updated all software and drivers; tried changing power settings. Replies(2/2)",
-      "fid": "15985",
-      "pages_captured": 1,
-      "posts_captured": 3,
-      "post_ids": [
-        10175644,
-        10175761,
-        10176130
+        10142607,
+        10142694,
+        10142720,
+        10142940,
+        10143189
       ],
       "error": null
     }
   },
-  "topics_attempted": 19,
-  "topics_with_posts": 19,
-  "total_posts_captured": 68,
+  "topics_attempted": 28,
+  "topics_with_posts": 28,
+  "total_posts_captured": 96,
   "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json."
 }

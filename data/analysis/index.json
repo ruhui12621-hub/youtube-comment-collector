@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T00:42:34.200274Z",
+  "generated_at": "2026-11-24T00:57:12.504420Z",
   "timezone": "UTC",
   "source_of_truth": [
     "data/comments/*.json",
@@ -20,19 +20,19 @@
   "counts": {
     "youtube_videos": 47,
     "youtube_comments_and_replies": 12062,
-    "forum_threads": 20,
-    "forum_posts": 76,
-    "all_records": 12138,
+    "forum_threads": 35,
+    "forum_posts": 122,
+    "all_records": 12184,
     "relevant_records": 83,
-    "excluded_records": 12055,
-    "dated_records": 11011,
-    "exact_publication_times": 76,
+    "excluded_records": 12101,
+    "dated_records": 11057,
+    "exact_publication_times": 122,
     "estimated_publication_times": 10935,
     "undated_records": 1127,
     "recent_7d_relevant": 3,
     "recent_30d_relevant": 10,
     "recent_7d_context": 97,
-    "recent_30d_context": 458
+    "recent_30d_context": 460
   },
   "monthly_counts": {
     "2025-12": 5,

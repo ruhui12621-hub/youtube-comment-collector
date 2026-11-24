@@ -2,11 +2,11 @@
   "thread": {
     "tid": "10000916",
     "fid": "15985",
-    "url": "https://forums.lenovo.com/topic/findpost/15985/10000916/10002951",
-    "title": "09-08-2025 06:11:37 Oled Burn in lenovo Legion pro 7 byvishwateja25inGaming Laptops Hi I have my new laptop legion 7 pro wanted to check how do i enable the oled care whichprevents burn in as there is no such option being displayed in lenovo vantage app for me. Replies(5/5)",
-    "query": "Lenovo Legion Pro 27Q10 OLED",
+    "url": "https://forums.lenovo.com/topic/findpost/15985/10000916/10174320",
+    "title": "10-04-2026 22:00:13 Re:OLED burn-in on the Lenovo Legion Pro 7 byStevennameinGaming Laptops In my case it’s a Lenovo Legion 5, but the OLED protection functions were found in Lenovo Space andsome in Lenovo Vantage in the Monitor section; at the very bottom there is an option to control dimming Repli",
+    "query": "Lenovo Legion Pro 27Q10 monitor OLED",
     "source": "search_discovery",
-    "sample_pid": "10002951"
+    "sample_pid": "10174320"
   },
   "topic_api": {
     "endpoint_template": "https://forums.lenovo.com/api/v2/topic/getTopic?fid=15985&tid=10000916&page=N",
