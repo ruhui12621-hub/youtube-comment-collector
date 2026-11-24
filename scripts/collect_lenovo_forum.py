@@ -13,7 +13,7 @@ from urllib.parse import urlencode
 
 import requests
 from bs4 import BeautifulSoup
-from search_rules import load_search_queries, should_exclude_text, is_relevant_monitor_text
+from search_rules import load_search_queries, is_relevant_monitor_text
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "lenovo_forum"
@@ -108,8 +108,6 @@ def load_target_threads():
     except Exception:
         return list(targets.values())
 
-    model_pattern = re.compile(r"\b(?:27|32)\s?(?:ud|q|qd)\s*-?\s*10\b", re.I)
-    family_pattern = re.compile(r"\blegion\s+pro\b.*\boled\b|\blegion\s+oled\b|\blegion\s+pro\b.*\bmonitor\b", re.I | re.S)
     issue_pattern = re.compile(r"(hdr|dimm|bright|abl|low power|oled care|变暗|亮度)", re.I)
     for tid, item in (report.get("discovered_topics") or {}).items():
         url = item.get("url") or ""
