@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T01:03:04.487046+00:00",
-  "video_count": 87,
+  "updated_at": "2026-11-24T13:52:28.223950+00:00",
+  "video_count": 94,
   "videos": [
     {
       "video_id": "uJLwz7Vj7_o",
@@ -35,7 +35,8 @@
       "title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
       "channel": "Benjamin Green",
       "search_queries": [
-        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ]
@@ -121,6 +122,16 @@
       "channel": "jennifergala",
       "search_queries": [
         "Dolby Vision dimming Lenovo Legion"
+      ]
+    },
+    {
+      "video_id": "FrQCZxnL7YI",
+      "url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "channel": "okemudin",
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
       ]
     },
     {
@@ -246,12 +257,30 @@
       ]
     },
     {
+      "video_id": "EW4JKgEQv5w",
+      "url": "https://www.youtube.com/watch?v=EW4JKgEQv5w",
+      "title": "Is 240Hz Worth It? Lenovo Legion 24\" Gaming Monitor Unboxing & Honest Review The5911",
+      "channel": "The 5911",
+      "search_queries": [
+        "Lenovo Legion monitor HDR brightness drops"
+      ]
+    },
+    {
       "video_id": "tcvehqj_t48",
       "url": "https://www.youtube.com/watch?v=tcvehqj_t48",
       "title": "Is HDR Worse? - HDR vs SDR On Monitors & TVs",
       "channel": "The Display Guy",
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
+      ]
+    },
+    {
+      "video_id": "xd6j24BLd9o",
+      "url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "channel": "Venom's Tech",
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
       ]
     },
     {
@@ -270,10 +299,10 @@
       "channel": "Geekception",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 32QD-10 monitor OLED"
       ]
     },
@@ -408,7 +437,6 @@
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
-        "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
         "Lenovo Legion Pro 27Q-10 monitor OLED",
         "Lenovo Legion Pro27Q-10 monitor",
@@ -425,11 +453,17 @@
         "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
-        "Lenovo Legion Pro 32UD 10 monitor",
         "Lenovo Legion Pro 27Q-10 monitor OLED",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
-        "Legion Pro27Q monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro 27Q10 monitor OLED"
+      ]
+    },
+    {
+      "video_id": "GqhDMpaQJ90",
+      "url": "https://www.youtube.com/watch?v=GqhDMpaQJ90",
+      "title": "LENOVO LEGION PRO 32UD-10: Is the 4K 240Hz OLED truly the ultimate monitor?",
+      "channel": "Build & Ride Creations",
+      "search_queries": [
+        "Lenovo Legion Pro 32UD 10 monitor"
       ]
     },
     {
@@ -466,8 +500,8 @@
       "title": "Lenovo Legion Pro OLED Monitors Family",
       "channel": "Lenovo",
       "search_queries": [
-        "Lenovo Legion Pro 27UD10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ]
     },
@@ -495,6 +529,7 @@
       "title": "lenovo legion y740 screen dimmed problem after every reboot",
       "channel": "Ching-Wan Yip",
       "search_queries": [
+        "Lenovo Legion monitor screen gets darker",
         "Lenovo Legion monitor dims after gaming",
         "联想 Legion 显示器 游戏后 自动变暗"
       ]
@@ -505,8 +540,7 @@
       "title": "Lenovo Yoga Pro 27UD-10 Monitor Product Tour",
       "channel": "Lenovo",
       "search_queries": [
-        "Lenovo Legion Pro 27UD10 monitor",
-        "Lenovo Legion Pro 27UD 10 monitor"
+        "Lenovo Legion Pro 27UD10 monitor"
       ]
     },
     {
@@ -515,7 +549,6 @@
       "title": "Lenovo’s BEST 4K OLED Gaming Monitor",
       "channel": "Rogers Gallery",
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
@@ -594,6 +627,24 @@
       "channel": "Linus Tech Tips",
       "search_queries": [
         "Lenovo OLED monitor brightness drops"
+      ]
+    },
+    {
+      "video_id": "CrnJ68_zeWs",
+      "url": "https://www.youtube.com/watch?v=CrnJ68_zeWs",
+      "title": "OLED Murah IAM COMING!!! | Legion Pro 27Q-10 | Lazy Tech",
+      "channel": "The Lazy Monday",
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor"
+      ]
+    },
+    {
+      "video_id": "-yfVJpkWig0",
+      "url": "https://www.youtube.com/watch?v=-yfVJpkWig0",
+      "title": "OLEDs No Longer Cost Half a PC! Lenovo Legion 27Q-10 Review",
+      "channel": "DЕВАЙСИ",
+      "search_queries": [
+        "Legion Pro27Q monitor"
       ]
     },
     {
@@ -688,7 +739,6 @@
       "channel": "Decoding Labs",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
-        "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor"
       ]
     },
@@ -735,6 +785,15 @@
       "channel": "The Display Guy",
       "search_queries": [
         "Lenovo HDR dimming after gaming"
+      ]
+    },
+    {
+      "video_id": "bDYtUIDqh2s",
+      "url": "https://www.youtube.com/watch?v=bDYtUIDqh2s",
+      "title": "รีวิว Lenovo Legion Pro 32UD-10 - จอ QD-OLED ตัวโหดแห่งปี สีสด สวยคมระดับ 4K",
+      "channel": "GamingDose",
+      "search_queries": [
+        "Lenovo Legion Pro 32UD-10 monitor HDR"
       ]
     },
     {

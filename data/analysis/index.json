@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T01:03:04.559463Z",
+  "generated_at": "2026-11-24T13:52:28.305610Z",
   "timezone": "UTC",
   "source_of_truth": [
     "data/comments/*.json",
@@ -18,34 +18,35 @@
     "monthly_directory": "data/analysis/monthly/"
   },
   "counts": {
-    "youtube_videos": 53,
-    "youtube_comments_and_replies": 12357,
+    "youtube_videos": 60,
+    "youtube_comments_and_replies": 13610,
     "forum_threads": 35,
     "forum_posts": 122,
-    "all_records": 12479,
-    "relevant_records": 83,
-    "excluded_records": 12396,
-    "dated_records": 11321,
+    "all_records": 13732,
+    "relevant_records": 85,
+    "excluded_records": 13647,
+    "dated_records": 12484,
     "exact_publication_times": 122,
-    "estimated_publication_times": 11199,
-    "undated_records": 1158,
+    "estimated_publication_times": 12362,
+    "undated_records": 1248,
     "recent_7d_relevant": 3,
     "recent_30d_relevant": 10,
-    "recent_7d_context": 98,
-    "recent_30d_context": 472
+    "recent_7d_context": 104,
+    "recent_30d_context": 496
   },
   "monthly_counts": {
     "2025-12": 5,
-    "2026-02": 8,
+    "2026-01": 1,
+    "2026-02": 7,
     "2026-03": 4,
     "2026-04": 7,
-    "2026-05": 6,
-    "2026-06": 2,
+    "2026-05": 7,
+    "2026-06": 1,
     "2026-07": 12,
-    "2026-08": 12,
+    "2026-08": 14,
     "2026-09": 12,
-    "2026-10": 3,
-    "2026-11": 10
+    "2026-10": 4,
+    "2026-11": 9
   },
   "relevance_guide": {
     "high": "Target 27UD-10/32UD-10 plus a direct dimming/brightness symptom.",

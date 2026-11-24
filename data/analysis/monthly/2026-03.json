@@ -1,38 +1,8 @@
 {
-  "generated_at": "2026-11-24T01:03:04.559463Z",
+  "generated_at": "2026-11-24T13:52:28.305610Z",
   "month": "2026-03",
   "record_count": 4,
   "records": [
-    {
-      "record_id": "youtube:UgxLIuD7LhAuJXJHejB4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
-      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
-      "video_id": "BO74n9KKdZA",
-      "comment_id": "UgxLIuD7LhAuJXJHejB4AaABAg",
-      "parent_id": null,
-      "author": "@suryakonar296",
-      "text": "in india i wanted to buy the cheapest oled which also have good specs,samsung g5 g50sf oled is lower brightness 200nits 180hz 1440p qd oled for 433$ also its matte i hate matte,dell 2725d my favourite is 596,lenovo one is 542 should i buy lenovo to save some money than dell ?all other asus,msi options are more costly than these and aoc agon pro 280hz is 575usd so not considering it",
-      "published_raw": "8 months ago",
-      "published_at": "2026-03-29T01:02:26.686035Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
-      "like_count": 2,
-      "reply_count": 5,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 32UD-10 monitor HDR",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
-      ],
-      "relevance": "medium",
-      "models_mentioned": [
-        "27UD10"
-      ]
-    },
     {
       "record_id": "youtube:Ugz6DBMALX2r7FkL66t4AaABAg.ATACGhlw5kfATlFsgxDuLb",
       "platform": "youtube",
@@ -45,25 +15,56 @@
       "author": "@Alex.The.Lionnnnn",
       "text": "​ @Fanatisicm Fucking exquisit!!  I've never had an OLED before or seen HDR and it blows my mind!!!\n\nIf you're a gamer play returnal.  It's  seriously made for it.",
       "published_raw": "8 months ago",
-      "published_at": "2026-03-29T01:02:11.803886Z",
+      "published_at": "2026-03-29T13:51:01.440952Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "medium",
       "models_mentioned": [
         "32UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgxLIuD7LhAuJXJHejB4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
+      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
+      "video_id": "BO74n9KKdZA",
+      "comment_id": "UgxLIuD7LhAuJXJHejB4AaABAg",
+      "parent_id": null,
+      "author": "@suryakonar296",
+      "text": "in india i wanted to buy the cheapest oled which also have good specs,samsung g5 g50sf oled is lower brightness 200nits 180hz 1440p qd oled for 433$ also its matte i hate matte,dell 2725d my favourite is 596,lenovo one is 542 should i buy lenovo to save some money than dell ?all other asus,msi options are more costly than these and aoc agon pro 280hz is 575usd so not considering it",
+      "published_raw": "8 months ago",
+      "published_at": "2026-03-29T13:50:54.171299Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 2,
+      "reply_count": 5,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
       ]
     },
     {
@@ -81,7 +82,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-24T01:03:04.559463Z",
+      "last_seen_at": "2026-11-24T13:52:28.305610Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "medium",
@@ -104,7 +105,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-24T01:03:04.559463Z",
+      "last_seen_at": "2026-11-24T13:52:28.305610Z",
       "is_first_post": true,
       "kudos": 0,
       "relevance": "medium",

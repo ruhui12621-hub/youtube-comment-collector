@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T01:03:04.559463Z",
+  "generated_at": "2026-11-24T13:52:28.305610Z",
   "note": "No reliable publication timestamp; do not treat as recent.",
-  "record_count": 1158,
+  "record_count": 1248,
   "records": [
     {
       "record_id": "youtube:UgzyZmDCciichzC5hgB4AaABAg",
@@ -251,6 +251,91 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgzxVnStsK0g0QTVkr14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "UgzxVnStsK0g0QTVkr14AaABAg",
+      "parent_id": null,
+      "author": "@ilhamazis16",
+      "text": "Ayolah senggol menyenggol kan seru  malah bahas monitor, tinju di ring",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgzwtT7ZBXrRpM2KhsZ4AaABAg.ATdj56KeWrLAVkzF2xE5rb",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzwtT7ZBXrRpM2KhsZ4AaABAg.ATdj56KeWrLAVkzF2xE5rb",
+      "parent_id": null,
+      "author": "@Learninggg-s6q",
+      "text": "Will this be a great choice for ps5 gaming",
+      "published_raw": "7 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgzvwmfNV_bZ9UXjurh4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzvwmfNV_bZ9UXjurh4AaABAg",
+      "parent_id": null,
+      "author": "@bounthiyalg770",
+      "text": "Bhaiya MSI MAG 255XF bhi review krdo",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgzvopgiXrEi2V43anx4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -459,6 +544,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugzub3gSHypGjKA__Pd4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "Ugzub3gSHypGjKA__Pd4AaABAg",
+      "parent_id": null,
+      "author": "@asdian_dx",
+      "text": "semoga cepet ada oled 4K murah. gak perlu Hz tinggi sih 60-75hz aja cukup\n\n*edit monitor biasa bukan portable",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 3,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgzuX--mRrrIioqu6aF4AaABAg.AUXPqrYNMEvAUY6plfWLZl",
       "platform": "youtube",
       "record_type": "reply",
@@ -474,7 +588,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -719,6 +833,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugzr7xIyk_q7EytA6RB4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugzr7xIyk_q7EytA6RB4AaABAg",
+      "parent_id": null,
+      "author": "@suvamsardar111",
+      "text": "Aw2726dm ka review karo plz",
+      "published_raw": "2 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzqqM1KcsNYT_T3etd4AaABAg",
@@ -1225,6 +1367,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgznQzjYtd55luK4rrR4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "UgznQzjYtd55luK4rrR4AaABAg",
+      "parent_id": null,
+      "author": "@Ryo-vl1us",
+      "text": "Mending nonton channel review monitor yang ini daripada channel review monitor sebelah yang sudah kemana-mana ampe bahasa nya juga udah gak jelas. Sekarang channel sebalah malah monkey\"in orang beli windows lah dan orang beli android sama beli PS. Channel teknologi harusnya membahasa data bukan asumsi apalagi tebar kebencian. Kek ngerasa yang paling bener didunia tuh channel. Dan kayaknya yang sebelah itu bukan channel review monitor lagi tapi sudah berubah jadi channel sekte buah.",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 2,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgznMHUffSsymehdb1l4AaABAg.A_1xG5kD2E3A_3rDCciRsz",
       "platform": "youtube",
       "record_type": "reply",
@@ -1266,12 +1437,13 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
@@ -1409,6 +1581,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzmR_YvPoQRvlQdWXV4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "UgzmR_YvPoQRvlQdWXV4AaABAg",
+      "parent_id": null,
+      "author": "@yogawarrior845",
+      "text": "pengen cari yang 1080p\ntadi nemu TCL monitor mini led 1080p tapi worth it gak ya?",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzmAbUBiC8ZSjRT2cN4AaABAg",
@@ -2257,6 +2458,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugzg3_Fpdm7wW3pkDq54AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugzg3_Fpdm7wW3pkDq54AaABAg",
+      "parent_id": null,
+      "author": "@Bandhan18",
+      "text": "Kya mujhe Gaming karni hai ?\nNahi\nKya mujhe monitor lena hai?\nNahi\nKya maine ye video poora dekha?\nHaan.",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugzfpct7BV_WMcD5aFN4AaABAg.A7qOULmmbdBAHuS6W8nSn7",
       "platform": "youtube",
       "record_type": "reply",
@@ -2562,6 +2791,62 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzdxoWwnTyUd9W1z1B4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzdxoWwnTyUd9W1z1B4AaABAg",
+      "parent_id": null,
+      "author": "@AkshatAkshat-um3ff",
+      "text": "0:40 Unboxing bhaisaab",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgzdepLSxhNaMZ2Y35p4AaABAg.ATcNfVuS00iA_O-UBCpUwG",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzdepLSxhNaMZ2Y35p4AaABAg.ATcNfVuS00iA_O-UBCpUwG",
+      "parent_id": null,
+      "author": "@amit4rou",
+      "text": "​​ @magikarpflex one thing I found out this:\n\nThe USB-C port on your MSI Sword 16 HX supports USB 3.2 Gen 2 with DisplayPort 1.4 alt mode. Without Display Stream Compression (DSC), it natively handles 2K (1440p) up to 240Hz and 1080p up to 240Hz. With DSC enabled on a compatible monitor, it can push 2K past 300Hz and 1080p up to 360Hz+.\n\nCable Quality: Use a high-quality VESA-certified USB-C to DisplayPort 1.4 cable (or a certified USB4/Thunderbolt 4 cable) to ensure maximum signal integrity without bandwidth throttling.",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzdUC5nMTX-k7vvr5N4AaABAg",
@@ -3035,6 +3320,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgzamzHrAaCUA5p4Elx4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzamzHrAaCUA5p4Elx4AaABAg",
+      "parent_id": null,
+      "author": "@Debesh_23",
+      "text": "Sankshep mein means in short, Vistar se means in detail",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 2,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgzaXol7u02MVRKRk654AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -3059,6 +3372,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzaLPaqDRaJ4VWrLg14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzaLPaqDRaJ4VWrLg14AaABAg",
+      "parent_id": null,
+      "author": "@SaikatMondal-s3o",
+      "text": "#QNA Bhiya , Galaxy Book 4 i7 13th gen 1355U lena chahiye ? Is time me ? 60k me ? Actually Samsung ki leni thi is liye😅",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugz_msvNAT9OKz8OMQV4AaABAg",
@@ -3522,16 +3863,16 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 3,
       "reply_count": null,
       "is_reply": false,
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -3564,6 +3905,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzWhGgJBzviOk7QT3p4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "UgzWhGgJBzviOk7QT3p4AaABAg",
+      "parent_id": null,
+      "author": "@devajie",
+      "text": "jangan kelamaan mikir, keburu diangkat saber..",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzWhGKHoj2R_Ijpw-l4AaABAg",
@@ -4148,6 +4518,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgzQwSnIGRxAQhWqEMt4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzQwSnIGRxAQhWqEMt4AaABAg",
+      "parent_id": null,
+      "author": "@sunnyrawat931",
+      "text": "Bhai ye comparison krdo : \r\nAlienware 27 240Hz QD-OLED Gaming Monitor - AW2726DM vs Legion Pro 27Q-10 OLED 67.31cms (26.5) Monitor",
+      "published_raw": "5 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgzQijPsHjR-oqFP4gR4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -4406,6 +4804,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzOJXG0sohIICukJ4Z4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzOJXG0sohIICukJ4Z4AaABAg",
+      "parent_id": null,
+      "author": "@king.vieo-",
+      "text": "Oled bech kar company ko bhi Swad aa jata hai 3:57",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 9,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzOGmlN44SshcpclhJ4AaABAg",
@@ -4799,6 +5225,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzJg07Fw3xgRbJnWxh4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzJg07Fw3xgRbJnWxh4AaABAg",
+      "parent_id": null,
+      "author": "@Starboy_x_is_live",
+      "text": "Msi mag 34 inch curved display wala cover karo bhai bhot shandar h price ke hisab se please we need review",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzIwJ-hwOrwuSVTPf54AaABAg",
@@ -5198,6 +5652,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgzGx31ZnrvQL3qPpA14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzGx31ZnrvQL3qPpA14AaABAg",
+      "parent_id": null,
+      "author": "@Loki20923",
+      "text": "Bhaiya galaxy unpacked me jaa rahe ho kya we are waiting for s26 ultra review 26 march hamre uthne se phle video aana chaiye 😅😅 ❤",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 34,
+      "reply_count": 5,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgzGrX65Vs52-E8PS1V4AaABAg.AZhS-x90v5jAZhyaAB_iv4",
       "platform": "youtube",
       "record_type": "reply",
@@ -5302,6 +5784,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgzGcGvDhBVfJuvWymp4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzGcGvDhBVfJuvWymp4AaABAg",
+      "parent_id": null,
+      "author": "@king.vieo-",
+      "text": "Done 👍 0:40",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgzGYzlcl2RBV7lhkhZ4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -5404,6 +5914,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzF2vdgyE-VUSKohzB4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzF2vdgyE-VUSKohzB4AaABAg",
+      "parent_id": null,
+      "author": "@radhikakabadi2580",
+      "text": "Bhaiya main PC build  wala tha monitoring yahi  wala Lene ki soch Raha tha",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzEx9-cFTv9tZQHdL14AaABAg",
@@ -5545,6 +6083,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgzE5fvSKVrx2BLF2XV4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgzE5fvSKVrx2BLF2XV4AaABAg",
+      "parent_id": null,
+      "author": "@Inosuke_ez",
+      "text": "Bhaiya Ryzen 5 5600x ke rx 6700 xt best hai aur inn ke liye konsa motherboard sabse badhiya hoga .\nMera abhi set-up hai \nRyzen 5600g\n16gb ddr4 ram\n600 w ant eSports normal psu\nAnd gigabyte ds3h b450m v2 motherboard \nTo mujhe upgrade karna hai \nRyzen 5600x and rx 6700xt ke sath pr ram mai yhi rakhunga 16gb ddr4 keu ki ddr5 bohot mehngi hai",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgzDyd-3ClMviM_6Khh4AaABAg",
@@ -6633,16 +7199,16 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 3,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -6789,6 +7355,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugz4Xrah9GSi7to32yx4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugz4Xrah9GSi7to32yx4AaABAg",
+      "parent_id": null,
+      "author": "@syzor2781",
+      "text": "Zebronics S27A 27\" Gaming Monitor its 180 hz 2k 100% srgb monitor please review this monitor its comes around ₹11999-₹14999 1:05 0:29",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugz4XqlIepIJD33ymdV4AaABAg",
@@ -7062,6 +7656,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugz2ghvZ6PSnhSGsZ-N4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugz2ghvZ6PSnhSGsZ-N4AaABAg",
+      "parent_id": null,
+      "author": "@nayanc4353",
+      "text": "Benq just launched 200 MHz 2k gaming monitor which has good speakers. It is also 27\" monitor. Please review",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugz1q1XwsssITMC3lJB4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -7114,6 +7736,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugz1LsWvE6lvMygkjOx4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugz1LsWvE6lvMygkjOx4AaABAg",
+      "parent_id": null,
+      "author": "@aseemnileshlinda",
+      "text": "OnePlus 15R vs iQOO 15R \"sides by sides\" detailed comparison of both phones in same video please 🙏🙏🙏🙏",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugz1JKvlFdYWYQRkWpx4AaABAg.ATXd7lGwRJeAXv598W4c7c",
       "platform": "youtube",
       "record_type": "reply",
@@ -7138,6 +7788,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugz0c785c-dHm4s6Vvt4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "Ugz0c785c-dHm4s6Vvt4AaABAg",
+      "parent_id": null,
+      "author": "@hielmannuraddin8790",
+      "text": "rtx 3060 12gb bisa buat monitor OLED bang? atau up k 9060 xt dlu? krna nvidia udh gak masuk akal harganya",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugz0aDzNXcR3Q8AZ__J4AaABAg",
@@ -7270,6 +7949,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugz-tgcwD2XF4sfItHp4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugz-tgcwD2XF4sfItHp4AaABAg",
+      "parent_id": null,
+      "author": "@smitajadhav9034",
+      "text": "Day 3 of asking review for-\n\nAsus tuf f16 core5 210h rtx 3050 6gb specifically😄😄 please please please \n\nPlease 10th cbse board ke result se pehele 😅😅\nYe same comment aaj ke short pe bhi he \nVote for me please",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugz-mexbZgev6UKIbzV4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -7294,6 +8001,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugz-hC_hiuATxBAbdHt4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugz-hC_hiuATxBAbdHt4AaABAg",
+      "parent_id": null,
+      "author": "@prabal_sharma",
+      "text": "Samsung odyssey g5 ips review ho jaye?",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugz-blszNkMCP96ywrZ4AaABAg.ATBB5vDQD_VATDnOGeF3_1",
@@ -7346,6 +8081,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugyzf2UZnoGqc-YDEAZ4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugyzf2UZnoGqc-YDEAZ4AaABAg",
+      "parent_id": null,
+      "author": "@balimax01",
+      "text": "Ab ye 9k ka ho gya hai,\n\n\nOffline\n\n\n24inch",
+      "published_raw": "6 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgyzdCjdnuuLqthdz1h4AaABAg",
@@ -7565,12 +8328,13 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
@@ -7682,6 +8446,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgyyDDZtU115YUEJc_t4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgyyDDZtU115YUEJc_t4AaABAg",
+      "parent_id": null,
+      "author": "@Mst2354",
+      "text": "the best laptop or maybe a pc even for 1.2 to 1.3 lakh price, can you help me with the choice, i would use blender, unreal engine, da vinci/Adobe and other basic productivity and maybe i would need to move from one place to other for the work. Plz help i prefer perfomance, cooling and display to be best looks a little bulky is fine preferably thin",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgyxohsgOp63YimIc7d4AaABAg.ATBgzOn9TxOAUya32wMMkt",
@@ -8559,6 +9351,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgysQ-GHoIcqQRV20HF4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgysQ-GHoIcqQRV20HF4AaABAg",
+      "parent_id": null,
+      "author": "@agrimgoyal3373",
+      "text": "bhai msi mag 274 E2 WALA 25000 wale ka review kar do please and usko samsung odsey g5 e compare kar do  please jo aapne kreo wali video me last me btaye the 25000 wala mag ka review please",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgysNAuTSiUDFdr-ye94AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -8619,6 +9439,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgyrQzDQAud030aWS5R4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgyrQzDQAud030aWS5R4AaABAg",
+      "parent_id": null,
+      "author": "@Abhishek2804-v",
+      "text": "Bhai Mera lenovo loq 2024 3050 15IAX9 mei na fan vibration aara , tho fan assembly change kardiya firbi aara vibration, i checked vibration with my phone it's 2.1 vibrometer dhikara , i ye common hey yaa motherboard change karana kya?? Lenovo pe barosa gaya 😢😢,",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgyrOqrVUEF8Z4qvxdl4AaABAg",
@@ -8847,6 +9695,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgypeKxYdAE_HQsk9w14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgypeKxYdAE_HQsk9w14AaABAg",
+      "parent_id": null,
+      "author": "@MKRahmatt",
+      "text": "Bro ek budget cable bhi suggest krdo usb to dp ka for 240hz",
+      "published_raw": "7 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgypdvmRFvaXe2gYYvx4AaABAg.AZh4JItFgYEA_9BWu6OGKT",
@@ -9306,6 +10182,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgymHWGZuTq_-oPCrU54AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgymHWGZuTq_-oPCrU54AaABAg",
+      "parent_id": null,
+      "author": "@Jaivik_Vyas",
+      "text": "Got the kreo obsidian for 13200, with bank offers, did I make the right dicision bhai?",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgymEoCOnVeP9fM2Msd4AaABAg",
@@ -10517,13 +11421,13 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -10545,13 +11449,13 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 6,
       "reply_count": 3,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27UD10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "medium",
@@ -11748,6 +12652,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgyXwWzT7fHsMtelZI54AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgyXwWzT7fHsMtelZI54AaABAg",
+      "parent_id": null,
+      "author": "@BFSOLDIERYT",
+      "text": "0:52 😄😁😆",
+      "published_raw": "7 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgyXktGl97WX5RjQBjd4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -11922,6 +12854,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgyWDxJXK2B1XyBgwhx4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgyWDxJXK2B1XyBgwhx4AaABAg",
+      "parent_id": null,
+      "author": "@acceltraff2069",
+      "text": "venom bhai acer Nitro XV272U F3 27 inch IPS WQHD 2560x1440 Gaming Backlight LED LCD Monitor I Rapid 300Hz Refresh, 0.5ms Response I HDR 400  \nisss ka reveiw chahiyeee pleazzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz  ye 10 bit wala he",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgyVgAWH5DE3epEmb1t4AaABAg",
@@ -12142,6 +13102,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgySPmpyXJNMACrLbDF4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgySPmpyXJNMACrLbDF4AaABAg",
+      "parent_id": null,
+      "author": "@justuomar",
+      "text": "Bro Please Try :\nMSI MAG 27CQ6F\nQHD & 180Hz\nBest Monitor In ₹15,000 Range\nVA Panel",
+      "published_raw": "7 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgySPe-OHm4As_eDzHV4AaABAg.APo2M8k_diaAPuVe1tajeS",
       "platform": "youtube",
       "record_type": "reply",
@@ -12152,18 +13140,18 @@
       "parent_id": null,
       "author": "@lifedroid",
       "text": "@ok-nz7mt this or AOC AG276QZD2 240Hz?",
-      "published_raw": "11 months ago (edited)",
+      "published_raw": "1 year ago (edited)",
       "published_at": null,
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -12703,6 +13691,34 @@
       ]
     },
     {
+      "record_id": "youtube:UgyNqvlckp2H9_ka0_Z4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgyNqvlckp2H9_ka0_Z4AaABAg",
+      "parent_id": null,
+      "author": "@mindsetvibezzzz",
+      "text": "bro per minutes 100 views 🧐🧐more....\nek request #qna  wala question zarrur uthana mara ..",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgyNf0CPqbEdhdDHjxd4AaABAg.AXYkbPt5obkA_VYnYFf42J",
       "platform": "youtube",
       "record_type": "reply",
@@ -12796,7 +13812,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
@@ -12805,7 +13821,6 @@
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
-        "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
         "Lenovo Legion Pro 27Q-10 monitor OLED",
         "Lenovo Legion Pro27Q-10 monitor",
@@ -12815,6 +13830,34 @@
       "relevance": "low",
       "models_mentioned": [
         "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgyNP9vUT-Gno6fBeKR4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgyNP9vUT-Gno6fBeKR4AaABAg",
+      "parent_id": null,
+      "author": "@JohnSnow-n7p",
+      "text": "Bhai ji, How's Acer ED343CUR J 34 Inch UWQHD (3440x1440) Pixels VA Panel 1000R Curved Backlight LED Monitor\nUsage - Gaming and Work",
+      "published_raw": "7 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
       ]
     },
     {
@@ -15477,6 +16520,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugy9QsOhO52EWkagMOJ4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugy9QsOhO52EWkagMOJ4AaABAg",
+      "parent_id": null,
+      "author": "@shredrsk2590",
+      "text": "Acer Nitro XV272U F3 vs  Lenovo Legion 27Q-10 which one is better. or any other good monitor. Need  27 inch 2k monitor around Rs.20k",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": 3,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugy9MnpBgrIDZgc1Olh4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -15851,6 +16922,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugy5oDyogxNmOxq7rdp4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "OLEDs No Longer Cost Half a PC! Lenovo Legion 27Q-10 Review",
+      "source_url": "https://www.youtube.com/watch?v=-yfVJpkWig0",
+      "video_id": "-yfVJpkWig0",
+      "comment_id": "Ugy5oDyogxNmOxq7rdp4AaABAg",
+      "parent_id": null,
+      "author": "@byrbon5503",
+      "text": "Дякую за відос, як завжди на висоті, чекаю на огляді Gigabyte MO27Q28G з новою панелью Tandem OLED 4го покоління. Було б дуже цікаво глянути огляд цього девайсу від тебе .",
+      "published_raw": "2 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 7,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugy5Mcth_zkWdpFRMrl4AaABAg.ATXHmJp7_V9ATXkEZYEAK4",
       "platform": "youtube",
       "record_type": "reply",
@@ -16200,6 +17299,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugy2kbCcnzgMNpDBDD14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugy2kbCcnzgMNpDBDD14AaABAg",
+      "parent_id": null,
+      "author": "@pranaybhargava9747",
+      "text": "Bhai is monitor ka oled version ka review pls...!!",
+      "published_raw": "6 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugy2hdoPL05vsXwCVhl4AaABAg.A147vxQ_wsDA2Aun-H5OLT",
@@ -16610,6 +17737,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugy-omJEcMOVrO7Oh054AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugy-omJEcMOVrO7Oh054AaABAg",
+      "parent_id": null,
+      "author": "@GeoWh047",
+      "text": "msi mag 274qrfw me ps5 slim me kya resolution milega kyunki only hdmi2.1 port allows 1440p60Hz on ps5 aur isme hdmi2.0b hai ...........pls tell",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugy-j4K1-8T_ZJw8_y94AaABAg.9mS7w8KA7Rw9xa8xfoxzuw",
@@ -17753,6 +18908,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxtP72khX0cqp3eFH94AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxtP72khX0cqp3eFH94AaABAg",
+      "parent_id": null,
+      "author": "@LEGENDGAMING-hx2lk",
+      "text": "Bro try acer Nitro v5 4k 160hz monitor at 29999 please take my comment",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugxt0ak0NWZUbNXcUzJ4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -18101,6 +19284,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxpnuVtMRyaoeTZAKB4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxpnuVtMRyaoeTZAKB4AaABAg",
+      "parent_id": null,
+      "author": "@SonFaheem",
+      "text": "Bro ek video Lenovo Legion R27qe gen 2 per bhi bnao aur ise Lenovo Legion 27Q-10 ke sath compare bhi karo",
+      "published_raw": "4 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgxpgHJ8xsJ_wqK5FZV4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -18371,6 +19582,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxnNhxe59Ws22QpIOJ4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxnNhxe59Ws22QpIOJ4AaABAg",
+      "parent_id": null,
+      "author": "@anuragjawalkar1525",
+      "text": "Ye monitor vs Acer ka 300 Hz 27 inch 1440P ka review kardo please 🙏🏻",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgxmmBqNMiyhtncVH7d4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -18447,6 +19686,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgxlHSGhPh0y1krlVTx4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxlHSGhPh0y1krlVTx4AaABAg",
+      "parent_id": null,
+      "author": "@anshumanmaurya2540",
+      "text": "Bhaiya cpu undervolt karne ki video banao \nCpu- Ryzen 5 8645 hs",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugxkj-TPxxr9W0NyFot4AaABAg",
@@ -18577,6 +19844,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgxjoOt0adcQvOxUnJd4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxjoOt0adcQvOxUnJd4AaABAg",
+      "parent_id": null,
+      "author": "@BinaryNerd",
+      "text": "Bhai Lenovo Legion 24 10 ka bhi review kar do 10k mein 1080p 240hz de rha hai PLEASEEEEEEEEEEEE",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugxjkrwd7dD4MaZ9rSx4AaABAg",
@@ -18714,7 +20009,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -18742,7 +20037,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 3,
       "reply_count": null,
       "is_reply": true,
@@ -18770,7 +20065,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": 4,
       "is_reply": false,
@@ -18824,16 +20119,16 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -18857,16 +20152,16 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -19161,6 +20456,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxfzEcrhzTwl6MY1fh4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxfzEcrhzTwl6MY1fh4AaABAg",
+      "parent_id": null,
+      "author": "@MUDGILMAXX",
+      "text": "Bhai inka batana jara LG 27G610A 68.4 cm (27 Inch. or. BENQ EW270Q 27-inch",
+      "published_raw": "11 days ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgxfgypLoTl01u2nzkt4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -19419,6 +20742,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugxc9fPXsIjFE003Svl4AaABAg.AaeWT4pzzxcAd3zR3yB61P",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "OLEDs No Longer Cost Half a PC! Lenovo Legion 27Q-10 Review",
+      "source_url": "https://www.youtube.com/watch?v=-yfVJpkWig0",
+      "video_id": "-yfVJpkWig0",
+      "comment_id": "Ugxc9fPXsIjFE003Svl4AaABAg.AaeWT4pzzxcAd3zR3yB61P",
+      "parent_id": null,
+      "author": "@Nikolay_Kratos",
+      "text": "4 поколение обычно они ставят в 4к моники и доплачивать ты будешь солидную суму это уже ультра премиум сегмент, а бюджетках их просто нет, сейчас везде стоят 3 поколение разной отбравковки по яркости если мы говорим про бюджетки",
+      "published_raw": "13 days ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgxbBvBts9-4Q7RO_QJ4AaABAg",
@@ -19732,7 +21083,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": 1,
       "is_reply": false,
@@ -19740,11 +21091,8 @@
         "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
-        "Lenovo Legion Pro 32UD 10 monitor",
         "Lenovo Legion Pro 27Q-10 monitor OLED",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
-        "Legion Pro27Q monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro 27Q10 monitor OLED"
       ],
       "relevance": "medium",
       "models_mentioned": [
@@ -20048,6 +21396,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgxVo1CQOzq6rPH8DzV4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxVo1CQOzq6rPH8DzV4AaABAg",
+      "parent_id": null,
+      "author": "@thesoulofindiangamers",
+      "text": "bhaiya last year legion 5i liya tha apki video dekh ke 1 number chal raha abhi tak aur uske sath lenovo ka back to college offer tha toh 10999 me combo mila tha Legion R27fc-30 + h110 headphone + legion m300 rgb mouse + 3 year warranty + 2 year accidental damage . mere toh maje ho gaye aur lenovo ke laptop lene ka sahi time june july ke aas pas sahi rehta hai achhe offer milte hai",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgxVj38BEvWgfjyH9W94AaABAg.AZzyCuXfn-LAamMGoFI_Ih",
@@ -20616,6 +21992,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxT6nQY7CDy_Xbnb1h4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "UgxT6nQY7CDy_Xbnb1h4AaABAg",
+      "parent_id": null,
+      "author": "@4nd_ry",
+      "text": "ttp semangat konsisten dgn konten2 yg slalu kasih faedah ke viewer bang.. tantangan tech reviewer itu kl yg nonton gak loncat2 skip ke segmen2 lainnya krn ngrasa bosen nonton informasi'y diulang2 sama dgn channel lainnya, Okemudin tiap segmen'y slalu ada info baru yg bikin makin pinter",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgxSdaX04KSjWhiK9IR4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -20692,6 +22097,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgxRaP6OzrO6PGL3db14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxRaP6OzrO6PGL3db14AaABAg",
+      "parent_id": null,
+      "author": "@GANESHKOUSHIKK",
+      "text": "Venom bro Suggest/Recommend me the BEST 4K OLED/FAST IPS/MINI-LED MONITOR UNDER 50-60K 😅 (BTW CURVED IS GOOD OR SHOULD I GO FOR JUST STANDARD/ULTRAWIDE?) ? \n\nUSAGE: \nMOVIES 🎬👀\nGAMING 🎮 (PS5)\n\n(OPT)\nTRADING 📊 & EDITING \n\nOS COMPATIBILITY : MAC OS\nMAC MINI & MACBOOK AIR M2 💻",
+      "published_raw": "4 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgxRRD0ZJZpPvMrVkXd4AaABAg",
@@ -21254,6 +22687,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxMQCSjRanyO_BymQ14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxMQCSjRanyO_BymQ14AaABAg",
+      "parent_id": null,
+      "author": "@DheerajKumar-kd1yh",
+      "text": "I would says go for acer nitro 27 p3 with 18k which has the same spaces as this infact have some better specs like \n\n10 bit display\n400 nits brightness \nHDR best support\n2 watt 2 speaker \nAll adjustment \n300 hz refresh rate\nAll every colour calibration at its peak 😅",
+      "published_raw": "5 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgxMIn2bXNd7QTO2XRF4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -21347,12 +22808,13 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
@@ -21714,6 +23176,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgxGy0NQo6EiiE-8VAt4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxGy0NQo6EiiE-8VAt4AaABAg",
+      "parent_id": null,
+      "author": "@TechOAdi-jx3cw",
+      "text": "Bhai Benq Mobiuz EX271Q ki review video kab ayegi?",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgxGfqUjiGV7wtscJ9Z4AaABAg.AOtDkLI-z2jAPvoT7BaLtm",
       "platform": "youtube",
       "record_type": "reply",
@@ -21790,6 +23280,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgxG2FrAoBDRLc1C3B94AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgxG2FrAoBDRLc1C3B94AaABAg",
+      "parent_id": null,
+      "author": "@TanishArya-g7d",
+      "text": "Some Students in normal days 🤡\nThose students in exam days 🤡",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgxEneA0cGV0P8ZIDe14AaABAg.AL-eUWbEZblAL-uUjfzp26",
@@ -21911,7 +23429,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T00:26:23.795008Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 5,
       "reply_count": 1,
       "is_reply": false,
@@ -23127,6 +24645,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugx4RN3UNOjEha7Qh414AaABAg.AW146dElpmSA_WLMcdB6lC",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "OLED Murah IAM COMING!!! | Legion Pro 27Q-10 | Lazy Tech",
+      "source_url": "https://www.youtube.com/watch?v=CrnJ68_zeWs",
+      "video_id": "CrnJ68_zeWs",
+      "comment_id": "Ugx4RN3UNOjEha7Qh414AaABAg.AW146dElpmSA_WLMcdB6lC",
+      "parent_id": null,
+      "author": "@jonwick447",
+      "text": "itu bagi ente bagi yang lain juga 27 udah pas 43 kegedean kecuali buat tv 24 kecil masing2 suka2 masing ujungnya",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugx4KKaGAdg4Ynok7i94AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -23255,6 +24801,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugx3BIfDZDsARDDX8FB4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugx3BIfDZDsARDDX8FB4AaABAg",
+      "parent_id": null,
+      "author": "@JaiGanesh0227",
+      "text": "20ke me konsa moniter le?",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugx2tpUamNxaxBrLhdF4AaABAg",
@@ -23449,6 +25023,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugx0u7Vli_o6jpPBC954AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugx0u7Vli_o6jpPBC954AaABAg",
+      "parent_id": null,
+      "author": "@NitinKumar-21",
+      "text": "Bhai koi budget Mein 4K monitor batao editing ke liye",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugx0nwYHSUUFFmgX0i94AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -23603,6 +25205,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwzxjmjOHPgDKIqFFZ4AaABAg.AZs_xLmIhEeAZsyvuGasgI",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "UgwzxjmjOHPgDKIqFFZ4AaABAg.AZs_xLmIhEeAZsyvuGasgI",
+      "parent_id": null,
+      "author": "@zombie-mecha",
+      "text": "​​ @AkunwwGanteng tukang yapping ama penyepong apa bedanya?.\nTapi kita gk usa bicara itu, lo nyepong, lo hater, di byr kaga, mulut ampe berbusa sekalipun, akan ada buyer, ngapain ngeberacak dimana² ky manki loncat sana sini, buang2 energi bro.\nJd penonton yang bijak, ambil aja yg bagus dari konten manapun drpd jd pengikut nabi palsu yaping², dia terbayar oleh rating penonton, dan ternak member, kita gk dpt apa2.\nPilih jadi folk or naik semester!",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwzsoOdAdQ2zRoMho14AaABAg",
@@ -23878,6 +25509,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugwy5LArRCgKoXdTCs94AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugwy5LArRCgKoXdTCs94AaABAg",
+      "parent_id": null,
+      "author": "@akashkumarIG",
+      "text": "Bhaiya pls review Lenovo Legion R27Q-30",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwxxrlqIktKPYPZ6nR4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -23985,6 +25644,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwwsHOWZIlbmCDl9CB4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwwsHOWZIlbmCDl9CB4AaABAg",
+      "parent_id": null,
+      "author": "@FLN_SOLACE",
+      "text": "For this budget segment I would definitely recommend viewsonic monitor's. I am using for 1 year now and its 2k and 240hz refresh rate monitor. I had only one issue with it and it was solved by the customer service. It took only 1 month (LOL).",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugwwlpmwa8b56k39FQF4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -24009,6 +25696,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwwhnLyWtUEAVTESXV4AaABAg.AagU5xccXU-Ad3yGRKYotk",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "OLEDs No Longer Cost Half a PC! Lenovo Legion 27Q-10 Review",
+      "source_url": "https://www.youtube.com/watch?v=-yfVJpkWig0",
+      "video_id": "-yfVJpkWig0",
+      "comment_id": "UgwwhnLyWtUEAVTESXV4AaABAg.AagU5xccXU-Ad3yGRKYotk",
+      "parent_id": null,
+      "author": "@Nikolay_Kratos",
+      "text": "Нет там что у этого DEll матрица QD OLED 3 поколения от Самсунг, это бюджетные модели, у них и потолки яркости одинаковые 200/400 поэтому название Dell Alienware не должно вводитьв заблуждение по типу это ж DELL, они так же клепают бюджетки к которому AW2726DM и относится",
+      "published_raw": "13 days ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwwceATNU82SGRoIDF4AaABAg",
@@ -24089,6 +25804,35 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugwvnq4HDIgsD8qsiZF4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "Ugwvnq4HDIgsD8qsiZF4AaABAg",
+      "parent_id": null,
+      "author": "@red23rd",
+      "text": "Oled-nya udah beli, yg 240hz tapi, nah sekarang itu speakernya apa sih kok cakep bener.",
+      "published_raw": "2 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugwv82fVnRP3AAB80VF4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -24146,6 +25890,34 @@
       "is_reply": true,
       "search_queries": [
         "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwuW4Jgae8lRn5PPgF4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwuW4Jgae8lRn5PPgF4AaABAg",
+      "parent_id": null,
+      "author": "@BeastGamer682",
+      "text": "07:28 . Bhaiya Outro Cut Gaya 😅😅😅😅. Bina Bye Bole Hi Aap To Chale Gaye 😅😅😅😅.",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": 2,
+      "is_reply": false,
+      "search_queries": [
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -24528,6 +26300,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugwr4mtTwoCqADEFGEp4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugwr4mtTwoCqADEFGEp4AaABAg",
+      "parent_id": null,
+      "author": "@king.vieo-",
+      "text": "VA = venom army on top 6:11",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 7,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwqxjwLzgKJKaJUbxd4AaABAg.ATA_vdtoFotATBMcU6fFEr",
       "platform": "youtube",
       "record_type": "reply",
@@ -24738,6 +26538,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwpfN97EegDRu1AEQ54AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwpfN97EegDRu1AEQ54AaABAg",
+      "parent_id": null,
+      "author": "@Sufiyaness",
+      "text": "Iska review krdo plz mujhe lena h Acer Nitro XV272K V5 27 Inch UHD (3840x2160) IPS Agile Splendor Gaming Monitor | 160Hz Refresh, Delta E<1, FHD 320Hz Through DFR, G-Sync & FreeSync Compatible, Smart Dial, Eyesafe Certified – Black",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwpdQA0obE_nRmobap4AaABAg.ATA3-er0pGiATAHJfFwMW8",
@@ -24994,6 +26822,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwoiOgo0ps1u1vZAad4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "OLEDs No Longer Cost Half a PC! Lenovo Legion 27Q-10 Review",
+      "source_url": "https://www.youtube.com/watch?v=-yfVJpkWig0",
+      "video_id": "-yfVJpkWig0",
+      "comment_id": "UgwoiOgo0ps1u1vZAad4AaABAg",
+      "parent_id": null,
+      "author": "@2rist-O",
+      "text": "лише збирався натискати кнопочку купити i тут обзорчик) А як зрозумiти якого поколiння у iншого леново там матриця qhd 280гц?",
+      "published_raw": "2 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwoefSZ_KP8iXzquYt4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -25018,6 +26874,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwoZRLsVIc46-5vS-h4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwoZRLsVIc46-5vS-h4AaABAg",
+      "parent_id": null,
+      "author": "@Bloggersubhashree",
+      "text": "Bhai tv ka review lekarao please arahaoska link 🔗 Take a look at this 164 cm (65 inch) Ultra HD (4K) Mini LED Smart Google TV 2025 Edition with 6 Speaker with 108 W Sound Output Powered by Blaupunkt | Inbuilt 2 Sub-Woofer with Magic Sound| Dolby Atmos | 288 Local Dimming Zones | 120 Hz HSR Refresh Rate | MEMC with ALLM & VRR | 1500 Nits Brightness | Dolby Vision, HDR 10, HLG |Contrast Ratio 100000:1 | Smart Eye Shield |Ultra WCG on Flipkart 57,999",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwnfLStKwZlbkW7KQ54AaABAg",
@@ -25571,6 +27455,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwivWEAYv3hgRKDwht4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwivWEAYv3hgRKDwht4AaABAg",
+      "parent_id": null,
+      "author": "@SarthakSingh_op",
+      "text": "Bhaiya ur the best\nBhaiya ek gaming chair lene hain plz app koi bata doo apni hieght ke hisab see under 20,000\nKreo ke saree chair ek bar compair kar doo plz \nAur Kreo ke ek new chair ai hain jo apne apne channel par reveiw nahi karee vahi wale lene ka sooch raha hun ACTUS",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwieTA9LdIHkwX_s554AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -25690,7 +27602,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": 1,
       "is_reply": false,
@@ -25738,6 +27650,35 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugwhu8esQ3eE_D8hawZ4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Don't Think Too Long or It'll Be Gone! LEGION Pro 27Q-10 QD-OLED 280Hz",
+      "source_url": "https://www.youtube.com/watch?v=FrQCZxnL7YI",
+      "video_id": "FrQCZxnL7YI",
+      "comment_id": "Ugwhu8esQ3eE_D8hawZ4AaABAg",
+      "parent_id": null,
+      "author": "@eringumilangbibi",
+      "text": "Tapi ga ada audio out nya bang okemmmmm, repot kalo mau dicolok ke ps 5",
+      "published_raw": "3 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": 2,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwhtaTDYMjcz3VFdlh4AaABAg",
@@ -25807,7 +27748,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -25835,7 +27776,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": 13,
       "is_reply": false,
@@ -25872,6 +27813,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwhOGHwcTbMAVHZDVZ4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwhOGHwcTbMAVHZDVZ4AaABAg",
+      "parent_id": null,
+      "author": "@gauravkumawat5811",
+      "text": "Bro this monitor has true 10bit color support not 8 bit color support the official pdf says so 3:36",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwhJmSj-gLE42CP-CN4AaABAg.ATayzgmHtgFATro6AP42nh",
@@ -25986,6 +27955,62 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwewPjqIQBasPAbooB4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwewPjqIQBasPAbooB4AaABAg",
+      "parent_id": null,
+      "author": "@teamroyal78",
+      "text": "Bro I want a Monitor for video editing jisme Colour Kafi Accurate dekhe Koi suggestion Budget me?. \nLike atleast 100Hz and 1ms response ho (kabhi kabhi gaming ka liya)\n\nLike 2K display \nAnd 4K display \n\nBest budget me in dono ki koi suggestion?.",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwesKXRKjvtq7vvt614AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwesKXRKjvtq7vvt614AaABAg",
+      "parent_id": null,
+      "author": "@namanverma1486",
+      "text": "Please review benq mobiuz ex271q",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 2,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwerkBSJldqG8QQRth4AaABAg",
@@ -27557,6 +29582,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwVYlscnNCuCPRNjq14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwVYlscnNCuCPRNjq14AaABAg",
+      "parent_id": null,
+      "author": "@mrinnnmoy",
+      "text": "@VenomsTech Compare this with Asus 27 inch WQHD IPS Panel Gaming Monitor. (XG27ACS)",
+      "published_raw": "4 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwVYGM2iRgaJEF-aXB4AaABAg.AZhJ5yQj6-EAZjHrCrohWx",
       "platform": "youtube",
       "record_type": "reply",
@@ -27873,6 +29926,32 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwTYwEk2mnlBEgRNhh4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is 240Hz Worth It? Lenovo Legion 24\" Gaming Monitor Unboxing & Honest Review The5911",
+      "source_url": "https://www.youtube.com/watch?v=EW4JKgEQv5w",
+      "video_id": "EW4JKgEQv5w",
+      "comment_id": "UgwTYwEk2mnlBEgRNhh4AaABAg",
+      "parent_id": null,
+      "author": "@AbdelrahmanIbrahim-t5v",
+      "text": "I bought it it's beautiful it have a different colour the colour seems more beautiful i like it so much",
+      "published_raw": "1 month ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 3,
+      "reply_count": 2,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion monitor HDR brightness drops"
+      ],
+      "relevance": "low",
+      "models_mentioned": []
+    },
+    {
       "record_id": "youtube:UgwTE-hm7OrZLH60uJJ4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -28032,6 +30111,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwRhs9lUU6pHYHqn3V4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwRhs9lUU6pHYHqn3V4AaABAg",
+      "parent_id": null,
+      "author": "@GT9653",
+      "text": "Bhai  please review BenQ EW270Q｜27” 2K 200Hz  USB C Gaming Monitor. It is a white monitor with speakers.",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwR_gr7fJ0smSOF0OF4AaABAg.AI70fsBZyFTAc6LLEtXr6M",
       "platform": "youtube",
       "record_type": "reply",
@@ -28186,6 +30293,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwQsz9aT9XBOTnAo_F4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwQsz9aT9XBOTnAo_F4AaABAg",
+      "parent_id": null,
+      "author": "@alimir5350",
+      "text": "bahi really needed a monitor. let's see if this'll be the one. thanks\n\nedit: it's not the one. MSI G274QPF E2 27 is still better even if it's an old one. the main thing is that it doesn't have good HDR. while the MSI one has HDR400 ratings and the brightness is around 420nits.",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwQ8Dkocs5pxCrKN8R4AaABAg",
@@ -28975,6 +31110,118 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwIxd5RvjVQilr9Ip94AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwIxd5RvjVQilr9Ip94AaABAg",
+      "parent_id": null,
+      "author": "@JayM-h2j1v",
+      "text": "Bought the same exact monitor from lenovo website, Had a dead pixel at the upper left corner of the screen, contacted lenovo, they said they will fix it. One \"ENGINEER\" came and made sure that dead pixel was there, reported the same to lenovo and packed the monitor and sealed it. After 1 week i was asked to ship the monitor to lenovo i did that, and in return they will REFUND my money. NOT REPLACEMENT. I bought this monitor on republic day sale for 16k, i asked for store credits for the remaining price, they said NO its not possible. So yea I dont think this will happen with everyone who will get this monitor, but if it does this is the procedure. Now i will just get MSI G274QPF E2.",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 2,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwIvgv3k2jblpY2Gsl4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwIvgv3k2jblpY2Gsl4AaABAg",
+      "parent_id": null,
+      "author": "@Gamer2611-A1",
+      "text": "LG UltraGear 27GS75Q-B vs msi G274QPF E2 vs ye lenovo",
+      "published_raw": "7 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwIMjTfaZtgpyRCaNt4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwIMjTfaZtgpyRCaNt4AaABAg",
+      "parent_id": null,
+      "author": "@dakshkumar24655",
+      "text": "Bhai Iske Alawa Koi Aur Best Monitor Batao Na Urgently Chahiye joki 2k hona chahiye 180+ hz hona chahiye sare adjustments display achha aur 27 inch under 22000\n\n\nAur mere paas ek msi lg ultragear hai 1080 p 180hz ips panel hai toh mujhe ek aur ips lena chahiye ye va panel \n\nAap dono bta dena bhaiya Please 🙏\n\n♥️🤜🤛♥️\n \nHar Baar Jab Bhi Kuch Dhundne ko karta hu ap bade bhai bankar khatak se uski ek video le aate ho is baar bhi agye par is monitor se me satisfy nhi hua toh bhaiya pls help kar dena apka chota bhai samjh ke...",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 2,
+      "reply_count": 2,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwI1ppLh60dcvGKxXt4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwI1ppLh60dcvGKxXt4AaABAg",
+      "parent_id": null,
+      "author": "@ABXY_Gaming",
+      "text": "Mai ,gigabyte, asus oled 2026 models ces vaale india kaa review laao bhaai",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwHbH6dFSt3ZfgKpU54AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -29181,6 +31428,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwGipPXeik-spiGjP94AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwGipPXeik-spiGjP94AaABAg",
+      "parent_id": null,
+      "author": "@AymaanSadiq-d5q",
+      "text": "Awesome review bhai ❤ can you review samsung g5 32 inch curved monitor also for a better comparison ??😅",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwGh-ILPUD8HM8SK514AaABAg",
@@ -29756,12 +32031,12 @@
       "parent_id": null,
       "author": "@02o.",
       "text": "both use the exact same penta tandem qd oled displays, however Lenovo has no coating (glossy, best darks, pops more) whereas benq has an anti glare matte coating. right now the first wins by far because (at least for me) it's 200£ less (so about 530£) than benq, which is 745£.",
-      "published_raw": "5 days ago (edited)",
+      "published_raw": "6 days ago (edited)",
       "published_at": null,
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -29769,11 +32044,8 @@
         "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
-        "Lenovo Legion Pro 32UD 10 monitor",
         "Lenovo Legion Pro 27Q-10 monitor OLED",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
-        "Legion Pro27Q monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro 27Q10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -30045,6 +32317,62 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwD3blsC1-MepkHMTx4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwD3blsC1-MepkHMTx4AaABAg",
+      "parent_id": null,
+      "author": "@technicalcreed7291",
+      "text": "Mai IPS se va mein shift kiya tha 3 years pahle...abhi Friends ke pass IPS dekhta hunto ulti ati hai colours dekh ke acidity wali safed ulti😂😂😂",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgwCxpObVG6RQO3Y7HR4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwCxpObVG6RQO3Y7HR4AaABAg",
+      "parent_id": null,
+      "author": "@PrinceWaghmare460",
+      "text": "Hi bro I wanna buy a laptop , specifications are that Oled is must , reliable hona chahiye , I'll be going for cs engineering in few months, gaming is obvious like rdr 2 , gta 5 enhanced , black myth wukong, Hogwarts, cs 2 , cod , etc aaa games ATLEAST on 60 fps on high NOT ultra defination , ab 4 saal ki degree mai coding ke saath saath ai tools and blender bhi sikhna hai. \nBudget 1.4 lakh or 1.5. Socha tha legion 5 gen 10 lelu par oled and 1 tb add Kiya toh 1.7 lakhs tak jata hai bina oled ke vo 1.5 tak ajayega but chahiye toh oled hi.Tum kuch batao bhai pls !!! .",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwCdQiPsqQdwQyn-Yp4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -30175,6 +32503,34 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:UgwBgn1nRpykwILnmJh4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwBgn1nRpykwILnmJh4AaABAg",
+      "parent_id": null,
+      "author": "@verifiedplayer1673",
+      "text": "Benq new monitor EW270Q｜27” 2K 200Hz BenQ Gaming Monitor (it has contrast ratio of 1200:1) is also with good specs please review that monitor",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:UgwBbTrviiZhs3aHnPN4AaABAg",
       "platform": "youtube",
       "record_type": "comment",
@@ -30225,6 +32581,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwAyqD3dN6gn0hl1r94AaABAg.AaeYXvIzCOrAd3zx0kFPDV",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "OLEDs No Longer Cost Half a PC! Lenovo Legion 27Q-10 Review",
+      "source_url": "https://www.youtube.com/watch?v=-yfVJpkWig0",
+      "video_id": "-yfVJpkWig0",
+      "comment_id": "UgwAyqD3dN6gn0hl1r94AaABAg.AaeYXvIzCOrAd3zx0kFPDV",
+      "parent_id": null,
+      "author": "@Nikolay_Kratos",
+      "text": "Дружище не каждому хочется видеть серый вместо черного, не получать кайфа от просмотра видео и игр, поверь мне дураку я знаю о чем говорю так как сидел на AOC Q27G4ZR Fast IPS 240гц для просмотра контента и игр подчеркну ААА полная шляпа но он изначально нацелен был на киберспорт в котором царь, впринцепи и все IPS панели с их нищим контрастом в 1000к1 такое себе.Вот если уже идти на компромисс то лучшим вариантом в IPS сегменте является мини лед подцветка, за счет которой дается глубина, а не просвет матрицы в ночное время.",
+      "published_raw": "13 days ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Legion Pro27Q monitor"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwAxRzv4c-0VRVOWuZ4AaABAg",
@@ -30339,6 +32723,34 @@
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:UgwAiMTW5kZJ5BfFtzp4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "UgwAiMTW5kZJ5BfFtzp4AaABAg",
+      "parent_id": null,
+      "author": "@HackVerse-l5f",
+      "text": "bhai mujhe dedo please mujhe bahot zarurat hia main anurag apka bahut bada fan hu",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:UgwA9mTkn3XtElHGxEJ4AaABAg",
@@ -30574,16 +32986,16 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 32QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -31158,6 +33570,62 @@
       "models_mentioned": []
     },
     {
+      "record_id": "youtube:Ugw4gW_ScxPrH-3A1ul4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugw4gW_ScxPrH-3A1ul4AaABAg",
+      "parent_id": null,
+      "author": "@helloSayanDeb",
+      "text": "0:21 bhaiyya ne sun liya 27q-10 ka request sirf legion 7i ka wait hai ❤❤❤",
+      "published_raw": "9 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 10,
+      "reply_count": 3,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugw4aNYvPJ1rEjx13DV4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugw4aNYvPJ1rEjx13DV4AaABAg",
+      "parent_id": null,
+      "author": "@ZACKNIZZGAMING",
+      "text": "@VenomsTech bhai mene thode time pehle ye monitor liya tha es monitor me ek green color ka stuck pixel hai ye thik ho sakta hai ya kuch nhi ho sakta iska ??",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
       "record_id": "youtube:Ugw4TFfwwnWIIeKCT4p4AaABAg.AZhf3gF70GnAZiRMu2Yg6W",
       "platform": "youtube",
       "record_type": "reply",
@@ -31509,17 +33977,45 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T01:01:37.433302Z",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro 27UD10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
       "models_mentioned": []
+    },
+    {
+      "record_id": "youtube:Ugw0Unui30c-_TdW_D14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugw0Unui30c-_TdW_D14AaABAg",
+      "parent_id": null,
+      "author": "@Goku-kakarot2",
+      "text": "Bhai ki consistency during summer break 📉\n\nBhai ki consistency during exam 🗿🐐📈📈",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 414,
+      "reply_count": 5,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugw-PF3Y7KeeJ25GRDF4AaABAg.AcON-1K0rGjAcOPPxp08bT",
@@ -31543,6 +34039,34 @@
       "is_reply": true,
       "search_queries": [
         "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugw-2pVmG_-q4YC9NM14AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Is This the BEST 240Hz QHD Gaming Monitor Under ₹20K? | Lenovo Legion 27Q-10",
+      "source_url": "https://www.youtube.com/watch?v=xd6j24BLd9o",
+      "video_id": "xd6j24BLd9o",
+      "comment_id": "Ugw-2pVmG_-q4YC9NM14AaABAg",
+      "parent_id": null,
+      "author": "@hunterxerror402",
+      "text": "bhiya i need your help please ...... 😢😢\nbhaiye maine aapki 150+ laptop vidios dekh kar asus rog strix g16 liya tha i7hx 13th gen rtx 4050 wala , or isko kharedee 9 mahine ho gai or inn 9 mahine me 2 bar mother board replacement ho gaya or jab replace ment hua to ouska secueboot greyout ho gaya ... or ye aap ko to pata hi hai ki koi bhi competitive game kjhelne ke liye secure boot enable chaiye hi chaiye or mainye ye gaming ke liye hi liya tha magar lag raha ki mere 1lakh15thousand pani me gai \nbhaiya agar koi help ho jai please .. may your voice help me ,,",
+      "published_raw": "8 months ago (edited)",
+      "published_at": null,
+      "published_time_quality": "unknown",
+      "first_seen_at": "2026-11-24T13:50:18.294350Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-24T13:50:18.294350Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
