@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-24T13:50:18.294350+00:00",
-  "finished_at": "2026-11-24T13:52:28.225306+00:00",
+  "started_at": "2026-11-25T13:02:11.884815+00:00",
+  "finished_at": "2026-11-25T13:03:48.020867+00:00",
   "queries": [
     "Lenovo Legion Pro 27UD-10 monitor HDR",
     "Lenovo Legion Pro 27UD10 monitor",
@@ -24,9 +24,9 @@
     "联想 拯救者 显示器 OLED 亮度 降低",
     "联想 Legion 显示器 游戏后 自动变暗"
   ],
-  "videos_discovered_this_run": 23,
-  "videos_collected_successfully": 22,
-  "comments_and_replies_seen_this_run": 1694,
+  "videos_discovered_this_run": 19,
+  "videos_collected_successfully": 18,
+  "comments_and_replies_seen_this_run": 717,
   "errors": [
     {
       "stage": "comments",

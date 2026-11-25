@@ -5,10 +5,11 @@
   "channel": "Decoding Labs",
   "search_queries": [
     "Lenovo Legion Pro 27UD-10 monitor HDR",
+    "Lenovo Legion Pro 27UD10 monitor",
     "Lenovo Legion Pro 27UD 10 monitor"
   ],
   "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
-  "last_collected_at": "2026-11-24T13:50:46.557424+00:00",
+  "last_collected_at": "2026-11-25T13:02:40.171260+00:00",
   "comments_count": 4,
   "comments_in_latest_fetch": 4,
   "comments": [
@@ -17,7 +18,7 @@
       "text": "Hi, is the front of the screen glass or just plastic ? Thank you.",
       "author": "@dimosthenismagos7982",
       "author_channel_id": "UCHlqUOYSyjb0LQ7XVnVRE_A",
-      "published": "13 days ago",
+      "published": "2 weeks ago",
       "published_at": null,
       "parent_id": null,
       "like_count": 1,
@@ -28,7 +29,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T13:50:18.294350+00:00"
+      "last_seen_at": "2026-11-25T13:02:11.884815+00:00"
     },
     {
       "comment_id": "UgzFHmtMp7VjoA9zLsx4AaABAg",
@@ -46,7 +47,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T13:50:18.294350+00:00"
+      "last_seen_at": "2026-11-25T13:02:11.884815+00:00"
     },
     {
       "comment_id": "UgzZKu1Rp1cVpvG6rZB4AaABAg",
@@ -64,7 +65,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T13:50:18.294350+00:00"
+      "last_seen_at": "2026-11-25T13:02:11.884815+00:00"
     },
     {
       "comment_id": "UgzZKu1Rp1cVpvG6rZB4AaABAg.AbuRgdOVSgTAbw5ebYMcxE",
@@ -82,7 +83,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T13:50:18.294350+00:00"
+      "last_seen_at": "2026-11-25T13:02:11.884815+00:00"
     }
   ]
 }

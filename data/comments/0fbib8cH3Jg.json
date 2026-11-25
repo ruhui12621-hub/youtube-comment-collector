@@ -4,10 +4,11 @@
   "title": "Lenovo Yoga Pro 27UD-10 Monitor Product Tour",
   "channel": "Lenovo",
   "search_queries": [
-    "Lenovo Legion Pro 27UD10 monitor"
+    "Lenovo Legion Pro 27UD10 monitor",
+    "Lenovo Legion Pro 27UD 10 monitor"
   ],
   "first_collected_at": "2026-11-24T01:01:37.433302+00:00",
-  "last_collected_at": "2026-11-24T13:51:03.907967+00:00",
+  "last_collected_at": "2026-11-25T13:02:53.509597+00:00",
   "comments_count": 5,
   "comments_in_latest_fetch": 5,
   "comments": [
@@ -27,7 +28,7 @@
       "is_reply": false,
       "first_seen_at": "2026-11-24T01:01:37.433302+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T13:50:18.294350+00:00"
+      "last_seen_at": "2026-11-25T13:02:11.884815+00:00"
     },
     {
       "comment_id": "UgwH3sybF9D14-efEgF4AaABAg.ATHypQM9bY9AVvnM4tsxyb",
@@ -45,7 +46,7 @@
       "is_reply": true,
       "first_seen_at": "2026-11-24T01:01:37.433302+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T13:50:18.294350+00:00"
+      "last_seen_at": "2026-11-25T13:02:11.884815+00:00"
     },
     {
       "comment_id": "Ugyw_2np_7bD6zEYWfp4AaABAg",
@@ -63,7 +64,7 @@
       "is_reply": false,
       "first_seen_at": "2026-11-24T01:01:37.433302+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T13:50:18.294350+00:00"
+      "last_seen_at": "2026-11-25T13:02:11.884815+00:00"
     },
     {
       "comment_id": "UgyTrPGGOLXKNK95RlF4AaABAg",
@@ -81,7 +82,7 @@
       "is_reply": false,
       "first_seen_at": "2026-11-24T01:01:37.433302+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T13:50:18.294350+00:00"
+      "last_seen_at": "2026-11-25T13:02:11.884815+00:00"
     },
     {
       "comment_id": "UgyX5WU3SYnjRNWJVPl4AaABAg",
@@ -99,7 +100,7 @@
       "is_reply": false,
       "first_seen_at": "2026-11-24T01:01:37.433302+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T13:50:18.294350+00:00"
+      "last_seen_at": "2026-11-25T13:02:11.884815+00:00"
     }
   ]
 }
