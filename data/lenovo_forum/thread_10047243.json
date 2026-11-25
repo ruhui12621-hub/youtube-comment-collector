@@ -64,7 +64,7 @@
           "pid": 10175644,
           "subject": "Monitor screen blanks for  few seconds",
           "message": "<p>Lenovo Legion Pro 7 connected to external screen. Both screens (laptop and external) will go black for a few seconds and return. Happen with two different setups.</p>\r\n<ol>\r\n<li> USB C connection to external monitor and hub</li>\r\n<li>HDMI connection to HDR external monitor</li>\r\n</ol>\r\n<p>Updated all software and drivers tried changing power settings.</p>",
-          "views": 102,
+          "views": 104,
           "replies": 3,
           "create_time": 1791422022,
           "last_post_time": 1791550858,

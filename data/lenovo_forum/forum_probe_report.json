@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-24T14:19:19.734227+00:00",
-  "finished_at": "2026-11-24T14:19:41.696102+00:00",
+  "started_at": "2026-11-25T13:32:03.998569+00:00",
+  "finished_at": "2026-11-25T13:32:25.498945+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -163,7 +163,7 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 297244,
+      "document_length": 297242,
       "body_text_length": 14180
     },
     {
@@ -204,20 +204,20 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10054044",
-      "fid": "15987",
-      "title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors First off, it’s a great monitor!The only way to disable it is to turn the monitor off manually and then back on again.I tried everything: multiple factory resets, turning HDR off, disabling OLED C",
-      "pages_captured": 1,
-      "posts_captured": 3,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
       "tid": "10038636",
       "fid": "15987",
       "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community Replies(3/3)",
       "pages_captured": 1,
       "posts_captured": 4,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10054044",
+      "fid": "15987",
+      "title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors First off, it’s a great monitor!The only way to disable it is to turn the monitor off manually and then back on again.I tried everything: multiple factory resets, turning HDR off, disabling OLED C",
+      "pages_captured": 1,
+      "posts_captured": 3,
       "error": null
     },
     {
@@ -312,6 +312,15 @@
     },
     {
       "method": "topic_api_collection",
+      "tid": "10019762",
+      "fid": "15985",
+      "title": "01-26-2026 15:17:49 Re: Lenovo 240hz OLED screen red tint problem with HDR on byALEATHAinGaming Laptops I have a Lenovo Legion Pro 7 5070 Ti OLED. I have a red tint problem while my HDR is on.I sent the device to the service center in Turkey twice, but their report says it's normal for OLED.I also r",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
       "tid": "10018711",
       "fid": "15880",
       "title": "01-16-2026 20:20:53 minimal brightness of Lenovo Legion 27U-10 byJhonCooperinDisplays, Options and Accessories Hello can you say please what is minimal brightness of Lenovo Legion 27U-10 ?( https://www.lenovo.com/lt/lt/p/monitors/legion/legion-27u-10-monitor/mong0014 )and do eyes hurt after long ses",
@@ -324,15 +333,6 @@
       "tid": "10017783",
       "fid": "15880",
       "title": "01-09-2026 04:15:13 Legion 25-10 monitor cannot standby properly byjohnlee9168inDisplays, Options and Accessories Hi I have a Legion 25-10 monitor, running Windows 10 and using DVI cable. I noticed that when Windows enters standby mode, the monitor display LED becomes orange, BUTThen the monitor dis",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
-      "tid": "10019220",
-      "fid": "15985",
-      "title": "01-21-2026 16:00:27 Will Lenovo LOQ 15APH8 Output 1440p 240Hz via HDMI 2.1 or USB-C to DP on Legion 27Q-10? bySpidey-100inGaming Laptops Hi, I’m using a Lenovo LOQ 15APH8 laptop(ryzen 7 7840 hs & rtx 4060 varient) and I’m planningto buy the Lenovo Legion 27Q-10 monitor (2K, 240 Hz). I have a couple ",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
@@ -357,9 +357,9 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10015081",
-      "fid": "15860",
-      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
+      "tid": "10019220",
+      "fid": "15985",
+      "title": "01-21-2026 16:00:27 Will Lenovo LOQ 15APH8 Output 1440p 240Hz via HDMI 2.1 or USB-C to DP on Legion 27Q-10? bySpidey-100inGaming Laptops Hi, I’m using a Lenovo LOQ 15APH8 laptop(ryzen 7 7840 hs & rtx 4060 varient) and I’m planningto buy the Lenovo Legion 27Q-10 monitor (2K, 240 Hz). I have a couple ",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
@@ -375,9 +375,18 @@
     },
     {
       "method": "topic_api_collection",
+      "tid": "10015081",
+      "fid": "15860",
+      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
       "tid": "10053737",
       "fid": "15880",
-      "title": "11-14-2026 20:34:34 ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors bySelteinDisplays, Options and Accessories Good day, I am using a new Lenovo ThinkVision P40WD-40 with a new 14-inch MacBook Pro withDifferent display of the two halves of the screen At cert",
+      "title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
@@ -388,7 +397,7 @@
       "fid": "15987",
       "title": "11-24-2026 08:06:18 Lenovo Legion 24-15 – High-Pitched Coil Whine at 240Hz (Color/Load Dependent) byata03inY Gaming Accessories & Curved Gaming Monitors Hello Lenovo Support Team, I recently purchased a Lenovo Legion 24-15 monitor, and I am experiencing>Here are my specific findings after troublesho",
       "pages_captured": 1,
-      "posts_captured": 1,
+      "posts_captured": 2,
       "error": null
     },
     {
@@ -512,18 +521,6 @@
       ],
       "error": null
     },
-    "10054044": {
-      "title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors First off, it’s a great monitor!The only way to disable it is to turn the monitor off manually and then back on again.I tried everything: multiple factory resets, turning HDR off, disabling OLED C",
-      "fid": "15987",
-      "pages_captured": 1,
-      "posts_captured": 3,
-      "post_ids": [
-        10194092,
-        10194477,
-        10194765
-      ],
-      "error": null
-    },
     "10038636": {
       "title": "07-22-2026 14:50:07 Re:Monitor menu options locked e.g. brightness, color + other (lenovo legion pro 27Q-10) byAdriel_lenovoinY Gaming Accessories & Curved Gaming Monitors Hello and welcome to the Lenovo Community Replies(3/3)",
       "fid": "15987",
@@ -534,6 +531,18 @@
         10145134,
         10145239,
         10145329
+      ],
+      "error": null
+    },
+    "10054044": {
+      "title": "11-16-2026 20:43:56 Lenovo Legion Pro 27UD-10 byNate23__inY Gaming Accessories & Curved Gaming Monitors First off, it’s a great monitor!The only way to disable it is to turn the monitor off manually and then back on again.I tried everything: multiple factory resets, turning HDR off, disabling OLED C",
+      "fid": "15987",
+      "pages_captured": 1,
+      "posts_captured": 3,
+      "post_ids": [
+        10194092,
+        10194477,
+        10194765
       ],
       "error": null
     },
@@ -653,6 +662,17 @@
       ],
       "error": null
     },
+    "10019762": {
+      "title": "01-26-2026 15:17:49 Re: Lenovo 240hz OLED screen red tint problem with HDR on byALEATHAinGaming Laptops I have a Lenovo Legion Pro 7 5070 Ti OLED. I have a red tint problem while my HDR is on.I sent the device to the service center in Turkey twice, but their report says it's normal for OLED.I also r",
+      "fid": "15985",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10071017,
+        10071018
+      ],
+      "error": null
+    },
     "10018711": {
       "title": "01-16-2026 20:20:53 minimal brightness of Lenovo Legion 27U-10 byJhonCooperinDisplays, Options and Accessories Hello can you say please what is minimal brightness of Lenovo Legion 27U-10 ?( https://www.lenovo.com/lt/lt/p/monitors/legion/legion-27u-10-monitor/mong0014 )and do eyes hurt after long ses",
       "fid": "15880",
@@ -672,17 +692,6 @@
       "post_ids": [
         10063560,
         10063757
-      ],
-      "error": null
-    },
-    "10019220": {
-      "title": "01-21-2026 16:00:27 Will Lenovo LOQ 15APH8 Output 1440p 240Hz via HDMI 2.1 or USB-C to DP on Legion 27Q-10? bySpidey-100inGaming Laptops Hi, I’m using a Lenovo LOQ 15APH8 laptop(ryzen 7 7840 hs & rtx 4060 varient) and I’m planningto buy the Lenovo Legion 27Q-10 monitor (2K, 240 Hz). I have a couple ",
-      "fid": "15985",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "post_ids": [
-        10068995,
-        10069056
       ],
       "error": null
     },
@@ -708,14 +717,14 @@
       ],
       "error": null
     },
-    "10015081": {
-      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
-      "fid": "15860",
+    "10019220": {
+      "title": "01-21-2026 16:00:27 Will Lenovo LOQ 15APH8 Output 1440p 240Hz via HDMI 2.1 or USB-C to DP on Legion 27Q-10? bySpidey-100inGaming Laptops Hi, I’m using a Lenovo LOQ 15APH8 laptop(ryzen 7 7840 hs & rtx 4060 varient) and I’m planningto buy the Lenovo Legion 27Q-10 monitor (2K, 240 Hz). I have a couple ",
+      "fid": "15985",
       "pages_captured": 1,
       "posts_captured": 2,
       "post_ids": [
-        10053523,
-        10053559
+        10068995,
+        10069056
       ],
       "error": null
     },
@@ -739,8 +748,19 @@
       ],
       "error": null
     },
+    "10015081": {
+      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
+      "fid": "15860",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10053523,
+        10053559
+      ],
+      "error": null
+    },
     "10053737": {
-      "title": "11-14-2026 20:34:34 ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors bySelteinDisplays, Options and Accessories Good day, I am using a new Lenovo ThinkVision P40WD-40 with a new 14-inch MacBook Pro withDifferent display of the two halves of the screen At cert",
+      "title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
       "fid": "15880",
       "pages_captured": 1,
       "posts_captured": 2,
@@ -754,9 +774,10 @@
       "title": "11-24-2026 08:06:18 Lenovo Legion 24-15 – High-Pitched Coil Whine at 240Hz (Color/Load Dependent) byata03inY Gaming Accessories & Curved Gaming Monitors Hello Lenovo Support Team, I recently purchased a Lenovo Legion 24-15 monitor, and I am experiencing>Here are my specific findings after troublesho",
       "fid": "15987",
       "pages_captured": 1,
-      "posts_captured": 1,
+      "posts_captured": 2,
       "post_ids": [
-        10197039
+        10197039,
+        10197380
       ],
       "error": null
     },
@@ -811,8 +832,8 @@
       "error": null
     }
   },
-  "topics_attempted": 29,
-  "topics_with_posts": 29,
-  "total_posts_captured": 97,
+  "topics_attempted": 30,
+  "topics_with_posts": 30,
+  "total_posts_captured": 100,
   "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json."
 }

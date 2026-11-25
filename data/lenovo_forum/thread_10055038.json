@@ -13,7 +13,7 @@
     "pages": [
       {
         "page": 1,
-        "posts_count": 1,
+        "posts_count": 2,
         "posts": [
           {
             "pid": 10197039,
@@ -27,24 +27,37 @@
             "is_first": 1,
             "kudos": 0,
             "author_country": "TR"
+          },
+          {
+            "pid": 10197380,
+            "tid": 10055038,
+            "subject": "Re:Lenovo Legion 24-15 – High-Pitched Coil Whine at 240Hz (Color/Load Dependent)",
+            "author": "Hector_Lenovo",
+            "created_at": 1795554006,
+            "created_at_text": "2026-11-24 21:00",
+            "message_html": "<p>Hi ata03!<br/><br/>Welcome to Lenovo Community, and thank you for describing the issue so clearly. I understand how concerning an audible high-pitched noise can be, especially when it changes at 240Hz and with different on-screen content.<br/><br/>Based on what you described, that behavior does not sound typical for normal use, especially if the noise is clearly noticeable from the rear of the monitor and becomes more pronounced at the native 240Hz setting. Since you have already isolated several common variables by testing a separate wall outlet and observing how brightness, HDR, and image content affect it, this may require further investigation for possible hardware inspection or warranty review.<br/><br/>A few practical checks you can still try:<br/>- Test the monitor at 240Hz with a different video cable if available.<br/>- If possible, try another power cable that is known to be compatible with your setup.<br/>- Check whether the sound changes when the monitor is disconnected from the source device but still powered on.<br/>- If available, test with another source device to see whether the noise behavior remains the same.</p>\n<p>If the sound stays very faint, brief, and only happens occasionally during load changes, it is often considered normal electrical behavior / <a href=\"https://pcsupport.lenovo.com/solutions/ht511649\" rel=\"noopener\" target=\"_blank\">coil whine</a>.</p>\n<p>At 240Hz, does the same high‑pitched whine occur if you switch from DisplayPort 1.4 to one of the monitor’s HDMI 2.1 ports using an HDMI cable? This can help determine whether the behavior is tied more closely to the connection path or to the monitor itself.</p>\n<p>We will be waiting for your response.</p>\n<p>Best regards,<br/>Hector_Lenovo</p>",
+            "message_text": "Hi ata03!\nWelcome to Lenovo Community, and thank you for describing the issue so clearly. I understand how concerning an audible high-pitched noise can be, especially when it changes at 240Hz and with different on-screen content.\nBased on what you described, that behavior does not sound typical for normal use, especially if the noise is clearly noticeable from the rear of the monitor and becomes more pronounced at the native 240Hz setting. Since you have already isolated several common variables by testing a separate wall outlet and observing how brightness, HDR, and image content affect it, this may require further investigation for possible hardware inspection or warranty review.\nA few practical checks you can still try:\n- Test the monitor at 240Hz with a different video cable if available.\n- If possible, try another power cable that is known to be compatible with your setup.\n- Check whether the sound changes when the monitor is disconnected from the source device but still powered on.\n- If available, test with another source device to see whether the noise behavior remains the same.\nIf the sound stays very faint, brief, and only happens occasionally during load changes, it is often considered normal electrical behavior /\ncoil whine\n.\nAt 240Hz, does the same high‑pitched whine occur if you switch from DisplayPort 1.4 to one of the monitor’s HDMI 2.1 ports using an HDMI cable? This can help determine whether the behavior is tied more closely to the connection path or to the monitor itself.\nWe will be waiting for your response.\nBest regards,\nHector_Lenovo",
+            "is_first": 0,
+            "kudos": 0,
+            "author_country": "US"
           }
         ],
-        "posts_num": 1,
+        "posts_num": 2,
         "cur_page": "topicinfo",
-        "last_pid": 10197039,
+        "last_pid": 10197380,
         "topic_info": {
           "tid": 10055038,
           "fid": 15987,
           "pid": 10197039,
           "subject": "Lenovo Legion 24-15 – High-Pitched Coil Whine at 240Hz (Color/Load Dependent)",
           "message": "<p>Hello Lenovo Support Team,</p>\r\n<p>I recently purchased a Lenovo Legion 24-15 monitor, and I am experiencing an audible high-pitched coil whine coming from the rear of the unit (near the power and DisplayPort input area) when running at its native 240Hz refresh rate.</p>\r\n<p>Here are my specific findings after troubleshooting:</p>\r\n<p>Refresh Rate Dependency: At 144Hz, the monitor is relatively silent. However, switching to 240Hz produces a noticeable high-pitched whine that is audible from a normal seating distance in a quiet room.</p>\r\n<p>Color/Panel Load Pattern: At 240Hz, fullscreen pure black screens produce relatively little noise, whereas fullscreen solid RGB colors (Red, Green, or Blue) and bright/colorful desktop content immediately trigger and amplify the whine.</p>\r\n<p>Setup & Verification: Tested via DisplayPort 1.4 and directly connected to a separate wall outlet. Adjusting brightness and disabling HDR slightly reduces the intensity, but the issue persists at 240Hz.</p>\r\n<p>Could you please confirm whether this level of coil whine at 240Hz is considered within normal operating specifications for the Legion 24-15, or if it qualifies for a hardware inspection/replacement under warranty?</p>\r\n<p>Thank you for your assistance.</p>",
-          "views": 7,
-          "replies": 1,
+          "views": 16,
+          "replies": 2,
           "create_time": 1795507578,
-          "last_post_time": 1795507578,
+          "last_post_time": 1795554006,
           "sticky": 0,
           "status": 0,
-          "additional_status": 0,
+          "additional_status": 1,
           "displayorder": 0,
           "seolink": "/t5/Y-Gaming-Accessories-Curved-Gaming-Monitors/Lenovo-Legion-24-15-–-High-Pitched-Coil-Whine-at-240Hz-Color-Load-Dependent/m-p/10055038",
           "closed": 0,
@@ -92,12 +105,12 @@
             "rank_status": 0,
             "create_time": "2020-09-09 05:51:30"
           },
-          "last_author_name": "ata03",
+          "last_author_name": "Hector_Lenovo",
           "is_translated": true,
           "version": 2,
           "lang": "en",
           "authorid": 3481343,
-          "last_authorid": 3481343,
+          "last_authorid": 1688240,
           "author_name": "ata03",
           "is_blog": 0,
           "target_lang_code": "en",
@@ -132,7 +145,7 @@
         }
       }
     ],
-    "total_posts_captured": 1,
+    "total_posts_captured": 2,
     "error": null
   }
 }
