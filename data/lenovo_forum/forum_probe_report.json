@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-25T13:32:03.998569+00:00",
-  "finished_at": "2026-11-25T13:32:25.498945+00:00",
+  "started_at": "2026-11-26T13:10:11.394008+00:00",
+  "finished_at": "2026-11-26T13:10:33.676974+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -163,7 +163,7 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 297242,
+      "document_length": 238756,
       "body_text_length": 14180
     },
     {
@@ -339,18 +339,18 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10036126",
-      "fid": "15849",
-      "title": "06-25-2026 19:58:28 IdeaPad Gaming 3 15IHU6 — HDMI port stopped working mid-use, cannot use monitor above 60hz byasisqtinLenovo IdeaPad 1xx, 3xx, 5xx & 7xx, Edge, LaVie Z, Flex Laptops I recently purchased a Lenovo Legion 24-10 240Hz monitor and connected it via HDMI.This means I am completely unabl",
+      "tid": "10004964",
+      "fid": "15986",
+      "title": "10-03-2025 07:26:00 DisplayPort connection no longer works LEGION T5 26IRX9 with Lenovo Legion R25i-30 monitor bypetergottsteininGaming Desktops After now 6 months of operation with an external monitor (Lenovo Legion R25i-30) connected to my LenovoIt seems as if the connection on the PC (or on the m",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
     },
     {
       "method": "topic_api_collection",
-      "tid": "10004964",
-      "fid": "15986",
-      "title": "10-03-2025 07:26:00 DisplayPort connection no longer works LEGION T5 26IRX9 with Lenovo Legion R25i-30 monitor bypetergottsteininGaming Desktops After now 6 months of operation with an external monitor (Lenovo Legion R25i-30) connected to my LenovoIt seems as if the connection on the PC (or on the m",
+      "tid": "10036126",
+      "fid": "15849",
+      "title": "06-25-2026 19:58:28 IdeaPad Gaming 3 15IHU6 — HDMI port stopped working mid-use, cannot use monitor above 60hz byasisqtinLenovo IdeaPad 1xx, 3xx, 5xx & 7xx, Edge, LaVie Z, Flex Laptops I recently purchased a Lenovo Legion 24-10 240Hz monitor and connected it via HDMI.This means I am completely unabl",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
@@ -366,15 +366,6 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10030239",
-      "fid": "15985",
-      "title": "05-03-2026 22:42:06 HDR, Dolby Vision not working byJosefCZinGaming Laptops issue concerning the deployment of Dolby Vision and HDR management on the flagship Lenovo Legion 9 16IRX9Electro-Optical Transfer Function) curve is clearly receiving incorrect metadata and the MiniLED panel’s local dimmingD",
-      "pages_captured": 2,
-      "posts_captured": 11,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
       "tid": "10015081",
       "fid": "15860",
       "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
@@ -384,9 +375,18 @@
     },
     {
       "method": "topic_api_collection",
+      "tid": "10030239",
+      "fid": "15985",
+      "title": "05-03-2026 22:42:06 HDR, Dolby Vision not working byJosefCZinGaming Laptops issue concerning the deployment of Dolby Vision and HDR management on the flagship Lenovo Legion 9 16IRX9Electro-Optical Transfer Function) curve is clearly receiving incorrect metadata and the MiniLED panel’s local dimmingD",
+      "pages_captured": 2,
+      "posts_captured": 11,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
       "tid": "10053737",
       "fid": "15880",
-      "title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
+      "title": "11-14-2026 20:34:34 ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors bySelteinDisplays, Options and Accessories Good day, I am using a new Lenovo ThinkVision P40WD-40 with a new 14-inch MacBook Pro withDifferent display of the two halves of the screen At cert",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
@@ -695,17 +695,6 @@
       ],
       "error": null
     },
-    "10036126": {
-      "title": "06-25-2026 19:58:28 IdeaPad Gaming 3 15IHU6 — HDMI port stopped working mid-use, cannot use monitor above 60hz byasisqtinLenovo IdeaPad 1xx, 3xx, 5xx & 7xx, Edge, LaVie Z, Flex Laptops I recently purchased a Lenovo Legion 24-10 240Hz monitor and connected it via HDMI.This means I am completely unabl",
-      "fid": "15849",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "post_ids": [
-        10135980,
-        10135986
-      ],
-      "error": null
-    },
     "10004964": {
       "title": "10-03-2025 07:26:00 DisplayPort connection no longer works LEGION T5 26IRX9 with Lenovo Legion R25i-30 monitor bypetergottsteininGaming Desktops After now 6 months of operation with an external monitor (Lenovo Legion R25i-30) connected to my LenovoIt seems as if the connection on the PC (or on the m",
       "fid": "15986",
@@ -717,6 +706,17 @@
       ],
       "error": null
     },
+    "10036126": {
+      "title": "06-25-2026 19:58:28 IdeaPad Gaming 3 15IHU6 — HDMI port stopped working mid-use, cannot use monitor above 60hz byasisqtinLenovo IdeaPad 1xx, 3xx, 5xx & 7xx, Edge, LaVie Z, Flex Laptops I recently purchased a Lenovo Legion 24-10 240Hz monitor and connected it via HDMI.This means I am completely unabl",
+      "fid": "15849",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10135980,
+        10135986
+      ],
+      "error": null
+    },
     "10019220": {
       "title": "01-21-2026 16:00:27 Will Lenovo LOQ 15APH8 Output 1440p 240Hz via HDMI 2.1 or USB-C to DP on Legion 27Q-10? bySpidey-100inGaming Laptops Hi, I’m using a Lenovo LOQ 15APH8 laptop(ryzen 7 7840 hs & rtx 4060 varient) and I’m planningto buy the Lenovo Legion 27Q-10 monitor (2K, 240 Hz). I have a couple ",
       "fid": "15985",
@@ -725,6 +725,17 @@
       "post_ids": [
         10068995,
         10069056
+      ],
+      "error": null
+    },
+    "10015081": {
+      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
+      "fid": "15860",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10053523,
+        10053559
       ],
       "error": null
     },
@@ -748,19 +759,8 @@
       ],
       "error": null
     },
-    "10015081": {
-      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
-      "fid": "15860",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "post_ids": [
-        10053523,
-        10053559
-      ],
-      "error": null
-    },
     "10053737": {
-      "title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
+      "title": "11-14-2026 20:34:34 ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors bySelteinDisplays, Options and Accessories Good day, I am using a new Lenovo ThinkVision P40WD-40 with a new 14-inch MacBook Pro withDifferent display of the two halves of the screen At cert",
       "fid": "15880",
       "pages_captured": 1,
       "posts_captured": 2,

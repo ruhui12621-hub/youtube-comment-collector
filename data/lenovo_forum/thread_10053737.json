@@ -2,11 +2,11 @@
   "thread": {
     "tid": "10053737",
     "fid": "15880",
-    "url": "https://forums.lenovo.com/topic/findpost/15880/10053737/10193527",
-    "title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
+    "url": "https://forums.lenovo.com/topic/findpost/15880/10053737/10193297",
+    "title": "11-14-2026 20:34:34 ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors bySelteinDisplays, Options and Accessories Good day, I am using a new Lenovo ThinkVision P40WD-40 with a new 14-inch MacBook Pro withDifferent display of the two halves of the screen At cert",
     "query": "Lenovo Legion Pro monitor HDR brightness dimming",
     "source": "search_discovery",
-    "sample_pid": "10193527"
+    "sample_pid": "10193297"
   },
   "topic_api": {
     "endpoint_template": "https://forums.lenovo.com/api/v2/topic/getTopic?fid=15880&tid=10053737&page=N",
@@ -51,7 +51,7 @@
           "pid": 10193297,
           "subject": "ThinkVision P40WD-40 – geteilte Helligkeit/Farbdarstellung bei macOS-Skalierung und Farbfehler",
           "message": "<p>Guten Tag,</p>\r\n<p>ich nutze einen neuen Lenovo ThinkVision P40WD-40 an einem neuen MacBook Pro 14 Zoll mit M6 Prozessor. Dabei treten zwei Darstellungsprobleme auf:</p>\r\n<p>1. Unterschiedliche Darstellung der beiden Bildschirmhälften<br />Bei bestimmten skalierten Auflösungen zeigt der Monitor eine exakt mittige Teilung: Die beiden Bildschirmhälften unterscheiden sich deutlich in Helligkeit beziehungsweise Farbsättigung.</p>\r\n<p>Bei der macOS-Einstellung „Standard“ verschwindet die Teilung.<br />Bereits beim Wechsel auf die nächsthöhere Skalierung mit 3200 × 1350 tritt sie wieder auf.</p>\r\n<p>Das Verhalten tritt sowohl über eine direkte HDMI-Verbindung als auch über das mitgelieferte Lenovo-Thunderbolt-4-Kabel auf.<br />Mit aktiviertem HDR wirkt die linke Hälfte teilweise stark übersättigt, während die rechte Hälfte deutlich blassere Farben zeigt.</p>\r\n<p> </p>\r\n<p>2. Starke Farbverfälschungen über Thunderbolt bei deaktiviertem HDR<br />Über das mitgelieferte Thunderbolt-4-Kabel treten bei ausgeschaltetem HDR starke Farbverfälschungen auf. App-Symbole und Bilder in PowerPoint zeigen bunte Farbsäume, ausgefranste Konturen und verfälschte Farbflächen.</p>\r\n<p>Mit aktiviertem HDR verschwinden diese Artefakte weitgehend, die Farben wirken jedoch übermäßig kräftig. Über HDMI war eine korrekte Farbdarstellung möglich; die unter Punkt 1 beschriebene skalierungsabhängige Teilung tritt allerdings auch dort auf.</p>\r\n<p>Die Fehler sind auf mit dem iPhone aufgenommenen Fotos deutlich erkennbar. Vom Mac erzeugte Screenshots zeigen die Auffälligkeiten dagegen nicht in gleicher Weise.</p>\r\n<p>Bereits durchgeführte Maßnahmen</p>\r\n<ul>\r\n<li>Monitor auf Werkseinstellungen zurückgesetzt</li>\r\n<li>Monitor vollständig vom Strom getrennt und neu eingeschaltet</li>\r\n<li>Unterschiedliche Thunderbolt-Anschlüsse am MacBook getestet</li>\r\n<li>Direkte HDMI-Verbindung als Vergleich getestet</li>\r\n<li>Wiederholrate auf 60 Hz reduziert</li>\r\n<li>Unterschiedliche Skalierungen sowie HDR ein/aus getestet</li>\r\n<li>Monitor-Farbmodi und macOS-Farbprofil überprüft</li>\r\n<li>macOS aktualisiert</li>\r\n</ul>\r\n<p>Die Maßnahmen haben die Probleme nicht dauerhaft behoben. Der Wechsel zurück auf „Standard“ beseitigt die mittige Teilung jedoch reproduzierbar – sowohl über HDMI als auch über Thunderbolt.</p>\r\n<p>Vielen Dank für Ihre Unterstützung.</p>\r\n<p>Viele Grüße, Andreas</p>",
-          "views": 37,
+          "views": 39,
           "replies": 2,
           "create_time": 1794688474,
           "last_post_time": 1794758384,

@@ -51,7 +51,7 @@
           "pid": 10197039,
           "subject": "Lenovo Legion 24-15 – High-Pitched Coil Whine at 240Hz (Color/Load Dependent)",
           "message": "<p>Hello Lenovo Support Team,</p>\r\n<p>I recently purchased a Lenovo Legion 24-15 monitor, and I am experiencing an audible high-pitched coil whine coming from the rear of the unit (near the power and DisplayPort input area) when running at its native 240Hz refresh rate.</p>\r\n<p>Here are my specific findings after troubleshooting:</p>\r\n<p>Refresh Rate Dependency: At 144Hz, the monitor is relatively silent. However, switching to 240Hz produces a noticeable high-pitched whine that is audible from a normal seating distance in a quiet room.</p>\r\n<p>Color/Panel Load Pattern: At 240Hz, fullscreen pure black screens produce relatively little noise, whereas fullscreen solid RGB colors (Red, Green, or Blue) and bright/colorful desktop content immediately trigger and amplify the whine.</p>\r\n<p>Setup & Verification: Tested via DisplayPort 1.4 and directly connected to a separate wall outlet. Adjusting brightness and disabling HDR slightly reduces the intensity, but the issue persists at 240Hz.</p>\r\n<p>Could you please confirm whether this level of coil whine at 240Hz is considered within normal operating specifications for the Legion 24-15, or if it qualifies for a hardware inspection/replacement under warranty?</p>\r\n<p>Thank you for your assistance.</p>",
-          "views": 16,
+          "views": 17,
           "replies": 2,
           "create_time": 1795507578,
           "last_post_time": 1795554006,

@@ -51,7 +51,7 @@
           "pid": 10057903,
           "subject": "External monitor does not wake up",
           "message": "<p>External monitor Dell P2414H connected to Lenovo Legion 5 Pro via USB-C → DisplayPort does not wake up on cold boot. Monitor shows “No signal” until I physically unplug and reconnect the DisplayPort cable. After reconnection, the monitor works normally.</p>\r\n<p><strong>Details:</strong></p>\r\n<p>Monitor: Dell P2414H (1920×1080 @ 60Hz)<br />Connection: USB-C (DP Alt Mode) → DisplayPort<br />OS: Windows 11<br />Issue occurs only on startup; hot-plug always works<br />Disabling DP 1.2 on the monitor and Windows Fast Startup did not fully resolve the issue</p>\r\n<p><strong>Question: </strong>Is this a known BIOS / firmware or USB-C DP Alt Mode initialization issue on Lenovo Legion 5 Pro, and is there a permanent fix?</p>",
-          "views": 26,
+          "views": 27,
           "replies": 2,
           "create_time": 1766651326,
           "last_post_time": 1766672715,
