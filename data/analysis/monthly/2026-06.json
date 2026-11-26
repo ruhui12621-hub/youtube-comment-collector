@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:32:25.604782Z",
+  "generated_at": "2026-11-26T12:44:32.935628Z",
   "month": "2026-06",
   "record_count": 1,
   "records": [
@@ -15,11 +15,11 @@
       "author": "@dlam8276",
       "text": "Hdr colors looks bad on this",
       "published_raw": "5 months ago",
-      "published_at": "2026-06-28T13:02:37.626348Z",
+      "published_at": "2026-06-29T12:43:19.920889Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-25T13:02:11.884815Z",
+      "last_seen_at": "2026-11-26T12:42:59.201364Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
@@ -28,6 +28,7 @@
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
         "Lenovo Legion Pro 27Q10 monitor OLED",
         "Legion Pro27Q monitor"
       ],

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T13:03:48.019630+00:00",
-  "video_count": 94,
+  "updated_at": "2026-11-26T12:44:32.864215+00:00",
+  "video_count": 96,
   "videos": [
     {
       "video_id": "uJLwz7Vj7_o",
@@ -36,6 +36,8 @@
       "channel": "Benjamin Green",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ]
     },
@@ -111,8 +113,8 @@
       "channel": "Trendytechdev",
       "search_queries": [
         "Lenovo Legion Pro 27Q-10 monitor OLED",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
-        "Lenovo Legion Pro27Q-10 monitor"
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Legion Pro27Q monitor"
       ]
     },
     {
@@ -142,6 +144,15 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
+      ]
+    },
+    {
+      "video_id": "3ZdIRzN-kHc",
+      "url": "https://www.youtube.com/watch?v=3ZdIRzN-kHc",
+      "title": "Fix Screen Brightness Issues on Lenovo Laptops in Linux",
+      "channel": "Intelligent Gaming - Linux • Windows • Performance",
+      "search_queries": [
+        "Lenovo Legion monitor dims after gaming"
       ]
     },
     {
@@ -298,6 +309,7 @@
       "title": "Legion Pro 32UD-10 Monitor Unboxing and Review",
       "channel": "Geekception",
       "search_queries": [
+        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
@@ -310,7 +322,7 @@
       "title": "Lenovo - Legion Pro 27Q-10 Longterm review (\"don't do it!\"); incredible MOTION RESOLUTION.",
       "channel": "whitedragem",
       "search_queries": [
-        "Lenovo Legion Pro 27Q-10 monitor OLED"
+        "Lenovo Legion Pro 27Q10 monitor OLED"
       ]
     },
     {
@@ -409,8 +421,7 @@
       "title": "Lenovo legion Pro 27Q- 10 2K QHD Oled Unboxing | OLED Monitor",
       "channel": "Two Video",
       "search_queries": [
-        "Lenovo Legion Pro 27Q-10 monitor OLED",
-        "Legion Pro27Q monitor"
+        "Lenovo Legion Pro 27Q-10 monitor OLED"
       ]
     },
     {
@@ -435,7 +446,6 @@
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
         "Lenovo Legion Pro 27Q-10 monitor OLED",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro27Q-10 monitor",
         "Legion Pro27Q monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
@@ -451,6 +461,7 @@
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
         "Lenovo Legion Pro 27Q10 monitor OLED",
         "Legion Pro27Q monitor"
       ]
@@ -498,8 +509,8 @@
       "title": "Lenovo Legion Pro OLED Monitors Family",
       "channel": "Lenovo",
       "search_queries": [
-        "Lenovo Legion Pro 32UD-10 monitor HDR",
-        "Lenovo Legion Pro27Q-10 monitor",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ]
     },
@@ -527,7 +538,6 @@
       "title": "lenovo legion y740 screen dimmed problem after every reboot",
       "channel": "Ching-Wan Yip",
       "search_queries": [
-        "Lenovo Legion monitor screen gets darker",
         "Lenovo Legion monitor dims after gaming",
         "联想 Legion 显示器 游戏后 自动变暗"
       ]
@@ -538,8 +548,7 @@
       "title": "Lenovo Yoga Pro 27UD-10 Monitor Product Tour",
       "channel": "Lenovo",
       "search_queries": [
-        "Lenovo Legion Pro 27UD10 monitor",
-        "Lenovo Legion Pro 27UD 10 monitor"
+        "Lenovo Legion Pro 27UD10 monitor"
       ]
     },
     {
@@ -548,7 +557,6 @@
       "title": "Lenovo’s BEST 4K OLED Gaming Monitor",
       "channel": "Rogers Gallery",
       "search_queries": [
-        "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
@@ -696,6 +704,15 @@
       ]
     },
     {
+      "video_id": "tgRpFRUXnAo",
+      "url": "https://www.youtube.com/watch?v=tgRpFRUXnAo",
+      "title": "The Best 1440p 240Hz Budget King? 👑 Lenovo Legion 27Q-10 Review",
+      "channel": "Aksara | Unfiltered ",
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor"
+      ]
+    },
+    {
       "video_id": "71mWDrHjW2o",
       "url": "https://www.youtube.com/watch?v=71mWDrHjW2o",
       "title": "The Best of Both Worlds? Lenovo Legion Pro 27UD-10 Monitor Overview",
@@ -740,7 +757,6 @@
       "channel": "Decoding Labs",
       "search_queries": [
         "Lenovo Legion Pro 27UD-10 monitor HDR",
-        "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor"
       ]
     },
