@@ -12,9 +12,11 @@ A GitHub Actions-based collector for public YouTube videos and comment threads. 
 6. Builds a normalized analysis index after each YouTube or Lenovo forum collection, with rolling 7-day/30-day views and monthly partitions.
 7. Runs once a day and can also be started manually from the Actions tab.
 
-The initial search phrases focus on Lenovo Legion Pro OLED/HDR brightness discussions. Edit `search_queries.txt` to change the topics.
+The search phrases cover exact Legion Pro monitor models, HDR/brightness symptoms, and selected Chinese, Korean, and Japanese variants. Each query now checks up to 8 results. Per-query returned/accepted/excluded counts are saved in `data/collection_report.json`. Edit `search_queries.txt` to change the topics.
 
-Source filtering is applied again when building the normalized analysis index, so legacy raw archives are reclassified without deleting or re-downloading comments. Laptop, notebook, tablet, phone, handheld, and unrelated Lenovo monitor sources are marked `excluded`; exact target model mentions take precedence, so monitor variants such as Yoga Pro 27UD-10 remain eligible. Individual comments are still evaluated separately, so mentioning a laptop inside a relevant target-monitor discussion does not discard that comment.
+Search screening requires explicit Legion Pro or monitor context for model-number matches. It rejects unrelated Lenovo product families (Yoga, ThinkPad, IdeaPad, and LOQ), laptop/handheld-only sources, and 27QD/32QD-only mentions without explicit Pro context. Regression tests run before every collection.
+
+Source filtering is applied again when building the normalized analysis index, so legacy raw archives are reclassified without deleting or re-downloading comments. Laptop, notebook, tablet, phone, handheld, and unrelated Lenovo monitor sources are marked `excluded`; matching model numbers alone are not sufficient: unrelated Yoga/ThinkPad/IdeaPad/LOQ product families and laptop-only sources are excluded. Individual comments are still evaluated separately, so mentioning a laptop inside a relevant target-monitor discussion does not discard that comment.
 
 ## Start a collection manually
 
