@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T13:10:33.834710Z",
+  "generated_at": "2026-11-27T09:07:15.325569Z",
   "month": "2026-01",
-  "record_count": 1,
+  "record_count": 4,
   "records": [
     {
       "record_id": "youtube:UgwjSCeqiCgrXMTWSi54AaABAg",
@@ -15,16 +15,15 @@
       "author": "@Geekception",
       "text": "Video Guide (Skip to Sections You Care About!)\n📖 Chapters:\n00:00 - Best 4K OLED Gaming Monitor 2026\n00:26 - Legion Pro 32UD-10 Unboxing\n00:44 - Legion Pro 32UD-10 Specs and Weight\n01:23 - Legion Pro 32UD-10 Box Contents\n03:15 - Legion Pro 32UD-10 Ports and Buttons\n04:02 - How to Assemble Legion Pro 32UD-10\n04:21 - Legion Pro 32UD-10 Stand Adjustment\n05:00 - Hidden Phone Holder Feature\n05:48 - Legion Pro 32UD-10 Not Turning On Fix\n06:20 - Lenovo Monitor Replacement Experience\n06:44 - First Power On and Setup\n08:13 - Legion Pro 32UD-10 Gaming Test 4K\n08:45 - Legion Pro 32UD-10 OSD Menu Settings\n10:17 - Legion Pro 32UD-10 Long Term Review\n10:29 - Is 240Hz Refresh Rate Worth It?\n11:11 - Legion Pro 32UD-10 macOS Setup\n11:30 - Best HDR Settings for macOS\n11:54 - Best Color Profile Legion Pro 32UD-10\n12:26 - OLED Monitor Dark Mode Tip\n13:06 - 4K OLED Gaming Performance Test\n14:08 - Should You Buy Legion Pro 32UD-10?\n15:04 - Legion Pro 32UD-10 OLED Care Tips\n16:25 - Final Verdict",
       "published_raw": "10 months ago",
-      "published_at": "2026-01-30T12:43:41.553804Z",
+      "published_at": "2026-01-31T09:06:26.979536Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
       "like_count": 2,
       "reply_count": null,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
@@ -33,6 +32,123 @@
       "relevance": "medium",
       "models_mentioned": [
         "32UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugy8j81YU1Pz5n_g_NN4AaABAg.AQsugJgR-PFAQxAUz9FVAx",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "The Best of Both Worlds? Lenovo Legion Pro 27UD-10 Monitor Overview",
+      "source_url": "https://www.youtube.com/watch?v=71mWDrHjW2o",
+      "video_id": "71mWDrHjW2o",
+      "comment_id": "Ugy8j81YU1Pz5n_g_NN4AaABAg.AQsugJgR-PFAQxAUz9FVAx",
+      "parent_id": null,
+      "author": "@attacksaw",
+      "text": " @iamfallfromgrace  No. Which HDR should we use for image performance?",
+      "published_raw": "11 months ago",
+      "published_at": "2026-01-01T09:06:00.038821Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:Ugy8j81YU1Pz5n_g_NN4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "The Best of Both Worlds? Lenovo Legion Pro 27UD-10 Monitor Overview",
+      "source_url": "https://www.youtube.com/watch?v=71mWDrHjW2o",
+      "video_id": "71mWDrHjW2o",
+      "comment_id": "Ugy8j81YU1Pz5n_g_NN4AaABAg",
+      "parent_id": null,
+      "author": "@attacksaw",
+      "text": "Hello, I bought this monitor. How do you use the screen settings? HDR and OLED protection settings. I would appreciate your response.",
+      "published_raw": "11 months ago",
+      "published_at": "2026-01-01T09:06:00.038821Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
+      "like_count": 1,
+      "reply_count": 2,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
+      ],
+      "relevance": "medium",
+      "models_mentioned": [
+        "27UD10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgxRpdCSppNkn7a4g3l4AaABAg.AQZHR_yuiRSAQiX8j8_8OB",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "The Best of Both Worlds? Lenovo Legion Pro 27UD-10 Monitor Overview",
+      "source_url": "https://www.youtube.com/watch?v=71mWDrHjW2o",
+      "video_id": "71mWDrHjW2o",
+      "comment_id": "UgxRpdCSppNkn7a4g3l4AaABAg.AQZHR_yuiRSAQiX8j8_8OB",
+      "parent_id": null,
+      "author": "@Hasmatix",
+      "text": "​ @iamfallfromgrace only the newer tandem oleds. They get very bright and has less abl dimming compared to qd oled",
+      "published_raw": "11 months ago",
+      "published_at": "2026-01-01T09:06:00.038821Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD-10 monitor HDR",
+        "Lenovo Legion Pro 27UD10 monitor",
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
+        "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
+        "Lenovo Legion Pro27Q-10 monitor",
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED",
+        "Lenovo Legion Pro 32QD-10 monitor OLED"
+      ],
+      "relevance": "high",
+      "models_mentioned": [
+        "27UD10"
       ]
     }
   ]

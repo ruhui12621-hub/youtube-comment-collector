@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T13:10:33.834710Z",
+  "generated_at": "2026-11-27T09:07:15.325569Z",
   "timezone": "UTC",
   "source_of_truth": [
     "data/comments/*.json",
@@ -18,29 +18,29 @@
     "monthly_directory": "data/analysis/monthly/"
   },
   "counts": {
-    "youtube_videos": 62,
-    "youtube_comments_and_replies": 13918,
+    "youtube_videos": 65,
+    "youtube_comments_and_replies": 13921,
     "forum_threads": 36,
     "forum_posts": 124,
-    "all_records": 14042,
+    "all_records": 14045,
     "relevant_records": 85,
-    "excluded_records": 13957,
-    "dated_records": 12779,
+    "excluded_records": 13960,
+    "dated_records": 12782,
     "exact_publication_times": 124,
-    "estimated_publication_times": 12655,
+    "estimated_publication_times": 12658,
     "undated_records": 1263,
     "recent_7d_relevant": 0,
     "recent_30d_relevant": 10,
-    "recent_7d_context": 81,
-    "recent_30d_context": 471
+    "recent_7d_context": 20,
+    "recent_30d_context": 94
   },
   "monthly_counts": {
-    "2025-12": 5,
-    "2026-01": 1,
+    "2025-12": 2,
+    "2026-01": 4,
     "2026-02": 4,
-    "2026-03": 7,
-    "2026-04": 7,
-    "2026-05": 7,
+    "2026-03": 5,
+    "2026-04": 5,
+    "2026-05": 11,
     "2026-06": 1,
     "2026-07": 12,
     "2026-08": 14,
@@ -49,10 +49,10 @@
     "2026-11": 9
   },
   "relevance_guide": {
-    "high": "Target 27UD-10/32UD-10 plus a direct dimming/brightness symptom.",
-    "medium": "Target model plus HDR/brightness/firmware context.",
-    "low": "Adjacent OLED/HDR/Lenovo context; stored in the separate context windows, not the default relevant windows.",
-    "excluded": "27QD-10 or 32QD-10 when the same record does not contain Pro. 27Q/Pro27Q is retained."
+    "high": "Target monitor source plus a direct dimming/brightness symptom.",
+    "medium": "Target monitor source plus HDR/brightness/firmware context.",
+    "low": "Target Lenovo/Legion monitor source with adjacent or non-symptom discussion.",
+    "excluded": "Non-target sources such as laptops, tablets, phones, handhelds, unrelated Lenovo monitors, and 27QD/32QD without Pro. Raw source archives are retained."
   },
   "time_quality_guide": {
     "exact": "Explicit timestamp or Unix timestamp.",

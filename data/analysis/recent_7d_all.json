@@ -1,9 +1,96 @@
 {
-  "generated_at": "2026-11-26T13:10:33.834710Z",
+  "generated_at": "2026-11-27T09:07:15.325569Z",
   "window_days": 7,
   "includes_excluded": true,
-  "record_count": 81,
+  "record_count": 75,
   "records": [
+    {
+      "record_id": "youtube:UgzXGD6qCLb-yH_J47F4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Grand Theft Auto 6 - PS5 Pro | Lenovo OLED Legion Pro 27Q-10 27\" 280 Hz | POV Gameplay",
+      "source_url": "https://www.youtube.com/watch?v=amsL3yAYQAo",
+      "video_id": "amsL3yAYQAo",
+      "comment_id": "UgzXGD6qCLb-yH_J47F4AaABAg",
+      "parent_id": null,
+      "author": "@jasper-v23",
+      "text": "Hey is this better than the cheapest aoc oled? Have you tried multiple oled monitors?",
+      "published_raw": "3 hours ago",
+      "published_at": "2026-11-27T06:06:34.223200Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": "2026-11-27T09:05:45.697716Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgzTFiYnTNId3W2nx1Z4AaABAg.AdfWOpYBrIBAdgk7uY2YVx",
+      "platform": "youtube",
+      "record_type": "reply",
+      "source_title": "Grand Theft Auto 6 - PS5 Pro | Lenovo OLED Legion Pro 27Q-10 27\" 280 Hz | POV Gameplay",
+      "source_url": "https://www.youtube.com/watch?v=amsL3yAYQAo",
+      "video_id": "amsL3yAYQAo",
+      "comment_id": "UgzTFiYnTNId3W2nx1Z4AaABAg.AdfWOpYBrIBAdgk7uY2YVx",
+      "parent_id": null,
+      "author": "@SwisslordZ",
+      "text": "It's definitely a great display.",
+      "published_raw": "10 hours ago",
+      "published_at": "2026-11-26T23:06:34.223200Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": "2026-11-27T09:05:45.697716Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": true,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "youtube:UgzTFiYnTNId3W2nx1Z4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Grand Theft Auto 6 - PS5 Pro | Lenovo OLED Legion Pro 27Q-10 27\" 280 Hz | POV Gameplay",
+      "source_url": "https://www.youtube.com/watch?v=amsL3yAYQAo",
+      "video_id": "amsL3yAYQAo",
+      "comment_id": "UgzTFiYnTNId3W2nx1Z4AaABAg",
+      "parent_id": null,
+      "author": "@null_resource",
+      "text": "do you recommend this monitor?",
+      "published_raw": "21 hours ago",
+      "published_at": "2026-11-26T12:06:34.223200Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": "2026-11-27T09:05:45.697716Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
+      "like_count": 1,
+      "reply_count": 1,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED"
+      ],
+      "relevance": "low",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
     {
       "record_id": "youtube:UgyVI951QXlWrt90AP94AaABAg.Abh9vn-RS80AddvngycQHh",
       "platform": "youtube",
@@ -15,12 +102,12 @@
       "parent_id": null,
       "author": "@lolokath99",
       "text": "​ @DavidEdward-i6n i bought my laptop from the lenovo store\nSo I had points saved up \nI bought the monitor on discount with those points",
-      "published_raw": "15 hours ago",
-      "published_at": "2026-11-25T21:44:01.889820Z",
+      "published_raw": "1 day ago",
+      "published_at": "2026-11-26T09:07:00.981862Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-26T12:42:59.201364Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -43,12 +130,12 @@
       "parent_id": null,
       "author": "@rooey101donovan9",
       "text": " @iamfallfromgrace   Try Horizon forbidden west on this monitor, it looks incredible.",
-      "published_raw": "23 hours ago",
-      "published_at": "2026-11-25T13:43:12.904326Z",
+      "published_raw": "1 day ago",
+      "published_at": "2026-11-26T09:06:00.038821Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-26T12:42:59.201364Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -82,12 +169,12 @@
       "parent_id": null,
       "author": "@RickyUnboxed",
       "text": "I appreciate the feedback, definitely something I should have included for a more complete look at the monitor. Didn't realize at the time of recording that burn in isn't covered by warranty. The panel does have some of the best OLED care i have seen for a monitor though.",
-      "published_raw": "1 day ago",
-      "published_at": "2026-11-25T12:44:14.431819Z",
+      "published_raw": "2 days ago",
+      "published_at": "2026-11-25T09:07:03.556262Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-25T13:02:11.884815Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -108,12 +195,12 @@
       "parent_id": null,
       "author": "@iamfallfromgrace",
       "text": "Glad you enjoyed it 🎉",
-      "published_raw": "1 day ago",
-      "published_at": "2026-11-25T12:43:12.904326Z",
+      "published_raw": "2 days ago",
+      "published_at": "2026-11-25T09:06:00.038821Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-25T13:02:11.884815Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -147,12 +234,12 @@
       "parent_id": null,
       "author": "@rooey101donovan9",
       "text": "This is a really good review",
-      "published_raw": "1 day ago",
-      "published_at": "2026-11-25T12:43:12.904326Z",
+      "published_raw": "2 days ago",
+      "published_at": "2026-11-25T09:06:00.038821Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-25T13:02:11.884815Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
       "like_count": 1,
       "reply_count": 2,
       "is_reply": false,
@@ -190,7 +277,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-26T13:10:33.834710Z",
+      "last_seen_at": "2026-11-27T09:07:15.325569Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "low",
@@ -207,12 +294,12 @@
       "parent_id": null,
       "author": "@bkorkmaz1",
       "text": "Dude are you kidding I went through the whole video and I was excited to see the OLED care part and you just end up skipping it. Those would be the most important features especially for a monitor like this that doesn't have burn in warranty. I think I'm gonna pass on this monitor...",
-      "published_raw": "2 days ago",
-      "published_at": "2026-11-24T12:44:14.431819Z",
+      "published_raw": "3 days ago",
+      "published_at": "2026-11-24T09:07:03.556262Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-24T00:26:23.795008Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
       "like_count": 1,
       "reply_count": 1,
       "is_reply": false,
@@ -233,12 +320,12 @@
       "parent_id": null,
       "author": "@shawxsh5624",
       "text": "Does it have 2.1 hdmi?",
-      "published_raw": "2 days ago",
-      "published_at": "2026-11-24T12:43:44.112039Z",
+      "published_raw": "3 days ago",
+      "published_at": "2026-11-24T09:06:29.829771Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": "2026-11-23T23:27:48.497256Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
@@ -293,7 +380,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-26T13:10:33.834710Z",
+      "last_seen_at": "2026-11-27T09:07:15.325569Z",
       "is_first_post": true,
       "kudos": 0,
       "relevance": "low",
@@ -322,8 +409,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgzLMRI8G1rfuIwpJ5x4AaABAg.A_0dwULkdqXAdZTp9CjIxU",
@@ -348,8 +436,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwHDg8sNLe89SC6Mhl4AaABAg",
@@ -384,8 +473,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgzLDQVOQr-0pSVg7o14AaABAg",
@@ -438,8 +528,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugxmn0Z846RAKeW3a7Z4AaABAg",
@@ -474,8 +565,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugz4nsBmbm7Uo4iF6754AaABAg",
@@ -500,8 +592,9 @@
       "search_queries": [
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugz4zkj_Dn5TEl2FG9Z4AaABAg",
@@ -526,8 +619,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgxTsHNjcNShSU2xEL14AaABAg.Acl4clKiLc_AdZ9DZklwxp",
@@ -562,8 +656,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugw961o-lQ5HVvTwYSt4AaABAg",
@@ -598,39 +693,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:Ugy4P78H4hUbeiWLdFJ4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
-      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
-      "video_id": "BO74n9KKdZA",
-      "comment_id": "Ugy4P78H4hUbeiWLdFJ4AaABAg",
-      "parent_id": null,
-      "author": "@Gamer-lv2kf",
-      "text": "lenovo legion 27u-10 can you give best screen settings and did you notice the destop black flickers when moving the mouse pointer",
-      "published_raw": "3 days ago",
-      "published_at": "2026-11-23T12:43:27.484188Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 27UD-10 monitor HDR",
-        "Lenovo Legion Pro 27UD 10 monitor",
-        "Lenovo Legion Pro 32UD-10 monitor HDR",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27UD10"
-      ]
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugzx38DSHja4O0S1dY14AaABAg",
@@ -655,8 +720,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgyuXPXKbP40wtRPNFB4AaABAg.AZzR8bsYRZcAdYq6pmOVjy",
@@ -681,8 +747,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugw4NqpYa-jQuoRuTXt4AaABAg",
@@ -707,8 +774,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgyZSvwOUVVTjh7SdY94AaABAg.AZzD4_jIWFyAdYXsrMMZPP",
@@ -733,8 +801,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwjFRWhMTk7KBLeadp4AaABAg",
@@ -759,8 +828,38 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
+    },
+    {
+      "record_id": "youtube:Ugy4P78H4hUbeiWLdFJ4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "4K Lenovo Legion OLED Monitor Unboxing/Showcase: 27UD-10",
+      "source_url": "https://www.youtube.com/watch?v=BO74n9KKdZA",
+      "video_id": "BO74n9KKdZA",
+      "comment_id": "Ugy4P78H4hUbeiWLdFJ4AaABAg",
+      "parent_id": null,
+      "author": "@Gamer-lv2kf",
+      "text": "lenovo legion 27u-10 can you give best screen settings and did you notice the destop black flickers when moving the mouse pointer",
+      "published_raw": "4 days ago",
+      "published_at": "2026-11-23T09:06:22.060342Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown_legacy",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED"
+      ],
       "relevance": "low",
-      "models_mentioned": []
+      "models_mentioned": [
+        "27UD10"
+      ]
     },
     {
       "record_id": "youtube:UgwDf475H2I6mc3SMSV4AaABAg.AdUEm9-W7uqAdYNNFNbtRq",
@@ -785,8 +884,9 @@
       "search_queries": [
         "联想 OLED 显示器 HDR 变暗"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwY4SXBIG18UNW2LtJ4AaABAg",
@@ -821,8 +921,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugzkx3-QYbOFHxnS1ht4AaABAg",
@@ -857,8 +958,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgyD7pESbp-VPd1t3Kx4AaABAg.AZjoLlBULX3AdWrFIyhWZS",
@@ -893,8 +995,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgxGvRBqKBIkaVG8Bm14AaABAg",
@@ -929,8 +1032,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwQy0N9hQTmXawF6SN4AaABAg.AdDtY5-gG85AdV14iFJRDK",
@@ -955,8 +1059,9 @@
       "search_queries": [
         "联想 OLED 显示器 HDR 变暗"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgzzpSrfEP7UX9Trtl54AaABAg",
@@ -981,8 +1086,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgzhQm_7tYxRqKhtHXV4AaABAg",
@@ -1007,8 +1113,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugy0Bryd9IX9ZEAE7fx4AaABAg",
@@ -1033,8 +1140,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgxmXWNXwAsNo0szfYB4AaABAg.AdH41AstZiFAdXIUipueUn",
@@ -1059,8 +1167,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugxhyle2Yfc3PW3SiyF4AaABAg",
@@ -1085,8 +1194,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgxVj38BEvWgfjyH9W94AaABAg.AZzyCuXfn-LAdWGuq3-Ykd",
@@ -1111,8 +1221,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgxI4pgfoxZWXFyi5NN4AaABAg.A_0x0b_VxAXAdXQs5jXXc0",
@@ -1137,8 +1248,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugw2PLiALsIJpvi4a_d4AaABAg",
@@ -1163,8 +1275,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugy-e07hbTNozW4mUUR4AaABAg",
@@ -1189,8 +1302,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwZ38dQglcnOVbcH7B4AaABAg.AdUEHwc9cjQAdXH-xMLX6o",
@@ -1215,8 +1329,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgzNw0_lvof2nZMXctF4AaABAg",
@@ -1229,17 +1344,16 @@
       "parent_id": null,
       "author": "@aarvpaul8242",
       "text": "Lenovo Legion Pro 32UD , can i turn it into 2k 480hz",
-      "published_raw": "4 days ago",
-      "published_at": "2026-11-22T12:43:41.553804Z",
+      "published_raw": "5 days ago",
+      "published_at": "2026-11-22T09:06:26.979536Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro 27UD 10 monitor",
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
@@ -1283,8 +1397,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgywOKRTBX0u0QRe-Lp4AaABAg",
@@ -1319,8 +1434,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgyX-2GIY6SlO8Rcx294AaABAg",
@@ -1355,8 +1471,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwXUPTgC2T4tEBmX6V4AaABAg",
@@ -1391,8 +1508,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwJjxz88-O_ImO6c1d4AaABAg",
@@ -1427,8 +1545,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugz6dqMdn7oFGobE0wB4AaABAg.Ad6lKsmoZsXAdU6bgGzimI",
@@ -1453,8 +1572,9 @@
       "search_queries": [
         "联想 OLED 显示器 HDR 变暗"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgyOhs5C0UgGYF4ODRJ4AaABAg.Ad6AzE7tPNMAdUEv1HKcKH",
@@ -1479,8 +1599,9 @@
       "search_queries": [
         "联想 OLED 显示器 HDR 变暗"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugyh5c-hKXxpkQFa3Ml4AaABAg",
@@ -1505,8 +1626,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwstHN68RmJC8iQbR14AaABAg",
@@ -1531,8 +1653,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgxNcAEYdyOZHTTUOhh4AaABAg.AZjoI23jnFXAdTTLA_yjaz",
@@ -1557,8 +1680,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugwd43Ztdy7Yl7eFChB4AaABAg",
@@ -1583,8 +1707,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwZ38dQglcnOVbcH7B4AaABAg",
@@ -1609,8 +1734,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwYgDEiEG09gHlzUZJ4AaABAg",
@@ -1635,8 +1761,37 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
+    },
+    {
+      "record_id": "youtube:UgwoT68fqgGn2ytrcKt4AaABAg",
+      "platform": "youtube",
+      "record_type": "comment",
+      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
+      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
+      "video_id": "qx8vXdywRkc",
+      "comment_id": "UgwoT68fqgGn2ytrcKt4AaABAg",
+      "parent_id": null,
+      "author": "@Ashvorex",
+      "text": "I m using 75 😂",
+      "published_raw": "6 days ago",
+      "published_at": "2026-11-21T09:07:00.981862Z",
+      "published_time_quality": "relative_estimate",
+      "first_seen_at": "2026-11-24T01:01:37.433302Z",
+      "first_seen_time_quality": "exact",
+      "last_seen_at": "2026-11-27T09:05:45.697716Z",
+      "like_count": 1,
+      "reply_count": null,
+      "is_reply": false,
+      "search_queries": [
+        "Lenovo Legion Pro27Q-10 monitor"
+      ],
       "relevance": "low",
-      "models_mentioned": []
+      "models_mentioned": [
+        "27Q10"
+      ]
     },
     {
       "record_id": "youtube:Ugz2dc_g7ejuWgAzhp94AaABAg",
@@ -1671,8 +1826,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgyakDgPJe5C3AIpOqV4AaABAg",
@@ -1707,8 +1863,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugwmkru61zCcgqvC0DB4AaABAg",
@@ -1743,8 +1900,9 @@
         "Lenovo QD-OLED monitor HDR dimming",
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugwj9LJPR_JBMotzUwh4AaABAg",
@@ -1769,8 +1927,9 @@
       "search_queries": [
         "联想 拯救者 OLED 亮度 降低"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugx7ojamIKVGNY-0TPh4AaABAg.AdOwRkcrIB0AdRMIK7cR8r",
@@ -1795,8 +1954,9 @@
       "search_queries": [
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwMnbOzaZZqeJv1zR14AaABAg",
@@ -1821,8 +1981,9 @@
       "search_queries": [
         "Legion Pro HDR brightness drops"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgzpDy7Dfq66fcddd1t4AaABAg",
@@ -1847,8 +2008,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgxzrOhJaR591Hmxngl4AaABAg",
@@ -1873,8 +2035,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugw6Zq8J39iwMA5ehw14AaABAg",
@@ -1899,8 +2062,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugyi4Sz_xVN0pg3Dzil4AaABAg",
@@ -1925,8 +2089,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgwHWa5yumh8N8BkHhh4AaABAg",
@@ -1951,8 +2116,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:Ugy55NpZBOafIeTiJt54AaABAg.AO-uwKa_H0SAdR-fM2sCrA",
@@ -1977,8 +2143,9 @@
       "search_queries": [
         "Lenovo QD-OLED monitor HDR dimming"
       ],
-      "relevance": "low",
-      "models_mentioned": []
+      "relevance": "excluded",
+      "models_mentioned": [],
+      "exclusion_reason": "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     },
     {
       "record_id": "youtube:UgztW3QX3FnOdcObikx4AaABAg.ATbuW0hA_k4AdOrdCk4qKb",
@@ -2062,300 +2229,6 @@
       "relevance": "low",
       "models_mentioned": [
         "27Q10"
-      ]
-    },
-    {
-      "record_id": "youtube:UgwoT68fqgGn2ytrcKt4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
-      "source_url": "https://www.youtube.com/watch?v=qx8vXdywRkc",
-      "video_id": "qx8vXdywRkc",
-      "comment_id": "UgwoT68fqgGn2ytrcKt4AaABAg",
-      "parent_id": null,
-      "author": "@Ashvorex",
-      "text": "I m using 75 😂",
-      "published_raw": "6 days ago",
-      "published_at": "2026-11-20T12:44:01.889820Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": "2026-11-24T01:01:37.433302Z",
-      "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-26T12:42:59.201364Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "27Q10"
-      ]
-    },
-    {
-      "record_id": "youtube:UgxzMyP1ldOcHZEIdU54AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "How OLED Ruined Me",
-      "source_url": "https://www.youtube.com/watch?v=CMHMmj88iTE",
-      "video_id": "CMHMmj88iTE",
-      "comment_id": "UgxzMyP1ldOcHZEIdU54AaABAg",
-      "parent_id": null,
-      "author": "@loizpils",
-      "text": "just bought a oled 3 days ago, probably the single best change i have done yet",
-      "published_raw": "4 days ago",
-      "published_at": "2026-11-20T00:27:26.437868Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD 10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Legion Pro27Q OLED",
-        "Legion Pro OLED",
-        "Legion OLED",
-        "Lenovo OLED monitor HDR",
-        "Lenovo QD-OLED monitor HDR dimming",
-        "Legion Pro HDR brightness drops"
-      ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:UgwLajzOmJFdIjt5spt4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "How OLED Ruined Me",
-      "source_url": "https://www.youtube.com/watch?v=CMHMmj88iTE",
-      "video_id": "CMHMmj88iTE",
-      "comment_id": "UgwLajzOmJFdIjt5spt4AaABAg",
-      "parent_id": null,
-      "author": "@rayw9181",
-      "text": "Reflection is the deal breaker",
-      "published_raw": "4 days ago",
-      "published_at": "2026-11-20T00:27:26.437868Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD 10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Legion Pro27Q OLED",
-        "Legion Pro OLED",
-        "Legion OLED",
-        "Lenovo OLED monitor HDR",
-        "Lenovo QD-OLED monitor HDR dimming",
-        "Legion Pro HDR brightness drops"
-      ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:UgwFJ5G38IYn4NsbACN4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "How OLED Ruined Me",
-      "source_url": "https://www.youtube.com/watch?v=CMHMmj88iTE",
-      "video_id": "CMHMmj88iTE",
-      "comment_id": "UgwFJ5G38IYn4NsbACN4AaABAg",
-      "parent_id": null,
-      "author": "@HD-fc4ds",
-      "text": "Looks the same as on IPS or in terms of that Crimson Desert footage - worse.",
-      "published_raw": "4 days ago",
-      "published_at": "2026-11-20T00:27:26.437868Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-24T00:26:23.795008Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo Legion Pro 32UD-10 HDR",
-        "Lenovo Legion Pro 32UD 10",
-        "Lenovo Legion Pro 27Q-10 OLED",
-        "Lenovo Legion Pro 27Q10 OLED",
-        "Lenovo Legion Pro27Q-10 OLED",
-        "Legion Pro27Q OLED",
-        "Legion Pro OLED",
-        "Legion OLED",
-        "Lenovo OLED monitor HDR",
-        "Lenovo QD-OLED monitor HDR dimming",
-        "Legion Pro HDR brightness drops"
-      ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:Ugx7ojamIKVGNY-0TPh4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "Every PS5 User Gets This WRONG! - HDR Settings Guide",
-      "source_url": "https://www.youtube.com/watch?v=CDAmqznnuXQ",
-      "video_id": "CDAmqznnuXQ",
-      "comment_id": "Ugx7ojamIKVGNY-0TPh4AaABAg",
-      "parent_id": null,
-      "author": "@Hazzathelad",
-      "text": "So should I use warm 1 or 2 on my tv",
-      "published_raw": "4 days ago",
-      "published_at": "2026-11-19T23:31:06.507588Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-23T23:27:48.497256Z",
-      "like_count": 1,
-      "reply_count": 1,
-      "is_reply": false,
-      "search_queries": [
-        "Legion Pro HDR brightness drops"
-      ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:Ugxn4Hx46wr7ehb7htN4AaABAg",
-      "platform": "youtube",
-      "record_type": "comment",
-      "source_title": "Buying an OLED monitor in 2026 is insane - DON'T make my mistakes",
-      "source_url": "https://www.youtube.com/watch?v=1aCTvRP0uEQ",
-      "video_id": "1aCTvRP0uEQ",
-      "comment_id": "Ugxn4Hx46wr7ehb7htN4AaABAg",
-      "parent_id": null,
-      "author": "@ПерчинПак",
-      "text": "I use W-OLED (ASUS ROG XG27AQDMGR) and I have zero text fringing on Linux (did not try Windows), maybe that issue is only unique to Q-OLED? or just switch to linux lol, windows sucks",
-      "published_raw": "4 days ago",
-      "published_at": "2026-11-19T23:30:04.169951Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-23T23:27:48.497256Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": false,
-      "search_queries": [
-        "Lenovo QD-OLED monitor HDR dimming"
-      ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:UgwViA53Ne1jBlrw1kJ4AaABAg.A_1PjfMGKmSAdOkqWSPLej",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "Buying an OLED monitor in 2026 is insane - DON'T make my mistakes",
-      "source_url": "https://www.youtube.com/watch?v=1aCTvRP0uEQ",
-      "video_id": "1aCTvRP0uEQ",
-      "comment_id": "UgwViA53Ne1jBlrw1kJ4AaABAg.A_1PjfMGKmSAdOkqWSPLej",
-      "parent_id": null,
-      "author": "@CinemaShortz-01",
-      "text": " @Nittlepick  For almost a year I used a laptop (daily) for pretty much everything. I wear glasses ofc. Laptop had WOLED screen, 15\" 2560x1600, glossy coating, 500 nits in SDR. a little over 1000 nits in HDR, zero problems. The fact that you use glasses, it really doesn't matter at which type of panel are you looking at. I had TN, I looked at VA, had IPS and WOLED, no problems whatsoever.",
-      "published_raw": "4 days ago",
-      "published_at": "2026-11-19T23:30:04.169951Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-23T23:27:48.497256Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo QD-OLED monitor HDR dimming"
-      ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:Ugz3qa32WB1c_eaLqGF4AaABAg.AIBLDu2WkuLAdNMDWAK7E4",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "Is HDR Worse? - HDR vs SDR On Monitors & TVs",
-      "source_url": "https://www.youtube.com/watch?v=tcvehqj_t48",
-      "video_id": "tcvehqj_t48",
-      "comment_id": "Ugz3qa32WB1c_eaLqGF4AaABAg.AIBLDu2WkuLAdNMDWAK7E4",
-      "parent_id": null,
-      "author": "@lancethrust9488",
-      "text": "SDR LOOKS WAY BETTER",
-      "published_raw": "2 days ago",
-      "published_at": "2026-11-19T17:09:30.698087Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-21T17:09:30.698087Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo QD-OLED monitor HDR dimming"
-      ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:Ugy55NpZBOafIeTiJt54AaABAg.AO-uwKa_H0SAdMo3_ElqG5",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "OLED Burn-in : 1 Year Update",
-      "source_url": "https://www.youtube.com/watch?v=2ElLywmBAOM",
-      "video_id": "2ElLywmBAOM",
-      "comment_id": "Ugy55NpZBOafIeTiJt54AaABAg.AO-uwKa_H0SAdMo3_ElqG5",
-      "parent_id": null,
-      "author": "@zhongxina2614",
-      "text": "That's only on WOLED, QD-OLED doesn't have the dead pixel issue.",
-      "published_raw": "2 days ago",
-      "published_at": "2026-11-19T17:09:21.781853Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": null,
-      "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-21T17:09:21.781853Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo QD-OLED monitor HDR dimming"
-      ],
-      "relevance": "low",
-      "models_mentioned": []
-    },
-    {
-      "record_id": "youtube:UgyB29Jhz2SoDrPReOt4AaABAg.AdHkIxOIKo6AdMALUu3nIZ",
-      "platform": "youtube",
-      "record_type": "reply",
-      "source_title": "LENOVO LEGION PRO 32UD-10: Is the 4K 240Hz OLED truly the ultimate monitor?",
-      "source_url": "https://www.youtube.com/watch?v=GqhDMpaQJ90",
-      "video_id": "GqhDMpaQJ90",
-      "comment_id": "UgyB29Jhz2SoDrPReOt4AaABAg.AdHkIxOIKo6AdMALUu3nIZ",
-      "parent_id": null,
-      "author": "@buildandridecreations",
-      "text": "Mi dispiace che il contenuto non sia stato di tuo gradimento, apprezzo comunque il tempo dedicato a commentare.",
-      "published_raw": "5 days ago",
-      "published_at": "2026-11-19T13:51:16.114385Z",
-      "published_time_quality": "relative_estimate",
-      "first_seen_at": "2026-11-24T13:50:18.294350Z",
-      "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-24T13:50:18.294350Z",
-      "like_count": 1,
-      "reply_count": null,
-      "is_reply": true,
-      "search_queries": [
-        "Lenovo Legion Pro 32UD 10 monitor"
-      ],
-      "relevance": "low",
-      "models_mentioned": [
-        "32UD10"
       ]
     }
   ]

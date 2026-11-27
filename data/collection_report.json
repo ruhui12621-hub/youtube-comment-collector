@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-26T12:42:59.201364+00:00",
-  "finished_at": "2026-11-26T12:44:32.865472+00:00",
+  "started_at": "2026-11-27T09:05:45.697716+00:00",
+  "finished_at": "2026-11-27T09:07:15.254968+00:00",
   "queries": [
     "Lenovo Legion Pro 27UD-10 monitor HDR",
     "Lenovo Legion Pro 27UD10 monitor",
@@ -24,14 +24,8 @@
     "联想 拯救者 显示器 OLED 亮度 降低",
     "联想 Legion 显示器 游戏后 自动变暗"
   ],
-  "videos_discovered_this_run": 21,
-  "videos_collected_successfully": 20,
-  "comments_and_replies_seen_this_run": 1022,
-  "errors": [
-    {
-      "stage": "comments",
-      "target": "WvrHoN7lnHg",
-      "error": "ParseError: Could not find a comments section for video 'WvrHoN7lnHg' (comments may be disabled)."
-    }
-  ]
+  "videos_discovered_this_run": 22,
+  "videos_collected_successfully": 22,
+  "comments_and_replies_seen_this_run": 946,
+  "errors": []
 }
