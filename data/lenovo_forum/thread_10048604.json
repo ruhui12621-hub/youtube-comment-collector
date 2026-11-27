@@ -51,7 +51,7 @@
           "pid": 10180195,
           "subject": "Brightness slider and keyboard shortcuts don’t change brightness on Lenovo LOQ",
           "message": "<p>Hi everyone,</p>\r\n<p>I have a Lenovo LOQ (machine type/model 83JE0110AD). The brightness controls aren’t changing the built-in screen brightness:</p>\r\n<p>The Windows brightness slider moves, but the screen stays at the same brightness.<br />The keyboard brightness shortcuts don’t work.<br />Device Manager shows Intel UHD Graphics, NVIDIA GeForce RTX 5050 Laptop GPU, and Integrated Monitor.<br />HDR is off.<br />Lenovo Vantage doesn’t show an Intel graphics update. The available BIOS update is R3CN44WW; my current BIOS is R3CN39WW.<br />I’m trying the monitor-device reinstall by uninstalling Integrated Monitor in Device Manager and restarting. If that doesn’t help, what should I try next? Could this be related to the Intel graphics driver, BIOS, or display hardware?</p>\r\n<p>Thanks!</p>",
-          "views": 58,
+          "views": 59,
           "replies": 2,
           "create_time": 1792476399,
           "last_post_time": 1792515453,

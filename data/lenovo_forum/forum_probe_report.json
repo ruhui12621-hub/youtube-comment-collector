@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-26T13:10:11.394008+00:00",
-  "finished_at": "2026-11-26T13:10:33.676974+00:00",
+  "started_at": "2026-11-27T09:14:50.868905+00:00",
+  "finished_at": "2026-11-27T09:15:11.642977+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -163,7 +163,7 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 238756,
+      "document_length": 297245,
       "body_text_length": 14180
     },
     {
@@ -294,29 +294,11 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10002053",
-      "fid": "15985",
-      "title": "09-15-2025 15:15:41 Question about Legion 7i and Legion 5(i) Pro - 2025 - OLED byEradiinGaming Laptops Hello everyone, I would like to inherit my current, loyal Lenovo Legion 5 Pro. The following options have emerged for me: - Lenovo Legion 5 Pro (AMD) Gen 10 (2025) - Lenovo Legion 5i Pro (Intel) Ge",
-      "pages_captured": 1,
-      "posts_captured": 3,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
       "tid": "10000916",
       "fid": "15985",
       "title": "10-04-2026 22:00:13 Re:OLED burn-in on the Lenovo Legion Pro 7 byStevennameinGaming Laptops In my case it’s a Lenovo Legion 5, but the OLED protection functions were found in Lenovo Space andsome in Lenovo Vantage in the Monitor section; at the very bottom there is an option to control dimming Repli",
       "pages_captured": 1,
       "posts_captured": 6,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
-      "tid": "10019762",
-      "fid": "15985",
-      "title": "01-26-2026 15:17:49 Re: Lenovo 240hz OLED screen red tint problem with HDR on byALEATHAinGaming Laptops I have a Lenovo Legion Pro 7 5070 Ti OLED. I have a red tint problem while my HDR is on.I sent the device to the service center in Turkey twice, but their report says it's normal for OLED.I also r",
-      "pages_captured": 1,
-      "posts_captured": 2,
       "error": null
     },
     {
@@ -360,15 +342,6 @@
       "tid": "10019220",
       "fid": "15985",
       "title": "01-21-2026 16:00:27 Will Lenovo LOQ 15APH8 Output 1440p 240Hz via HDMI 2.1 or USB-C to DP on Legion 27Q-10? bySpidey-100inGaming Laptops Hi, I’m using a Lenovo LOQ 15APH8 laptop(ryzen 7 7840 hs & rtx 4060 varient) and I’m planningto buy the Lenovo Legion 27Q-10 monitor (2K, 240 Hz). I have a couple ",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
-      "tid": "10015081",
-      "fid": "15860",
-      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
@@ -425,15 +398,6 @@
       "title": "09-03-2026 11:36:38 Gaming monitor 27\" Lenovo Legion R27qe Gen 2 byOlga_KhinY Gaming Accessories & Curved Gaming Monitors I have a 27\" Lenovo Legion R27qe Gen 2 gaming monitor under warranty (purchased less than a yearbr/>There are no issues with the cable, settings, or drivers, because when reconne",
       "pages_captured": 1,
       "posts_captured": 4,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
-      "tid": "10037912",
-      "fid": "15985",
-      "title": "07-16-2026 21:45:24 Re:Lenovo Loq Essential 15ırx11 i5-13450hx processor overheating problem byAdriel_lenovoinGaming Laptops target=\"_blank\">yilmazryucel, Your CPU briefly reaching the high‑90°C range can happen on gaming - In Windows, set screen/keyboard brightness and background apps normally (don",
-      "pages_captured": 1,
-      "posts_captured": 5,
       "error": null
     }
   ],
@@ -635,18 +599,6 @@
       ],
       "error": null
     },
-    "10002053": {
-      "title": "09-15-2025 15:15:41 Question about Legion 7i and Legion 5(i) Pro - 2025 - OLED byEradiinGaming Laptops Hello everyone, I would like to inherit my current, loyal Lenovo Legion 5 Pro. The following options have emerged for me: - Lenovo Legion 5 Pro (AMD) Gen 10 (2025) - Lenovo Legion 5i Pro (Intel) Ge",
-      "fid": "15985",
-      "pages_captured": 1,
-      "posts_captured": 3,
-      "post_ids": [
-        10006986,
-        10007727,
-        10007756
-      ],
-      "error": null
-    },
     "10000916": {
       "title": "10-04-2026 22:00:13 Re:OLED burn-in on the Lenovo Legion Pro 7 byStevennameinGaming Laptops In my case it’s a Lenovo Legion 5, but the OLED protection functions were found in Lenovo Space andsome in Lenovo Vantage in the Monitor section; at the very bottom there is an option to control dimming Repli",
       "fid": "15985",
@@ -659,17 +611,6 @@
         10003082,
         10115708,
         10174320
-      ],
-      "error": null
-    },
-    "10019762": {
-      "title": "01-26-2026 15:17:49 Re: Lenovo 240hz OLED screen red tint problem with HDR on byALEATHAinGaming Laptops I have a Lenovo Legion Pro 7 5070 Ti OLED. I have a red tint problem while my HDR is on.I sent the device to the service center in Turkey twice, but their report says it's normal for OLED.I also r",
-      "fid": "15985",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "post_ids": [
-        10071017,
-        10071018
       ],
       "error": null
     },
@@ -725,17 +666,6 @@
       "post_ids": [
         10068995,
         10069056
-      ],
-      "error": null
-    },
-    "10015081": {
-      "title": "12-14-2025 18:50:58 Lenovo yoga 9i pro aura edition screen auto dim and blackout and brightens , netflix is freezing byDeepakRaj02inLenovo Yoga Series Laptops I got a lenovo 9i pro aura edition one week before, where using browser or watching video the displayfor 4 sec and turns blackout for a 2 sec",
-      "fid": "15860",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "post_ids": [
-        10053523,
-        10053559
       ],
       "error": null
     },
@@ -816,24 +746,10 @@
         10164033
       ],
       "error": null
-    },
-    "10037912": {
-      "title": "07-16-2026 21:45:24 Re:Lenovo Loq Essential 15ırx11 i5-13450hx processor overheating problem byAdriel_lenovoinGaming Laptops target=\"_blank\">yilmazryucel, Your CPU briefly reaching the high‑90°C range can happen on gaming - In Windows, set screen/keyboard brightness and background apps normally (don",
-      "fid": "15985",
-      "pages_captured": 1,
-      "posts_captured": 5,
-      "post_ids": [
-        10142607,
-        10142694,
-        10142720,
-        10142940,
-        10143189
-      ],
-      "error": null
     }
   },
-  "topics_attempted": 30,
-  "topics_with_posts": 30,
-  "total_posts_captured": 100,
+  "topics_attempted": 26,
+  "topics_with_posts": 26,
+  "total_posts_captured": 88,
   "note": "Topic pages are fetched through the authenticated browser context using the observed Lenovo JSON endpoint. Discovered topics are read from the previous run's forum_search_discovery.json."
 }
