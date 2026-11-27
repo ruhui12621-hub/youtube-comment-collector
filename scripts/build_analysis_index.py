@@ -11,6 +11,7 @@ import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from search_rules import is_relevant_monitor_text
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -134,7 +135,10 @@ def relevance(title: str, text: str) -> tuple[str, list[str], str | None]:
 def add_record(records: list[dict[str, Any]], record: dict[str, Any]) -> None:
     title = record.get("source_title") or ""
     text = record.get("text") or ""
-    level, models, reason = relevance(title, text)
+    if not is_relevant_monitor_text(title):
+        level, models, reason = "excluded", [], "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
+    else:
+        level, models, reason = relevance(title, text)
     record["relevance"] = level
     record["models_mentioned"] = models
     if reason:
@@ -348,10 +352,10 @@ def main() -> int:
         },
         "monthly_counts": monthly_counts,
         "relevance_guide": {
-            "high": "Target 27UD-10/32UD-10 plus a direct dimming/brightness symptom.",
-            "medium": "Target model plus HDR/brightness/firmware context.",
-            "low": "Adjacent OLED/HDR/Lenovo context; stored in the separate context windows, not the default relevant windows.",
-            "excluded": "27QD-10 or 32QD-10 when the same record does not contain Pro. 27Q/Pro27Q is retained.",
+            "high": "Target monitor source plus a direct dimming/brightness symptom.",
+            "medium": "Target monitor source plus HDR/brightness/firmware context.",
+            "low": "Target Lenovo/Legion monitor source with adjacent or non-symptom discussion.",
+            "excluded": "Non-target sources such as laptops, tablets, phones, handhelds, unrelated Lenovo monitors, and 27QD/32QD without Pro. Raw source archives are retained.",
         },
         "time_quality_guide": {
             "exact": "Explicit timestamp or Unix timestamp.",
