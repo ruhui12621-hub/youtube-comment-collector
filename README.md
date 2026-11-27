@@ -14,6 +14,8 @@ A GitHub Actions-based collector for public YouTube videos and comment threads. 
 
 The initial search phrases focus on Lenovo Legion Pro OLED/HDR brightness discussions. Edit `search_queries.txt` to change the topics.
 
+Source filtering is applied again when building the normalized analysis index, so legacy raw archives are reclassified without deleting or re-downloading comments. Laptop, notebook, tablet, phone, handheld, and unrelated Lenovo monitor sources are marked `excluded`; exact target model mentions take precedence, so monitor variants such as Yoga Pro 27UD-10 remain eligible. Individual comments are still evaluated separately, so mentioning a laptop inside a relevant target-monitor discussion does not discard that comment.
+
 ## Start a collection manually
 
 1. Open the repository's **Actions** tab.
