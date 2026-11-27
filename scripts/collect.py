@@ -22,7 +22,7 @@ INDEX_FILE = ROOT / "data" / "videos.json"
 REPORT_FILE = ROOT / "data" / "collection_report.json"
 
 VIDEO_ID_RE = re.compile(r"(?:v=|youtu\.be/|/shorts/|/embed/)?([A-Za-z0-9_-]{11})")
-MAX_VIDEOS_PER_QUERY = max(1, int(os.getenv("MAX_VIDEOS_PER_QUERY", "6")))
+MAX_VIDEOS_PER_QUERY = max(1, int(os.getenv("MAX_VIDEOS_PER_QUERY", "8")))
 PAUSE_BETWEEN_VIDEOS = 1.5
 
 
