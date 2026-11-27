@@ -1,4 +1,4 @@
-"""Shared search and relevance rules for both collectors."""
+"""Shared search and source-screening rules for both collectors."""
 from __future__ import annotations
 
 import re
@@ -6,6 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 QUERY_FILE = ROOT / "search_queries.txt"
+
 
 def load_search_queries() -> list[str]:
     if not QUERY_FILE.exists():
@@ -16,29 +17,34 @@ def load_search_queries() -> list[str]:
         if line.strip() and not line.lstrip().startswith("#")
     ]
 
-# These are the monitor models/families relevant to this investigation.
+
+# Target monitor model families. Keep Yoga-branded variants when the exact
+# target monitor model is present; do not reject them by product-family name.
 _MODEL_RE = re.compile(r"\b(?:27|32)\s*(?:ud|q|qd)\s*-?\s*10\b", re.I)
 _QD_RE = re.compile(r"\b(?:27|32)\s*qd(?:\s*-?\s*10)?\b", re.I)
 _PRO_RE = re.compile(r"\bpro\b", re.I)
 _BRAND_RE = re.compile(r"\b(?:lenovo|legion)\b", re.I)
-_MONITOR_RE = re.compile(r"\b(?:monitor|monitors|display|displays|screen|screens)\b", re.I)
+_MONITOR_RE = re.compile(r"\b(?:monitor|monitors|display|displays)\b", re.I)
 _UNRELATED_DEVICE_RE = re.compile(
-    r"\b(?:laptop|notebook|tablet|phone|smartphone|handheld|legion\s+go|y700)\b",
+    r"\b(?:laptop|notebook|tablet|phone|smartphone|handheld|"
+    r"gaming\s+pc|legion\s+go|y700|ipad)\b",
     re.I,
 )
 
+
 def should_exclude_text(*values: str | None) -> bool:
-    """Exclude 27QD/32QD results unless the same result identifies Pro."""
+    """Exclude 27QD/32QD results unless the same source identifies Pro."""
     text = "\n".join(value or "" for value in values)
     return bool(_QD_RE.search(text) and not _PRO_RE.search(text))
 
 
 def is_relevant_monitor_text(*values: str | None) -> bool:
-    """Require a target model, or Lenovo/Legion plus explicit monitor context.
+    """Screen a source/video/thread, not individual comment wording.
 
-    Generic OLED/HDR/brightness terms never qualify by themselves. Results
-    clearly about laptops, tablets, phones, or handhelds are rejected unless
-    they explicitly name one of the target monitor models.
+    Exact target model mentions take precedence over product-family words
+    (e.g. Yoga Pro 27UD-10 is still a target monitor). Otherwise require
+    Lenovo/Legion monitor context and reject laptop/tablet/phone/handheld
+    sources. Generic OLED/HDR content alone is never sufficient.
     """
     text = "\n".join(value or "" for value in values)
     if should_exclude_text(text):
