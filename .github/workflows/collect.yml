@@ -32,7 +32,7 @@ jobs:
       - name: Search videos and collect comments
         run: python scripts/collect.py
         env:
-          MAX_VIDEOS_PER_QUERY: "6"
+          MAX_VIDEOS_PER_QUERY: "8"
 
       - name: Build recent and monthly analysis indexes
         run: python scripts/build_analysis_index.py
