@@ -18,12 +18,14 @@ def load_search_queries() -> list[str]:
     ]
 
 
-# Target monitor model families. Keep Yoga-branded variants when the exact
-# target monitor model is present; do not reject them by product-family name.
+# Target monitor model families. Require explicit Legion Pro or monitor
+# context for exact-model matches to avoid similarly numbered laptops.
 _MODEL_RE = re.compile(r"\b(?:27|32)\s*(?:ud|q|qd)\s*-?\s*10\b", re.I)
 _QD_RE = re.compile(r"\b(?:27|32)\s*qd(?:\s*-?\s*10)?\b", re.I)
 _PRO_RE = re.compile(r"\bpro\b", re.I)
 _BRAND_RE = re.compile(r"\b(?:lenovo|legion)\b", re.I)
+_LEGION_PRO_RE = re.compile(r"\blegion\s*pro\b", re.I)
+_OTHER_LENOVO_FAMILY_RE = re.compile(r"\b(?:yoga|thinkpad|ideapad|loq)\b", re.I)
 _MONITOR_RE = re.compile(r"\b(?:monitor|monitors|display|displays)\b", re.I)
 _UNRELATED_DEVICE_RE = re.compile(
     r"\b(?:laptop|notebook|tablet|phone|smartphone|handheld|"
@@ -41,10 +43,10 @@ def should_exclude_text(*values: str | None) -> bool:
 def is_relevant_monitor_text(*values: str | None) -> bool:
     """Screen a source/video/thread, not individual comment wording.
 
-    Exact target model mentions take precedence over product-family words
-    (e.g. Yoga Pro 27UD-10 is still a target monitor). Otherwise require
-    Lenovo/Legion monitor context and reject laptop/tablet/phone/handheld
-    sources. Generic OLED/HDR content alone is never sufficient.
+    Exact model numbers are not enough by themselves: require Legion Pro or
+    monitor context, and reject unrelated Lenovo product families such as
+    Yoga, ThinkPad, IdeaPad, and LOQ unless Legion Pro is also explicit.
+    Generic OLED/HDR content alone is never sufficient.
     """
     text = "\n".join(value or "" for value in values)
     if should_exclude_text(text):
