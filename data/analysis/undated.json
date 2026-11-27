@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:58:26.542081Z",
+  "generated_at": "2026-11-27T12:32:43.511137Z",
   "note": "No reliable publication timestamp; do not treat as recent.",
   "record_count": 1263,
   "records": [
@@ -100,13 +100,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -604,7 +603,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -1485,7 +1484,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -1493,6 +1492,8 @@
         "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED",
         "Legion Pro 27UD-10 brightness drops"
       ],
@@ -3994,7 +3995,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 3,
       "reply_count": null,
       "is_reply": false,
@@ -5229,13 +5230,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -5748,13 +5748,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": 3,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -7470,7 +7469,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 3,
       "reply_count": null,
       "is_reply": true,
@@ -8686,7 +8685,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -8694,6 +8693,8 @@
         "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED",
         "Legion Pro 27UD-10 brightness drops"
       ],
@@ -9016,13 +9017,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -9613,13 +9613,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -10390,13 +10389,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -11000,7 +10998,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
@@ -11937,7 +11935,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -11946,7 +11944,6 @@
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -11968,7 +11965,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 6,
       "reply_count": 3,
       "is_reply": false,
@@ -11977,7 +11974,6 @@
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "medium",
@@ -13751,7 +13747,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -13760,7 +13756,6 @@
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -13991,13 +13986,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -14020,13 +14014,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -14302,13 +14295,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -14440,7 +14432,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
@@ -14452,6 +14444,7 @@
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
         "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro27Q-10 monitor",
         "Legion Pro27Q monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED",
@@ -15472,13 +15465,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -15727,13 +15719,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 3,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -17153,13 +17144,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -17733,13 +17723,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -20863,13 +20852,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -20892,13 +20880,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -20958,7 +20945,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -20989,7 +20976,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 3,
       "reply_count": null,
       "is_reply": true,
@@ -21020,7 +21007,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": 4,
       "is_reply": false,
@@ -21078,7 +21065,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -21111,7 +21098,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -22073,7 +22060,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": 1,
       "is_reply": false,
@@ -22084,6 +22071,7 @@
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
         "Lenovo Legion Pro 27Q10 monitor OLED",
         "Legion Pro27Q monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED",
@@ -23944,7 +23932,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -23952,6 +23940,8 @@
         "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED",
         "Legion Pro 27UD-10 brightness drops"
       ],
@@ -24585,7 +24575,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T00:26:23.795008Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 5,
       "reply_count": 1,
       "is_reply": false,
@@ -25534,7 +25524,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -26588,13 +26578,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": 3,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -26807,7 +26796,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": 2,
       "is_reply": false,
@@ -26860,13 +26849,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": 1,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -27145,13 +27133,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -28917,7 +28904,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": 1,
       "is_reply": false,
@@ -29067,7 +29054,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -29098,7 +29085,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": 13,
       "is_reply": false,
@@ -31447,13 +31434,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -31775,13 +31761,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -33000,13 +32985,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -33029,13 +33013,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": 2,
       "is_reply": false,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [
@@ -33528,7 +33511,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -33539,6 +33522,7 @@
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
         "Lenovo Legion Pro 27Q10 monitor OLED",
         "Legion Pro27Q monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED",
@@ -34512,7 +34496,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -35535,7 +35519,7 @@
       "published_time_quality": "unknown",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
@@ -35544,7 +35528,6 @@
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ],
       "relevance": "low",
@@ -35594,13 +35577,12 @@
       "published_time_quality": "unknown",
       "first_seen_at": "2026-11-24T01:01:37.433302Z",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328Z",
+      "last_seen_at": "2026-11-27T12:31:23.792216Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": true,
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ],
       "relevance": "low",
       "models_mentioned": [

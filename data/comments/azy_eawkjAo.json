@@ -7,7 +7,7 @@
     "Legion Pro27Q monitor"
   ],
   "first_collected_at": "2026-11-24T00:26:23.795008+00:00",
-  "last_collected_at": "2026-11-27T09:58:09.803008+00:00",
+  "last_collected_at": "2026-11-27T12:32:28.874677+00:00",
   "comments_count": 7,
   "comments_in_latest_fetch": 7,
   "comments": [
@@ -27,7 +27,7 @@
       "is_reply": false,
       "first_seen_at": "2026-11-24T00:26:23.795008+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
+      "last_seen_at": "2026-11-27T12:31:23.792216+00:00"
     },
     {
       "comment_id": "Ugx1nMthiGnpiTqE-nV4AaABAg",
@@ -45,7 +45,7 @@
       "is_reply": false,
       "first_seen_at": "2026-11-24T00:26:23.795008+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
+      "last_seen_at": "2026-11-27T12:31:23.792216+00:00"
     },
     {
       "comment_id": "Ugx1nMthiGnpiTqE-nV4AaABAg.AdKAOF65NFAAdKvhkEA3E_",
@@ -63,7 +63,7 @@
       "is_reply": true,
       "first_seen_at": "2026-11-24T00:26:23.795008+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
+      "last_seen_at": "2026-11-27T12:31:23.792216+00:00"
     },
     {
       "comment_id": "UgzyheeJKGwCJGFOGkl4AaABAg",
@@ -81,7 +81,7 @@
       "is_reply": false,
       "first_seen_at": "2026-11-24T00:26:23.795008+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
+      "last_seen_at": "2026-11-27T12:31:23.792216+00:00"
     },
     {
       "comment_id": "UgzyheeJKGwCJGFOGkl4AaABAg.Ad6Rc4x4xBFAd8Bfg4HdM4",
@@ -99,7 +99,7 @@
       "is_reply": true,
       "first_seen_at": "2026-11-24T00:26:23.795008+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
+      "last_seen_at": "2026-11-27T12:31:23.792216+00:00"
     },
     {
       "comment_id": "UgzyheeJKGwCJGFOGkl4AaABAg.Ad6Rc4x4xBFAd8CM2okuZJ",
@@ -117,7 +117,7 @@
       "is_reply": true,
       "first_seen_at": "2026-11-24T00:26:23.795008+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
+      "last_seen_at": "2026-11-27T12:31:23.792216+00:00"
     },
     {
       "comment_id": "Ugz6hs6VhlZhxqSopsN4AaABAg.AdZs09K-4VkAdaZDvE-8iu",
@@ -135,7 +135,7 @@
       "is_reply": true,
       "first_seen_at": "2026-11-25T13:02:11.884815+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
+      "last_seen_at": "2026-11-27T12:31:23.792216+00:00"
     }
   ]
 }

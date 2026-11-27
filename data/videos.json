@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T09:58:26.454283+00:00",
+  "updated_at": "2026-11-27T12:32:43.448952+00:00",
   "video_count": 103,
   "videos": [
     {
@@ -38,6 +38,8 @@
         "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED",
         "Legion Pro 27UD-10 brightness drops"
       ]
@@ -123,7 +125,6 @@
       "channel": "Trendytechdev",
       "search_queries": [
         "Lenovo Legion Pro 27Q-10 monitor OLED",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro27Q-10 monitor",
         "Legion Pro27Q monitor"
       ]
@@ -386,8 +387,7 @@
       "title": "Lenovo Legion 27Q-10 240Hz Monitor Review: Pure Performance... At Least for Gaming",
       "channel": "TechReflex",
       "search_queries": [
-        "Lenovo Legion Pro27Q-10 monitor",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Lenovo Legion Pro27Q-10 monitor"
       ]
     },
     {
@@ -498,6 +498,7 @@
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
         "Lenovo Legion Pro 27Q-10 monitor OLED",
+        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro27Q-10 monitor",
         "Legion Pro27Q monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED",
@@ -511,7 +512,6 @@
       "title": "Lenovo Legion Pro 27UD-10 & Pro 32UD-10 4K 240Hz OLED Monitors is Here With Dolby Vision HDR & More!",
       "channel": "Gadget News & Review",
       "search_queries": [
-        "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor"
       ]
@@ -528,6 +528,7 @@
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
+        "Lenovo Legion Pro 27Q-10 monitor OLED",
         "Lenovo Legion Pro 27Q10 monitor OLED",
         "Legion Pro27Q monitor",
         "Lenovo Legion Pro 27QD-10 monitor OLED",
@@ -592,7 +593,6 @@
         "Lenovo Legion Pro 32UD-10 monitor HDR",
         "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
-        "Lenovo Legion Pro 27Q10 monitor OLED",
         "Lenovo Legion Pro 27QD-10 monitor OLED"
       ]
     },
@@ -879,7 +879,8 @@
       "title": "Troubleshooting Common Monitor Issues | Lenovo Support",
       "channel": "Lenovo Support",
       "search_queries": [
-        "Lenovo Legion monitor screen gets darker"
+        "Lenovo Legion monitor screen gets darker",
+        "Lenovo Legion monitor dims after gaming"
       ]
     },
     {

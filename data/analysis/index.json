@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T09:58:26.542081Z",
+  "generated_at": "2026-11-27T12:32:43.511137Z",
   "timezone": "UTC",
   "source_of_truth": [
     "data/comments/*.json",
@@ -30,7 +30,7 @@
     "estimated_publication_times": 12664,
     "undated_records": 1263,
     "recent_7d_relevant": 0,
-    "recent_30d_relevant": 10,
+    "recent_30d_relevant": 9,
     "recent_7d_context": 19,
     "recent_30d_context": 86
   },
