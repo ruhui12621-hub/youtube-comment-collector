@@ -94,6 +94,7 @@ def main() -> int:
     manual_entries = read_lines(MANUAL_FILE)
     discovered: dict[str, dict[str, Any]] = {}
     errors: list[dict[str, str]] = []
+    query_stats: list[dict[str, Any]] = []
     started_at = utc_now()
 
     print(f"Loaded {len(queries)} search queries.")
@@ -104,14 +105,18 @@ def main() -> int:
             print(f"\n[SEARCH] {query}")
             try:
                 results = yt.search(query, filter="videos", max_results=MAX_VIDEOS_PER_QUERY)
-                count = 0
+                returned_count = 0
+                accepted_count = 0
+                excluded_count = 0
                 for video in results:
                     video_id = getattr(video, "video_id", None)
                     if not video_id:
                         continue
+                    returned_count += 1
                     title = getattr(video, "title", None)
                     channel = getattr(video, "channel", None)
-                    if not is_relevant_monitor_text(title):
+                    if not is_relevant_monitor_text(title, channel):
+                        excluded_count += 1
                         print(f"  [EXCLUDED unrelated monitor result] {title}")
                         continue
                     item = discovered.setdefault(
@@ -127,8 +132,17 @@ def main() -> int:
                     )
                     if query not in item["search_queries"]:
                         item["search_queries"].append(query)
-                    count += 1
-                print(f"  Found {count} video results.")
+                    accepted_count += 1
+                query_stats.append({
+                    "query": query,
+                    "returned": returned_count,
+                    "accepted": accepted_count,
+                    "excluded": excluded_count,
+                })
+                print(
+                    f"  Returned {returned_count}; accepted {accepted_count}; "
+                    f"excluded {excluded_count}."
+                )
             except Exception as exc:
                 message = f"{type(exc).__name__}: {exc}"
                 print(f"  Search failed: {message}", file=sys.stderr)
@@ -258,6 +272,7 @@ def main() -> int:
         "started_at": started_at,
         "finished_at": utc_now(),
         "queries": queries,
+        "query_stats": query_stats,
         "videos_discovered_this_run": len(discovered),
         "videos_collected_successfully": successful_videos,
         "comments_and_replies_seen_this_run": total_comments_seen,
