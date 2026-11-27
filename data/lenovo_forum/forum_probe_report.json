@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-27T09:54:43.211912+00:00",
-  "finished_at": "2026-11-27T09:55:01.498612+00:00",
+  "started_at": "2026-11-27T13:09:57.110891+00:00",
+  "finished_at": "2026-11-27T13:10:16.859225+00:00",
   "thread_id": "10042773",
   "http_diagnostics": [
     {
@@ -219,7 +219,7 @@
       "status": 200,
       "final_url": "https://forums.lenovo.com/t5/Displays-Options-and-Accessories/HDR-Dimming-Issue-on-Lenovo-Legion-Pro/td-p/10042773",
       "title": "HDR-Dimming-Issue-on-Lenovo-Legion-Pro - One Language Community - LENOVO COMMUNITY",
-      "document_length": 238758,
+      "document_length": 297245,
       "body_text_length": 14180
     },
     {
@@ -296,15 +296,6 @@
     },
     {
       "method": "topic_api_collection",
-      "tid": "10024883",
-      "fid": "15880",
-      "title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automaticfeatures of the monitor regarding screen protections.",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "error": null
-    },
-    {
-      "method": "topic_api_collection",
       "tid": "10016436",
       "fid": "15987",
       "title": "12-27-2025 13:24:47 Lenovo Legion Pro 32UD-10 - OLED Care - Low power byKermoneninY Gaming Accessories & Curved Gaming Monitors Hi, I need some clarification regarding the Lenovo Legion Pro 32UD-10 OLED Care menu. Also a request for Lenovo: could you please update the manual with proper explanations",
@@ -326,6 +317,15 @@
       "tid": "10022596",
       "fid": "15987",
       "title": "02-19-2026 15:16:32 Lenovo 32UD-10 Oled care byVechtrulinY Gaming Accessories & Curved Gaming Monitors Hi there, based on the limited information available in the user manual of the Lenovo 32UD-10 GamingMonitor, I do not understand the following: 1.In this case, does the monitor do the refresh first",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "error": null
+    },
+    {
+      "method": "topic_api_collection",
+      "tid": "10024883",
+      "fid": "15880",
+      "title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automaticfeatures of the monitor regarding screen protections.",
       "pages_captured": 1,
       "posts_captured": 2,
       "error": null
@@ -551,17 +551,6 @@
       ],
       "error": null
     },
-    "10024883": {
-      "title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automaticfeatures of the monitor regarding screen protections.",
-      "fid": "15880",
-      "pages_captured": 1,
-      "posts_captured": 2,
-      "post_ids": [
-        10090314,
-        10090381
-      ],
-      "error": null
-    },
     "10016436": {
       "title": "12-27-2025 13:24:47 Lenovo Legion Pro 32UD-10 - OLED Care - Low power byKermoneninY Gaming Accessories & Curved Gaming Monitors Hi, I need some clarification regarding the Lenovo Legion Pro 32UD-10 OLED Care menu. Also a request for Lenovo: could you please update the manual with proper explanations",
       "fid": "15987",
@@ -592,6 +581,17 @@
       "post_ids": [
         10081645,
         10081795
+      ],
+      "error": null
+    },
+    "10024883": {
+      "title": "03-12-2026 11:29:44 Request for information about the Legion Pro 27q-10 OLED on the OLED Care system byMiysis56inDisplays, Options and Accessories Hello, I recently bought a Lenovo Legion Pro 27q10 monitor and it does not indicate the automaticfeatures of the monitor regarding screen protections.",
+      "fid": "15880",
+      "pages_captured": 1,
+      "posts_captured": 2,
+      "post_ids": [
+        10090314,
+        10090381
       ],
       "error": null
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:32:43.511137Z",
+  "generated_at": "2026-11-27T13:10:16.953105Z",
   "month": "2026-10",
   "record_count": 4,
   "records": [
@@ -138,7 +138,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-27T12:32:43.511137Z",
+      "last_seen_at": "2026-11-27T13:10:16.953105Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "high",

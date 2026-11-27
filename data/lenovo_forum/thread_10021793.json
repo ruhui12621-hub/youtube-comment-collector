@@ -77,7 +77,7 @@
           "pid": 10078698,
           "subject": "Unavailable refresh rate modes on Legion Pro 27Q-10",
           "message": "<p>I bought a Lenovo Legion Pro 27Q-10 monitor (G25270QY0, 68CFGACBWW), which is marketed as 280 Hz, and with a HDMI 2.1 port. That HDMI version is supposed to be able to support 1440p 10bit 280 Hz natively, without DSC (display stream compression). But in both linux KDE plasma and Windows 11, the highest option with DSC disabled is 120 Hz. <br /><br />My GPU is the Sapphire PULSE Radeon Rx 7800 XT, which has two HDMI 2.1a ports and two DisplayPort 2.1 ports.<br />I am using the cable that came with the monitor, which is also supposed to be a HDMI 2.1 cable.<br /><br />Even with DSC on and with the HDMI cable i can only go to 144 Hz. Using DSC and the included DP 1.4 cable i can go to the specified 280 Hz.<br /><br />Also the monitor didn't come with the power cable, but i had an extra one lying at home.</p>",
-          "views": 36,
+          "views": 37,
           "replies": 4,
           "create_time": 1770920393,
           "last_post_time": 1771256754,
