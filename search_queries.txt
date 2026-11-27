@@ -1,5 +1,5 @@
-# Shared, deliberately narrow searches for Lenovo Legion monitors.
-# Exact target models: keep spelling variants to catch punctuation differences.
+# Exact target models: retain spelling variants for search-engine coverage.
+# 27QD/32QD are only searched with explicit "Legion Pro" wording.
 Lenovo Legion Pro 27UD-10 monitor HDR
 Lenovo Legion Pro 27UD10 monitor
 Lenovo Legion Pro 27UD 10 monitor
@@ -13,15 +13,23 @@ Legion Pro27Q monitor
 Lenovo Legion Pro 27QD-10 monitor OLED
 Lenovo Legion Pro 32QD-10 monitor OLED
 
-# Family/symptom searches must retain explicit Lenovo/Legion + monitor context.
+# Symptom searches: include the exact model so results are less likely to drift to laptops.
+Legion Pro 27UD-10 HDR dimming
+Legion Pro 27UD-10 brightness drops
+Legion Pro 27UD-10 gets darker after 30 minutes
+Legion Pro 32UD-10 HDR dimming
+Legion Pro 32UD-10 brightness drops
+Legion Pro 27Q-10 HDR dimming
+Legion Pro 27Q-10 brightness drops
 Lenovo Legion Pro monitor HDR brightness dimming
 Lenovo Legion monitor HDR brightness drops
 Lenovo Legion monitor screen gets darker
 Lenovo Legion monitor dims after gaming
-Lenovo Legion Pro monitor brightness drops after gaming
 
-# Chinese searches: explicitly name Lenovo/Legion and monitor/display.
-联想 Legion Pro 显示器 HDR 变暗
-联想 Legion Pro 显示器 亮度下降
-联想 拯救者 显示器 OLED 亮度 降低
-联想 Legion 显示器 游戏后 自动变暗
+# Chinese and other-language searches.
+联想 Legion Pro 27UD-10 显示器 HDR 变暗
+联想 Legion Pro 32UD-10 显示器 亮度下降
+联想 Legion Pro 27Q-10 显示器 HDR 变暗
+联想 拯救者 Legion Pro 显示器 游戏后 自动变暗
+레노버 리전 프로 27UD-10 모니터 HDR 밝기 어두워짐
+レノボ Legion Pro 27UD-10 モニター HDR 暗くなる
