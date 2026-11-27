@@ -2,11 +2,11 @@
   "thread": {
     "tid": "10053737",
     "fid": "15880",
-    "url": "https://forums.lenovo.com/topic/findpost/15880/10053737/10193297",
-    "title": "11-14-2026 20:34:34 ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors bySelteinDisplays, Options and Accessories Good day, I am using a new Lenovo ThinkVision P40WD-40 with a new 14-inch MacBook Pro withDifferent display of the two halves of the screen At cert",
+    "url": "https://forums.lenovo.com/topic/findpost/15880/10053737/10193527",
+    "title": "11-15-2026 15:59:44 Re:ThinkVision P40WD-40 – split brightness/color display with macOS scaling and color errors byLorenzo_LenovoinDisplays, Options and Accessories Hello Selte, Welcome to Lenovo Community I understand your concern with the ThinkVision P40WD-40 showing a left/right image split and c",
     "query": "Lenovo Legion Pro monitor HDR brightness dimming",
     "source": "search_discovery",
-    "sample_pid": "10193297"
+    "sample_pid": "10193527"
   },
   "topic_api": {
     "endpoint_template": "https://forums.lenovo.com/api/v2/topic/getTopic?fid=15880&tid=10053737&page=N",

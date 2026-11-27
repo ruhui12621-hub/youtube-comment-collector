@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T09:15:11.751870Z",
+  "generated_at": "2026-11-27T09:55:01.604539Z",
   "month": "2026-02",
-  "record_count": 4,
+  "record_count": 6,
   "records": [
     {
       "record_id": "lenovo_forum:10022596:10081795",
@@ -18,7 +18,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-27T09:15:11.751870Z",
+      "last_seen_at": "2026-11-27T09:55:01.604539Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "high",
@@ -41,7 +41,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-27T09:15:11.751870Z",
+      "last_seen_at": "2026-11-27T09:55:01.604539Z",
       "is_first_post": true,
       "kudos": 0,
       "relevance": "medium",
@@ -64,7 +64,7 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-27T09:15:11.751870Z",
+      "last_seen_at": "2026-11-27T09:55:01.604539Z",
       "is_first_post": false,
       "kudos": 0,
       "relevance": "high",
@@ -87,12 +87,58 @@
       "published_time_quality": "exact",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown",
-      "last_seen_at": "2026-11-27T09:15:11.751870Z",
+      "last_seen_at": "2026-11-27T09:55:01.604539Z",
       "is_first_post": true,
       "kudos": 0,
       "relevance": "medium",
       "models_mentioned": [
         "32UD10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10021793:10079341",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "02-12-2026 18:19:53 Unavailable refresh rate modes on Legion Pro 27Q-10 byKyletsitinY Gaming Accessories & Curved Gaming Monitors I bought a Lenovo Legion Pro 27Q-10 monitor (G25270QY0, 68CFGACBWW), which is marketed as 280 Hz,But in both linux KDE plasma and Windows 11, the highest option with DSC ",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10021793/10078698",
+      "thread_id": "10021793",
+      "post_id": "10079341",
+      "author": "Kyletsit",
+      "text": "Thank you for the reply,\nI've tried many of those things, but in the end,\nburied in the specs\n, I found that it really is only HDMI 2.1 FRL 6Gbit, which, according to\nthis table\nhas four lanes, so a total 24 Gbit bandwidth which is not enough for uncompressed 1440p 280hz 10bit HDR.\nI'll try returning the monitor and getting another one, I've already found some for a similar price that explicitly state 48 Gbps bandwidth, as should be the max of HDMI 2.1.",
+      "published_raw": "2026-02-14 07:26",
+      "published_at": "2026-02-14T07:26:07Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-27T09:55:01.604539Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
+      ]
+    },
+    {
+      "record_id": "lenovo_forum:10021793:10078788",
+      "platform": "lenovo_forum",
+      "record_type": "forum_post",
+      "source_title": "02-12-2026 18:19:53 Unavailable refresh rate modes on Legion Pro 27Q-10 byKyletsitinY Gaming Accessories & Curved Gaming Monitors I bought a Lenovo Legion Pro 27Q-10 monitor (G25270QY0, 68CFGACBWW), which is marketed as 280 Hz,But in both linux KDE plasma and Windows 11, the highest option with DSC ",
+      "source_url": "https://forums.lenovo.com/topic/findpost/15987/10021793/10078698",
+      "thread_id": "10021793",
+      "post_id": "10078788",
+      "author": "Adriel_lenovo",
+      "text": "Hi and welcome to the Lenovo Community\nKyletsit\n,\nI'm sorry to know that you're having difficulties setting up the refresh rate on your Lenovo Legion Pro 27Q-10 monitor. Based on your description, what you’re seeing is consistent with bandwidth and signaling limits by interface and settings. 2560×1440 at very high refresh and 10-bit color can exceed uncompressed HDMI bandwidth on some monitor/GPU combos, so DSC and/or reduced color depth/chroma may be required. On this model, 280 Hz is typically achieved over DisplayPort with DSC, while HDMI may present lower maximum modes depending on color format and firmware.\nPlease try the following:\n1) Update firmware/drivers - Monitor: Check for a monitor firmware and driver/INF on the Lenovo support site by clicking\nhere\n. - GPU: Update to the latest AMD Adrenalin driver for your RX 7800 XT. - OS: Ensure Windows 11 is current. For Linux, update kernel/Mesa to the latest stable versions.\n2) Verify OSD settings on the monitor - HDMI Version/Compatibility: In the monitor OSD, make sure the HDMI input is set to “HDMI 2.1” (FRL) and not a compatibility/1.4 mode. - DSC: If there is an HDMI DSC toggle in the OSD, test with it enabled first. Then test disabled to compare. - Overclock: Ensure any “Overclock/280 Hz” setting is enabled for DP (you’ve confirmed DP reaches 280 Hz with DSC). Note: Some overclock settings apply to DP only.\n3) Windows display and AMD settings (HDMI tests) - Windows > Settings > System > Display > Advanced display: Set 2560×1440 and test 8-bit first to see higher refresh rate options appear. Then try 10-bit. - AMD Adrenalin > Settings > Display: - Toggle “Display Stream Compression (DSC)” on for the HDMI display and retest (some drivers expose this per display). - Change Pixel Format to YCbCr 4:2:2 or 4:2:0 to see if higher refresh rates become available, then move back to RGB/10-bit if desired. - Try another certified “Ultra High Speed HDMI” cable if available to rule out cable signaling issues.\n4) Linux notes (HDMI tests) - Ensure amdgpu DC is enabled and DSC support is present (kernel 6.x+ and recent Mesa). - Use your DE’s display settings or xrandr to enumerate modes; some environments may default to conservative modes.\n5) Check interface-specific limits - Some monitors advertise different maximum refresh rates by interface and color format. Please refer to the Product Specifications in its Lenovo Product Specifications Reference (PSREF) for the\nLegion Pro 27Q-10\nto confirm the maximum refresh supported over HDMI versus DisplayPort, and whether DSC and/or reduced chroma/bit depth is required for high-refresh modes. - If PSREF indicates that HDMI is limited to lower refresh at 1440p (especially at 10-bit RGB), then what you’re seeing would be expected behavior. In that case, DisplayPort remains the recommended path for 280 Hz.\nAbout the missing power cable - The monitor package should include a power cord. We’re sorry yours wasn’t in the box. Since you had a spare, you’re up and running, but we can still help with the missing accessory: - If recently purchased, contact your retailer to report the missing item. - You can also check part availability via\nLenovo Parts Lookup page\nor submit a request with the technical support using\nService Request\nfor assistance.\nHope this helps.\nThanks,\nAdriel_Lenovo",
+      "published_raw": "2026-02-12 21:06",
+      "published_at": "2026-02-12T21:06:49Z",
+      "published_time_quality": "exact",
+      "first_seen_at": null,
+      "first_seen_time_quality": "unknown",
+      "last_seen_at": "2026-11-27T09:55:01.604539Z",
+      "is_first_post": false,
+      "kudos": 0,
+      "relevance": "medium",
+      "models_mentioned": [
+        "27Q10"
       ]
     }
   ]
