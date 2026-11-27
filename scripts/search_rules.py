@@ -49,8 +49,18 @@ def is_relevant_monitor_text(*values: str | None) -> bool:
     text = "\n".join(value or "" for value in values)
     if should_exclude_text(text):
         return False
+    has_monitor_context = bool(_MONITOR_RE.search(text))
+    has_legion_pro_context = bool(_LEGION_PRO_RE.search(text))
+
+    # Do not let a matching model number alone pull in laptops or other
+    # Lenovo product families. A clear monitor reference or Legion Pro
+    # branding is required for exact-model matches.
+    if _UNRELATED_DEVICE_RE.search(text) and not has_monitor_context:
+        return False
+    if _OTHER_LENOVO_FAMILY_RE.search(text) and not has_legion_pro_context:
+        return False
     if _MODEL_RE.search(text):
-        return True
+        return has_monitor_context or has_legion_pro_context
     if _UNRELATED_DEVICE_RE.search(text):
         return False
-    return bool(_BRAND_RE.search(text) and _MONITOR_RE.search(text))
+    return bool(_BRAND_RE.search(text) and has_monitor_context)
