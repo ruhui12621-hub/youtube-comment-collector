@@ -5,13 +5,14 @@
   "channel": "Rogers Gallery",
   "search_queries": [
     "Lenovo Legion Pro 27UD-10 monitor HDR",
+    "Lenovo Legion Pro 27UD10 monitor",
     "Lenovo Legion Pro 32UD-10 monitor HDR",
     "Lenovo Legion Pro 32UD10 monitor",
     "Lenovo Legion Pro 32UD 10 monitor",
     "Lenovo Legion Pro 32QD-10 monitor OLED"
   ],
   "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
-  "last_collected_at": "2026-11-27T09:06:11.809264+00:00",
+  "last_collected_at": "2026-11-27T09:57:37.782558+00:00",
   "comments_count": 15,
   "comments_in_latest_fetch": 15,
   "comments": [
@@ -31,7 +32,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugzomjo9Aj1h7VlYcsx4AaABAg",
@@ -49,7 +50,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugzomjo9Aj1h7VlYcsx4AaABAg.AcYOlbIzFkhAc_V1thm6o8",
@@ -67,7 +68,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxEYgFXY9w8XQwYpuZ4AaABAg",
@@ -85,7 +86,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyjgazBE6JpsBudmnR4AaABAg",
@@ -103,7 +104,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyjgazBE6JpsBudmnR4AaABAg.Aayg4NAedF1AcLzEdBYLep",
@@ -121,7 +122,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgwcnZJXA3qjvG3LTvF4AaABAg",
@@ -139,7 +140,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgylFaiiUrWq9NFzNq94AaABAg",
@@ -157,7 +158,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgylFaiiUrWq9NFzNq94AaABAg.Aa4VXclEZp_AcLzGttq2vf",
@@ -175,7 +176,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgylFaiiUrWq9NFzNq94AaABAg.Aa4VXclEZp_AcTrUcnNJqn",
@@ -193,7 +194,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgylFaiiUrWq9NFzNq94AaABAg.Aa4VXclEZp_AcYOyvw7C_a",
@@ -211,7 +212,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxdtWmhRyeAfWaiz_R4AaABAg",
@@ -229,7 +230,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxdtWmhRyeAfWaiz_R4AaABAg.Aa2fkbRg0YZAb7S6ba6gTp",
@@ -247,7 +248,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxdtWmhRyeAfWaiz_R4AaABAg.Aa2fkbRg0YZAcLzOJzwlkY",
@@ -265,7 +266,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyaI3CUBTw88dQ-TWR4AaABAg",
@@ -283,7 +284,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     }
   ]
 }

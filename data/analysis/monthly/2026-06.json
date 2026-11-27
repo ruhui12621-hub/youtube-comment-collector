@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:55:01.604539Z",
+  "generated_at": "2026-11-27T09:58:26.542081Z",
   "month": "2026-06",
   "record_count": 1,
   "records": [
@@ -15,11 +15,11 @@
       "author": "@dlam8276",
       "text": "Hdr colors looks bad on this",
       "published_raw": "5 months ago",
-      "published_at": "2026-06-30T09:06:06.737373Z",
+      "published_at": "2026-06-30T09:57:25.465147Z",
       "published_time_quality": "relative_estimate",
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716Z",
+      "last_seen_at": "2026-11-27T09:56:55.650328Z",
       "like_count": 1,
       "reply_count": null,
       "is_reply": false,
@@ -27,9 +27,15 @@
         "Lenovo Legion Pro 27UD-10 monitor HDR",
         "Lenovo Legion Pro 27UD10 monitor",
         "Lenovo Legion Pro 27UD 10 monitor",
+        "Lenovo Legion Pro 32UD-10 monitor HDR",
+        "Lenovo Legion Pro 32UD10 monitor",
         "Lenovo Legion Pro 32UD 10 monitor",
         "Lenovo Legion Pro 27Q10 monitor OLED",
-        "Lenovo Legion Pro 27QD-10 monitor OLED"
+        "Legion Pro27Q monitor",
+        "Lenovo Legion Pro 27QD-10 monitor OLED",
+        "Legion Pro 27UD-10 HDR dimming",
+        "Legion Pro 32UD-10 HDR dimming",
+        "Legion Pro 27Q-10 HDR dimming"
       ],
       "relevance": "medium",
       "models_mentioned": [

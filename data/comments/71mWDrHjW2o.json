@@ -15,10 +15,11 @@
     "Lenovo Legion Pro27Q-10 monitor",
     "Legion Pro27Q monitor",
     "Lenovo Legion Pro 27QD-10 monitor OLED",
-    "Lenovo Legion Pro 32QD-10 monitor OLED"
+    "Lenovo Legion Pro 32QD-10 monitor OLED",
+    "Legion Pro 27UD-10 brightness drops"
   ],
   "first_collected_at": "2026-11-21T16:52:50.181008+00:00",
-  "last_collected_at": "2026-11-27T09:06:00.038821+00:00",
+  "last_collected_at": "2026-11-27T09:57:18.697553+00:00",
   "comments_count": 62,
   "comments_in_latest_fetch": 62,
   "comments": [
@@ -38,7 +39,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgwiEo3vvefCDfMERCh4AaABAg",
@@ -56,7 +57,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgwiEo3vvefCDfMERCh4AaABAg.AbQ5Tqv49w3AcQKYOmScB9",
@@ -74,7 +75,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgwVZXp5aQ3uT_f_fKl4AaABAg",
@@ -92,7 +93,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgwVZXp5aQ3uT_f_fKl4AaABAg.Ab-fzwyC5PWAb0es6vqEF0",
@@ -110,7 +111,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugzrz3TXlIsqaI9IoPJ4AaABAg",
@@ -128,7 +129,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugw2VE4CjKLXzfJGwcB4AaABAg",
@@ -146,7 +147,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugw2VE4CjKLXzfJGwcB4AaABAg.AXRQg_Mlhp0AXTqzPHUw7X",
@@ -164,7 +165,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugw2VE4CjKLXzfJGwcB4AaABAg.AXRQg_Mlhp0AXUsY27twxN",
@@ -182,7 +183,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyctytAIS4--InHIrp4AaABAg",
@@ -200,7 +201,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyctytAIS4--InHIrp4AaABAg.AW60EYVrYqxAW6KnqOHoLt",
@@ -218,7 +219,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugx-CcSGD3Zt-If2zvJ4AaABAg",
@@ -236,7 +237,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugx-CcSGD3Zt-If2zvJ4AaABAg.AVneZv4UaC8AVws4owhZ43",
@@ -254,7 +255,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugx-CcSGD3Zt-If2zvJ4AaABAg.AVneZv4UaC8A_ofnaKDSmb",
@@ -272,7 +273,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugwk2YB6d8R-x-9WJqx4AaABAg",
@@ -290,7 +291,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyV3ApOvqHiNdOZyrJ4AaABAg",
@@ -308,7 +309,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyugvdkSPlAR2juKQ94AaABAg",
@@ -326,7 +327,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyugvdkSPlAR2juKQ94AaABAg.AUQ6aZpsz09AcyLCDA6g4X",
@@ -344,7 +345,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzKGqL8cOuNC0tcVVx4AaABAg",
@@ -362,7 +363,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzXa5mPQW7IjZxG-L14AaABAg",
@@ -380,7 +381,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzXa5mPQW7IjZxG-L14AaABAg.ATn9ddZXNDnATnClRAM-J5",
@@ -398,7 +399,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzCcLQKHxU5W9BNRCF4AaABAg",
@@ -416,7 +417,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzCcLQKHxU5W9BNRCF4AaABAg.ATV-PYMna1lAcQKkNW2xHV",
@@ -434,7 +435,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugx09DdYwndKg1-aLFF4AaABAg",
@@ -452,7 +453,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugx09DdYwndKg1-aLFF4AaABAg.ATEtFVW-PJHAUIndKcu5G9",
@@ -470,7 +471,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzGAcDiVtNtzojbCQJ4AaABAg",
@@ -488,7 +489,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzGAcDiVtNtzojbCQJ4AaABAg.AT3ZJQYHe1GAT8l_B3Jf7F",
@@ -506,7 +507,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzGAcDiVtNtzojbCQJ4AaABAg.AT3ZJQYHe1GATDgDIVDKjV",
@@ -524,7 +525,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzGAcDiVtNtzojbCQJ4AaABAg.AT3ZJQYHe1GAUQ6PUahbSh",
@@ -542,7 +543,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxiH2SsSXDTLDiIPFx4AaABAg",
@@ -560,7 +561,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxiH2SsSXDTLDiIPFx4AaABAg.ASEbn0NUWDQASFvwiWfcIZ",
@@ -578,7 +579,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxOX_KoEViHr3HrfWR4AaABAg",
@@ -596,7 +597,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxOX_KoEViHr3HrfWR4AaABAg.AS6llP1h1k9AS6rpC1Ye_F",
@@ -614,7 +615,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzcPs7v2v-lIdBwKhB4AaABAg",
@@ -632,7 +633,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzcPs7v2v-lIdBwKhB4AaABAg.ARZJ-l1epfNAT3ZC7gHhFe",
@@ -650,7 +651,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzcPs7v2v-lIdBwKhB4AaABAg.ARZJ-l1epfNATI1B4GHCCY",
@@ -668,7 +669,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyMHHEr50O_Aik1qkl4AaABAg",
@@ -686,7 +687,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyMHHEr50O_Aik1qkl4AaABAg.ARLCpFAYNN7ARMBLJfPhIT",
@@ -704,7 +705,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzW8GL_pWJ2pjzfZyR4AaABAg",
@@ -722,7 +723,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzW8GL_pWJ2pjzfZyR4AaABAg.AR8xFdB4SGWAR8xk7f1ucG",
@@ -740,7 +741,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugy8j81YU1Pz5n_g_NN4AaABAg",
@@ -758,7 +759,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugy8j81YU1Pz5n_g_NN4AaABAg.AQsugJgR-PFAQw7a5RfNMg",
@@ -776,7 +777,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugy8j81YU1Pz5n_g_NN4AaABAg.AQsugJgR-PFAQxAUz9FVAx",
@@ -794,7 +795,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugy9F2jSwKprRa8aMWl4AaABAg",
@@ -812,7 +813,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzfnO16T1ywipbrbtJ4AaABAg",
@@ -830,7 +831,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgzfnO16T1ywipbrbtJ4AaABAg.AQaf5es6zgVAQbV6RtJWpr",
@@ -848,7 +849,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugy20ldhjrq0jkeSNK54AaABAg",
@@ -866,7 +867,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugy20ldhjrq0jkeSNK54AaABAg.AQ_G0QaaWjbAQ_Pp86bDJo",
@@ -884,7 +885,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxRpdCSppNkn7a4g3l4AaABAg",
@@ -902,7 +903,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxRpdCSppNkn7a4g3l4AaABAg.AQZHR_yuiRSAQ_8sMgXxI3",
@@ -920,7 +921,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxRpdCSppNkn7a4g3l4AaABAg.AQZHR_yuiRSAQiX8j8_8OB",
@@ -938,14 +939,14 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxRpdCSppNkn7a4g3l4AaABAg.AQZHR_yuiRSAREE4N4bIV8",
       "text": "​ @josephplaz4607 not true",
       "author": "@Hasmatix",
       "author_channel_id": "UCKsTZWLrnqoG32hRq2DFLrw",
-      "published": "10 months ago",
+      "published": "11 months ago",
       "published_at": null,
       "parent_id": null,
       "like_count": 1,
@@ -956,7 +957,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxRpdCSppNkn7a4g3l4AaABAg.AQZHR_yuiRSARJsPFTX0FM",
@@ -974,7 +975,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyRcb6jgo07HOW-gCh4AaABAg",
@@ -992,7 +993,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgyRcb6jgo07HOW-gCh4AaABAg.AQXbLEtCg1dAQXcrylLPbN",
@@ -1010,7 +1011,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxB9uk014W6__FtKC54AaABAg",
@@ -1028,7 +1029,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxB9uk014W6__FtKC54AaABAg.AQXb3uKp2IYAQXcHbnQoxX",
@@ -1046,7 +1047,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxnxQjZYpDHSiQCdsN4AaABAg",
@@ -1064,7 +1065,7 @@
       "is_reply": false,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "UgxnxQjZYpDHSiQCdsN4AaABAg.AQX_sji5IyMAQXaKDeCZt2",
@@ -1082,7 +1083,7 @@
       "is_reply": true,
       "first_seen_at": null,
       "first_seen_time_quality": "unknown_legacy",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugz7OPn1d1glEEt4WPF4AaABAg",
@@ -1100,7 +1101,7 @@
       "is_reply": false,
       "first_seen_at": "2026-11-25T13:02:11.884815+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugz7OPn1d1glEEt4WPF4AaABAg.AdbzBW6qzNcAdcRADgbQ6r",
@@ -1118,7 +1119,7 @@
       "is_reply": true,
       "first_seen_at": "2026-11-25T13:02:11.884815+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     },
     {
       "comment_id": "Ugz7OPn1d1glEEt4WPF4AaABAg.AdbzBW6qzNcAdd9UuMPBTO",
@@ -1136,7 +1137,7 @@
       "is_reply": true,
       "first_seen_at": "2026-11-26T12:42:59.201364+00:00",
       "first_seen_time_quality": "exact",
-      "last_seen_at": "2026-11-27T09:05:45.697716+00:00"
+      "last_seen_at": "2026-11-27T09:56:55.650328+00:00"
     }
   ]
 }

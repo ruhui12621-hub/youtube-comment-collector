@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-27T09:05:45.697716+00:00",
-  "finished_at": "2026-11-27T09:07:15.254968+00:00",
+  "started_at": "2026-11-27T09:56:55.650328+00:00",
+  "finished_at": "2026-11-27T09:58:26.455655+00:00",
   "queries": [
     "Lenovo Legion Pro 27UD-10 monitor HDR",
     "Lenovo Legion Pro 27UD10 monitor",
@@ -14,18 +14,202 @@
     "Legion Pro27Q monitor",
     "Lenovo Legion Pro 27QD-10 monitor OLED",
     "Lenovo Legion Pro 32QD-10 monitor OLED",
+    "Legion Pro 27UD-10 HDR dimming",
+    "Legion Pro 27UD-10 brightness drops",
+    "Legion Pro 27UD-10 gets darker after 30 minutes",
+    "Legion Pro 32UD-10 HDR dimming",
+    "Legion Pro 32UD-10 brightness drops",
+    "Legion Pro 27Q-10 HDR dimming",
+    "Legion Pro 27Q-10 brightness drops",
     "Lenovo Legion Pro monitor HDR brightness dimming",
     "Lenovo Legion monitor HDR brightness drops",
     "Lenovo Legion monitor screen gets darker",
     "Lenovo Legion monitor dims after gaming",
-    "Lenovo Legion Pro monitor brightness drops after gaming",
-    "联想 Legion Pro 显示器 HDR 变暗",
-    "联想 Legion Pro 显示器 亮度下降",
-    "联想 拯救者 显示器 OLED 亮度 降低",
-    "联想 Legion 显示器 游戏后 自动变暗"
+    "联想 Legion Pro 27UD-10 显示器 HDR 变暗",
+    "联想 Legion Pro 32UD-10 显示器 亮度下降",
+    "联想 Legion Pro 27Q-10 显示器 HDR 变暗",
+    "联想 拯救者 Legion Pro 显示器 游戏后 自动变暗",
+    "레노버 리전 프로 27UD-10 모니터 HDR 밝기 어두워짐",
+    "レノボ Legion Pro 27UD-10 モニター HDR 暗くなる"
+  ],
+  "query_stats": [
+    {
+      "query": "Lenovo Legion Pro 27UD-10 monitor HDR",
+      "returned": 8,
+      "accepted": 6,
+      "excluded": 2
+    },
+    {
+      "query": "Lenovo Legion Pro 27UD10 monitor",
+      "returned": 8,
+      "accepted": 6,
+      "excluded": 2
+    },
+    {
+      "query": "Lenovo Legion Pro 27UD 10 monitor",
+      "returned": 8,
+      "accepted": 5,
+      "excluded": 3
+    },
+    {
+      "query": "Lenovo Legion Pro 32UD-10 monitor HDR",
+      "returned": 8,
+      "accepted": 7,
+      "excluded": 1
+    },
+    {
+      "query": "Lenovo Legion Pro 32UD10 monitor",
+      "returned": 8,
+      "accepted": 7,
+      "excluded": 1
+    },
+    {
+      "query": "Lenovo Legion Pro 32UD 10 monitor",
+      "returned": 8,
+      "accepted": 7,
+      "excluded": 1
+    },
+    {
+      "query": "Lenovo Legion Pro 27Q-10 monitor OLED",
+      "returned": 8,
+      "accepted": 7,
+      "excluded": 1
+    },
+    {
+      "query": "Lenovo Legion Pro 27Q10 monitor OLED",
+      "returned": 8,
+      "accepted": 7,
+      "excluded": 1
+    },
+    {
+      "query": "Lenovo Legion Pro27Q-10 monitor",
+      "returned": 8,
+      "accepted": 6,
+      "excluded": 2
+    },
+    {
+      "query": "Legion Pro27Q monitor",
+      "returned": 8,
+      "accepted": 7,
+      "excluded": 1
+    },
+    {
+      "query": "Lenovo Legion Pro 27QD-10 monitor OLED",
+      "returned": 8,
+      "accepted": 7,
+      "excluded": 1
+    },
+    {
+      "query": "Lenovo Legion Pro 32QD-10 monitor OLED",
+      "returned": 8,
+      "accepted": 4,
+      "excluded": 4
+    },
+    {
+      "query": "Legion Pro 27UD-10 HDR dimming",
+      "returned": 8,
+      "accepted": 3,
+      "excluded": 5
+    },
+    {
+      "query": "Legion Pro 27UD-10 brightness drops",
+      "returned": 8,
+      "accepted": 5,
+      "excluded": 3
+    },
+    {
+      "query": "Legion Pro 27UD-10 gets darker after 30 minutes",
+      "returned": 0,
+      "accepted": 0,
+      "excluded": 0
+    },
+    {
+      "query": "Legion Pro 32UD-10 HDR dimming",
+      "returned": 8,
+      "accepted": 2,
+      "excluded": 6
+    },
+    {
+      "query": "Legion Pro 32UD-10 brightness drops",
+      "returned": 8,
+      "accepted": 0,
+      "excluded": 8
+    },
+    {
+      "query": "Legion Pro 27Q-10 HDR dimming",
+      "returned": 8,
+      "accepted": 3,
+      "excluded": 5
+    },
+    {
+      "query": "Legion Pro 27Q-10 brightness drops",
+      "returned": 8,
+      "accepted": 1,
+      "excluded": 7
+    },
+    {
+      "query": "Lenovo Legion Pro monitor HDR brightness dimming",
+      "returned": 8,
+      "accepted": 0,
+      "excluded": 8
+    },
+    {
+      "query": "Lenovo Legion monitor HDR brightness drops",
+      "returned": 8,
+      "accepted": 1,
+      "excluded": 7
+    },
+    {
+      "query": "Lenovo Legion monitor screen gets darker",
+      "returned": 8,
+      "accepted": 2,
+      "excluded": 6
+    },
+    {
+      "query": "Lenovo Legion monitor dims after gaming",
+      "returned": 8,
+      "accepted": 0,
+      "excluded": 8
+    },
+    {
+      "query": "联想 Legion Pro 27UD-10 显示器 HDR 变暗",
+      "returned": 0,
+      "accepted": 0,
+      "excluded": 0
+    },
+    {
+      "query": "联想 Legion Pro 32UD-10 显示器 亮度下降",
+      "returned": 0,
+      "accepted": 0,
+      "excluded": 0
+    },
+    {
+      "query": "联想 Legion Pro 27Q-10 显示器 HDR 变暗",
+      "returned": 0,
+      "accepted": 0,
+      "excluded": 0
+    },
+    {
+      "query": "联想 拯救者 Legion Pro 显示器 游戏后 自动变暗",
+      "returned": 0,
+      "accepted": 0,
+      "excluded": 0
+    },
+    {
+      "query": "레노버 리전 프로 27UD-10 모니터 HDR 밝기 어두워짐",
+      "returned": 0,
+      "accepted": 0,
+      "excluded": 0
+    },
+    {
+      "query": "レノボ Legion Pro 27UD-10 モニター HDR 暗くなる",
+      "returned": 0,
+      "accepted": 0,
+      "excluded": 0
+    }
   ],
   "videos_discovered_this_run": 22,
   "videos_collected_successfully": 22,
-  "comments_and_replies_seen_this_run": 946,
+  "comments_and_replies_seen_this_run": 733,
   "errors": []
 }
