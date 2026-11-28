@@ -26,6 +26,10 @@ Lenovo Legion monitor HDR brightness drops
 Lenovo Legion monitor screen gets darker
 Lenovo Legion monitor dims after gaming
 
+# Broader symptom phrasing: catch reports that omit the exact model number.
+Legion Pro OLED dimming power cycle
+Legion Pro monitor brightness won't recover
+
 # Chinese and other-language searches.
 联想 Legion Pro 27UD-10 显示器 HDR 变暗
 联想 Legion Pro 32UD-10 显示器 亮度下降
