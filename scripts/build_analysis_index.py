@@ -11,7 +11,7 @@ import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
-from search_rules import is_relevant_monitor_text
+from search_rules import is_direct_legion_pro_issue_comment, is_relevant_monitor_text
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -135,10 +135,16 @@ def relevance(title: str, text: str) -> tuple[str, list[str], str | None]:
 def add_record(records: list[dict[str, Any]], record: dict[str, Any]) -> None:
     title = record.get("source_title") or ""
     text = record.get("text") or ""
-    if not is_relevant_monitor_text(title):
+    direct_comment_match = (
+        record.get("platform") == "youtube"
+        and is_direct_legion_pro_issue_comment(title, text)
+    )
+    if not is_relevant_monitor_text(title) and not direct_comment_match:
         level, models, reason = "excluded", [], "Source is not a target Lenovo/Legion monitor; unrelated device or product category"
     else:
         level, models, reason = relevance(title, text)
+        if direct_comment_match and level == "low":
+            level, reason = "high", None
     record["relevance"] = level
     record["models_mentioned"] = models
     if reason:
