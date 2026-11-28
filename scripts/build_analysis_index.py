@@ -11,6 +11,7 @@ import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import urljoin
 from search_rules import is_direct_legion_pro_issue_comment, is_relevant_monitor_text
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -209,12 +210,19 @@ def collect_forum(records: list[dict[str, Any]]) -> dict[str, int]:
             continue
         thread = archive.get("thread") or {}
         title = thread.get("title") or ""
-        canonical_url = thread.get("canonical_url") or thread.get("url") or ""
+        pages = (archive.get("topic_api") or {}).get("pages") or []
+        topic_info = next(
+            (page.get("topic_info") for page in pages if page.get("topic_info")),
+            {},
+        )
+        seolink = (topic_info or {}).get("seolink")
+        canonical_url = thread.get("canonical_url") or (
+            urljoin("https://forums.lenovo.com", seolink) if seolink else thread.get("url") or ""
+        )
         original_url = thread.get("original_url") or thread.get("url") or canonical_url
-        url_status = thread.get("url_status") or ("legacy_observed" if original_url else "missing")
+        url_status = thread.get("url_status") or ("canonical_from_source_metadata" if seolink else ("legacy_observed" if original_url else "missing"))
         tid = str(thread.get("tid") or path.stem.removeprefix("thread_"))
         stats["threads"] += 1
-        pages = (archive.get("topic_api") or {}).get("pages") or []
         for page in pages:
             for post in page.get("posts") or []:
                 stats["posts"] += 1
