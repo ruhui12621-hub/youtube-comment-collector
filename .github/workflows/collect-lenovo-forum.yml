@@ -3,7 +3,7 @@ name: Collect Lenovo forum
 on:
   workflow_dispatch:
   schedule:
-    - cron: "37 3 * * *"
+    - cron: "43 22 * * *"
 
 permissions:
   contents: write
