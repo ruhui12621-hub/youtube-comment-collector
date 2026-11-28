@@ -4,7 +4,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
-from search_rules import is_relevant_monitor_text, should_exclude_text
+from search_rules import is_direct_legion_pro_issue_comment, is_relevant_monitor_text, should_exclude_text
 
 
 class SearchRulesTests(unittest.TestCase):
@@ -27,6 +27,19 @@ class SearchRulesTests(unittest.TestCase):
     def test_generic_and_handheld_results_are_rejected(self):
         self.assertFalse(is_relevant_monitor_text("Best OLED HDR gaming monitor"))
         self.assertFalse(is_relevant_monitor_text("Legion Go handheld review"))
+
+    def test_direct_legion_pro_symptom_comment_survives_generic_video_title(self):
+        self.assertTrue(
+            is_direct_legion_pro_issue_comment(
+                "How OLED Ruined Me",
+                "Doesn't Legion Pro have a problem with dimming that doesn't autocorrect itself unless you cycle the power on and off?"
+            )
+        )
+
+    def test_direct_issue_filter_rejects_non_symptoms_and_unrelated_devices(self):
+        self.assertFalse(is_direct_legion_pro_issue_comment("How OLED Ruined Me", "Legion Pro is a great monitor."))
+        self.assertFalse(is_direct_legion_pro_issue_comment("Legion Pro laptop review", "The laptop screen dims after gaming."))
+        self.assertFalse(is_direct_legion_pro_issue_comment("How OLED Ruined Me", "Legion 27QD-10 has a dimming issue."))
 
     def test_monitor_context_can_coexist_with_laptop_context(self):
         self.assertTrue(
