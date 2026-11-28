@@ -32,6 +32,9 @@ jobs:
           pip install requests beautifulsoup4 playwright
           python -m playwright install --with-deps chromium
 
+      - name: Validate Python syntax
+        run: python -m compileall -q scripts
+
       - name: Diagnose Lenovo forum search and discover topics
         continue-on-error: true
         run: python scripts/discover_lenovo_forum.py
