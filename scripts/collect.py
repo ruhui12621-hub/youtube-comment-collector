@@ -46,6 +46,17 @@ def extract_video_id(value: str) -> str | None:
     return match.group(1) if match else None
 
 
+def video_url_fields(video_id: str, observed_url: str | None = None) -> dict[str, str]:
+    """Keep the discovered URL and a stable canonical YouTube watch URL separately."""
+    canonical_url = f"https://www.youtube.com/watch?v={video_id}"
+    return {
+        "url": canonical_url,  # Backward-compatible field; always points to the canonical page.
+        "original_url": observed_url or canonical_url,
+        "canonical_url": canonical_url,
+        "url_status": "canonicalized",
+    }
+
+
 def read_json(path: Path, default: Any) -> Any:
     if not path.exists():
         return default
@@ -119,12 +130,12 @@ def main() -> int:
                         excluded_count += 1
                         print(f"  [EXCLUDED unrelated monitor result] {title}")
                         continue
+                    observed_url = getattr(video, "url", None)
                     item = discovered.setdefault(
                         video_id,
                         {
                             "video_id": video_id,
-                            "url": getattr(video, "url", None)
-                            or f"https://www.youtube.com/watch?v={video_id}",
+                            **video_url_fields(video_id, observed_url),
                             "title": getattr(video, "title", None),
                             "channel": getattr(video, "channel", None),
                             "search_queries": [],
@@ -159,7 +170,7 @@ def main() -> int:
                 video_id,
                 {
                     "video_id": video_id,
-                    "url": f"https://www.youtube.com/watch?v={video_id}",
+                    **video_url_fields(video_id, entry if "://" in entry else None),
                     "title": None,
                     "channel": None,
                     "search_queries": ["manual"],
@@ -176,7 +187,15 @@ def main() -> int:
         # Keep previously discovered videos in the index even if they no longer
         # appear in the current YouTube search results.
         merged_index = dict(previous_by_id)
-        merged_index.update(discovered)
+        for video_id, item in discovered.items():
+            previous = previous_by_id.get(video_id, {})
+            merged = {**previous, **item}
+            # Do not erase previously known metadata when a search result omits it.
+            for field in ("title", "channel", "original_url", "canonical_url", "url"):
+                if not merged.get(field):
+                    merged[field] = previous.get(field) or item.get(field)
+            merged["url"] = merged.get("canonical_url") or merged.get("url")
+            merged_index[video_id] = merged
 
         collected_videos = 0
         total_comments_seen = 0
@@ -228,9 +247,14 @@ def main() -> int:
                 merged_comments.update(new_comments)
                 ordered_comments = list(merged_comments.values())
 
+                canonical_url = video.get("canonical_url") or existing.get("canonical_url") or f"https://www.youtube.com/watch?v={video_id}"
+                original_url = video.get("original_url") or existing.get("original_url") or video.get("url") or canonical_url
                 record = {
                     "video_id": video_id,
-                    "url": video.get("url"),
+                    "url": canonical_url,
+                    "original_url": original_url,
+                    "canonical_url": canonical_url,
+                    "url_status": "canonicalized",
                     "title": video.get("title") or existing.get("title"),
                     "channel": video.get("channel") or existing.get("channel"),
                     "search_queries": video.get("search_queries", []),
