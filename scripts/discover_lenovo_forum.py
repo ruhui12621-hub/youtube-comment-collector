@@ -111,7 +111,12 @@ def main():
                     if not is_relevant_monitor_text(link.get("text"), result_context):
                         continue
                     entry = report["discovered_topics"].setdefault(tid, {
-                        "tid": tid, "url": link["url"], "title": link["text"],
+                        "tid": tid,
+                        "url": link["url"],  # Backward-compatible: observed search-result URL.
+                        "original_url": link["url"],
+                        "canonical_url": None,  # Filled from the forum topic metadata after collection.
+                        "url_status": "observed_only",
+                        "title": link["text"],
                         "result_context": result_context, "query": term, "source": "rendered_search_ui", "sample_pid": pid
                     })
                     if pid and not entry.get("sample_pid"):
