@@ -40,6 +40,26 @@ def should_exclude_text(*values: str | None) -> bool:
     return bool(_QD_RE.search(text) and not _PRO_RE.search(text))
 
 
+_DIRECT_ISSUE_RE = re.compile(
+    r"\b(?:dimm?ing|dims?|dark(?:er|ening)?|brightness|bright(?:ness)?\s+drop|"
+    r"won't\s+(?:recover|return)|does(?:n't| not)\s+(?:recover|return)|"
+    r"not\s+(?:recover|return)|power\s*[- ]?cycle|turn(?:ing)?\s+(?:it\s+)?off\s+and\s+on|"
+    r"toggle\s+(?:hdr|the\s+display)|hdr\s+reset|auto(?:matically)?\s+correct)\b",
+    re.I,
+)
+
+
+def is_direct_legion_pro_issue_comment(*values: str | None) -> bool:
+    """Keep symptom reports that name Legion Pro even when the video title is generic."""
+    text = "\n".join(value or "" for value in values)
+    if should_exclude_text(text) or not _LEGION_PRO_RE.search(text):
+        return False
+    if _OTHER_LENOVO_FAMILY_RE.search(text) or _UNRELATED_DEVICE_RE.search(text):
+        return False
+    has_display_context = bool(re.search(r"\b(?:monitor|display|oled|hdr|screen)\b", text, re.I))
+    return has_display_context and bool(_DIRECT_ISSUE_RE.search(text))
+
+
 def is_relevant_monitor_text(*values: str | None) -> bool:
     """Screen a source/video/thread, not individual comment wording.
 
