@@ -45,7 +45,9 @@ Add one YouTube URL or 11-character video ID per line to `video_urls.txt`. Commi
 - `data/analysis/undated.json` — records without a reliable publication timestamp.
 - `data/analysis/records.jsonl` — complete normalized archive, one record per line.
 
-Each normalized record carries its platform, source URL/ID, text, publication timestamp and timestamp quality, first/last-seen metadata where available, and a relevance label (high/medium/low/excluded). Lenovo forum timestamps are normalized from Unix time. YouTube relative labels are explicitly marked as estimates; records without a reliable date are kept in `undated.json` and are not silently counted as recent.
+Every source is archived with URL traceability. YouTube records keep `original_url` (the URL returned by discovery or supplied manually) and `canonical_url` (the stable watch URL); the legacy `url` field remains as a backward-compatible canonical link. Lenovo forum discovery stores the observed result URL first, then the collector reads the forum's own `seolink` metadata to populate `canonical_url`; when that metadata is unavailable, the observed URL is retained and explicitly marked as non-canonical. Collection reports also include thread URLs, including when collection fails. Normalized analysis records expose `source_url`, `original_url`, `canonical_url`, and `url_status` so every finding can be traced back to its source. Legacy records remain readable and are not discarded.
+
+Each normalized record also carries its platform, source ID, text, publication timestamp and timestamp quality, first/last-seen metadata where available, and a relevance label (high/medium/low/excluded). Lenovo forum timestamps are normalized from Unix time. YouTube relative labels are explicitly marked as estimates; records without a reliable date are kept in `undated.json` and are not silently counted as recent.
 
 ## Important limitations
 
