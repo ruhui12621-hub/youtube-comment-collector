@@ -9,7 +9,7 @@ import time
 from datetime import datetime, timezone
 from html import unescape
 from pathlib import Path
-from urllib.parse import urlencode
+from urllib.parse import urlencode, urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -95,6 +95,8 @@ def load_target_threads():
     targets = {
         THREAD_ID: {
             "tid": THREAD_ID, "fid": THREAD_FID, "url": THREAD_URL,
+            "original_url": THREAD_URL, "canonical_url": THREAD_URL,
+            "url_status": "canonical",
             "title": "HDR Dimming Issue on Lenovo Legion Pro, Can't Update Firmware 27Q-10",
             "source": "pinned_thread",
         }
@@ -128,6 +130,9 @@ def load_target_threads():
         if parsed_tid not in targets:
             targets[parsed_tid] = {
                 "tid": parsed_tid, "fid": fid, "url": url,
+                "original_url": item.get("original_url") or url,
+                "canonical_url": item.get("canonical_url"),
+                "url_status": item.get("url_status") or "observed_only",
                 "title": title[:500], "query": query,
                 "source": "search_discovery", "sample_pid": pid,
             }
@@ -299,6 +304,10 @@ def main():
         topic_summary[tid] = {
             "title": (collection.get("thread") or {}).get("title"),
             "fid": (collection.get("thread") or {}).get("fid"),
+            "url": (collection.get("thread") or {}).get("url"),
+            "original_url": (collection.get("thread") or {}).get("original_url"),
+            "canonical_url": (collection.get("thread") or {}).get("canonical_url"),
+            "url_status": (collection.get("thread") or {}).get("url_status"),
             "pages_captured": len(collection.get("pages", [])),
             "posts_captured": len(posts),
             "post_ids": [post.get("pid") for post in posts],
@@ -335,7 +344,20 @@ def main():
 
     # Preserve the established pinned-thread file and create one file per discovered topic.
     for tid, collection in collections.items():
-        thread = collection.get("thread") or {}
+        thread = dict(collection.get("thread") or {})
+        topic_info = next(
+            (page.get("topic_info") for page in collection.get("pages", []) if page.get("topic_info")),
+            {},
+        )
+        seolink = (topic_info or {}).get("seolink")
+        canonical_url = urljoin(BASE, seolink) if seolink else thread.get("canonical_url")
+        original_url = thread.get("original_url") or thread.get("url")
+        thread.update({
+            "original_url": original_url,
+            "canonical_url": canonical_url,
+            "url": canonical_url or original_url,
+            "url_status": "canonical" if canonical_url else ("observed_only" if original_url else "missing"),
+        })
         topic_file = {
             "thread": thread,
             "topic_api": {
