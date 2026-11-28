@@ -161,7 +161,8 @@ def collect_youtube(records: list[dict[str, Any]]) -> dict[str, int]:
         stats["videos"] += 1
         video_id = str(archive.get("video_id") or path.stem)
         title = archive.get("title") or ""
-        url = archive.get("url") or f"https://www.youtube.com/watch?v={video_id}"
+        canonical_url = archive.get("canonical_url") or archive.get("url") or f"https://www.youtube.com/watch?v={video_id}"
+        original_url = archive.get("original_url") or archive.get("url") or canonical_url
         fetched_at, _ = parse_time(archive.get("last_collected_at"))
         for comment in archive.get("comments") or []:
             if not isinstance(comment, dict):
@@ -176,7 +177,10 @@ def collect_youtube(records: list[dict[str, Any]]) -> dict[str, int]:
                 "platform": "youtube",
                 "record_type": "reply" if comment.get("is_reply") else "comment",
                 "source_title": title,
-                "source_url": url,
+                "source_url": canonical_url,
+                "original_url": original_url,
+                "canonical_url": canonical_url,
+                "url_status": archive.get("url_status") or "legacy_or_canonical",
                 "video_id": video_id,
                 "comment_id": str(comment.get("comment_id") or ""),
                 "parent_id": comment.get("parent_id"),
@@ -205,7 +209,9 @@ def collect_forum(records: list[dict[str, Any]]) -> dict[str, int]:
             continue
         thread = archive.get("thread") or {}
         title = thread.get("title") or ""
-        url = thread.get("url") or ""
+        canonical_url = thread.get("canonical_url") or thread.get("url") or ""
+        original_url = thread.get("original_url") or thread.get("url") or canonical_url
+        url_status = thread.get("url_status") or ("legacy_observed" if original_url else "missing")
         tid = str(thread.get("tid") or path.stem.removeprefix("thread_"))
         stats["threads"] += 1
         pages = (archive.get("topic_api") or {}).get("pages") or []
@@ -219,7 +225,10 @@ def collect_forum(records: list[dict[str, Any]]) -> dict[str, int]:
                     "platform": "lenovo_forum",
                     "record_type": "forum_post",
                     "source_title": title,
-                    "source_url": url,
+                    "source_url": canonical_url or original_url,
+                    "original_url": original_url,
+                    "canonical_url": canonical_url or None,
+                    "url_status": url_status,
                     "thread_id": tid,
                     "post_id": pid,
                     "author": post.get("author"),
