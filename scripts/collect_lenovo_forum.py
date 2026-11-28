@@ -358,6 +358,14 @@ def main():
             "url": canonical_url or original_url,
             "url_status": "canonical" if canonical_url else ("observed_only" if original_url else "missing"),
         })
+        summary = topic_summary.get(tid)
+        if summary is not None:
+            summary.update({
+                "url": thread.get("url"),
+                "original_url": thread.get("original_url"),
+                "canonical_url": thread.get("canonical_url"),
+                "url_status": thread.get("url_status"),
+            })
         topic_file = {
             "thread": thread,
             "topic_api": {
